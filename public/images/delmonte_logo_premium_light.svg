@@ -1,0 +1,12 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="1380" height="340" rx="24" fill="#FBF6EC" stroke="#D5BE93" stroke-width="1.25"/>
+  <text x="700" y="118" text-anchor="middle" fill="#10233D" font-family="Georgia, 'Times New Roman', serif" font-size="114" font-weight="700" letter-spacing="3">DEL MONTE</text>
+  <line x1="194" y1="188" x2="504" y2="188" stroke="#CFB17A" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="896" y1="188" x2="1206" y2="188" stroke="#CFB17A" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M700 148L838 172L700 196L562 172L700 148Z" fill="#10233D"/>
+  <path d="M604 178H796V208C796 223 754 234 700 234C646 234 604 223 604 208V178Z" fill="#10233D"/>
+  <rect x="564" y="164" width="7" height="22" fill="#CFB17A"/>
+  <path d="M567.5 186V214C567.5 224 560 236 550 239" stroke="#CFB17A" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="550" cy="246" rx="11.5" ry="13.5" fill="#CFB17A"/>
+  <text x="700" y="308" text-anchor="middle" fill="#C6A05D" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="8">STUDIO LEGALE</text>
+</svg>
