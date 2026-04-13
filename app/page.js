@@ -44,21 +44,6 @@ const homeFaqs = [
   }
 ];
 
-const heroHighlights = [
-  {
-    label: '',
-    value: "avvocato esperto con oltre 20 anni d'esperienza"
-  },
-  {
-    label: 'Metodo',
-    value: 'Esame serio del fascicolo e dei presupposti'
-  },
-  {
-    label: 'Ambiti seguiti',
-    value: 'Cassazione e questioni di particolare complessità'
-  }
-];
-
 const homeServiceImages = {
   'cassazione-civile': '/images/home/card-cassazione-civile.webp',
   'cassazione-penale': '/images/thumb-cassazione-penale.webp',
@@ -71,6 +56,53 @@ const homeServiceImages = {
   'mediazione-risoluzione-stragiudiziale': '/images/team-boardroom-wide.webp'
 };
 
+const legalServiceSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LegalService',
+  '@id': 'https://avvocatodelmonte.com/#legalservice',
+  name: 'Studio Legale Del Monte',
+  url: 'https://avvocatodelmonte.com',
+  image: 'https://avvocatodelmonte.com/images/home/hero-avvocato.webp',
+  telephone: '+39 06 97615122',
+  email: 'mail@avvocatodelmonte.com',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Via Costanza Baudana Vaccolini, 5',
+    postalCode: '00153',
+    addressLocality: 'Roma',
+    addressRegion: 'RM',
+    addressCountry: 'IT'
+  },
+  areaServed: [
+    {
+      '@type': 'City',
+      name: 'Roma'
+    },
+    {
+      '@type': 'Country',
+      name: 'Italia'
+    }
+  ],
+  openingHoursSpecification: [
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+      opens: '09:00',
+      closes: '19:30'
+    }
+  ],
+  founder: {
+    '@type': 'Person',
+    name: 'Avv. Federica Del Monte',
+    jobTitle: 'Avvocato cassazionista'
+  },
+  employee: {
+    '@type': 'Person',
+    name: 'Avv. Federica Del Monte',
+    jobTitle: 'Avvocato cassazionista'
+  }
+};
+
 export default function HomePage() {
   const services = serviceList.filter((item) => item.slug !== 'studio');
   const featuredArticles = articles.slice(0, 6);
@@ -80,7 +112,8 @@ export default function HomePage() {
       <JsonLd
         data={[
           breadcrumbSchema([{ name: 'Home', item: '/' }]),
-          faqSchema(homeFaqs)
+          faqSchema(homeFaqs),
+          legalServiceSchema
         ]}
       />
 
@@ -99,11 +132,10 @@ export default function HomePage() {
           <div className="hero-grid">
             <div className="hero-copy">
               <p className="eyebrow">Avvocato cassazionista a Roma</p>
-              <h1>Avvocato esperto con oltre 20 anni d'esperienza</h1>
+              <h1>Avvocato cassazionista a Roma con esperienza in Cassazione civile e penale</h1>
               <p className="lead">
-                Avv. Federica Del Monte assiste in Cassazione civile e penale e nelle controversie
-                che richiedono un esame serio del fascicolo, chiarezza sui presupposti e
-                un’impostazione non generalista.
+                Oltre 20 anni di esperienza nell’analisi dei casi e nella valutazione del percorso
+                più corretto
               </p>
               <p className="hero-support">
                 Il primo contatto e la prima valutazione preliminare del caso sono gratuiti e
@@ -133,18 +165,6 @@ export default function HomePage() {
                 provvedimenti, referti, verbali o atti già disponibili, rendono il primo esame più
                 utile e più rapido.
               </p>
-
-              <div className="hero-highlights hero-highlights-inline">
-                {heroHighlights.map((item) => (
-                  <article
-                    key={item.value}
-                    className={`hero-highlight-card${item.label ? '' : ' is-statement'}`}
-                  >
-                    {item.label ? <span>{item.label}</span> : null}
-                    <strong>{item.value}</strong>
-                  </article>
-                ))}
-              </div>
             </div>
 
             <div className="hero-media">

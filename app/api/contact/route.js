@@ -17,6 +17,10 @@ const rateLimitStore = new Map();
 const spamTerms = ['viagra', 'casino', 'crypto', 'seo service', 'backlink', 'loan', 'escort'];
 const CONTACT_SITE = 'avvocatodelmonte.com';
 
+function logContact(step, payload = {}) {
+  console.log(`[contact-route] ${step}`, payload);
+}
+
 function isValidEmail(value) {
   return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
 }
@@ -30,6 +34,7 @@ let transporterPromise;
 
 async function getTransporter() {
   if (transporterPromise) {
+    logContact('reuse-transporter');
     return transporterPromise;
   }
 
@@ -37,6 +42,13 @@ async function getTransporter() {
   const portValue = getRequiredEnv('SMTP_PORT');
   const user = getRequiredEnv('SMTP_USER');
   const pass = getRequiredEnv('SMTP_PASS');
+
+  logContact('create-transporter', {
+    smtpHostPresent: Boolean(host),
+    smtpPortPresent: Boolean(portValue),
+    smtpUserPresent: Boolean(user),
+    smtpPassPresent: Boolean(pass)
+  });
 
   if (!host || !portValue || !user || !pass) {
     throw new Error('Configurazione SMTP incompleta.');
@@ -57,10 +69,21 @@ async function getTransporter() {
     }
   });
 
-  transporterPromise = transporter.verify().then(() => transporter).catch((error) => {
-    transporterPromise = undefined;
-    throw error;
-  });
+  transporterPromise = transporter
+    .verify()
+    .then(() => {
+      logContact('transporter-verified');
+      return transporter;
+    })
+    .catch((error) => {
+      transporterPromise = undefined;
+      logContact('transporter-verify-error', {
+        message: error?.message || 'Unknown transporter verify error',
+        code: error?.code || null,
+        response: error?.response || null
+      });
+      throw error;
+    });
   return transporterPromise;
 }
 
@@ -117,8 +140,14 @@ function looksLikeSpam({ nome, cognome, email, telefono, area, messaggio }) {
 export async function POST(request) {
   try {
     const ip = getClientIp(request);
+    logContact('request-start', {
+      ip,
+      method: request.method,
+      contentType: request.headers.get('content-type') || null
+    });
 
     if (isRateLimited(ip)) {
+      logContact('rate-limited', { ip });
       return Response.json(
         {
           ok: false,
@@ -129,6 +158,7 @@ export async function POST(request) {
     }
 
     const formData = await request.formData();
+    logContact('formdata-parsed');
 
     const nome = String(formData.get('nome') || '').trim();
     const cognome = String(formData.get('cognome') || '').trim();
@@ -139,7 +169,19 @@ export async function POST(request) {
     const website = String(formData.get('website') || '').trim();
     const allegato = formData.get('allegato');
 
+    logContact('initial-validation', {
+      nomePresent: Boolean(nome),
+      cognomePresent: Boolean(cognome),
+      telefonoPresent: Boolean(telefono),
+      emailPresent: Boolean(email),
+      areaPresent: Boolean(area),
+      messaggioPresent: Boolean(messaggio),
+      honeypotFilled: Boolean(website),
+      attachmentFieldPresent: Boolean(allegato)
+    });
+
     if (website) {
+      logContact('honeypot-triggered', { ip });
       return Response.json({
         ok: true,
         message: 'Richiesta inviata correttamente.'
@@ -147,6 +189,7 @@ export async function POST(request) {
     }
 
     if (!nome || !cognome || !telefono || !email || !area || !messaggio) {
+      logContact('validation-failed', { reason: 'missing-required-fields' });
       return Response.json(
         { ok: false, message: 'Compila tutti i campi obbligatori prima di inviare la richiesta.' },
         { status: 400 }
@@ -154,6 +197,7 @@ export async function POST(request) {
     }
 
     if (!isValidEmail(email)) {
+      logContact('validation-failed', { reason: 'invalid-email', email });
       return Response.json(
         { ok: false, message: 'Inserisci un indirizzo email valido.' },
         { status: 400 }
@@ -161,6 +205,7 @@ export async function POST(request) {
     }
 
     if (looksLikeSpam({ nome, cognome, email, telefono, area, messaggio })) {
+      logContact('validation-failed', { reason: 'spam-detected', ip, email, area });
       return Response.json(
         {
           ok: false,
@@ -173,7 +218,14 @@ export async function POST(request) {
     let attachment = null;
 
     if (allegato && typeof allegato === 'object' && 'size' in allegato && allegato.size > 0) {
+      logContact('attachment-detected', {
+        fileName: 'name' in allegato ? allegato.name : null,
+        fileSize: allegato.size,
+        fileType: 'type' in allegato ? allegato.type : null
+      });
+
       if (allegato.size > MAX_FILE_SIZE) {
+        logContact('attachment-rejected', { reason: 'file-too-large', fileSize: allegato.size });
         return Response.json(
           { ok: false, message: 'L’allegato supera il limite di 10 MB previsto dal modulo.' },
           { status: 400 }
@@ -181,6 +233,10 @@ export async function POST(request) {
       }
 
       if (!('type' in allegato) || !ALLOWED_FILE_TYPES.has(allegato.type)) {
+        logContact('attachment-rejected', {
+          reason: 'unsupported-file-type',
+          fileType: 'type' in allegato ? allegato.type : null
+        });
         return Response.json(
           {
             ok: false,
@@ -191,6 +247,10 @@ export async function POST(request) {
       }
 
       const arrayBuffer = await allegato.arrayBuffer();
+      logContact('attachment-buffer-created', {
+        fileName: allegato.name,
+        bytes: arrayBuffer.byteLength
+      });
 
       attachment = {
         filename: allegato.name,
@@ -202,6 +262,15 @@ export async function POST(request) {
     const to = getRequiredEnv('CONTACT_TO_EMAIL');
     const from = getRequiredEnv('CONTACT_FROM_EMAIL');
     const smtpUser = getRequiredEnv('SMTP_USER');
+
+    logContact('env-check', {
+      smtpHostPresent: Boolean(getRequiredEnv('SMTP_HOST')),
+      smtpPortPresent: Boolean(getRequiredEnv('SMTP_PORT')),
+      smtpUserPresent: Boolean(smtpUser),
+      smtpPassPresent: Boolean(getRequiredEnv('SMTP_PASS')),
+      contactToPresent: Boolean(to),
+      contactFromPresent: Boolean(from)
+    });
 
     if (!to || !from) {
       throw new Error('Configurazione email incompleta.');
@@ -290,7 +359,16 @@ export async function POST(request) {
       </div>
     `;
 
-    await transporter.sendMail({
+    logContact('before-sendMail', {
+      to,
+      from,
+      replyTo: email,
+      subject,
+      hasAttachment: Boolean(attachment),
+      attachmentName: attachment?.filename || null
+    });
+
+    const sendResult = await transporter.sendMail({
       to,
       from,
       replyTo: email,
@@ -300,11 +378,27 @@ export async function POST(request) {
       attachments: attachment ? [attachment] : []
     });
 
+    logContact('sendMail-success', {
+      messageId: sendResult?.messageId || null,
+      response: sendResult?.response || null,
+      accepted: sendResult?.accepted || []
+    });
+
     return Response.json({
       ok: true,
       message: 'Richiesta inviata correttamente. Lo studio riceverà anche l’eventuale allegato.'
     });
   } catch (error) {
+    logContact('route-error', {
+      message: error instanceof Error ? error.message : 'Unknown error',
+      code: error && typeof error === 'object' && 'code' in error ? error.code : null,
+      response: error && typeof error === 'object' && 'response' in error ? error.response : null,
+      stack:
+        error instanceof Error && error.stack
+          ? error.stack.split('\n').slice(0, 3).join(' | ')
+          : null
+    });
+
     const message =
       error instanceof Error && error.message === 'Configurazione email incompleta.'
         ? 'Il sistema di invio email non è ancora configurato correttamente.'
