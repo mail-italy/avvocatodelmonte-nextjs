@@ -977,6 +977,14 @@ p {
   object-position: 56% 38%;
 }
 
+.image-focus-cassazione-penale {
+  object-position: 62% 28%;
+}
+
+.image-focus-successioni {
+  object-position: 58% 24%;
+}
+
 .hero-media-main:hover .cover-image,
 .hero-side-card:hover .cover-image,
 .media-card:hover .cover-image,
@@ -1994,6 +2002,14 @@ p {
     object-position: 54% 34%;
   }
 
+  .image-focus-cassazione-penale {
+    object-position: 60% 24%;
+  }
+
+  .image-focus-successioni {
+    object-position: 56% 22%;
+  }
+
   .hero-pill-grid,
   .steps-grid,
   .cards-grid.three,
@@ -2098,6 +2114,14 @@ p {
 
   .image-focus-desk {
     object-position: 53% 30%;
+  }
+
+  .image-focus-cassazione-penale {
+    object-position: 58% 22%;
+  }
+
+  .image-focus-successioni {
+    object-position: 55% 20%;
   }
 
   .button,

@@ -16,6 +16,14 @@ const RATE_LIMIT_MAX_REQUESTS = 5;
 const rateLimitStore = new Map();
 const spamTerms = ['viagra', 'casino', 'crypto', 'seo service', 'backlink', 'loan', 'escort'];
 const CONTACT_SITE = 'avvocatodelmonte.com';
+const FIELD_LIMITS = {
+  nome: { min: 2, max: 80 },
+  cognome: { min: 2, max: 80 },
+  telefono: { min: 6, max: 30 },
+  email: { min: 6, max: 160 },
+  area: { min: 2, max: 120 },
+  messaggio: { min: 10, max: 4000 }
+};
 
 function logContact(step, payload = {}) {
   console.log(`[contact-route] ${step}`, payload);
@@ -23,6 +31,35 @@ function logContact(step, payload = {}) {
 
 function isValidEmail(value) {
   return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+}
+
+function sanitizeSingleLine(value) {
+  return String(value || '')
+    .normalize('NFKC')
+    .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function sanitizeMultiline(value) {
+  return String(value || '')
+    .normalize('NFKC')
+    .replace(/\r\n/g, '\n')
+    .replace(/\r/g, '\n')
+    .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, '')
+    .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
+function containsUnsafeMarkup(value) {
+  return /<\s*\/?\s*[a-z][^>]*>|<\s*script\b|javascript:|on[a-z]+\s*=|data:text\/html/i.test(
+    value
+  );
+}
+
+function isWithinLength(value, { min, max }) {
+  return value.length >= min && value.length <= max;
 }
 
 function getRequiredEnv(name) {
@@ -137,13 +174,21 @@ function looksLikeSpam({ nome, cognome, email, telefono, area, messaggio }) {
   return urlCount > 2 || spamTermFound || repeatedChars;
 }
 
+function isSupportedFormContentType(contentType) {
+  return (
+    contentType.includes('multipart/form-data') ||
+    contentType.includes('application/x-www-form-urlencoded')
+  );
+}
+
 export async function POST(request) {
   try {
     const ip = getClientIp(request);
+    const contentType = request.headers.get('content-type') || '';
     logContact('request-start', {
       ip,
       method: request.method,
-      contentType: request.headers.get('content-type') || null
+      contentType: contentType || null
     });
 
     if (isRateLimited(ip)) {
@@ -157,16 +202,44 @@ export async function POST(request) {
       );
     }
 
-    const formData = await request.formData();
+    if (!isSupportedFormContentType(contentType)) {
+      logContact('validation-failed', { reason: 'unsupported-content-type', contentType });
+      return Response.json(
+        {
+          ok: false,
+          message: 'Invia la richiesta utilizzando il modulo contatti con tutti i campi richiesti.'
+        },
+        { status: 400 }
+      );
+    }
+
+    let formData;
+
+    try {
+      formData = await request.formData();
+    } catch (error) {
+      logContact('validation-failed', {
+        reason: 'invalid-form-data',
+        message: error instanceof Error ? error.message : 'Unknown formData parse error'
+      });
+      return Response.json(
+        {
+          ok: false,
+          message: 'I dati inviati non sono completi o non sono stati trasmessi correttamente.'
+        },
+        { status: 400 }
+      );
+    }
+
     logContact('formdata-parsed');
 
-    const nome = String(formData.get('nome') || '').trim();
-    const cognome = String(formData.get('cognome') || '').trim();
-    const telefono = String(formData.get('telefono') || '').trim();
-    const email = String(formData.get('email') || '').trim();
-    const area = String(formData.get('area') || '').trim();
-    const messaggio = String(formData.get('messaggio') || '').trim();
-    const website = String(formData.get('website') || '').trim();
+    const nome = sanitizeSingleLine(formData.get('nome'));
+    const cognome = sanitizeSingleLine(formData.get('cognome'));
+    const telefono = sanitizeSingleLine(formData.get('telefono'));
+    const email = sanitizeSingleLine(formData.get('email'));
+    const area = sanitizeSingleLine(formData.get('area'));
+    const messaggio = sanitizeMultiline(formData.get('messaggio'));
+    const website = sanitizeSingleLine(formData.get('website'));
     const allegato = formData.get('allegato');
 
     logContact('initial-validation', {
@@ -196,10 +269,43 @@ export async function POST(request) {
       );
     }
 
+    if (
+      !isWithinLength(nome, FIELD_LIMITS.nome) ||
+      !isWithinLength(cognome, FIELD_LIMITS.cognome) ||
+      !isWithinLength(telefono, FIELD_LIMITS.telefono) ||
+      !isWithinLength(email, FIELD_LIMITS.email) ||
+      !isWithinLength(area, FIELD_LIMITS.area) ||
+      !isWithinLength(messaggio, FIELD_LIMITS.messaggio)
+    ) {
+      logContact('validation-failed', { reason: 'invalid-field-lengths' });
+      return Response.json(
+        {
+          ok: false,
+          message:
+            'Verifica la lunghezza dei campi inseriti e riprova con una descrizione essenziale ma completa del caso.'
+        },
+        { status: 400 }
+      );
+    }
+
     if (!isValidEmail(email)) {
       logContact('validation-failed', { reason: 'invalid-email', email });
       return Response.json(
         { ok: false, message: 'Inserisci un indirizzo email valido.' },
+        { status: 400 }
+      );
+    }
+
+    if (
+      [nome, cognome, area, messaggio].some((value) => containsUnsafeMarkup(value))
+    ) {
+      logContact('validation-failed', { reason: 'unsafe-markup-detected', ip, email });
+      return Response.json(
+        {
+          ok: false,
+          message:
+            'Rimuovi eventuali tag o contenuti non validi dal testo della richiesta e riprova.'
+        },
         { status: 400 }
       );
     }
