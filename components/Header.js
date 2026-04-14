@@ -47,10 +47,10 @@ function NavItems({ items, pathname, linkClassName, onNavigate }) {
 function DesktopActions({ onAction }) {
   return (
     <div className="header-actions">
-      <CallButton className="button button-phone header-call-button" label="Chiama lo studio" fallbackToContact={false}>
+      <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false}>
         <>
           <ContactIcon type="phone" className="header-link-icon" />
-          <span>Chiama lo studio</span>
+          <span>Chiama</span>
         </>
       </CallButton>
       <a
@@ -72,7 +72,7 @@ function DesktopActions({ onAction }) {
 function MobileActions({ onAction }) {
   return (
     <div className="header-actions">
-      <CallButton className="button button-phone header-call-button" label="Chiama lo studio" fallbackToContact={false} />
+      <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false} />
       <a
         className="header-secondary-link"
         href="https://wa.me/390697615122"

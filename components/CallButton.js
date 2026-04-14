@@ -8,7 +8,7 @@ import { isCallWindowOpen } from '@/lib/businessHours';
 export default function CallButton({
   className = 'button button-phone',
   fallbackToContact = true,
-  label = 'Chiama lo studio',
+  label = 'Chiama',
   children = null
 }) {
   const [canCall, setCanCall] = useState(false);

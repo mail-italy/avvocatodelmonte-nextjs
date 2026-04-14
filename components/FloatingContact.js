@@ -32,7 +32,7 @@ export default function FloatingContact() {
         </a>
         {canCall ? (
           <a className="floating-pill floating-call" href="tel:+390697615122">
-            Chiama lo studio
+            Chiama
           </a>
         ) : null}
       </div>
@@ -51,7 +51,7 @@ export default function FloatingContact() {
         </a>
         {canCall ? (
           <a className="mobile-sticky-link primary" href="tel:+390697615122">
-            Chiama lo studio
+            Chiama
           </a>
         ) : null}
         {!canCall ? <Link className="mobile-sticky-link ghost" href="/contatti">Contatti</Link> : null}
