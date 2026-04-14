@@ -23,12 +23,12 @@ const securityHeaders = [
       "frame-ancestors 'self'",
       "form-action 'self'",
       "object-src 'none'",
-      "img-src 'self' data: blob: https:",
+      "img-src 'self' data: blob: https: https://www.google-analytics.com https://www.googletagmanager.com",
       "font-src 'self' data:",
       "style-src 'self' 'unsafe-inline'",
-      "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
-      "connect-src 'self' https:",
-      "frame-src 'self' https://www.google.com https://maps.google.com https://www.google.it",
+      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com",
+      "connect-src 'self' https: https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com",
+      "frame-src 'self' https://www.google.com https://maps.google.com https://www.google.it https://www.googletagmanager.com",
       'upgrade-insecure-requests'
     ].join('; ')
   }
