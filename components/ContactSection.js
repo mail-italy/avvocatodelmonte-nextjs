@@ -85,6 +85,17 @@ export default function ContactSection({
                   </div>
                 </li>
               ) : null}
+              <li className="contact-point">
+                <span className="contact-point-icon">
+                  <ContactIcon type="clock" />
+                </span>
+                <div>
+                  <strong>Orari</strong>
+                  <span>
+                    {siteConfig.hours.days}, {siteConfig.hours.open}–{siteConfig.hours.close}
+                  </span>
+                </div>
+              </li>
             </ul>
 
             <div className="contact-guidance">

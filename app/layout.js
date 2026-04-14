@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import FloatingContact from '@/components/FloatingContact';
 import JsonLd from '@/components/JsonLd';
 import { buildMetadata } from '@/lib/metadata';
-import { attorneySchema, legalServiceSchema, localBusinessSchema } from '@/lib/schema';
+import { attorneySchema, legalServiceSchema, localBusinessSchema, websiteSchema } from '@/lib/schema';
 import { siteConfig } from '@/lib/site';
 
 export const metadata = buildMetadata({
@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
     <html lang="it">
       <body>
         <a className="skip-link" href="#contenuto">Salta al contenuto</a>
-        <JsonLd data={[attorneySchema(), legalServiceSchema(), localBusinessSchema()]} />
+        <JsonLd data={[websiteSchema(), attorneySchema(), legalServiceSchema(), localBusinessSchema()]} />
         <Header />
         <main id="contenuto">{children}</main>
         <Footer />

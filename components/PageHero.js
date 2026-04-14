@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Breadcrumbs from './Breadcrumbs';
 import { getImageFocusClass } from '@/lib/imageFocus';
 import CallButton from './CallButton';
+import { siteConfig } from '@/lib/site';
 
 export default function PageHero({ eyebrow, title, description, image, imageAlt, breadcrumbs }) {
   return (
@@ -24,7 +25,7 @@ export default function PageHero({ eyebrow, title, description, image, imageAlt,
               <CallButton className="button button-phone button-hero" fallbackToContact={false} />
               <a
                 className="button button-whatsapp button-hero"
-                href="https://wa.me/390697615122"
+                href={`https://wa.me/${siteConfig.whatsapp}`}
                 target="_blank"
                 rel="noreferrer"
               >

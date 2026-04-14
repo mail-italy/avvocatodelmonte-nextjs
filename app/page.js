@@ -6,41 +6,60 @@ import ArticleCard from '@/components/ArticleCard';
 import FaqList from '@/components/FaqList';
 import ContactSection from '@/components/ContactSection';
 import CallButton from '@/components/CallButton';
+import HomeCookieBanner from '@/components/HomeCookieBanner';
+import { buildMetadata } from '@/lib/metadata';
 import { breadcrumbSchema, faqSchema } from '@/lib/schema';
 import { serviceList } from '@/lib/services';
 import { articles } from '@/lib/articles';
 import { getImageFocusClass } from '@/lib/imageFocus';
+import { siteConfig } from '@/lib/site';
+
+export const metadata = buildMetadata({
+  title: 'Avvocato Cassazionista a Roma | Studio Legale Del Monte',
+  description:
+    'Avvocato cassazionista a Roma per Cassazione civile e penale, successioni complesse, responsabilità medica, risarcimento danni e infortuni sul lavoro.',
+  path: '/',
+  image: '/images/home/hero-avvocato.webp',
+  keywords: [
+    'avvocato cassazionista Roma',
+    'cassazione civile Roma',
+    'cassazione penale Roma',
+    'successioni complesse Roma',
+    'responsabilità medica Roma',
+    'risarcimento danni Roma'
+  ]
+});
 
 const homeFaqs = [
   {
-    question: 'Lo studio segue soprattutto ricorsi per Cassazione?',
+    question: 'Quando è utile contattare un avvocato cassazionista?',
     answer:
-      'Sì. La Cassazione civile e penale rappresenta l\'area più distintiva dello studio, accanto a responsabilità medica, danni gravi alla persona, infortuni sul lavoro e successioni complesse.'
+      'È utile quando occorre capire se una sentenza o un provvedimento presenti profili compatibili con il giudizio di Cassazione, o quando una controversia complessa richiede una lettura tecnica del fascicolo prima di decidere come procedere.'
   },
   {
-    question: 'È utile inviare documenti già dal primo contatto?',
+    question: 'Lo studio assiste solo clienti di Roma?',
     answer:
-      'Sì. Sentenze, provvedimenti, referti, verbali o documenti patrimoniali essenziali consentono una prima verifica più seria e più precisa.'
+      'No. Lo studio ha sede a Roma, ma nelle materie che richiedono analisi documentale, verifica dei presupposti e impostazione tecnica del caso può prestare assistenza anche in vicende di rilievo nazionale.'
   },
   {
-    question: 'Lo studio accetta qualsiasi incarico?',
+    question: 'Quali documenti conviene inviare già dal primo contatto?',
     answer:
-      'No. L\'impostazione è selettiva e privilegia i casi in cui la questione giuridica sia realmente sostenibile, documentata o meritevole di un approfondimento tecnico.'
+      'Sentenze, provvedimenti, referti, verbali, atti processuali o documenti patrimoniali essenziali aiutano a capire più rapidamente se la questione presenti basi utili per una valutazione preliminare seria.'
   },
   {
-    question: 'È possibile chiedere una valutazione anche per procedimenti fuori Roma?',
+    question: 'Il primo esame del caso è gratuito?',
     answer:
-      'Sì, soprattutto quando il lavoro richiede analisi del fascicolo, lettura tecnica della documentazione e impostazione rigorosa del caso.'
+      'Sì. Il primo contatto e il primo esame orientativo della documentazione essenziale sono gratuiti e servono a chiarire se vi siano davvero i presupposti per procedere.'
   },
   {
-    question: 'Quali materie vengono trattate con maggiore continuità?',
+    question: 'Lo studio segue solo ricorsi per Cassazione?',
     answer:
-      'Ricorsi per Cassazione civile e penale, responsabilità medica, risarcimento danni nei casi più rilevanti, incidenti stradali gravi, infortuni sul lavoro e successioni complesse.'
+      'La Cassazione civile e penale è l’area più distintiva, ma lo studio assiste anche in successioni complesse, impugnazione del testamento, responsabilità medica, risarcimento danni, infortuni sul lavoro e mediazione.'
   },
   {
-    question: 'Quando una richiesta è davvero utile?',
+    question: 'Che cosa succede dopo il primo contatto?',
     answer:
-      'Quando il problema è già definito nei suoi passaggi essenziali, i tempi sono chiari e la documentazione disponibile consente un primo vaglio tecnico del caso.'
+      'Dopo una prima lettura dei fatti e dei documenti utili, lo studio chiarisce se il caso sia sostenibile, quali verifiche siano necessarie e quale percorso appaia più corretto, anche quando la risposta debba essere prudente o negativa.'
   }
 ];
 
@@ -56,64 +75,53 @@ const homeServiceImages = {
   'mediazione-risoluzione-stragiudiziale': '/images/team-boardroom-wide.webp'
 };
 
-const legalServiceSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'LegalService',
-  '@id': 'https://avvocatodelmonte.com/#legalservice',
-  name: 'Studio Legale Del Monte',
-  url: 'https://avvocatodelmonte.com',
-  image: 'https://avvocatodelmonte.com/images/home/hero-avvocato.webp',
-  telephone: '+39 06 97615122',
-  email: 'mail@avvocatodelmonte.com',
-  address: {
-    '@type': 'PostalAddress',
-    streetAddress: 'Via Costanza Baudana Vaccolini, 5',
-    postalCode: '00153',
-    addressLocality: 'Roma',
-    addressRegion: 'RM',
-    addressCountry: 'IT'
+const workSteps = [
+  {
+    title: 'Primo contatto e materiali essenziali',
+    description:
+      'Il caso può essere descritto tramite modulo, email o WhatsApp, allegando i documenti che aiutano a comprendere fatti, tempi e criticità.'
   },
-  areaServed: [
-    {
-      '@type': 'City',
-      name: 'Roma'
-    },
-    {
-      '@type': 'Country',
-      name: 'Italia'
-    }
-  ],
-  openingHoursSpecification: [
-    {
-      '@type': 'OpeningHoursSpecification',
-      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-      opens: '09:00',
-      closes: '19:30'
-    }
-  ],
-  founder: {
-    '@type': 'Person',
-    name: 'Avv. Federica Del Monte',
-    jobTitle: 'Avvocato cassazionista'
+  {
+    title: 'Valutazione dei presupposti',
+    description:
+      'Lo studio verifica il fascicolo per chiarire se la questione presenti basi tecniche adeguate e quale strada appaia realmente percorribile.'
   },
-  employee: {
-    '@type': 'Person',
-    name: 'Avv. Federica Del Monte',
-    jobTitle: 'Avvocato cassazionista'
+  {
+    title: 'Indicazione del percorso più corretto',
+    description:
+      'Quando il caso è sostenibile vengono chiariti obiettivi, documenti da approfondire, tempi e possibili sviluppi giudiziali o stragiudiziali.'
   }
-};
+];
+
+const authorityPoints = [
+  {
+    title: 'Sede a Roma, impostazione tecnica ampia',
+    text:
+      'Lo studio opera da Roma, ma segue anche vicende che, per natura della materia, richiedono un inquadramento non strettamente locale.'
+  },
+  {
+    title: 'Attenzione ai casi complessi',
+    text:
+      'Cassazione, successioni articolate, responsabilità medica, danni alla persona e mediazione richiedono selezione, metodo e qualità documentale.'
+  },
+  {
+    title: 'Valutazione preliminare chiara',
+    text:
+      'Il primo esame serve a capire se esistano davvero i presupposti per agire, evitando percorsi incerti o iniziative non sostenibili.'
+  }
+];
 
 export default function HomePage() {
   const services = serviceList.filter((item) => item.slug !== 'studio');
-  const featuredArticles = articles.slice(0, 6);
+  const featuredArticles = articles.slice(0, 4);
 
   return (
     <>
+      <HomeCookieBanner />
       <JsonLd
         data={[
           breadcrumbSchema([{ name: 'Home', item: '/' }]),
-          faqSchema(homeFaqs),
-          legalServiceSchema
+          faqSchema(homeFaqs)
         ]}
       />
 
@@ -131,28 +139,28 @@ export default function HomePage() {
         <div className="container hero-shell">
           <div className="hero-grid">
             <div className="hero-copy">
-              <p className="eyebrow">Avvocato cassazionista a Roma</p>
-              <h1>Avvocato cassazionista a Roma con esperienza in Cassazione civile e penale</h1>
+              <p className="eyebrow">Studio legale con sede a Roma</p>
+              <h1>Avvocato cassazionista a Roma per cause civili e penali complesse</h1>
               <p className="lead">
                 Oltre 20 anni di esperienza nell’analisi dei casi e nella valutazione del percorso
                 più corretto
               </p>
               <p className="hero-support">
-                Il primo contatto e la prima valutazione preliminare del caso sono gratuiti e
-                servono a capire, con sobrietà e precisione, se vi siano davvero le condizioni per
-                procedere. Lo studio segue responsabilità medica, danni gravi alla persona,
-                infortuni sul lavoro e successioni complesse con assistenza su tutto il territorio
-                nazionale e, nelle successioni più complesse, anche con beni all’estero.
+                Lo studio assiste in Cassazione civile e penale, successioni complesse,
+                impugnazione del testamento, responsabilità medica, risarcimento danni, infortuni
+                sul lavoro e mediazione. Il primo contatto e il primo esame del caso sono gratuiti
+                e servono a chiarire, con rigore e trasparenza, se vi siano davvero i presupposti
+                per procedere.
               </p>
 
               <div className="hero-actions">
-                <a className="button button-primary button-hero" href="/contatti">
+                <Link className="button button-primary button-hero" href="/contatti">
                   Richiedi una valutazione preliminare
-                </a>
+                </Link>
                 <CallButton className="button button-phone button-hero" fallbackToContact={false} />
                 <a
                   className="button button-whatsapp button-hero"
-                  href="https://wa.me/390697615122"
+                  href={`https://wa.me/${siteConfig.whatsapp}`}
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -183,16 +191,30 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="section section-soft">
+        <div className="container">
+          <p className="eyebrow">Perché contattare lo studio</p>
+          <h2>Un’assistenza costruita su analisi, chiarezza e sostenibilità dell’azione</h2>
+          <div className="reason-list">
+            {authorityPoints.map((item) => (
+              <article key={item.title} className="reason-card reason-card-light">
+                <h3>{item.title}</h3>
+                <p>{item.text}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="section home-services">
         <div className="container">
-          <p className="eyebrow">Ambiti di assistenza</p>
-          <h2>Materie in cui la complessità richiede un’impostazione non standard</h2>
+          <p className="eyebrow">Aree di attività</p>
+          <h2>Assistenza giudiziale e stragiudiziale nelle materie di maggiore complessità</h2>
           <p className="section-intro">
             Le aree trattate hanno una caratteristica comune: richiedono ordine documentale,
-            selezione dei profili rilevanti e chiarezza sul valore effettivo dell’iniziativa, con
-            operatività su scala nazionale nei casi che impongono un esame tecnico del fascicolo.
-            Lo studio privilegia richieste già circostanziate, con documenti essenziali e tempi
-            chiari.
+            selezione dei profili rilevanti e chiarezza sul valore effettivo dell’iniziativa. La
+            sede dello studio è a Roma, ma l’attività può riguardare anche controversie che
+            richiedono un esame tecnico di respiro più ampio.
           </p>
           <div className="cards-grid three">
             {services.map((service) => (
@@ -211,18 +233,38 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="section">
+        <div className="container">
+          <p className="eyebrow">Come lavoriamo</p>
+          <h2>Un percorso chiaro dal primo contatto alla scelta del percorso più corretto</h2>
+          <div className="steps-grid">
+            {workSteps.map((item, index) => (
+              <article key={item.title} className="step-card">
+                <span className="step-number">{index + 1}</span>
+                <h3>{item.title}</h3>
+                <p>{item.description}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="section home-insights">
         <div className="container">
           <div className="section-head with-link">
             <div>
               <p className="eyebrow">Approfondimenti</p>
-              <h2>Contenuti pensati per chiarire quando una questione merita davvero una valutazione legale</h2>
+              <h2>Contenuti utili per orientarsi prima di una valutazione legale</h2>
             </div>
-            <a className="text-link" href="/approfondimenti">
+            <Link className="text-link" href="/approfondimenti">
               Consulta tutti gli approfondimenti
-            </a>
+            </Link>
           </div>
-
+          <p className="section-intro">
+            Gli articoli presidiano domande frequenti sulla Cassazione, sulle successioni, sulla
+            responsabilità medica e sul risarcimento danni, aiutando a distinguere i casi che
+            richiedono davvero un esame tecnico.
+          </p>
           <div className="cards-grid three">
             {featuredArticles.map((article) => (
               <ArticleCard key={article.slug} article={article} />
@@ -241,7 +283,7 @@ export default function HomePage() {
 
       <ContactSection
         title="Richiedi una valutazione preliminare"
-        description="Se la questione è già definita nei suoi passaggi essenziali, puoi inviare una richiesta circostanziata e allegare la documentazione utile per il primo esame."
+        description="Se la questione è già definita nei suoi passaggi essenziali, puoi inviare una richiesta circostanziata e allegare la documentazione utile per il primo esame. Il primo contatto e la prima valutazione orientativa del caso sono gratuiti."
       />
     </>
   );

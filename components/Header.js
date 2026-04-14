@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
-import { navigation } from '@/lib/site';
+import { navigation, siteConfig } from '@/lib/site';
 import ContactIcon from './ContactIcon';
 import CallButton from './CallButton';
 
@@ -55,7 +55,7 @@ function DesktopActions({ onAction }) {
       </CallButton>
       <a
         className="header-secondary-link"
-        href="https://wa.me/390697615122"
+        href={`https://wa.me/${siteConfig.whatsapp}`}
         target="_blank"
         rel="noreferrer"
         onClick={onAction}
@@ -75,7 +75,7 @@ function MobileActions({ onAction }) {
       <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false} />
       <a
         className="header-secondary-link"
-        href="https://wa.me/390697615122"
+        href={`https://wa.me/${siteConfig.whatsapp}`}
         target="_blank"
         rel="noreferrer"
         onClick={onAction}

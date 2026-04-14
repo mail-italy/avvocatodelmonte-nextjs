@@ -6,7 +6,7 @@ import ContactSection from '@/components/ContactSection';
 import FaqList from '@/components/FaqList';
 import { services } from '@/lib/services';
 import { buildMetadata } from '@/lib/metadata';
-import { breadcrumbSchema, faqSchema } from '@/lib/schema';
+import { attorneySchema, breadcrumbSchema, faqSchema, legalServiceSchema } from '@/lib/schema';
 import { getImageFocusClass } from '@/lib/imageFocus';
 
 const service = services['studio'];
@@ -24,6 +24,8 @@ export default function StudioPage() {
     <>
       <JsonLd
         data={[
+          attorneySchema(),
+          legalServiceSchema(),
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: 'Studio', item: '/studio' }
@@ -67,14 +69,13 @@ export default function StudioPage() {
 
       <section className="section section-soft">
         <div className="container">
-          <p className="eyebrow">Profilo</p>
-          <h2>Un profilo professionale misurato, riconoscibile e coerente con la qualità del lavoro</h2>
+          <p className="eyebrow">Studio e metodo</p>
+          <h2>Un’impostazione professionale fondata su chiarezza, selezione e qualità dell’analisi</h2>
           <p className="section-intro">
-            La dimensione visiva dello studio deve riflettere lo stesso criterio che guida il
-            lavoro sul fascicolo: ordine, sobrietà, precisione e assenza di elementi decorativi
-            superflui. Questo assetto accompagna un’attività che resta radicata a Roma, ma opera su
-            tutto il territorio nazionale e, nelle successioni più articolate, anche con profili
-            patrimoniali internazionali.
+            Lo studio ha sede a Roma e segue un numero selezionato di incarichi in cui la qualità
+            della lettura giuridica, dell’analisi documentale e dell’impostazione della tutela sono
+            realmente decisive. L’attività resta radicata a Roma, ma può riguardare anche
+            controversie che, per natura della materia, superano l’ambito strettamente locale.
           </p>
           <div className="studio-gallery">
             <div className="studio-gallery-main">

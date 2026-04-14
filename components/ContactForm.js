@@ -1,6 +1,7 @@
 'use client';
 
 import { useRef, useState } from 'react';
+import { siteConfig } from '@/lib/site';
 
 const initialState = {
   nome: '',
@@ -210,7 +211,7 @@ export default function ContactForm({ compact = false }) {
         </button>
         <a
           className="button button-whatsapp"
-          href="https://wa.me/390697615122"
+          href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
           rel="noreferrer"
         >

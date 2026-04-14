@@ -24,14 +24,14 @@ export default function FloatingContact() {
         </a>
         <a
           className="floating-pill floating-whatsapp"
-          href="https://wa.me/390697615122"
+          href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
           rel="noreferrer"
         >
           WhatsApp
         </a>
         {canCall ? (
-          <a className="floating-pill floating-call" href="tel:+390697615122">
+          <a className="floating-pill floating-call" href={`tel:${siteConfig.phone}`}>
             Chiama
           </a>
         ) : null}
@@ -43,14 +43,14 @@ export default function FloatingContact() {
         </a>
         <a
           className="mobile-sticky-link whatsapp"
-          href="https://wa.me/390697615122"
+          href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
           rel="noreferrer"
         >
           WhatsApp
         </a>
         {canCall ? (
-          <a className="mobile-sticky-link primary" href="tel:+390697615122">
+          <a className="mobile-sticky-link primary" href={`tel:${siteConfig.phone}`}>
             Chiama
           </a>
         ) : null}

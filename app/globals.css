@@ -290,6 +290,87 @@ p {
   box-shadow: 0 12px 30px rgba(9, 21, 38, 0.22);
 }
 
+.cookie-banner {
+  position: sticky;
+  top: var(--header-height);
+  z-index: 32;
+  background: linear-gradient(180deg, rgba(250, 246, 239, 0.98) 0%, rgba(240, 233, 220, 0.96) 100%);
+  border-bottom: 1px solid rgba(183, 154, 103, 0.26);
+  box-shadow: 0 8px 20px rgba(9, 21, 38, 0.08);
+  transform-origin: top;
+  transition: opacity 180ms ease, transform 180ms ease, max-height 220ms ease, margin-bottom 220ms ease;
+  max-height: 5rem;
+}
+
+.cookie-banner-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.cookie-banner-closing {
+  opacity: 0;
+  transform: translateY(-0.4rem);
+  max-height: 0;
+  margin-bottom: -1px;
+  overflow: hidden;
+}
+
+.cookie-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 3.4rem;
+  padding: 0.55rem 0;
+}
+
+.cookie-banner-text {
+  margin: 0;
+  color: rgba(24, 39, 61, 0.86);
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.cookie-banner-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  flex-shrink: 0;
+}
+
+.cookie-banner-button {
+  appearance: none;
+  border: 1px solid rgba(16, 35, 61, 0.18);
+  background: rgba(255, 255, 255, 0.62);
+  color: var(--primary);
+  min-height: 2.15rem;
+  padding: 0.5rem 0.95rem;
+  border-radius: 999px;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1;
+  transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease, transform 180ms ease;
+}
+
+.cookie-banner-button:hover,
+.cookie-banner-button:focus-visible {
+  background: rgba(255, 255, 255, 0.88);
+  border-color: rgba(16, 35, 61, 0.28);
+}
+
+.cookie-banner-button.is-primary {
+  background: linear-gradient(180deg, rgba(16, 35, 61, 0.96) 0%, rgba(10, 22, 38, 0.98) 100%);
+  border-color: rgba(183, 154, 103, 0.28);
+  color: #fffaf2;
+}
+
+.cookie-banner-button.is-primary:hover,
+.cookie-banner-button.is-primary:focus-visible {
+  transform: translateY(-1px);
+  background: linear-gradient(180deg, rgba(21, 44, 76, 0.98) 0%, rgba(10, 22, 38, 1) 100%);
+}
+
 .header-inner {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr) auto;
@@ -2064,6 +2145,34 @@ p {
 
   .container {
     width: min(var(--max), calc(100% - 1.2rem));
+  }
+
+  .cookie-banner {
+    top: var(--header-height);
+    max-height: 8.2rem;
+  }
+
+  .cookie-banner-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 0.7rem;
+    min-height: auto;
+    padding: 0.7rem 0;
+  }
+
+  .cookie-banner-text {
+    font-size: 0.8rem;
+  }
+
+  .cookie-banner-actions {
+    width: 100%;
+  }
+
+  .cookie-banner-button {
+    flex: 1 1 0;
+    justify-content: center;
+    min-width: 0;
   }
 
   .hero-pill-grid,

@@ -22,8 +22,9 @@ export default function Footer() {
             </div>
           </div>
           <p className="footer-copy">
-            Studio legale orientato a Cassazione civile e penale, responsabilità medica,
-            risarcimento danni, infortuni sul lavoro e successioni complesse.
+            Studio legale con sede a Roma, orientato a Cassazione civile e penale, successioni
+            complesse, responsabilità medica, risarcimento danni, infortuni sul lavoro e
+            mediazione, con assistenza anche in questioni di rilievo più ampio.
           </p>
         </div>
 
@@ -45,6 +46,8 @@ export default function Footer() {
           <ul className="footer-contact-list">
             <li>{siteConfig.address.street}</li>
             <li>{siteConfig.address.zip} {siteConfig.address.city}</li>
+            <li>{siteConfig.hours.days}, {siteConfig.hours.open}–{siteConfig.hours.close}</li>
+            <li>Primo contatto e primo esame orientativo del caso gratuiti</li>
             <li>
               <a href={`tel:${siteConfig.phone}`}>{siteConfig.phoneDisplay}</a>
             </li>

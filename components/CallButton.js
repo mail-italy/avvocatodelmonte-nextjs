@@ -4,6 +4,7 @@
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { isCallWindowOpen } from '@/lib/businessHours';
+import { siteConfig } from '@/lib/site';
 
 export default function CallButton({
   className = 'button button-phone',
@@ -22,7 +23,7 @@ export default function CallButton({
 
   if (canCall) {
     return (
-      <a className={className} href="tel:+390697615122">
+      <a className={className} href={`tel:${siteConfig.phone}`}>
         {children || label}
       </a>
     );

@@ -9,6 +9,7 @@ import ArticleCard from '@/components/ArticleCard';
 import { articles, articleMap } from '@/lib/articles';
 import { buildMetadata } from '@/lib/metadata';
 import { articleSchema, breadcrumbSchema, faqSchema } from '@/lib/schema';
+import { siteConfig } from '@/lib/site';
 
 export function generateStaticParams() {
   return articles.map((article) => ({ slug: article.slug }));
@@ -58,7 +59,7 @@ export default async function ArticlePage({ params }) {
             { name: article.title, item: `/approfondimenti/${article.slug}` }
           ]),
           articleSchema(article),
-          faqSchema(article.faqs || [])
+          ...(article.faqs?.length ? [faqSchema(article.faqs)] : [])
         ]}
       />
 
@@ -98,13 +99,14 @@ export default async function ArticlePage({ params }) {
               <h2>Vuoi sottoporre il tuo caso allo studio?</h2>
               <p>
                 Una richiesta chiara, con documenti essenziali già disponibili e indicazione
-                dell’area di interesse, rende il primo esame più utile e più preciso.
+                dell’area di interesse, rende il primo esame più utile e più preciso. Il primo
+                contatto e la prima valutazione orientativa del caso sono gratuiti.
               </p>
               <div className="button-row">
                 <Link href="/contatti" className="button button-primary">
                   Richiedi una valutazione preliminare
                 </Link>
-                <a className="button button-whatsapp" href="https://wa.me/390697615122" target="_blank" rel="noreferrer">
+                <a className="button button-whatsapp" href={`https://wa.me/${siteConfig.whatsapp}`} target="_blank" rel="noreferrer">
                   WhatsApp
                 </a>
               </div>
@@ -113,8 +115,13 @@ export default async function ArticlePage({ params }) {
 
           <aside className="article-aside">
             <div className="aside-card">
-              <p className="eyebrow">Area collegata</p>
+              <p className="eyebrow">Pagina collegata</p>
               <h3>{article.category}</h3>
+              <p>
+                Se l’argomento trattato corrisponde alla tua situazione, la pagina dedicata aiuta a
+                capire quali profili vengono valutati dallo studio e quali documenti conviene
+                predisporre.
+              </p>
               <Link href={`/${article.service}`} className="button button-primary small">
                 Vai alla pagina dedicata
               </Link>

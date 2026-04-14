@@ -1,8 +1,6 @@
-import JsonLd from '@/components/JsonLd';
 import ServicePageContent from '@/components/ServicePageContent';
 import { services } from '@/lib/services';
 import { buildMetadata } from '@/lib/metadata';
-import { breadcrumbSchema, faqSchema, legalServiceSchema } from '@/lib/schema';
 
 const service = services['impugnazione-testamento'];
 
@@ -15,19 +13,5 @@ export const metadata = buildMetadata({
 });
 
 export default function Page() {
-  return (
-    <>
-      <JsonLd
-        data={[
-          legalServiceSchema(),
-          breadcrumbSchema([
-            { name: 'Home', item: '/' },
-            { name: service.menuTitle, item: '/impugnazione-testamento' }
-          ]),
-          faqSchema(service.faqs)
-        ]}
-      />
-      <ServicePageContent service={service} />
-    </>
-  );
+  return <ServicePageContent service={service} />;
 }

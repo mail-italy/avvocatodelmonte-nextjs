@@ -9,7 +9,7 @@ import { breadcrumbSchema } from '@/lib/schema';
 export const metadata = buildMetadata({
   title: 'Approfondimenti legali',
   description:
-    'Approfondimenti su Cassazione civile e penale, responsabilità medica, risarcimento danni, infortuni sul lavoro e successioni complesse.',
+    'Approfondimenti legali su Cassazione, successioni, responsabilità medica, danni e mediazione, con taglio informativo e respiro nazionale.',
   path: '/approfondimenti',
   image: '/images/team-meeting-wide.webp',
   keywords: ['approfondimenti legali', 'cassazione civile', 'cassazione penale', 'responsabilità medica']
@@ -32,7 +32,7 @@ export default function ApprofondimentiPage() {
       <PageHero
         eyebrow="Approfondimenti"
         title="Approfondimenti"
-        description="Articoli pensati per chiarire quando una questione presenta profili tali da meritare una valutazione legale seria: Cassazione, responsabilità medica, danni alla persona, infortuni sul lavoro e successioni complesse."
+        description="Articoli pensati per chiarire, con taglio informativo e non localistico, quando una questione presenta profili tali da meritare una valutazione legale seria: Cassazione, successioni complesse, responsabilità medica, danni alla persona, infortuni sul lavoro e mediazione."
         image="/images/team-meeting-wide.webp"
         imageAlt="Riunione di lavoro in studio"
         breadcrumbs={[
@@ -46,7 +46,8 @@ export default function ApprofondimentiPage() {
           <p className="section-intro">
             Gli approfondimenti aiutano a distinguere i casi che richiedono un vero esame tecnico
             dalle richieste formulate in termini troppo generici o non ancora sufficientemente
-            documentati.
+            documentati. Servono anche a orientare l’utente verso la pagina di attività più
+            pertinente quando la questione richiede un’assistenza mirata.
           </p>
           <div className="category-pills">
             {categories.map((category) => (
