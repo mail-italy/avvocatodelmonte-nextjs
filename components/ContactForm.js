@@ -213,7 +213,7 @@ export default function ContactForm({ compact = false }) {
           className="button button-whatsapp"
           href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           WhatsApp
         </a>

@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import Breadcrumbs from './Breadcrumbs';
 import { getImageFocusClass } from '@/lib/imageFocus';
 import CallButton from './CallButton';
@@ -19,15 +20,15 @@ export default function PageHero({ eyebrow, title, description, image, imageAlt,
               con maggiore chiarezza, se vi siano davvero i presupposti per procedere.
             </p>
             <div className="button-row">
-              <a className="button button-primary button-hero" href="/contatti">
+              <Link className="button button-primary button-hero" href="/contatti">
                 Richiedi una valutazione preliminare
-              </a>
+              </Link>
               <CallButton className="button button-phone button-hero" fallbackToContact={false} />
               <a
                 className="button button-whatsapp button-hero"
                 href={`https://wa.me/${siteConfig.whatsapp}`}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
               >
                 WhatsApp
               </a>

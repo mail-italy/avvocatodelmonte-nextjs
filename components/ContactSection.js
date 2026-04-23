@@ -111,7 +111,7 @@ export default function ContactSection({
                 className="button button-whatsapp"
                 href={`https://wa.me/${siteConfig.whatsapp}`}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
               >
                 WhatsApp
               </a>
@@ -146,7 +146,7 @@ export default function ContactSection({
               className="button button-ghost"
               href={mapsOpenUrl}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <span className="maps-button-icon" aria-hidden="true">
                 <svg viewBox="0 0 24 24" focusable="false">

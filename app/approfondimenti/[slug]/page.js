@@ -1,4 +1,3 @@
-
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import JsonLd from '@/components/JsonLd';
@@ -7,8 +6,9 @@ import FaqList from '@/components/FaqList';
 import ContactSection from '@/components/ContactSection';
 import ArticleCard from '@/components/ArticleCard';
 import { articles, articleMap } from '@/lib/articles';
+import { services } from '@/lib/services';
 import { buildMetadata } from '@/lib/metadata';
-import { articleSchema, breadcrumbSchema, faqSchema } from '@/lib/schema';
+import { articleSchema, breadcrumbSchema, faqSchema, webPageSchema } from '@/lib/schema';
 import { siteConfig } from '@/lib/site';
 
 export function generateStaticParams() {
@@ -25,7 +25,10 @@ export async function generateMetadata({ params }) {
     description: article.description,
     path: `/approfondimenti/${article.slug}`,
     image: article.image,
-    keywords: [article.category, article.title]
+    keywords: [article.category, article.title],
+    type: 'article',
+    publishedTime: article.publishedAt,
+    modifiedTime: article.updatedAt
   });
 }
 
@@ -45,14 +48,20 @@ export default async function ArticlePage({ params }) {
     notFound();
   }
 
-  const related = articles
-    .filter((item) => item.slug !== article.slug && item.service === article.service)
-    .slice(0, 3);
+  const service = services[article.service];
+  const related = article.relatedArticles
+    ? articles.filter((item) => item.slug !== article.slug && article.relatedArticles.includes(item.slug))
+    : [];
 
   return (
     <>
       <JsonLd
         data={[
+          webPageSchema({
+            path: `/approfondimenti/${article.slug}`,
+            name: article.title,
+            description: article.description
+          }),
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: 'Approfondimenti', item: '/approfondimenti' },
@@ -95,6 +104,44 @@ export default async function ArticlePage({ params }) {
               </section>
             ))}
 
+            {article.checks?.length ? (
+              <section className="article-section">
+                <h2>Cosa verificare prima di agire</h2>
+                <ul className="check-list">
+                  {article.checks.map((item) => (
+                    <li key={item}>{item}</li>
+                  ))}
+                </ul>
+              </section>
+            ) : null}
+
+            {article.documents?.length ? (
+              <section className="article-section">
+                <h2>Documenti utili per il primo esame</h2>
+                <ul className="check-list">
+                  {article.documents.map((item) => (
+                    <li key={item}>{item}</li>
+                  ))}
+                </ul>
+              </section>
+            ) : null}
+
+            {article.externalLinks?.length ? (
+              <section className="article-section">
+                <h2>Riferimento istituzionale utile</h2>
+                <ul className="resource-list">
+                  {article.externalLinks.map((item) => (
+                    <li key={item.url}>
+                      <a href={item.url} target="_blank" rel="noopener noreferrer">
+                        {item.label}
+                      </a>
+                      <p>{item.note}</p>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ) : null}
+
             <div className="inline-cta">
               <h2>Vuoi sottoporre il tuo caso allo studio?</h2>
               <p>
@@ -106,7 +153,12 @@ export default async function ArticlePage({ params }) {
                 <Link href="/contatti" className="button button-primary">
                   Richiedi una valutazione preliminare
                 </Link>
-                <a className="button button-whatsapp" href={`https://wa.me/${siteConfig.whatsapp}`} target="_blank" rel="noreferrer">
+                <a
+                  className="button button-whatsapp"
+                  href={`https://wa.me/${siteConfig.whatsapp}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   WhatsApp
                 </a>
               </div>
@@ -116,7 +168,7 @@ export default async function ArticlePage({ params }) {
           <aside className="article-aside">
             <div className="aside-card">
               <p className="eyebrow">Pagina collegata</p>
-              <h3>{article.category}</h3>
+              <h3>{service.menuTitle}</h3>
               <p>
                 Se l’argomento trattato corrisponde alla tua situazione, la pagina dedicata aiuta a
                 capire quali profili vengono valutati dallo studio e quali documenti conviene
@@ -154,7 +206,11 @@ export default async function ArticlePage({ params }) {
         </section>
       ) : null}
 
-      <ContactSection compact />
+      <ContactSection
+        compact
+        title={`Richiedi una valutazione per ${service.menuTitle.toLowerCase()}`}
+        description="Il primo contatto e il primo esame della documentazione essenziale sono gratuiti. Una richiesta chiara, con i fatti principali e i documenti già disponibili, aiuta a capire se vi siano davvero i presupposti per procedere."
+      />
     </>
   );
 }

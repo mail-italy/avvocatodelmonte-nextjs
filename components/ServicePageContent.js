@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { serviceList } from '@/lib/services';
 import { articles } from '@/lib/articles';
-import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/schema';
+import { breadcrumbSchema, faqSchema, serviceSchema, webPageSchema } from '@/lib/schema';
 import JsonLd from './JsonLd';
 import PageHero from './PageHero';
 import FaqList from './FaqList';
@@ -22,6 +22,11 @@ export default function ServicePageContent({ service }) {
     <>
       <JsonLd
         data={[
+          webPageSchema({
+            path: `/${service.slug}`,
+            name: service.title,
+            description: service.metaDescription || service.description
+          }),
           serviceSchema(service),
           breadcrumbSchema([
             { name: 'Home', item: '/' },
@@ -47,46 +52,74 @@ export default function ServicePageContent({ service }) {
         <div className="container prose-block">
           <p className="lead-card">{service.intro}</p>
 
-          <div className="reason-list">
-            <div className="reason-card reason-card-light">
-              <h3>Che cosa viene valutato</h3>
-              <p>
-                Lo studio verifica documenti, termini, utilità concreta dell’iniziativa e tenuta
-                tecnica del caso, con un esame orientato a capire se esistano davvero i presupposti
-                per procedere.
-              </p>
-            </div>
-            <div className="reason-card reason-card-light">
-              <h3>Che cosa conviene preparare</h3>
-              <p>
-                Sentenze, provvedimenti, referti, verbali, atti o documenti patrimoniali già
-                disponibili consentono una prima valutazione più utile, più rapida e più leggibile.
-              </p>
-            </div>
+          <div className="cards-grid three service-summary-grid">
+            <article className="reason-card reason-card-light">
+              <h3>Quando ha senso contattare lo studio</h3>
+              <ul className="check-list">
+                {service.contactReasons.map((item) => (
+                  <li key={item}>{item}</li>
+                ))}
+              </ul>
+            </article>
+            <article className="reason-card reason-card-light">
+              <h3>Che cosa viene esaminato</h3>
+              <ul className="check-list">
+                {service.whatIsReviewed.map((item) => (
+                  <li key={item}>{item}</li>
+                ))}
+              </ul>
+            </article>
+            <article className="reason-card reason-card-light">
+              <h3>Quali documenti conviene preparare</h3>
+              <ul className="check-list">
+                {service.documents.map((item) => (
+                  <li key={item}>{item}</li>
+                ))}
+              </ul>
+            </article>
           </div>
 
           {service.sections.map((section) => (
-            <div key={section.title} className="content-section">
+            <section key={section.title} className="content-section">
               <h2>{section.title}</h2>
               {section.paragraphs.map((paragraph) => (
                 <p key={paragraph}>{paragraph}</p>
               ))}
-              {section.bullets ? (
-                <ul className="check-list">
-                  {section.bullets.map((bullet) => (
-                    <li key={bullet}>{bullet}</li>
-                  ))}
-                </ul>
-              ) : null}
-            </div>
+            </section>
           ))}
 
+          {service.mistakes?.length ? (
+            <section className="content-section">
+              <h2>Errori da evitare nella fase iniziale</h2>
+              <ul className="check-list">
+                {service.mistakes.map((item) => (
+                  <li key={item}>{item}</li>
+                ))}
+              </ul>
+            </section>
+          ) : null}
+
+          {service.externalLinks?.length ? (
+            <section className="content-section">
+              <h2>Riferimenti istituzionali utili</h2>
+              <ul className="resource-list">
+                {service.externalLinks.map((item) => (
+                  <li key={item.url}>
+                    <a href={item.url} target="_blank" rel="noopener noreferrer">
+                      {item.label}
+                    </a>
+                    <p>{item.note}</p>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ) : null}
+
           <div className="inline-cta">
-            <h2>Documenti utili per la valutazione preliminare</h2>
+            <h2>{service.ctaTitle || 'Documenti utili per la valutazione preliminare'}</h2>
             <p>
-              Se desideri sottoporre il caso allo studio, è utile inviare sentenza, provvedimenti,
-              referti o altri documenti essenziali già disponibili, insieme a una sintesi ordinata
-              dei fatti e dell’obiettivo che intendi perseguire.
+              {service.ctaText ||
+                'Una richiesta chiara, con documenti essenziali già disponibili e una sintesi ordinata dei fatti, rende il primo esame più utile e più leggibile.'}
             </p>
             <div className="button-row">
               <Link href="/contatti" className="button button-primary">
@@ -96,7 +129,7 @@ export default function ServicePageContent({ service }) {
                 className="button button-whatsapp"
                 href={`https://wa.me/${siteConfig.whatsapp}`}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
               >
                 WhatsApp
               </a>
@@ -109,7 +142,7 @@ export default function ServicePageContent({ service }) {
         <section className="section section-soft">
           <div className="container">
             <p className="eyebrow">Aree collegate</p>
-            <h2>Altre aree che possono essere utili</h2>
+            <h2>Pagine di attività collegate</h2>
             <div className="cards-grid three">
               {relatedServices.map((item) => (
                 <ServiceCard key={item.slug} service={item} />
@@ -123,7 +156,7 @@ export default function ServicePageContent({ service }) {
         <section className="section">
           <div className="container">
             <p className="eyebrow">Approfondimenti correlati</p>
-            <h2>Articoli utili per approfondire il tema</h2>
+            <h2>Letture utili per approfondire il tema</h2>
             <div className="cards-grid three">
               {relatedArticles.map((article) => (
                 <ArticleCard key={article.slug} article={article} />
@@ -146,7 +179,7 @@ export default function ServicePageContent({ service }) {
       <ContactSection
         compact
         title={`Richiedi una valutazione per ${service.label.toLowerCase()}`}
-        description="Il primo contatto e il primo esame della documentazione essenziale sono gratuiti. Una richiesta chiara, con indicazione dei fatti principali e dei documenti già disponibili, consente di capire con maggiore precisione se vi siano i presupposti per procedere."
+        description="Il primo contatto e il primo esame della documentazione essenziale sono gratuiti. Una richiesta chiara, con i fatti principali e i documenti già disponibili, aiuta a capire se vi siano davvero i presupposti per procedere."
       />
     </>
   );

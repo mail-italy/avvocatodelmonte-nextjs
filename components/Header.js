@@ -17,7 +17,9 @@ const areaItems = [
   { href: '/risarcimento-danni', label: 'Risarcimento danni' },
   { href: '/risarcimento-danni-incidente-stradale', label: 'Incidenti stradali gravi' },
   { href: '/infortuni-sul-lavoro', label: 'Infortuni sul lavoro' },
-  { href: '/successioni-complesse', label: 'Successioni complesse' }
+  { href: '/successioni-complesse', label: 'Successioni complesse' },
+  { href: '/impugnazione-testamento', label: 'Impugnazione del testamento' },
+  { href: '/mediazione-risoluzione-stragiudiziale', label: 'Mediazione' }
 ];
 
 function isActivePath(pathname, href) {
@@ -57,7 +59,7 @@ function DesktopActions({ onAction }) {
         className="header-secondary-link"
         href={`https://wa.me/${siteConfig.whatsapp}`}
         target="_blank"
-        rel="noreferrer"
+        rel="noopener noreferrer"
         onClick={onAction}
       >
         <span>WhatsApp</span>
@@ -77,7 +79,7 @@ function MobileActions({ onAction }) {
         className="header-secondary-link"
         href={`https://wa.me/${siteConfig.whatsapp}`}
         target="_blank"
-        rel="noreferrer"
+        rel="noopener noreferrer"
         onClick={onAction}
       >
         <span>WhatsApp</span>

@@ -26,7 +26,7 @@ export default function FloatingContact() {
           className="floating-pill floating-whatsapp"
           href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           WhatsApp
         </a>
@@ -45,7 +45,7 @@ export default function FloatingContact() {
           className="mobile-sticky-link whatsapp"
           href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           WhatsApp
         </a>

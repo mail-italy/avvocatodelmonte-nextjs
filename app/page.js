@@ -10,7 +10,7 @@ import HomeCookieBanner from '@/components/HomeCookieBanner';
 import { buildMetadata } from '@/lib/metadata';
 import { breadcrumbSchema, faqSchema } from '@/lib/schema';
 import { serviceList } from '@/lib/services';
-import { articles } from '@/lib/articles';
+import { articleMap } from '@/lib/articles';
 import { getImageFocusClass } from '@/lib/imageFocus';
 import { siteConfig } from '@/lib/site';
 
@@ -113,7 +113,12 @@ const authorityPoints = [
 
 export default function HomePage() {
   const services = serviceList.filter((item) => item.slug !== 'studio');
-  const featuredArticles = articles.slice(0, 4);
+  const featuredArticles = [
+    articleMap['quando-conviene-fare-ricorso-per-cassazione-civile'],
+    articleMap['errore-diagnostico-e-ritardo-diagnosi'],
+    articleMap['cosa-fare-dopo-un-incidente-stradale-grave'],
+    articleMap['impugnazione-del-testamento-quando-ha-senso']
+  ];
 
   return (
     <>
@@ -162,7 +167,7 @@ export default function HomePage() {
                   className="button button-whatsapp button-hero"
                   href={`https://wa.me/${siteConfig.whatsapp}`}
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   WhatsApp
                 </a>
