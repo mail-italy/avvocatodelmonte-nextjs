@@ -49,7 +49,7 @@ function NavItems({ items, pathname, linkClassName, onNavigate }) {
 function DesktopActions({ onAction }) {
   return (
     <div className="header-actions">
-      <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false}>
+      <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false} trackingLocation="header_desktop">
         <>
           <ContactIcon type="phone" className="header-link-icon" />
           <span>Chiama</span>
@@ -61,10 +61,12 @@ function DesktopActions({ onAction }) {
         target="_blank"
         rel="noopener noreferrer"
         onClick={onAction}
+        data-event="contact_whatsapp"
+        data-event-location="header_desktop"
       >
         <span>WhatsApp</span>
       </a>
-      <Link className="button button-primary header-cta" href="/contatti" onClick={onAction}>
+      <Link className="button button-primary header-cta" href="/contatti" onClick={onAction} data-event="generate_lead" data-event-location="header_desktop">
         Valutazione preliminare
       </Link>
     </div>
@@ -74,17 +76,19 @@ function DesktopActions({ onAction }) {
 function MobileActions({ onAction }) {
   return (
     <div className="header-actions">
-      <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false} />
+      <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false} trackingLocation="header_mobile" />
       <a
         className="header-secondary-link"
         href={`https://wa.me/${siteConfig.whatsapp}`}
         target="_blank"
         rel="noopener noreferrer"
         onClick={onAction}
+        data-event="contact_whatsapp"
+        data-event-location="header_mobile"
       >
         <span>WhatsApp</span>
       </a>
-      <Link className="button button-primary header-cta" href="/contatti" onClick={onAction}>
+      <Link className="button button-primary header-cta" href="/contatti" onClick={onAction} data-event="generate_lead" data-event-location="header_mobile">
         Valutazione preliminare
       </Link>
     </div>

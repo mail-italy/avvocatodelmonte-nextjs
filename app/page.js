@@ -8,11 +8,12 @@ import ContactSection from '@/components/ContactSection';
 import CallButton from '@/components/CallButton';
 import HomeCookieBanner from '@/components/HomeCookieBanner';
 import { buildMetadata } from '@/lib/metadata';
-import { breadcrumbSchema, faqSchema } from '@/lib/schema';
+import { breadcrumbSchema, faqSchema, webPageSchema } from '@/lib/schema';
 import { serviceList } from '@/lib/services';
 import { articleMap } from '@/lib/articles';
 import { getImageFocusClass } from '@/lib/imageFocus';
 import { siteConfig } from '@/lib/site';
+import { seoPageMap } from '@/lib/seoPages';
 
 export const metadata = buildMetadata({
   title: 'Avvocato Cassazionista a Roma | Studio Legale Del Monte',
@@ -111,6 +112,15 @@ const authorityPoints = [
   }
 ];
 
+const strategicPages = [
+  seoPageMap['avvocato-cassazionista-roma'],
+  seoPageMap['ricorso-cassazione-civile'],
+  seoPageMap['ricorso-cassazione-penale'],
+  seoPageMap['avvocato-successioni-roma'],
+  seoPageMap['responsabilita-medica-roma'],
+  seoPageMap['avvocato-penalista-roma']
+];
+
 export default function HomePage() {
   const services = serviceList.filter((item) => item.slug !== 'studio');
   const featuredArticles = [
@@ -125,6 +135,12 @@ export default function HomePage() {
       <HomeCookieBanner />
       <JsonLd
         data={[
+          webPageSchema({
+            path: '/',
+            name: 'Avvocato cassazionista a Roma | Studio Legale Del Monte',
+            description:
+              'Studio legale con sede a Roma per Cassazione civile e penale, successioni complesse, responsabilità medica, risarcimento danni e infortuni sul lavoro.'
+          }),
           breadcrumbSchema([{ name: 'Home', item: '/' }]),
           faqSchema(homeFaqs)
         ]}
@@ -159,15 +175,17 @@ export default function HomePage() {
               </p>
 
               <div className="hero-actions">
-                <Link className="button button-primary button-hero" href="/contatti">
+                <Link className="button button-primary button-hero" href="/contatti" data-event="generate_lead" data-event-location="home_hero">
                   Richiedi una valutazione preliminare
                 </Link>
-                <CallButton className="button button-phone button-hero" fallbackToContact={false} />
+                <CallButton className="button button-phone button-hero" fallbackToContact={false} trackingLocation="home_hero" />
                 <a
                   className="button button-whatsapp button-hero"
                   href={`https://wa.me/${siteConfig.whatsapp}`}
                   target="_blank"
                   rel="noopener noreferrer"
+                  data-event="contact_whatsapp"
+                  data-event-location="home_hero"
                 >
                   WhatsApp
                 </a>
@@ -234,6 +252,22 @@ export default function HomePage() {
             <Link className="button button-primary" href="/contatti">
               Sottoponi il caso allo studio
             </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="section section-soft">
+        <div className="container">
+          <p className="eyebrow">Percorsi strategici</p>
+          <h2>Pagine prioritarie per Roma e per i casi che richiedono un primo esame tecnico</h2>
+          <p className="section-intro">
+            Queste pagine approfondiscono i percorsi più richiesti e collegano le aree di attività
+            principali con temi operativi utili prima del primo contatto con lo studio.
+          </p>
+          <div className="cards-grid three">
+            {strategicPages.map((service) => (
+              <ServiceCard key={service.slug} service={service} />
+            ))}
           </div>
         </div>
       </section>

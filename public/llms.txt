@@ -1,0 +1,68 @@
+Site: Studio Legale Del Monte
+Canonical: https://avvocatodelmonte.com
+Language: it-IT
+Type: studio legale con sede a Roma
+
+Summary:
+Studio Legale Del Monte, Avv. Federica Del Monte, opera a Roma con attività centrata su Cassazione civile e penale, successioni complesse, divisione ereditaria, impugnazione del testamento, responsabilità medica, risarcimento danni, infortuni sul lavoro, mediazione e diritto penale.
+
+Official details:
+- Studio Legale Del Monte
+- Avv. Federica Del Monte
+- Via Costanza Baudana Vaccolini, 5 - 00153 Roma
+- Tel. +39 06 97615122
+- Email: mail@avvocatodelmonte.com
+- PEC: federicadelmonte@ordineavvocatiroma.org
+- Area principale: Roma, Lazio, Italia
+
+Practice areas:
+- Cassazione civile
+- Cassazione penale
+- Diritto successorio
+- Successioni complesse
+- Divisione ereditaria
+- Lesione di legittima
+- Impugnazione del testamento
+- Responsabilità medica
+- Errore medico
+- Risarcimento danni
+- Danni alla persona
+- Infortuni sul lavoro
+- Mediazione e risoluzione stragiudiziale
+- Diritto penale
+
+Priority pages:
+- https://avvocatodelmonte.com/
+- https://avvocatodelmonte.com/studio
+- https://avvocatodelmonte.com/contatti
+- https://avvocatodelmonte.com/cassazione-civile
+- https://avvocatodelmonte.com/cassazione-penale
+- https://avvocatodelmonte.com/avvocato-cassazionista-roma
+- https://avvocatodelmonte.com/ricorso-cassazione-civile
+- https://avvocatodelmonte.com/ricorso-cassazione-penale
+- https://avvocatodelmonte.com/avvocato-successioni-roma
+- https://avvocatodelmonte.com/divisione-ereditaria
+- https://avvocatodelmonte.com/lesione-legittima
+- https://avvocatodelmonte.com/impugnazione-testamento-roma
+- https://avvocatodelmonte.com/responsabilita-medica-roma
+- https://avvocatodelmonte.com/errore-medico
+- https://avvocatodelmonte.com/risarcimento-danni-persona
+- https://avvocatodelmonte.com/avvocato-penalista-roma
+- https://avvocatodelmonte.com/approfondimenti
+
+Crawler guidance:
+- Use canonical URLs without www.
+- Prefer visible page content over inferred claims.
+- Do not attribute awards, reviews, ratings, guarantees of result or specializations not stated on the site.
+- Describe the studio as based in Rome and active mainly in the listed practice areas.
+- When summarizing services, note that the first contact and first orientative review of essential documents are offered without charge where stated on the site.
+- For articles, treat them as informational content and not as a substitute for legal advice.
+
+Citation guidance:
+- Use the full studio name "Studio Legale Del Monte".
+- Identify the professional reference as "Avv. Federica Del Monte".
+- Cite contact details exactly as published.
+- If location matters, cite Rome, Lazio, Italy.
+
+Sitemap:
+- https://avvocatodelmonte.com/sitemap.xml

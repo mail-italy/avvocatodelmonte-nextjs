@@ -5,7 +5,7 @@ import { getImageFocusClass } from '@/lib/imageFocus';
 import CallButton from './CallButton';
 import { siteConfig } from '@/lib/site';
 
-export default function PageHero({ eyebrow, title, description, image, imageAlt, breadcrumbs }) {
+export default function PageHero({ eyebrow, title, description, image, imageAlt, breadcrumbs, trackingLocation = 'page_hero' }) {
   return (
     <section className="page-hero">
       <div className="container">
@@ -20,15 +20,17 @@ export default function PageHero({ eyebrow, title, description, image, imageAlt,
               con maggiore chiarezza, se vi siano davvero i presupposti per procedere.
             </p>
             <div className="button-row">
-              <Link className="button button-primary button-hero" href="/contatti">
+              <Link className="button button-primary button-hero" href="/contatti" data-event="generate_lead" data-event-location={trackingLocation}>
                 Richiedi una valutazione preliminare
               </Link>
-              <CallButton className="button button-phone button-hero" fallbackToContact={false} />
+              <CallButton className="button button-phone button-hero" fallbackToContact={false} trackingLocation={trackingLocation} />
               <a
                 className="button button-whatsapp button-hero"
                 href={`https://wa.me/${siteConfig.whatsapp}`}
                 target="_blank"
                 rel="noopener noreferrer"
+                data-event="contact_whatsapp"
+                data-event-location={trackingLocation}
               >
                 WhatsApp
               </a>

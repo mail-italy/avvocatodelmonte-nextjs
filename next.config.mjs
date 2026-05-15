@@ -1,5 +1,3 @@
-import { permanentRedirects } from './lib/redirects.mjs';
-
 const securityHeaders = [
   {
     key: 'X-Frame-Options',
@@ -37,6 +35,7 @@ const securityHeaders = [
 ];
 
 const nextConfig = {
+  skipTrailingSlashRedirect: true,
   async headers() {
     return [
       {
@@ -44,12 +43,6 @@ const nextConfig = {
         headers: securityHeaders
       }
     ];
-  },
-  async redirects() {
-    return permanentRedirects.map((redirect) => ({
-      ...redirect,
-      permanent: true
-    }));
   }
 };
 

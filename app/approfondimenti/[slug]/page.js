@@ -150,7 +150,7 @@ export default async function ArticlePage({ params }) {
                 contatto e la prima valutazione orientativa del caso sono gratuiti.
               </p>
               <div className="button-row">
-                <Link href="/contatti" className="button button-primary">
+                <Link href="/contatti" className="button button-primary" data-event="generate_lead" data-event-location={article.slug}>
                   Richiedi una valutazione preliminare
                 </Link>
                 <a
@@ -158,6 +158,8 @@ export default async function ArticlePage({ params }) {
                   href={`https://wa.me/${siteConfig.whatsapp}`}
                   target="_blank"
                   rel="noopener noreferrer"
+                  data-event="contact_whatsapp"
+                  data-event-location={article.slug}
                 >
                   WhatsApp
                 </a>
@@ -210,6 +212,7 @@ export default async function ArticlePage({ params }) {
         compact
         title={`Richiedi una valutazione per ${service.menuTitle.toLowerCase()}`}
         description="Il primo contatto e il primo esame della documentazione essenziale sono gratuiti. Una richiesta chiara, con i fatti principali e i documenti già disponibili, aiuta a capire se vi siano davvero i presupposti per procedere."
+        trackingLocation={article.slug}
       />
     </>
   );

@@ -149,6 +149,7 @@ export default function ContattiPage() {
         guidanceTitle="Come inviare il materiale"
         guidanceText="La situazione può essere descritta già via email o WhatsApp. È preferibile allegare soltanto i documenti essenziali già disponibili: sentenze, provvedimenti, referti, verbali, atti processuali o documentazione patrimoniale utile a comprendere il caso."
         showPec
+        trackingLocation="contatti_page"
         note="Anche quando la valutazione sia prudente o negativa, il primo esame resta utile per chiarire se l’iniziativa abbia reale sostenibilità."
       />
     </>

@@ -5,15 +5,55 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import FloatingContact from '@/components/FloatingContact';
 import JsonLd from '@/components/JsonLd';
-import { buildMetadata } from '@/lib/metadata';
-import { attorneySchema, legalServiceSchema, localBusinessSchema, websiteSchema } from '@/lib/schema';
+import {
+  attorneySchema,
+  legalServiceSchema,
+  localBusinessSchema,
+  personSchema,
+  websiteSchema
+} from '@/lib/schema';
 import { siteConfig } from '@/lib/site';
 
-export const metadata = buildMetadata({
-  title: siteConfig.title,
+export const metadata = {
+  metadataBase: new URL(siteConfig.domain),
+  title: {
+    default: siteConfig.title,
+    template: `%s | ${siteConfig.name}`
+  },
   description: siteConfig.description,
-  path: '/',
-  image: siteConfig.social.ogImage,
+  applicationName: siteConfig.name,
+  alternates: {
+    canonical: siteConfig.domain,
+    languages: {
+      'it-IT': siteConfig.domain
+    }
+  },
+  robots: {
+    index: true,
+    follow: true
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'it_IT',
+    url: siteConfig.domain,
+    title: siteConfig.title,
+    description: siteConfig.description,
+    siteName: siteConfig.name,
+    images: [
+      {
+        url: `${siteConfig.domain}${siteConfig.social.ogImage}`,
+        width: 1200,
+        height: 630,
+        alt: siteConfig.title
+      }
+    ]
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: siteConfig.title,
+    description: siteConfig.description,
+    images: [`${siteConfig.domain}${siteConfig.social.ogImage}`]
+  },
   keywords: [
     'avvocato cassazionista Roma',
     'ricorso per Cassazione civile Roma',
@@ -23,15 +63,17 @@ export const metadata = buildMetadata({
     'avvocato infortuni sul lavoro Roma',
     'avvocato successioni Roma'
   ]
-});
+};
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="it">
+    <html lang="it-IT">
       <body>
         <GoogleTagManager gtmId="GTM-PR5RTFTX" />
         <a className="skip-link" href="#contenuto">Salta al contenuto</a>
-        <JsonLd data={[websiteSchema(), attorneySchema(), legalServiceSchema(), localBusinessSchema()]} />
+        <JsonLd
+          data={[websiteSchema(), personSchema(), attorneySchema(), legalServiceSchema(), localBusinessSchema()]}
+        />
         <Header />
         <main id="contenuto">{children}</main>
         <Footer />

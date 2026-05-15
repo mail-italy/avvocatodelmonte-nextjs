@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { serviceList } from '@/lib/services';
 import { articles } from '@/lib/articles';
+import { seoPageList } from '@/lib/seoPages';
 import { breadcrumbSchema, faqSchema, serviceSchema, webPageSchema } from '@/lib/schema';
 import JsonLd from './JsonLd';
 import PageHero from './PageHero';
@@ -11,8 +12,9 @@ import ArticleCard from './ArticleCard';
 import { siteConfig } from '@/lib/site';
 
 export default function ServicePageContent({ service }) {
+  const practicePages = [...serviceList, ...seoPageList];
   const relatedServices = service.relatedServices
-    ? serviceList.filter((item) => service.relatedServices.includes(item.slug))
+    ? practicePages.filter((item) => service.relatedServices.includes(item.slug))
     : [];
   const relatedArticles = service.relatedArticles
     ? articles.filter((article) => service.relatedArticles.includes(article.slug))
@@ -42,6 +44,7 @@ export default function ServicePageContent({ service }) {
         description={service.description}
         image={service.image}
         imageAlt={service.menuTitle}
+        trackingLocation={service.slug}
         breadcrumbs={[
           { name: 'Home', item: '/' },
           { name: service.menuTitle, item: `/${service.slug}` }
@@ -122,7 +125,7 @@ export default function ServicePageContent({ service }) {
                 'Una richiesta chiara, con documenti essenziali già disponibili e una sintesi ordinata dei fatti, rende il primo esame più utile e più leggibile.'}
             </p>
             <div className="button-row">
-              <Link href="/contatti" className="button button-primary">
+              <Link href="/contatti" className="button button-primary" data-event="generate_lead" data-event-location={service.slug}>
                 Richiedi una valutazione preliminare
               </Link>
               <a
@@ -130,6 +133,8 @@ export default function ServicePageContent({ service }) {
                 href={`https://wa.me/${siteConfig.whatsapp}`}
                 target="_blank"
                 rel="noopener noreferrer"
+                data-event="contact_whatsapp"
+                data-event-location={service.slug}
               >
                 WhatsApp
               </a>
@@ -180,6 +185,7 @@ export default function ServicePageContent({ service }) {
         compact
         title={`Richiedi una valutazione per ${service.label.toLowerCase()}`}
         description="Il primo contatto e il primo esame della documentazione essenziale sono gratuiti. Una richiesta chiara, con i fatti principali e i documenti già disponibili, aiuta a capire se vi siano davvero i presupposti per procedere."
+        trackingLocation={service.slug}
       />
     </>
   );

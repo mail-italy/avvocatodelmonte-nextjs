@@ -49,13 +49,13 @@ export default function Footer() {
             <li>{siteConfig.hours.days}, {siteConfig.hours.open}–{siteConfig.hours.close}</li>
             <li>Primo contatto e primo esame orientativo del caso gratuiti</li>
             <li>
-              <a href={`tel:${siteConfig.phone}`}>{siteConfig.phoneDisplay}</a>
+              <a href={`tel:${siteConfig.phone}`} data-event="contact_phone" data-event-location="footer">{siteConfig.phoneDisplay}</a>
             </li>
             <li>
-              <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>
+              <a href={`mailto:${siteConfig.email}`} data-event="contact_email" data-event-location="footer">{siteConfig.email}</a>
             </li>
             <li>
-              <a href={`mailto:${siteConfig.pec}`}>{siteConfig.pec}</a>
+              <a href={`mailto:${siteConfig.pec}`} data-event="contact_email" data-event-location="footer">{siteConfig.pec}</a>
             </li>
           </ul>
         </div>

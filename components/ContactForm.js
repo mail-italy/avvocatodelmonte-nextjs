@@ -13,7 +13,7 @@ const initialState = {
   website: ''
 };
 
-export default function ContactForm({ compact = false }) {
+export default function ContactForm({ compact = false, trackingLocation = 'contact_form' }) {
   const [form, setForm] = useState(initialState);
   const [fileName, setFileName] = useState('');
   const [status, setStatus] = useState({ type: '', message: '' });
@@ -94,6 +94,19 @@ export default function ContactForm({ compact = false }) {
         message:
           'Richiesta inviata correttamente. Il materiale ricevuto potrà essere esaminato per una prima valutazione preliminare.'
       });
+      if (typeof window !== 'undefined' && Array.isArray(window.dataLayer)) {
+        window.dataLayer.push({
+          event: 'form_submit',
+          form_name: 'contact_form',
+          form_location: trackingLocation,
+          practice_area: String(data.get('area') || '')
+        });
+        window.dataLayer.push({
+          event: 'generate_lead',
+          lead_channel: 'contact_form',
+          form_location: trackingLocation
+        });
+      }
       setForm(initialState);
       setFileName('');
 
@@ -206,7 +219,13 @@ export default function ContactForm({ compact = false }) {
       {status.message ? <div className={`form-status ${status.type}`}>{status.message}</div> : null}
 
       <div className="form-actions">
-        <button type="submit" className="button button-primary" disabled={pending}>
+        <button
+          type="submit"
+          className="button button-primary"
+          disabled={pending}
+          data-event="generate_lead"
+          data-event-location={trackingLocation}
+        >
           {pending ? 'Invio in corso…' : 'Invia la richiesta'}
         </button>
         <a
@@ -214,6 +233,8 @@ export default function ContactForm({ compact = false }) {
           href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
           rel="noopener noreferrer"
+          data-event="contact_whatsapp"
+          data-event-location={trackingLocation}
         >
           WhatsApp
         </a>

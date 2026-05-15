@@ -12,7 +12,8 @@ export default function ContactSection({
   guidanceText = 'È possibile descrivere la situazione già via email o WhatsApp e allegare pochi documenti essenziali: sentenze, provvedimenti, referti, verbali, atti o documentazione patrimoniale già disponibile.',
   showAddress = true,
   showPec = false,
-  note = 'Anche una valutazione prudente o negativa è utile quando serve a chiarire subito se vi siano i presupposti per procedere.'
+  note = 'Anche una valutazione prudente o negativa è utile quando serve a chiarire subito se vi siano i presupposti per procedere.',
+  trackingLocation = 'contact_section'
 }) {
   const mapsQuery = encodeURIComponent(
     `${siteConfig.address.street}, ${siteConfig.address.zip} ${siteConfig.address.city}`
@@ -106,23 +107,25 @@ export default function ContactSection({
             <p className="contact-side-note">{note}</p>
 
             <div className="contact-mini-actions">
-              <CallButton className="button button-phone" fallbackToContact={false} />
+              <CallButton className="button button-phone" fallbackToContact={false} trackingLocation={trackingLocation} />
               <a
                 className="button button-whatsapp"
                 href={`https://wa.me/${siteConfig.whatsapp}`}
                 target="_blank"
                 rel="noopener noreferrer"
+                data-event="contact_whatsapp"
+                data-event-location={trackingLocation}
               >
                 WhatsApp
               </a>
-              <a className="button button-email" href={`mailto:${siteConfig.email}`}>
+              <a className="button button-email" href={`mailto:${siteConfig.email}`} data-event="contact_email" data-event-location={trackingLocation}>
                 Email
               </a>
             </div>
           </div>
 
           <div className="contact-card">
-            <ContactForm compact={compact} />
+            <ContactForm compact={compact} trackingLocation={trackingLocation} />
           </div>
         </div>
 

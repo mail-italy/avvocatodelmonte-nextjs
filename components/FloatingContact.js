@@ -19,7 +19,7 @@ export default function FloatingContact() {
   return (
     <>
       <div className="floating-contact desktop-only">
-        <a className="floating-pill floating-email" href={`mailto:${siteConfig.email}`}>
+        <a className="floating-pill floating-email" href={`mailto:${siteConfig.email}`} data-event="contact_email" data-event-location="floating_desktop">
           Email
         </a>
         <a
@@ -27,18 +27,20 @@ export default function FloatingContact() {
           href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
           rel="noopener noreferrer"
+          data-event="contact_whatsapp"
+          data-event-location="floating_desktop"
         >
           WhatsApp
         </a>
         {canCall ? (
-          <a className="floating-pill floating-call" href={`tel:${siteConfig.phone}`}>
+          <a className="floating-pill floating-call" href={`tel:${siteConfig.phone}`} data-event="contact_phone" data-event-location="floating_desktop">
             Chiama
           </a>
         ) : null}
       </div>
 
       <div className="mobile-sticky">
-        <a className="mobile-sticky-link email" href={`mailto:${siteConfig.email}`}>
+        <a className="mobile-sticky-link email" href={`mailto:${siteConfig.email}`} data-event="contact_email" data-event-location="floating_mobile">
           Email
         </a>
         <a
@@ -46,15 +48,17 @@ export default function FloatingContact() {
           href={`https://wa.me/${siteConfig.whatsapp}`}
           target="_blank"
           rel="noopener noreferrer"
+          data-event="contact_whatsapp"
+          data-event-location="floating_mobile"
         >
           WhatsApp
         </a>
         {canCall ? (
-          <a className="mobile-sticky-link primary" href={`tel:${siteConfig.phone}`}>
+          <a className="mobile-sticky-link primary" href={`tel:${siteConfig.phone}`} data-event="contact_phone" data-event-location="floating_mobile">
             Chiama
           </a>
         ) : null}
-        {!canCall ? <Link className="mobile-sticky-link ghost" href="/contatti">Contatti</Link> : null}
+        {!canCall ? <Link className="mobile-sticky-link ghost" href="/contatti" data-event="generate_lead" data-event-location="floating_mobile">Contatti</Link> : null}
       </div>
     </>
   );

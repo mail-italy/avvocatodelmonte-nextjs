@@ -9,10 +9,12 @@ import { services, serviceList } from '@/lib/services';
 import { articles } from '@/lib/articles';
 import { buildMetadata } from '@/lib/metadata';
 import {
+  aboutPageSchema,
   attorneySchema,
   breadcrumbSchema,
   faqSchema,
   legalServiceSchema,
+  personSchema,
   webPageSchema
 } from '@/lib/schema';
 import { getImageFocusClass } from '@/lib/imageFocus';
@@ -35,11 +37,14 @@ export default function StudioPage() {
     <>
       <JsonLd
         data={[
+          aboutPageSchema(),
           webPageSchema({
             path: '/studio',
             name: 'Studio Legale Del Monte',
-            description: service.metaDescription
+            description: service.metaDescription,
+            type: 'AboutPage'
           }),
+          personSchema(),
           attorneySchema(),
           legalServiceSchema(),
           breadcrumbSchema([
@@ -194,7 +199,7 @@ export default function StudioPage() {
         </div>
       </section>
 
-      <ContactSection compact />
+      <ContactSection compact trackingLocation="studio_page" />
     </>
   );
 }
