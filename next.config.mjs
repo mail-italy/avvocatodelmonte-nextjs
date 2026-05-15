@@ -35,6 +35,7 @@ const securityHeaders = [
 ];
 
 const nextConfig = {
+  trailingSlash: false,
   skipTrailingSlashRedirect: true,
   async headers() {
     return [

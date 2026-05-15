@@ -4,6 +4,11 @@ import { legacyRedirectMap } from './lib/redirects.mjs';
 const PUBLIC_FILE = /\.[^/]+$/;
 const EXEMPT_DOTTED_PATHS = new Set(['/robots.txt', '/sitemap.xml', '/llms.txt', '/ai.txt']);
 
+function normalizePathname(pathname) {
+  if (!pathname || pathname === '/') return '/';
+  return pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
+}
+
 export function proxy(request) {
   const pathname = request.nextUrl.pathname;
   const host = request.headers.get('host') || request.nextUrl.host;
@@ -13,26 +18,27 @@ export function proxy(request) {
     return NextResponse.next();
   }
 
-  const normalizedPath = pathname !== '/' && pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
+  const normalizedPath = normalizePathname(pathname);
   const redirectedPath = legacyRedirectMap.get(normalizedPath) || normalizedPath;
   const shouldForceCanonicalHost = host === 'www.avvocatodelmonte.com';
+  const isPathCanonical = pathname === redirectedPath;
   const shouldRedirect =
-    normalizedPath !== pathname || redirectedPath !== pathname || shouldForceCanonicalHost;
+    !isPathCanonical || shouldForceCanonicalHost;
 
   if (!shouldRedirect) {
     return NextResponse.next();
   }
 
-  const url = request.nextUrl.clone();
-  url.pathname = redirectedPath;
+  const targetUrl = new URL(request.url);
+  targetUrl.pathname = redirectedPath;
 
   if (shouldForceCanonicalHost) {
-    url.protocol = 'https:';
-    url.hostname = 'avvocatodelmonte.com';
-    url.port = '';
+    targetUrl.protocol = 'https:';
+    targetUrl.hostname = 'avvocatodelmonte.com';
+    targetUrl.port = '';
   }
 
-  return NextResponse.redirect(url, 301);
+  return NextResponse.redirect(targetUrl, 301);
 }
 
 export const config = {
