@@ -118,7 +118,10 @@ const strategicPages = [
   seoPageMap['ricorso-cassazione-penale'],
   seoPageMap['avvocato-successioni-roma'],
   seoPageMap['responsabilita-medica-roma'],
-  seoPageMap['avvocato-penalista-roma']
+  seoPageMap['avvocato-penalista-roma'],
+  seoPageMap['errore-medico'],
+  seoPageMap['risarcimento-danni-persona'],
+  seoPageMap['impugnazione-testamento-roma']
 ];
 
 export default function HomePage() {
