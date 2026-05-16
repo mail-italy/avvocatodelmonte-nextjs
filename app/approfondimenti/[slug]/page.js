@@ -66,7 +66,7 @@ export default async function ArticlePage({ params }) {
             { name: 'Home', item: '/' },
             { name: 'Approfondimenti', item: '/approfondimenti' },
             { name: article.title, item: `/approfondimenti/${article.slug}` }
-          ]),
+          ], `/approfondimenti/${article.slug}`),
           articleSchema(article),
           ...(article.faqs?.length ? [faqSchema(article.faqs)] : [])
         ]}

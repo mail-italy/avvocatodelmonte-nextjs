@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { legacyRedirectMap } from './lib/redirects.mjs';
+import { legacyRedirectMap, legacyRedirectRules } from './lib/redirects.mjs';
 
 const PUBLIC_FILE = /\.[^/]+$/;
 const EXEMPT_DOTTED_PATHS = new Set(['/robots.txt', '/sitemap.xml', '/llms.txt', '/ai.txt']);
@@ -7,6 +7,17 @@ const EXEMPT_DOTTED_PATHS = new Set(['/robots.txt', '/sitemap.xml', '/llms.txt',
 function normalizePathname(pathname) {
   if (!pathname || pathname === '/') return '/';
   return pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
+}
+
+function findLegacyRedirect(pathname) {
+  const exactRedirect = legacyRedirectMap.get(pathname);
+
+  if (exactRedirect) {
+    return exactRedirect;
+  }
+
+  const matchedRule = legacyRedirectRules.find((rule) => rule.pattern.test(pathname));
+  return matchedRule?.destination || null;
 }
 
 export function proxy(request) {
@@ -19,7 +30,7 @@ export function proxy(request) {
   }
 
   const normalizedPath = normalizePathname(pathname);
-  const redirectedPath = legacyRedirectMap.get(normalizedPath) || normalizedPath;
+  const redirectedPath = findLegacyRedirect(normalizedPath) || normalizedPath;
   const shouldForceCanonicalHost = host === 'www.avvocatodelmonte.com';
   const isPathCanonical = pathname === redirectedPath;
   const shouldRedirect =

@@ -33,7 +33,7 @@ export default function ServicePageContent({ service }) {
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: service.menuTitle, item: `/${service.slug}` }
-          ]),
+          ], `/${service.slug}`),
           ...(service.faqs?.length ? [faqSchema(service.faqs)] : [])
         ]}
       />

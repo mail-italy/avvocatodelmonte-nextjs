@@ -127,7 +127,7 @@ export default function ApprofondimentiPage() {
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: 'Approfondimenti', item: '/approfondimenti' }
-          ])
+          ], '/approfondimenti')
         ]}
       />
 

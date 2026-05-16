@@ -23,7 +23,7 @@ export default function PrivacyPage() {
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: 'Privacy', item: '/privacy' }
-          ])
+          ], '/privacy')
         ]}
       />
 

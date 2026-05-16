@@ -144,7 +144,7 @@ export default function HomePage() {
             description:
               'Studio legale con sede a Roma per Cassazione civile e penale, successioni complesse, responsabilità medica, risarcimento danni e infortuni sul lavoro.'
           }),
-          breadcrumbSchema([{ name: 'Home', item: '/' }]),
+          breadcrumbSchema([{ name: 'Home', item: '/' }], '/'),
           faqSchema(homeFaqs)
         ]}
       />

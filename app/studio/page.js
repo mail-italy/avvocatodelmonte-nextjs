@@ -50,7 +50,7 @@ export default function StudioPage() {
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: 'Studio', item: '/studio' }
-          ]),
+          ], '/studio'),
           faqSchema(service.faqs)
         ]}
       />

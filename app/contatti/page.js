@@ -53,7 +53,7 @@ export default function ContattiPage() {
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: 'Contatti', item: '/contatti' }
-          ]),
+          ], '/contatti'),
           faqSchema(faqs)
         ]}
       />
