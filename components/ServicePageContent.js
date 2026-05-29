@@ -91,6 +91,20 @@ export default function ServicePageContent({ service }) {
             </section>
           ))}
 
+          {service.editorialLinks?.length ? (
+            <section className="content-section">
+              {service.editorialLinks.map((item) => (
+                <p key={item.url}>
+                  {item.before}
+                  <a href={item.url} target="_blank" rel="noopener noreferrer">
+                    {item.label}
+                  </a>
+                  {item.after}
+                </p>
+              ))}
+            </section>
+          ) : null}
+
           {service.mistakes?.length ? (
             <section className="content-section">
               <h2>Errori da evitare nella fase iniziale</h2>

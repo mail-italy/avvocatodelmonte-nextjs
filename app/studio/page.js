@@ -70,6 +70,14 @@ export default function StudioPage() {
       <section className="section">
         <div className="container prose-block">
           <p className="lead-card">{service.intro}</p>
+          <p>
+            L’attività professionale è svolta nell’ambito dello{' '}
+            <a href="https://www.delmontestudiolegale.it/" target="_blank" rel="noopener noreferrer">
+              Studio Legale Del Monte
+            </a>
+            , struttura dedicata all’assistenza giudiziale e stragiudiziale in favore di privati,
+            famiglie e imprese.
+          </p>
 
           <div className="cards-grid three service-summary-grid">
             <article className="reason-card reason-card-light">

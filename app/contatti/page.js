@@ -77,6 +77,14 @@ export default function ContattiPage() {
             Non serve inviare tutto: serve inviare ciò che aiuta a capire il problema, i passaggi
             già avvenuti e i documenti realmente decisivi.
           </p>
+          <p>
+            Per una presentazione generale dell’organizzazione professionale è possibile consultare
+            anche il{' '}
+            <a href="https://www.delmontestudiolegale.it/" target="_blank" rel="noopener noreferrer">
+              sito istituzionale dello Studio
+            </a>
+            .
+          </p>
 
           <div className="cards-grid three service-summary-grid">
             <article className="reason-card reason-card-light">
