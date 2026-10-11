@@ -3,6 +3,7 @@ import ConsentMap from './ConsentMap';
 import ContactIcon from './ContactIcon';
 import { siteConfig } from '@/lib/site';
 import CallButton from './CallButton';
+import offices from '@/lib/office-locations.json';
 
 export default function ContactSection({
   title = 'Richiedi una valutazione preliminare',
@@ -20,7 +21,7 @@ export default function ContactSection({
     `${siteConfig.address.street}, ${siteConfig.address.zip} ${siteConfig.address.city}`
   );
   const mapsEmbedUrl = `https://www.google.com/maps?q=${mapsQuery}&output=embed`;
-  const mapsOpenUrl = `https://www.google.com/maps/search/?api=1&query=${mapsQuery}`;
+  const mapsOpenUrl = offices[0].maps;
 
   return (
     <section className="section">
@@ -79,11 +80,9 @@ export default function ContactSection({
                     <ContactIcon type="address" />
                   </span>
                   <div>
-                    <strong>Indirizzo</strong>
-                    <span>
-                      {siteConfig.address.street}, {siteConfig.address.zip}{' '}
-                      {siteConfig.address.city}
-                    </span>
+                    <strong>Sedi a Roma</strong>
+                    {offices.map((office) => <span key={office.id}><a href={office.maps} target="_blank" rel="noopener noreferrer">{office.address}</a></span>)}
+                    <span>Ricevimento su appuntamento in entrambe le sedi.</span>
                   </div>
                 </li>
               ) : null}
@@ -92,7 +91,7 @@ export default function ContactSection({
                   <ContactIcon type="clock" />
                 </span>
                 <div>
-                  <strong>Orari</strong>
+                  <strong>Segreteria telefonica</strong>
                   <span>
                     {siteConfig.hours.days}, {siteConfig.hours.open}–{siteConfig.hours.close}
                   </span>

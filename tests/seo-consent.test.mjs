@@ -36,7 +36,7 @@ test('Open Graph uses the real portrait ratio and a valid fallback', () => {
   assert.equal(fallback.openGraph.images[0].width, 1200);
 });
 test('schema represents person, business and offered service with linked stable IDs', () => {
-  const person = personSchema(), business = legalServiceSchema(), service = serviceSchema(serviceList[0]), article = articleSchema(articles[0]);
+  const person = personSchema(), business = legalServiceSchema(), service = serviceSchema(serviceList[0]), article = articleSchema(articles.find((item) => !item.editorialId));
   assert.equal(person['@type'], 'Person'); assert.equal(business['@type'], 'LegalService'); assert.equal(service['@type'], 'Service');
   assert.equal(person.worksFor['@id'], business['@id']); assert.equal(service.provider['@id'], business['@id']);
   assert.equal(article.author['@id'], person['@id']); assert.equal(article.publisher['@id'], business['@id']);
@@ -47,4 +47,12 @@ test('only known equivalent legacy pages redirect; unknown and unrelated paths r
   assert.equal(findLegacyRedirect('/successioni'), '/successioni-complesse');
   for (const path of ['/service/non-esistente', '/project/non-esistente', '/service/famiglia', '/diritto-civile', '/service/ritiro-patente']) assert.equal(findLegacyRedirect(path), null);
   for (const [source, destination] of legacyRedirectMap) { assert.notEqual(source, destination); assert.equal(legacyRedirectMap.has(destination), false); }
+});
+
+test('reviewed editorial content identifies the firm as author and preserves its specific image', () => {
+  const article = { editorialId: 'avvocato-001', title: 'Test', slug: 'test', category: 'Cassazione civile', image: '/images/editorial/avvocato-001.webp', publishedAt: '2026-10-12', updatedAt: '2026-10-12' };
+  assert.equal(articleSchema(article).author['@type'], 'Organization');
+  const metadata = buildMetadata({ title: article.title, image: article.image, type: 'article' });
+  assert.equal(metadata.openGraph.images[0].url, 'https://avvocatodelmonte.com/images/editorial/avvocato-001.webp');
+  assert.equal(metadata.openGraph.images[0].width, 1200);
 });

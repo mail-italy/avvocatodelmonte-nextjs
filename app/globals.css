@@ -1452,6 +1452,15 @@ p {
   color: var(--text-soft);
 }
 
+.contact-point > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.contact-point > div > span {
+  display: block;
+}
+
 .contact-point-phone .contact-point-icon {
   color: var(--phone);
   background: rgba(50, 93, 152, 0.1);
