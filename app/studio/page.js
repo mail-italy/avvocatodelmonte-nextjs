@@ -63,6 +63,10 @@ export default function StudioPage() {
         <div className="container prose-block">
           <p className="lead-card">{service.intro}</p>
           <p>
+            Lo Studio Legale Del Monte fa riferimento all’Avv. Federica Del Monte e ha sede a Roma,
+            in Via Costanza Baudana Vaccolini, 5.
+          </p>
+          <p>
             L’attività professionale è svolta nell’ambito dello{' '}
             <a href="https://www.delmontestudiolegale.it/" target="_blank" rel="noopener noreferrer">
               Studio Legale Del Monte

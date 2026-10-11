@@ -16,7 +16,7 @@ export default function sitemap() {
   const staticRoutes = [
     { path: '/', lastModified: '2026-05-15', priority: 1, changeFrequency: 'weekly' },
     { path: '/contatti', lastModified: '2026-05-29', priority: 0.9, changeFrequency: 'weekly' },
-    { path: '/studio', lastModified: '2026-05-29', priority: 0.85, changeFrequency: 'monthly' },
+    { path: '/studio', lastModified: '2026-10-12', priority: 0.85, changeFrequency: 'monthly' },
     {
       path: '/approfondimenti',
       lastModified: articles.reduce(
