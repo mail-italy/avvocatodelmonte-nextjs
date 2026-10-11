@@ -291,15 +291,17 @@ p {
 }
 
 .cookie-banner {
-  position: sticky;
-  top: var(--header-height);
-  z-index: 32;
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 100;
+  width: min(42rem, calc(100% - 2rem));
+  max-height: 60vh;
+  overflow-y: auto;
   background: linear-gradient(180deg, rgba(250, 246, 239, 0.98) 0%, rgba(240, 233, 220, 0.96) 100%);
-  border-bottom: 1px solid rgba(183, 154, 103, 0.26);
+  border: 1px solid rgba(183, 154, 103, 0.4);
+  border-radius: 1rem;
   box-shadow: 0 8px 20px rgba(9, 21, 38, 0.08);
-  transform-origin: top;
-  transition: opacity 180ms ease, transform 180ms ease, max-height 220ms ease, margin-bottom 220ms ease;
-  max-height: 5rem;
 }
 
 .cookie-banner-visible {
@@ -307,35 +309,24 @@ p {
   transform: translateY(0);
 }
 
-.cookie-banner-closing {
-  opacity: 0;
-  transform: translateY(-0.4rem);
-  max-height: 0;
-  margin-bottom: -1px;
-  overflow: hidden;
-}
-
 .cookie-banner-inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  min-height: 3.4rem;
-  padding: 0.55rem 0;
+  width: 100%;
+  padding: 0.75rem 0.875rem;
 }
 
 .cookie-banner-text {
   margin: 0;
-  color: rgba(24, 39, 61, 0.86);
-  font-size: 0.84rem;
-  line-height: 1.45;
+  color: #18273d;
+  font-size: 0.875rem;
+  line-height: 1.4;
 }
 
 .cookie-banner-actions {
-  display: inline-flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) 44px;
   align-items: center;
-  gap: 0.55rem;
-  flex-shrink: 0;
+  gap: 0.5rem;
+  margin-top: 0.625rem;
 }
 
 .cookie-banner-button {
@@ -343,11 +334,12 @@ p {
   border: 1px solid rgba(16, 35, 61, 0.18);
   background: rgba(255, 255, 255, 0.62);
   color: var(--primary);
-  min-height: 2.15rem;
-  padding: 0.5rem 0.95rem;
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0.5rem 0.75rem;
   border-radius: 999px;
   font: inherit;
-  font-size: 0.82rem;
+  font-size: 0.875rem;
   font-weight: 700;
   line-height: 1;
   transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease, transform 180ms ease;
@@ -359,16 +351,9 @@ p {
   border-color: rgba(16, 35, 61, 0.28);
 }
 
-.cookie-banner-button.is-primary {
-  background: linear-gradient(180deg, rgba(16, 35, 61, 0.96) 0%, rgba(10, 22, 38, 0.98) 100%);
-  border-color: rgba(183, 154, 103, 0.28);
-  color: #fffaf2;
-}
-
-.cookie-banner-button.is-primary:hover,
-.cookie-banner-button.is-primary:focus-visible {
-  transform: translateY(-1px);
-  background: linear-gradient(180deg, rgba(21, 44, 76, 0.98) 0%, rgba(10, 22, 38, 1) 100%);
+.cookie-banner-close {
+  padding: 0;
+  font-size: 1.5rem;
 }
 
 .header-inner {
@@ -1090,6 +1075,10 @@ p {
   margin-bottom: 1.75rem;
 }
 
+.section-head.with-link {
+  flex-wrap: wrap;
+}
+
 .section-cta-row {
   margin-top: 1.8rem;
 }
@@ -1794,6 +1783,10 @@ p {
   gap: 0.7rem;
 }
 
+.footer-contact-list {
+  overflow-wrap: anywhere;
+}
+
 .site-footer a:hover {
   color: #ffffff;
 }
@@ -2239,34 +2232,6 @@ p {
     width: min(var(--max), calc(100% - 1.2rem));
   }
 
-  .cookie-banner {
-    top: var(--header-height);
-    max-height: 8.2rem;
-  }
-
-  .cookie-banner-inner {
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    gap: 0.7rem;
-    min-height: auto;
-    padding: 0.7rem 0;
-  }
-
-  .cookie-banner-text {
-    font-size: 0.8rem;
-  }
-
-  .cookie-banner-actions {
-    width: 100%;
-  }
-
-  .cookie-banner-button {
-    flex: 1 1 0;
-    justify-content: center;
-    min-width: 0;
-  }
-
   .hero-pill-grid,
   .steps-grid,
   .cards-grid.three,
@@ -2355,9 +2320,11 @@ p {
 }
 
 /* Persistent, global consent controls: no dismissal by scrolling. */
-.cookie-banner { position: fixed; top: auto; bottom: 0; left: 0; right: 0; z-index: 100; max-height: 70vh; overflow-y: auto; }
 .cookie-banner-text a { text-decoration: underline; }
 .cookie-preferences-link { color: inherit; background: none; border: 0; padding: 0; font: inherit; text-decoration: underline; cursor: pointer; }
 .cookie-preferences-link:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
 .contact-map-placeholder { min-height: 16rem; padding: 2rem; display: grid; align-content: center; text-align: center; }
-@media (max-width: 900px) { .cookie-banner { bottom: 4rem; max-height: 65vh; } .cookie-banner-actions { flex-wrap: wrap; } }
+@media (max-width: 900px) {
+  .cookie-banner { right: 0.6rem; bottom: calc(4.8rem + env(safe-area-inset-bottom, 0px)); width: calc(100% - 1.2rem); }
+  .cookie-banner-inner { width: 100%; }
+}

@@ -92,15 +92,14 @@ export default function ConsentManager() {
     <div className="cookie-banner cookie-banner-visible" role="region" aria-label="Preferenze cookie">
       <div className="container cookie-banner-inner">
         <div className="cookie-banner-text">
-          Usiamo strumenti Google di misurazione e pubblicità soltanto con il tuo consenso.
-          Puoi rifiutare e continuare a usare il sito, oppure cambiare scelta da «Preferenze cookie».
-          {' '}<Link href="/privacy">Informazioni sulla privacy</Link>.
+          Statistiche e pubblicità Google solo con il tuo consenso. Puoi navigare senza accettare.
+          {' '}<Link href="/privacy">Privacy</Link>.
           {storageError ? <p role="status">Non è stato possibile salvare la scelta. Il consenso resta negato in questa pagina; se la ricarichi, verifica nuovamente le preferenze.</p> : null}
         </div>
         <div className="cookie-banner-actions">
           <button type="button" className="cookie-banner-button" onClick={() => choose('rejected')}>Rifiuta</button>
-          <button type="button" className="cookie-banner-button is-primary" onClick={() => choose('accepted')}>Accetta</button>
-          {choice ? <button type="button" className="cookie-banner-button" onClick={() => setOpen(false)}>Chiudi</button> : null}
+          <button type="button" className="cookie-banner-button" onClick={() => choose('accepted')}>Accetta</button>
+          <button type="button" className="cookie-banner-button cookie-banner-close" aria-label="Chiudi senza accettare" title="Chiudi senza accettare" onClick={() => choose('rejected')}><span aria-hidden="true">×</span></button>
         </div>
       </div>
     </div>
