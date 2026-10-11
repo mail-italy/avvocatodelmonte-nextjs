@@ -1,4 +1,5 @@
 import ContactForm from './ContactForm';
+import ConsentMap from './ConsentMap';
 import ContactIcon from './ContactIcon';
 import { siteConfig } from '@/lib/site';
 import CallButton from './CallButton';
@@ -137,12 +138,7 @@ export default function ContactSection({
             </p>
           </div>
           <div className="contact-map-frame">
-            <iframe
-              title="Mappa dello studio legale"
-              src={mapsEmbedUrl}
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            />
+            <ConsentMap src={mapsEmbedUrl} />
           </div>
           <div className="contact-map-actions">
             <a

@@ -6,7 +6,6 @@ import ArticleCard from '@/components/ArticleCard';
 import FaqList from '@/components/FaqList';
 import ContactSection from '@/components/ContactSection';
 import CallButton from '@/components/CallButton';
-import HomeCookieBanner from '@/components/HomeCookieBanner';
 import { buildMetadata } from '@/lib/metadata';
 import { breadcrumbSchema, faqSchema, webPageSchema } from '@/lib/schema';
 import { serviceList } from '@/lib/services';
@@ -135,7 +134,6 @@ export default function HomePage() {
 
   return (
     <>
-      <HomeCookieBanner />
       <JsonLd
         data={[
           webPageSchema({
@@ -157,7 +155,7 @@ export default function HomePage() {
             fill
             sizes="100vw"
             className="cover-image"
-            priority
+            preload
           />
         </div>
         <div className="container hero-shell">
@@ -209,7 +207,7 @@ export default function HomePage() {
                   fill
                   sizes="(max-width: 900px) 100vw, 46vw"
                   className={`cover-image ${getImageFocusClass('/images/home/hero-avvocato.webp')}`}
-                  priority
+                  preload
                 />
               </div>
             </div>

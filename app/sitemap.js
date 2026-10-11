@@ -15,8 +15,8 @@ function toSitemapEntry(route) {
 export default function sitemap() {
   const staticRoutes = [
     { path: '/', lastModified: '2026-05-15', priority: 1, changeFrequency: 'weekly' },
-    { path: '/contatti', lastModified: '2026-04-22', priority: 0.9, changeFrequency: 'weekly' },
-    { path: '/studio', lastModified: '2026-04-22', priority: 0.85, changeFrequency: 'monthly' },
+    { path: '/contatti', lastModified: '2026-05-29', priority: 0.9, changeFrequency: 'weekly' },
+    { path: '/studio', lastModified: '2026-05-29', priority: 0.85, changeFrequency: 'monthly' },
     {
       path: '/approfondimenti',
       lastModified: articles.reduce(
@@ -26,7 +26,7 @@ export default function sitemap() {
       priority: 0.8,
       changeFrequency: 'weekly'
     },
-    { path: '/privacy', lastModified: '2026-04-22', priority: 0.4, changeFrequency: 'yearly' }
+    { path: '/privacy', lastModified: '2026-04-23', priority: 0.4, changeFrequency: 'yearly' }
   ];
 
   const practiceRoutes = [...serviceList, ...seoPageList].map((service) => ({

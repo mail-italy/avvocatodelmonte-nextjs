@@ -1,14 +1,12 @@
 
 import './globals.css';
-import { GoogleTagManager } from '@next/third-parties/google';
+import ConsentManager from '@/components/ConsentManager';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import FloatingContact from '@/components/FloatingContact';
 import JsonLd from '@/components/JsonLd';
 import {
-  attorneySchema,
   legalServiceSchema,
-  localBusinessSchema,
   personSchema,
   websiteSchema
 } from '@/lib/schema';
@@ -69,15 +67,15 @@ export default function RootLayout({ children }) {
   return (
     <html lang="it-IT">
       <body>
-        <GoogleTagManager gtmId="GTM-PR5RTFTX" />
         <a className="skip-link" href="#contenuto">Salta al contenuto</a>
         <JsonLd
-          data={[websiteSchema(), personSchema(), attorneySchema(), legalServiceSchema(), localBusinessSchema()]}
+          data={[websiteSchema(), personSchema(), legalServiceSchema()]}
         />
         <Header />
         <main id="contenuto">{children}</main>
         <Footer />
         <FloatingContact />
+        <ConsentManager />
       </body>
     </html>
   );

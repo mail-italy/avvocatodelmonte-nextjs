@@ -72,6 +72,18 @@ export default function PrivacyPage() {
           <section className="content-section">
             <h2>Cookie e riferimenti istituzionali</h2>
             <p>
+              Gli strumenti Google di misurazione e pubblicità sono disattivati prima della scelta
+              e vengono caricati soltanto dopo «Accetta». «Rifiuta» mantiene disattivati questi
+              strumenti. La mappa incorporata segue la stessa scelta; il collegamento esterno
+              a Google Maps resta disponibile.
+            </p>
+            <p>
+              La preferenza è conservata nel browser per 180 giorni e può essere cambiata in
+              qualsiasi momento tramite «Preferenze cookie» nel piè di pagina. La revoca ricarica
+              la pagina per interrompere gli strumenti già caricati e rimuove i cookie di misurazione
+              di prima parte riconoscibili. La revoca non cancella i dati già trasmessi a terzi.
+            </p>
+            <p>
               La gestione dei cookie e degli altri strumenti di tracciamento deve essere sempre letta
               alla luce delle indicazioni dell’Autorità garante. Per un orientamento istituzionale
               aggiornato possono essere consultate le{' '}

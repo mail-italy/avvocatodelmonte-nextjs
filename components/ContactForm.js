@@ -2,6 +2,8 @@
 
 import { useRef, useState } from 'react';
 import { siteConfig } from '@/lib/site';
+import { MAX_FILE_SIZE, FIELD_LIMITS, CONTACT_AREAS } from '@/lib/contact-config.mjs';
+import { readConsent, isTrackingHost } from '@/lib/consent.mjs';
 
 const initialState = {
   nome: '',
@@ -43,11 +45,10 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
       return;
     }
 
-    const maxSize = 10 * 1024 * 1024;
-    if (file.size > maxSize) {
+    if (file.size > MAX_FILE_SIZE) {
       setStatus({
         type: 'error',
-        message: 'L’allegato supera il limite di 10 MB. Riduci il file e riprova.'
+        message: 'L’allegato supera il limite di 4 MB. Riduci il file e riprova.'
       });
       setFileName('');
 
@@ -83,10 +84,13 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
         body: data
       });
 
-      const result = await response.json();
+      const result = await response.json().catch(() => ({ message: response.status === 413 ? 'La richiesta è troppo grande. Riduci l’allegato a un massimo di 4 MB.' : 'Invio non riuscito. Riprova più tardi.' }));
 
       if (!response.ok) {
-        throw new Error(result.message || 'Invio non riuscito.');
+        throw new Error(result?.message || 'Invio non riuscito.');
+      }
+      if (result?.delivered !== true) {
+        throw new Error('Non è stato possibile confermare l’invio. Riprova o contatta lo studio via email o telefono.');
       }
 
       setStatus({
@@ -94,12 +98,11 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
         message:
           'Richiesta inviata correttamente. Il materiale ricevuto potrà essere esaminato per una prima valutazione preliminare.'
       });
-      if (typeof window !== 'undefined' && Array.isArray(window.dataLayer)) {
+      if (readConsent() === 'accepted' && isTrackingHost(window.location.hostname) && Array.isArray(window.dataLayer)) {
         window.dataLayer.push({
           event: 'form_submit',
           form_name: 'contact_form',
-          form_location: trackingLocation,
-          practice_area: String(data.get('area') || '')
+          form_location: trackingLocation
         });
         window.dataLayer.push({
           event: 'generate_lead',
@@ -142,22 +145,22 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
       <div className="form-grid two">
         <label>
           <span>Nome</span>
-          <input name="nome" value={form.nome} onChange={updateField} required />
+          <input name="nome" minLength={FIELD_LIMITS.nome.min} maxLength={FIELD_LIMITS.nome.max} value={form.nome} onChange={updateField} required />
         </label>
         <label>
           <span>Cognome</span>
-          <input name="cognome" value={form.cognome} onChange={updateField} required />
+          <input name="cognome" minLength={FIELD_LIMITS.cognome.min} maxLength={FIELD_LIMITS.cognome.max} value={form.cognome} onChange={updateField} required />
         </label>
       </div>
 
       <div className="form-grid two">
         <label>
           <span>Telefono</span>
-          <input name="telefono" type="tel" value={form.telefono} onChange={updateField} required />
+          <input name="telefono" minLength={FIELD_LIMITS.telefono.min} maxLength={FIELD_LIMITS.telefono.max} type="tel" value={form.telefono} onChange={updateField} required />
         </label>
         <label>
           <span>Email</span>
-          <input name="email" type="email" value={form.email} onChange={updateField} required />
+          <input name="email" minLength={FIELD_LIMITS.email.min} maxLength={FIELD_LIMITS.email.max} type="email" value={form.email} onChange={updateField} required />
         </label>
       </div>
 
@@ -165,15 +168,7 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
         <span>Ambito della richiesta</span>
         <select name="area" value={form.area} onChange={updateField} required>
           <option value="">Seleziona l’area pertinente</option>
-          <option value="Cassazione civile">Cassazione civile</option>
-          <option value="Cassazione penale">Cassazione penale</option>
-          <option value="Responsabilità medica">Responsabilità medica</option>
-          <option value="Risarcimento danni">Risarcimento danni</option>
-          <option value="Incidente stradale grave">Incidente stradale grave</option>
-          <option value="Infortunio sul lavoro">Infortunio sul lavoro</option>
-          <option value="Successioni complesse">Successioni complesse</option>
-          <option value="Mediazione e risoluzione stragiudiziale">Mediazione e risoluzione stragiudiziale</option>
-          <option value="Impugnazione del testamento">Impugnazione del testamento</option>
+          {CONTACT_AREAS.map((area) => <option key={area} value={area}>{area}</option>)}
         </select>
       </label>
 
@@ -181,6 +176,8 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
         <span>Sintesi del caso</span>
         <textarea
           name="messaggio"
+          minLength={FIELD_LIMITS.messaggio.min}
+          maxLength={FIELD_LIMITS.messaggio.max}
           rows={compact ? 4 : 6}
           value={form.messaggio}
           onChange={updateField}
@@ -201,7 +198,7 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
         <small>
           {fileName
             ? `File selezionato: ${fileName}`
-            : 'Formati accettati: PDF, DOC, DOCX, JPG, PNG, WEBP. Meglio pochi documenti essenziali e pertinenti che materiali eccessivi o non rilevanti.'}
+            : 'Un file fino a 4 MB. Formati accettati: PDF, DOC, DOCX, JPG, PNG, WEBP. Meglio pochi documenti essenziali e pertinenti che materiali eccessivi o non rilevanti.'}
         </small>
       </label>
 
@@ -216,7 +213,7 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
         />
       </label>
 
-      {status.message ? <div className={`form-status ${status.type}`}>{status.message}</div> : null}
+      {status.message ? <div className={`form-status ${status.type}`} role="status">{status.message}</div> : null}
 
       <div className="form-actions">
         <button

@@ -7,8 +7,6 @@ import {
   breadcrumbSchema,
   contactPageSchema,
   faqSchema,
-  legalServiceSchema,
-  localBusinessSchema
 } from '@/lib/schema';
 
 const faqs = [
@@ -48,8 +46,6 @@ export default function ContattiPage() {
       <JsonLd
         data={[
           contactPageSchema(),
-          legalServiceSchema(),
-          localBusinessSchema(),
           breadcrumbSchema([
             { name: 'Home', item: '/' },
             { name: 'Contatti', item: '/contatti' }

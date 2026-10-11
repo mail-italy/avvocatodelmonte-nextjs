@@ -1,3 +1,5 @@
+import { fileURLToPath } from 'node:url';
+
 const securityHeaders = [
   {
     key: 'X-Frame-Options',
@@ -26,7 +28,7 @@ const securityHeaders = [
       "img-src 'self' data: blob: https: https://www.google-analytics.com https://www.googletagmanager.com",
       "font-src 'self' data:",
       "style-src 'self' 'unsafe-inline'",
-      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com",
+      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://www.googleadservices.com https://www.google.com",
       "connect-src 'self' https: https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com",
       "frame-src 'self' https://www.google.com https://maps.google.com https://www.google.it https://www.googletagmanager.com",
       'upgrade-insecure-requests'
@@ -35,6 +37,7 @@ const securityHeaders = [
 ];
 
 const nextConfig = {
+  turbopack: { root: fileURLToPath(new URL('.', import.meta.url)) },
   trailingSlash: false,
   skipTrailingSlashRedirect: true,
   async headers() {

@@ -42,6 +42,7 @@ export default function PageHero({ eyebrow, title, description, image, imageAlt,
                 src={image}
                 alt={imageAlt}
                 fill
+                preload
                 sizes="(max-width: 900px) 100vw, 42vw"
                 className={`cover-image ${getImageFocusClass(image)}`}
               />

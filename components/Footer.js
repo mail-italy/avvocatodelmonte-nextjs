@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { CookiePreferencesButton } from './ConsentManager';
 import Link from 'next/link';
 import { footerLinks, siteConfig } from '@/lib/site';
 
@@ -65,6 +66,7 @@ export default function Footer() {
         <p>© {new Date().getFullYear()} {siteConfig.name}. Tutti i diritti riservati.</p>
         <div className="footer-bottom-links">
           <Link href="/privacy">Privacy</Link>
+          <CookiePreferencesButton />
           <Link href="/contatti">Contatti</Link>
         </div>
       </div>

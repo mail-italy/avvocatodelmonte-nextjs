@@ -1850,7 +1850,7 @@ p {
 }
 
 .floating-whatsapp {
-  background: #25d366;
+  background: #087f3c;
 }
 
 .mobile-sticky {
@@ -1890,7 +1890,7 @@ p {
 
 .mobile-sticky-link.whatsapp {
   color: #fff;
-  background: #25d366;
+  background: #087f3c;
 }
 
 .mobile-sticky-link.email {
@@ -2353,3 +2353,11 @@ p {
     padding-bottom: 4.8rem;
   }
 }
+
+/* Persistent, global consent controls: no dismissal by scrolling. */
+.cookie-banner { position: fixed; top: auto; bottom: 0; left: 0; right: 0; z-index: 100; max-height: 70vh; overflow-y: auto; }
+.cookie-banner-text a { text-decoration: underline; }
+.cookie-preferences-link { color: inherit; background: none; border: 0; padding: 0; font: inherit; text-decoration: underline; cursor: pointer; }
+.cookie-preferences-link:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+.contact-map-placeholder { min-height: 16rem; padding: 2rem; display: grid; align-content: center; text-align: center; }
+@media (max-width: 900px) { .cookie-banner { bottom: 4rem; max-height: 65vh; } .cookie-banner-actions { flex-wrap: wrap; } }
