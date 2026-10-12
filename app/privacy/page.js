@@ -123,8 +123,18 @@ export default function PrivacyPage() {
             <p>
               Gli strumenti Google di misurazione e pubblicità sono disattivati prima della scelta
               e vengono caricati soltanto dopo «Accetta». «Rifiuta» mantiene disattivati questi
-              strumenti. La mappa incorporata segue la stessa scelta; il collegamento esterno
-              a Google Maps resta disponibile.
+              strumenti. Questa scelta riguarda gli strumenti di misurazione e pubblicità del sito.
+            </p>
+            <p>
+              La mappa Google Maps incorporata si carica automaticamente quando la relativa
+              sezione si avvicina all’area visibile della pagina, indipendentemente dalla scelta
+              sugli strumenti di misurazione e pubblicità. Il caricamento comporta una connessione
+              ai servizi Google, che ricevono l’indirizzo IP e altri dati tecnici del browser
+              e possono utilizzare propri cookie. Per informazioni sul trattamento da parte
+              di Google consulta la{' '}
+              <a href="https://policies.google.com/privacy?hl=it" target="_blank" rel="noopener noreferrer">
+                Privacy Policy di Google
+              </a>. Il collegamento esterno per aprire la mappa su Google Maps resta disponibile.
             </p>
             <p>
               Il sito considera valida la preferenza per 180 giorni; il dato nella memoria
