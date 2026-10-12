@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-009",
+    "site": "avvocato",
+    "sequence": 9,
+    "area": "Cassazione civile",
+    "slug": "documenti-nuovi-in-cassazione-civile-perche-l-archivio-non-puo-essere-integrato-liberamente",
+    "title": "Documenti nuovi in Cassazione civile: perché l'archivio non può essere integrato liberamente",
+    "intent": "Capire i limiti alla produzione e recuperare gli atti già prodotti",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 16,
+    "status": "approved",
+    "seoTitle": "Documenti nuovi in Cassazione civile: perché l'archivio non può essere integrato liberamente",
+    "description": "Documenti nuovi in Cassazione civile: i limiti della produzione e il lavoro per ritrovare quelli già presenti nei precedenti gradi.",
+    "bodyMarkdown": "Dopo una sentenza sfavorevole viene ritrovata un'email che sembra decisiva. La tentazione è allegarla al ricorso per Cassazione per dimostrare che i fatti erano diversi. Ma il giudizio di legittimità non è una riapertura generale dell'istruttoria: prima di programmare la produzione bisogna verificare se il documento possa entrare in quella sede.\n\n## Il limite normativo\n\nIl [Codice di procedura civile — art. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art372) regola la produzione di altri documenti e pone limiti al deposito di atti non prodotti nei precedenti gradi, prevedendo specifiche eccezioni. Il fatto che un documento sia utile o sia stato ritrovato soltanto adesso non basta a farlo rientrare automaticamente in tali eccezioni.\n\nÈ quindi necessario distinguere un documento veramente nuovo da uno già depositato ma non presente nell'archivio consegnato al cassazionista. Nel secondo caso, il problema può essere di recupero e localizzazione; nel primo, riguarda l'ammissibilità della produzione e l'eventuale esistenza di un diverso rimedio. Le due verifiche richiedono percorsi differenti.\n\n## Ricostruire dove il documento è stato prodotto\n\nPer un contratto, una perizia o una comunicazione già utilizzata in causa si cercano il numero di allegato, l'atto di deposito e la fase processuale. Il nome del file sul computer del cliente non prova che quel file sia entrato nel processo. Anche una copia inviata al precedente difensore potrebbe non essere stata formalmente prodotta.\n\nLa disciplina del contenuto del ricorso, nel [Codice di procedura civile — art. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366), richiede riferimenti specifici agli atti e documenti sui quali si fondano i motivi. Un indice ordinato deve quindi collegare il file alla sua collocazione processuale. Sono utili copie leggibili e complete, senza sostituire l'originale con ritagli che eliminino data, intestazione o allegati.\n\n## Evitare integrazioni nascoste\n\nUna nuova relazione tecnica che commenta documenti antichi non diventa, per questo solo, un documento già acquisito. Lo stesso vale per un riepilogo che introduce fatti mai allegati. Il difensore deve poter distinguere materiale probatorio originario, elaborazioni successive e annotazioni del cliente.\n\nPer rendere chiaro il fascicolo si possono creare cartelle separate: atti prodotti, documenti personali non prodotti, note di lettura. Questa è un'organizzazione pratica, non una qualificazione legale definitiva. Consente però di evitare che una bozza di lavoro venga presentata come se avesse già fatto parte dell'istruttoria.\n\n## Che cosa fare con un ritrovamento importante\n\nIl documento va conservato integralmente, con le informazioni sulla provenienza e sul momento del ritrovamento, e mostrato subito al professionista. Non deve essere modificato per adattarlo alla versione dei fatti. Se si tratta di un file digitale, è utile mantenere il formato originario e gli eventuali messaggi di trasmissione.\n\nLa valutazione riguarda contenuto, autenticità, rilevanza e rimedio utilizzabile. La Cassazione potrebbe non essere la sede appropriata; questo non autorizza a presumere che esista sempre un'alternativa. Anche gli altri strumenti hanno presupposti, termini e limiti propri, da verificare senza aspettative automatiche.\n\n## Il fascicolo utile al ricorso\n\nIl lavoro più efficace spesso consiste nel rendere accessibile ciò che il processo contiene già. Una censura può dipendere da un passaggio di un documento regolarmente prodotto ma citato in modo impreciso. Recuperare l'intero allegato e il suo deposito permette di verificare il motivo prima della redazione.\n\nIl cliente contribuisce segnalando che cosa possiede, che cosa ha consegnato in passato e che cosa è stato trovato dopo. Il cassazionista valuta la utilizzabilità e costruisce il rapporto con la decisione impugnata: la forza apparente di un documento non sostituisce questa verifica.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Un documento scoperto dopo la sentenza si può sempre depositare?",
+        "answer": "No. La produzione in Cassazione è soggetta ai limiti dell’articolo 372 e alle relative eccezioni."
+      },
+      {
+        "question": "Un file inviato al vecchio difensore è sicuramente agli atti?",
+        "answer": "No. Occorre controllare se sia stato prodotto, quando e con quale numero o atto di deposito."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art372",
+        "title": "Codice di procedura civile — art. 372",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 372. (Produzione di altri documenti). Non è ammesso il deposito di atti e documenti non prodotti nei precedenti gradi del processo, tranne di quelli che riguardano la nullità della sentenza impugnata e l'ammissibilità del ricorso e del controricorso. Il deposito dei documenti relativi all'ammissibilità può avvenire indipendentemente da quello del ricorso e del controricorso, fino a quindici giorni prima dell'udienza o dell'adunanza in camera di consiglio. (171) 173 -----------"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366",
+        "title": "Codice di procedura civile — art. 366",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 366. (Contenuto del ricorso). Il ricorso deve contenere, a pena di inammissibilità: 1) l'indicazione delle parti; 2) l'indicazione della sentenza o decisione impugnata; 3) la chiara esposizione dei fatti della causa essenziali alla illustrazione dei motivi di ricorso; (171) (173) 4) la chiara e sintetica esposizione dei motivi per i quali si chiede la cassazione, con l'indicazione delle norme di diritto su cui si fondano; (171) (173) 5) l'indicazione della procura, se conferita con atto separato e, nel caso di ammissione al gratuito patrocinio, del relativo decreto. 6) la […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Un archivio con cartelle già ordinate e una nuova busta separata, inquadratura dall’alto che suggerisce la distinzione tra documenti acquisiti e nuovi. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Un archivio con cartelle già ordinate e una nuova busta separata, inquadratura dall’alto che suggerisce la distinzione tra documenti acquisiti e nuovi",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-009.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "d46dc330796260612207a4d85cc2c58593724ba931558d463812a25f78bfa4e3",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 647,
+    "contentHash": "5d0fce37fbefd100e5d73afe8078fe40d46c579c3f908e8bcc6517545cf4b521",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-17",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "40315ff2c099555ce6ca21532fc47bfd472724d0f13fc242ec6022152f3cf6c2",
+    "sha256": "4ee87696a0c0cb882c402926af19fb62c72a2ef803d8d178874bce98c1922d4a"
+  }
+}

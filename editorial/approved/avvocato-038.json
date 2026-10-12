@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-038",
+    "site": "avvocato",
+    "sequence": 38,
+    "area": "Cassazione penale",
+    "slug": "sentenza-penale-notificata-che-cosa-consegnare-subito-al-cassazionista",
+    "title": "Sentenza penale notificata: che cosa consegnare subito al cassazionista",
+    "intent": "Costruire il pacchetto decisione, deposito, notifiche e mandato",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 74,
+    "status": "approved",
+    "seoTitle": "Sentenza penale notificata: che cosa consegnare subito al cassazionista",
+    "description": "Sentenza penale ricevuta: quali documenti consegnare per verificare tempestivamente termini, mandato e possibilità di ricorso.",
+    "bodyMarkdown": "La famiglia riceve la notizia del deposito della sentenza e cerca un cassazionista. Il primo invio deve consentire di identificare la decisione e le date rilevanti, senza attendere di possedere ogni pagina del fascicolo. Un materiale essenziale ma completo nei suoi riferimenti è più utile di molti file privi di ordine.\n\n## La decisione integrale\n\nSi inviano dispositivo e motivazione, mantenendo l'indicazione del giudice, della data e delle parti. Se si dispone soltanto del dispositivo o di un avviso, lo si chiarisce espressamente. Non bisogna presentare come sentenza completa un estratto ottenuto attraverso una fotografia o una trascrizione informale.\n\nIl [Codice di procedura penale — art. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art585) disciplina i termini per impugnare in relazione alle situazioni previste. Il loro controllo richiede la lettura degli atti e delle comunicazioni pertinenti. Il giorno in cui il cliente apprende la notizia non è un riferimento sufficiente per calcolare da solo la scadenza.\n\n## Notifiche, avvisi e deposito\n\nSi conservano gli avvisi ricevuti, le modalità di consegna e gli eventuali messaggi del precedente difensore. Nell'indice si distingue la data del documento da quella della comunicazione. Se vi sono persone diverse che hanno ricevuto atti, ogni passaggio va descritto separatamente.\n\nLa richiesta al professionista dovrebbe evidenziare subito eventuali urgenze note, lasciando visibili i dati ancora da verificare. È preferibile scrivere “questa è la data indicata nell'avviso allegato” invece di attribuire alla comunicazione un effetto giuridico non ancora controllato.\n\n## Il fascicolo dei gradi precedenti\n\nPer leggere i motivi servono normalmente le decisioni precedenti, l'appello, i verbali e i documenti collegati ai punti contestati. La sentenza finale può richiamare altri atti: il nuovo difensore deve poterli recuperare. Un elenco dei documenti mancanti aiuta a organizzare la richiesta al precedente professionista.\n\nIl cliente può aggiungere una sintesi della vicenda, ma deve distinguere ricordi e atti. Sono utili le domande concrete: quale passaggio non si comprende, quale prova si ritiene rappresentata in modo errato e quale risultato si vorrebbe ottenere. La qualificazione del motivo spetta al cassazionista.\n\n## Mandato e soggetto che può proporre il ricorso\n\nIl [Codice di procedura penale — art. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art613) disciplina la difesa nel giudizio di Cassazione; il [Codice di procedura penale — art. 581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art581) contiene requisiti dell'impugnazione e previsioni specifiche. Il mandato deve essere verificato rispetto alla posizione dell'interessato e alla situazione processuale. Non si deve assumere che ogni firma raccolta in precedenza sia sufficiente per qualsiasi atto successivo.\n\nQuando il contatto è tenuto da un familiare, è importante chiarire chi sia assistito e come debba essere conferito l'incarico. La collaborazione della famiglia può agevolare il recupero documentale, ma non sostituisce automaticamente i poteri e le manifestazioni di volontà richiesti.\n\n## Una consegna controllabile\n\nI file si organizzano per tipologia e data, mantenendo copie integre. I verbali con pagine mancanti vengono segnalati. I documenti sanitari o personali non pertinenti non vanno diffusi indiscriminatamente: si concorda con il professionista che cosa serva e con quale canale trasmetterlo.\n\nIl primo risultato da ottenere è chiaro: conferma dei documenti ricevuti, scadenza verificata, materiale ancora necessario e ambito dell'incarico. Solo dopo l'esame si potrà valutare la sostenibilità del ricorso. La tempestività consiste nel rendere possibile questo controllo, non nel chiedere una promessa di esito prima della lettura degli atti.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Aspetto il fascicolo completo prima di contattare il cassazionista?",
+        "answer": "No, se una decisione o una notifica è già disponibile. Si trasmettono subito gli atti essenziali e si completa il materiale in modo coordinato."
+      },
+      {
+        "question": "Un familiare può gestire ogni adempimento al posto dell’interessato?",
+        "answer": "Può aiutare nella raccolta, ma mandato e poteri devono essere verificati rispetto alla posizione processuale e all’atto da compiere."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art585",
+        "title": "Codice di procedura penale — art. 585",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 585 Termini per l'impugnazione 1. Il termine per proporre impugnazione, per ciascuna delle parti, è: a) di quindici giorni, per i provvedimenti emessi in seguito a procedimento in camera di consiglio e nel caso previsto dall'articolo 544 comma 1; b) di trenta giorni, nel caso previsto dall'articolo 544 comma 2; c) di quarantacinque giorni, nel caso previsto dall'articolo 544 comma 3. 1-bis. I termini previsti dal comma 1 sono aumentati di quindici giorni per l'impugnazione del difensore dell'imputato giudicato in assenza. 290 2. I termini previsti dal comma 1 […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art613",
+        "title": "Codice di procedura penale — art. 613",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 613 Difensori 1. ... l'atto di ricorso, le memorie e i motivi nuovi devono essere sottoscritti, a pena di inammissibilità, da difensori iscritti nell'albo speciale della corte di cassazione. Davanti alla corte medesima le parti sono rappresentate dai difensori. 2. Per tutti gli atti che si compiono nel procedimento davanti alla corte, il domicilio delle parti è presso i rispettivi difensori, salvo quanto previsto dal comma 4. Il difensore è nominato per la proposizione del ricorso o successivamente; in mancanza di nomina il difensore è quello che ha assistito […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art581",
+        "title": "Codice di procedura penale — art. 581",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 581 (Forma dell'impugnazione) 1. L'impugnazione si propone con atto scritto nel quale sono indicati il provvedimento impugnato, la data del medesimo e il giudice che lo ha emesso, con l'enunciazione specifica, a pena di inammissibilità: a) dei capi o dei punti della decisione ai quali si riferisce l'impugnazione; b) delle prove delle quali si deduce l'inesistenza, l'omessa assunzione o l'omessa o erronea valutazione; c) delle richieste, anche istruttorie; d) dei motivi, con l'indicazione delle ragioni di diritto e degli elementi di fatto che sorreggono ogni richiesta. 1-bis. L'appello è […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una cartella pronta per la consegna con documenti ordinati e un telefono neutro spento accanto, mani anonime, nessun testo o nome leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una cartella pronta per la consegna con documenti ordinati e un telefono neutro spento accanto, mani anonime, nessun testo o nome leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-038.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "d55a580e15b1918ef2ee70827422fc2a72f24283e22e23a83c2972a497ab71f0",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 627,
+    "contentHash": "267f8e5c85c0ddbe4514cc68a113c8b06ea8a70651eee495d8066254b1a0370a",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-27",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "65e5ef2800fc48320a47c67d6dbf94feb1e22fbaffed7db044eac57fac6d8715",
+    "sha256": "12dd59f9fe79e8841e6f35251e05ed0c69dd03f6514fe93f624a486e0e9c2136"
+  }
+}

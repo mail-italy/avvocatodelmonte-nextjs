@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-069",
+    "site": "avvocato",
+    "sequence": 69,
+    "area": "Risarcimento danni",
+    "slug": "offerte-risarcitorie-diverse-confrontare-le-voci-prima-del-totale",
+    "title": "Offerte risarcitorie diverse: confrontare le voci prima del totale",
+    "intent": "Leggere criteri e componenti per un confronto effettivo",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 136,
+    "status": "approved",
+    "seoTitle": "Offerte risarcitorie diverse: confrontare le voci prima del totale",
+    "description": "Come confrontare proposte di risarcimento verificando componenti, presupposti e condizioni di chiusura della controversia.",
+    "bodyMarkdown": "Due offerte risarcitorie non si confrontano soltanto guardando il totale. Una può comprendere spese e compensi, un'altra soltanto il danno personale; una può essere parziale, l'altra richiedere una rinuncia definitiva. Il confronto utile ricostruisce prima che cosa ciascuna proposta intenda pagare e chiudere.\n\n## Portare le proposte sullo stesso piano\n\nSi prepara una tabella con soggetto offerente, evento, destinatario, voci comprese e condizioni. Se una componente non è indicata, si annota che il dato manca invece di attribuirle un valore ipotetico. La trasparenza delle informazioni conta più della precisione apparente del totale.\n\nLe somme già versate devono essere indicate separatamente. Una proposta potrebbe includerle nel totale oppure aggiungersi ad esse. Anche rivalutazione, interessi, spese e oneri devono essere letti nel testo concreto: non si presume che siano inclusi o esclusi soltanto perché una cifra sembra elevata.\n\n## Confrontare le basi mediche\n\nLe valutazioni possono differire per periodo di limitazione, postumi, condizioni precedenti o conseguenze considerate. Il consulente deve identificare queste differenze prima di discutere il valore economico. Se le basi cliniche non coincidono, lo scarto tra offerte potrebbe dipendere da una questione tecnica precisa.\n\nÈ utile distinguere fatti condivisi e punti contestati. Una divergenza su una singola menomazione non rende automaticamente inattendibile l'intera proposta, ma deve essere compresa. La relazione di parte dovrebbe spiegare perché una valutazione alternativa sia preferibile e quali documenti la sostengano.\n\n## Controllare le componenti patrimoniali\n\nPer spese e mancati guadagni si verificano documenti, collegamento con l'evento e criteri utilizzati. Il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) distingue perdita e mancato guadagno; il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) richiama i criteri applicabili al fatto illecito. Una voce rifiutata dovrebbe essere discussa sulla sua base concreta, non soltanto sul desiderio di raggiungere un totale maggiore.\n\nLe spese future richiedono attenzione alle ipotesi di durata e necessità. Due stime possono utilizzare piani assistenziali diversi. Prima di confrontare le cifre, bisogna capire quale bisogno venga effettivamente coperto e quali costi siano rimasti fuori.\n\n## Leggere le condizioni della rinuncia\n\nIl [Codice civile — art. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965) disciplina la transazione, che può comporre una lite attraverso reciproche concessioni. La proposta più alta potrebbe avere un perimetro di rinuncia più ampio. Vanno controllati soggetti liberati, pretese future, altre vicende e obblighi collegati.\n\nSe l'offerta riguarda più persone, la ripartizione deve essere chiara. Una somma globale non permette necessariamente a ciascun danneggiato di capire quale posizione venga definita. Chi firma deve avere i poteri necessari e comprendere gli effetti dell'accordo rispetto ai propri diritti.\n\n## Valutare la decisione complessiva\n\nIl confronto finale comprende sostenibilità della richiesta, qualità delle prove, costi e incertezze del percorso successivo. Non è una formula matematica e non consente promesse di risultato. È però possibile rendere esplicite le ragioni per accettare, chiedere chiarimenti o formulare una controproposta.\n\nUna sintesi scritta dovrebbe indicare differenze sostanziali, documenti mancanti e questioni da risolvere prima della firma. Se il quadro sanitario cambia, il confronto va aggiornato. La proposta migliore per il caso concreto è quella il cui significato economico e giuridico sia compreso, non semplicemente quella con il numero più grande in evidenza.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "L’offerta più alta è sempre la più conveniente?",
+        "answer": "Non necessariamente. Occorre confrontare voci comprese, somme già ricevute, condizioni e ampiezza delle rinunce."
+      },
+      {
+        "question": "Posso chiedere chiarimenti sulle basi della proposta?",
+        "answer": "Sì. Chiarire valutazione medica e componenti economiche permette un confronto più attendibile."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965",
+        "title": "Codice civile — art. 1965",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1965. (Nozione). La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due prospetti anonimi affiancati con colonne visive senza caratteri leggibili, una lente e una penna, composizione sobria dall’alto. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due prospetti anonimi affiancati con colonne visive senza caratteri leggibili, una lente e una penna, composizione sobria dall’alto",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-069.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "5900acdfdbb10e2e997b4bc9a56f6cde0ff8b0089eb0cb21af9e12a2178b5bc4",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 580,
+    "contentHash": "365e8e0a74b64afd93b70a327303ffe008ef1076ed519aabeef8e297a2ec7b2f",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-29",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "edc20d576fcc71a66b6cc76a8db2f44b6b687e29a5b6176e2436c9e40d5ce538",
+    "sha256": "5ee9d9b362d66ce88085198a62f55ac6ae214009571e8fb0f36c70d23d5d2660"
+  }
+}

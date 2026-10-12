@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-013",
+    "site": "avvocato",
+    "sequence": 13,
+    "area": "Cassazione civile",
+    "slug": "interpretazione-del-contratto-in-cassazione-quali-errori-si-possono-denunciare",
+    "title": "Interpretazione del contratto in Cassazione: quali errori si possono denunciare",
+    "intent": "Distinguere dissenso interpretativo e violazione dei criteri legali",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 24,
+    "status": "approved",
+    "seoTitle": "Interpretazione del contratto in Cassazione: quali errori si possono denunciare",
+    "description": "Contratto interpretato in modo sfavorevole: come distinguere il dissenso sulla clausola da un errore nei criteri giuridici di interpretazione.",
+    "bodyMarkdown": "Il giudice legge una clausola in un modo che una parte non condivide. Per valutare la Cassazione non basta proporre una lettura alternativa, anche se appare plausibile. Occorre individuare il criterio giuridico che si assume violato e spiegare come l'errore abbia inciso sulla decisione.\n\n## Partire dal contratto completo\n\nLa singola frase deve essere letta nel documento intero. Allegati, definizioni, clausole collegate e successive pattuizioni possono modificarne il significato. È quindi necessario consegnare una copia completa del contratto prodotto in causa, indicando dove si trovi nel fascicolo e quali altri atti siano stati utilizzati per interpretarlo.\n\nGli articoli [Codice civile — art. 1362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1362) e [Codice civile — art. 1363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1363) regolano aspetti centrali dell'interpretazione contrattuale, fra cui l'indagine sulla comune intenzione e la lettura delle clausole nel loro insieme. Il ricorso deve confrontarsi con il modo in cui la sentenza ha applicato questi criteri, evitando di limitarsi alla formula “il contratto dice altro”.\n\n## Ricostruire il criterio effettivamente usato\n\nSi cerca il passaggio nel quale il giudice spiega perché attribuisca un certo significato alla clausola. Ha esaminato il testo complessivo? Ha utilizzato comportamenti delle parti? Ha considerato un elemento decisivo per la sua lettura? Queste domande orientano il confronto, senza trasformarlo in un nuovo esame libero delle prove.\n\nUna tabella può affiancare clausola, interpretazione accolta, criterio richiamato e critica. La distinzione serve a vedere se il problema riguardi la regola giuridica oppure la preferenza per una ricostruzione dei fatti. Il controllo dei motivi consentiti resta ancorato al [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360).\n\n## Non sostituire il fascicolo con una versione aggiornata\n\nUn contratto ricostruito in Word, una copia priva degli allegati o una bozza non firmata possono creare confusione. Bisogna identificare il documento effettivamente prodotto e la sua provenienza. Se esistono più versioni, il difensore deve sapere quale sia stata considerata dal giudice e perché.\n\nAnche la corrispondenza successiva richiede ordine: data, mittente, destinatario, completezza della conversazione e collocazione processuale. Non è sufficiente selezionare il messaggio più favorevole eliminando ciò che lo precede. La sua utilizzabilità in Cassazione deve comunque essere verificata, soprattutto se non era stato prodotto nei gradi precedenti.\n\n## Un esempio di confronto utile\n\nUna clausola viene interpretata isolatamente, mentre un'altra parte del contratto contiene una definizione che potrebbe incidere sul suo significato. Il lavoro preparatorio consiste nell'indicare entrambe, spiegare il collegamento e verificare come la sentenza le abbia trattate. Non si può concludere automaticamente che il ricorso sarà accolto: occorre valutare rilevanza, motivo e contenuto complessivo della decisione.\n\nAl contrario, se il giudice ha esaminato i criteri e scelto fra letture possibili, la censura deve superare il semplice dissenso. Un ricorso che ripete la propria interpretazione senza individuare un errore riconducibile ai motivi ammessi rischia di non raggiungere il punto giuridico necessario.\n\n## Che cosa deve chiarire il primo esame\n\nIl parere preliminare dovrebbe distinguere la forza della tesi contrattuale dalla sua spendibilità in Cassazione. Una lettura convincente in una trattativa non è per ciò solo una censura ammissibile contro la sentenza. Si valuta anche quale risultato pratico seguirebbe alla correzione dell'errore e se altre ragioni della decisione resterebbero in piedi.\n\nIl cliente aiuta fornendo il testo completo, la storia delle versioni e gli atti del processo. Il cassazionista traduce il problema nella domanda corretta: quale regola interpretativa è stata violata e perché la violazione può cambiare la decisione.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una diversa lettura della clausola basta per ricorrere?",
+        "answer": "No. Occorre valutare un errore censurabile nei criteri giuridici o negli altri motivi consentiti."
+      },
+      {
+        "question": "Serve tutto il contratto?",
+        "answer": "Sì, la clausola va letta nel contesto, mantenendo anche allegati e documenti collegati effettivamente rilevanti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1362",
+        "title": "Codice civile — art. 1362",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1362. (Intenzione dei contraenti). Nell'interpretare il contratto si deve indagare quale sia stata la comune intenzione delle parti e non limitarsi al senso letterale delle parole. Per determinare la comune intenzione delle parti, si deve valutare il loro comportamento complessivo anche posteriore alla conclusione del contratto."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1363",
+        "title": "Codice civile — art. 1363",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1363. (Interpretazione complessiva delle clausole). Le clausole del contratto si interpretano le une per mezzo delle altre, attribuendo a ciascuna il senso che risulta dal complesso dell'atto."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Un contratto aperto con due pagine affiancate e sottili segnalibri coordinati, una lente tra le pagine, nessun testo leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Un contratto aperto con due pagine affiancate e sottili segnalibri coordinati, una lente tra le pagine, nessun testo leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-013.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "40047e66413e224096fb1866b222f8093fe990f55499edfdc00896a405f6ccd1",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 624,
+    "contentHash": "31c3bd3f79493044c855f369ea77abce9c4d1f93ed536f67b3ed3fe4c10aab88",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-18",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "0373e13e4e9eef6133f57d9107bcee2009884b8cb513bf3f24215908afa0a046",
+    "sha256": "4917590428bad232b22cef1f08ae1d8ac3784f3fca485090c39f531f2ccaa176"
+  }
+}

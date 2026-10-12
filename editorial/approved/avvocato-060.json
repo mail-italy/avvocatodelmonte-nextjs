@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-060",
+    "site": "avvocato",
+    "sequence": 60,
+    "area": "Responsabilità medica",
+    "slug": "linee-guida-nella-responsabilita-sanitaria-verificare-pertinenza-e-data",
+    "title": "Linee guida nella responsabilità sanitaria: verificare pertinenza e data",
+    "intent": "Collocare raccomandazioni e specificità cliniche nell'esame del caso",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 118,
+    "status": "approved",
+    "seoTitle": "Linee guida nella responsabilità sanitaria: verificare pertinenza e data",
+    "description": "Come verificare data, fonte e pertinenza delle linee guida richiamate in una controversia sanitaria.",
+    "bodyMarkdown": "Una linea guida può contribuire a valutare una condotta sanitaria, ma il suo titolo non risolve il caso. Occorre verificare quale documento fosse pertinente, in quale versione, a quale situazione clinica e con quali limiti. La domanda è come la raccomandazione si rapporti al paziente concreto.\n\n## Identificare la fonte esatta\n\nLa citazione dovrebbe permettere di ritrovare documento, versione, data e raccomandazione richiamata. Un riassunto divulgativo o una pagina commerciale non equivalgono alla fonte tecnica. Se il consulente utilizza un aggiornamento successivo, deve chiarire quale rilievo attribuisca a quella data rispetto ai fatti.\n\nLa [Legge 24/2017 — art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5) richiama le linee guida definite e pubblicate secondo il sistema previsto dalla legge e, in mancanza, le buone pratiche clinico-assistenziali. È quindi necessario distinguere categorie e provenienza dei documenti, evitando di presentare qualunque protocollo come se avesse automaticamente la stessa funzione.\n\n## Controllare la pertinenza clinica\n\nLa raccomandazione può riguardare pazienti con caratteristiche differenti, un diverso stadio di malattia o risorse non pertinenti al contesto. Il consulente deve spiegare perché il documento sia applicabile alla situazione esaminata e quali elementi richiedano adattamenti.\n\nUna tabella di confronto può riportare condizioni previste dalla raccomandazione e dati effettivi del paziente. L'assenza di un requisito importante non va nascosta. La valutazione deve considerare anche controindicazioni, condizioni concomitanti e informazioni disponibili al momento della decisione, senza giudicare tutto soltanto attraverso l'esito successivo.\n\n## Distinguere raccomandazione e automatismo\n\nIl riferimento alla specificità del caso, contenuto nella [Legge 24/2017 — art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5), impedisce una lettura puramente meccanica. Seguire una raccomandazione non dimostra da solo la correttezza di ogni attività; discostarsene non prova automaticamente una colpa. Occorre esaminare le ragioni cliniche e la loro documentazione.\n\nIl [Codice penale — art. 590sexies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art590sexies) disciplina un particolare profilo della responsabilità penale sanitaria. La norma non dovrebbe essere riassunta come un'esenzione generale per chi menzioni una linea guida. Il rapporto tra imperizia, raccomandazioni adeguate e condotta concreta richiede un'analisi giuridica e specialistica.\n\n## Verificare che cosa è scritto nella cartella\n\nLa documentazione può mostrare valutazioni, alternative considerate e motivi di una scelta. Se il ragionamento non è esplicitato, non è corretto inventarlo a posteriori. Si possono cercare riscontri, ma deve restare chiaro quali siano dati documentati e quali ricostruzioni del consulente.\n\nAnche il richiamo generico a un protocollo interno richiede approfondimento: versione, contenuto, adozione e rapporto con le fonti pertinenti. La sola esistenza del protocollo non dimostra che sia stato applicato, né che la sua applicazione fosse sufficiente nel caso specifico.\n\n## Presentare il confronto in modo verificabile\n\nUna relazione utile indica il passaggio tecnico richiamato, spiega il collegamento con la condotta e valuta le obiezioni plausibili. Non serve accumulare documenti se nessuno affronta la domanda decisiva. Le fonti devono sostenere il ragionamento, non decorarlo.\n\nPer la responsabilità civile resta centrale il quadro della [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7), insieme alla prova dei fatti e delle conseguenze. Prima di contestare o difendere una condotta sulla base delle linee guida, è quindi opportuno verificare fonte, periodo, pertinenza e applicazione concreta. Questo controllo permette anche di riconoscere quando il dissenso riguarda la medicina, quando la ricostruzione dei fatti e quando la regola giuridica.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una linea guida più recente prova l’errore commesso anni prima?",
+        "answer": "Non automaticamente. Occorre valutare le conoscenze e le raccomandazioni pertinenti al momento dei fatti."
+      },
+      {
+        "question": "Il rispetto delle linee guida esclude sempre il risarcimento?",
+        "answer": "No. La responsabilità civile richiede una valutazione del caso, delle condotte e delle conseguenze, oltre al richiamo delle raccomandazioni."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5",
+        "title": "Legge 24/2017 — art. 5",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 5 Buone pratiche clinico-assistenziali e raccomandazioni previste dalle linee guida 1. Gli esercenti le professioni sanitarie, nell'esecuzione delle prestazioni sanitarie con finalità preventive, diagnostiche, terapeutiche, palliative, riabilitative e di medicina legale, si attengono, salve le specificità del caso concreto, alle raccomandazioni previste dalle linee guida pubblicate ai sensi del comma 3 ed elaborate da enti e istituzioni pubblici e privati nonché dalle società scientifiche e dalle associazioni tecnico-scientifiche delle professioni sanitarie iscritte in apposito elenco istituito e regolamentato con decreto del Ministro della salute, da emanare entro novanta giorni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art590sexies",
+        "title": "Codice penale — art. 590sexies",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 590-sexies. (Responsabilità colposa per morte o lesioni personali in ambito sanitario). Se i fatti di cui agli articoli 589 e 590 sono commessi nell'esercizio della professione sanitaria, si applicano le pene ivi previste salvo quanto disposto dal secondo comma. Qualora l'evento si sia verificato a causa di imperizia, la punibilità è esclusa quando sono rispettate le raccomandazioni previste dalle linee guida come definite e pubblicate ai sensi di legge ovvero, in mancanza di queste, le buone pratiche clinico-assistenziali, sempre che le raccomandazioni previste dalle predette linee guida risultino adeguate […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una pubblicazione scientifica anonima aperta accanto a una cartella clinica e a un piccolo segnalibro, biblioteca medica sobria senza scritte leggibili. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una pubblicazione scientifica anonima aperta accanto a una cartella clinica e a un piccolo segnalibro, biblioteca medica sobria senza scritte leggibili",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-060.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "c30b0062ada929c6761cd5b2bad534bf53bb0b29bc143bad3e0bd69102a3af80",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 601,
+    "contentHash": "9f0a12801a7fdc1f56759e4599dbdb38c4f7ef47b6a7c79b5bcdb0405d03adb1",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-26",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "bb6347f398659e4fd145465d42cccd76263bb1ddbad06c8ae38af545fc6ffd82",
+    "sha256": "bee9b3830d62791a42e832d7aa4cd22cf8882abe04fec53028012b1c4c227a8c"
+  }
+}

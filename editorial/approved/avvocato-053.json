@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-053",
+    "site": "avvocato",
+    "sequence": 53,
+    "area": "Responsabilità medica",
+    "slug": "perizia-medico-legale-prima-della-causa-quali-domande-deve-chiarire",
+    "title": "Perizia medico-legale prima della causa: quali domande deve chiarire",
+    "intent": "Valutare condotta, causalità, danno e alternative spiegazioni",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 104,
+    "status": "approved",
+    "seoTitle": "Perizia medico-legale prima della causa: quali domande deve chiarire",
+    "description": "Le domande da affrontare in una valutazione medico-legale preliminare, dalla condotta contestata alle conseguenze documentabili.",
+    "bodyMarkdown": "Prima di avviare una controversia sanitaria, una perizia utile deve chiarire se esista una questione tecnicamente sostenibile. La sola conclusione “vi è responsabilità” non basta: servono il ragionamento, i documenti utilizzati e la distinzione tra aspetti accertabili e punti ancora incerti.\n\n## Formulare il problema clinico\n\nL'incarico parte da una domanda concreta: un esame doveva essere eseguito prima, una terapia era adeguata, una complicanza fu riconosciuta tempestivamente? Il racconto del paziente orienta il lavoro, ma il quesito deve essere confrontato con la documentazione e con le competenze specialistiche necessarie.\n\nLa [Legge 24/2017 — art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15) prevede, per gli incarichi giudiziari in materia sanitaria, una componente medico-legale e competenze specialistiche pertinenti. Anche nella preparazione privata del caso è ragionevole chiedersi se la valutazione disponga delle conoscenze adatte alla vicenda, anziché affidare ogni questione a un unico sapere generico.\n\n## Definire la documentazione esaminata\n\nLa relazione dovrebbe indicare quali cartelle, immagini, referti e visite siano stati considerati. Se mancano dati importanti, va spiegato se la conclusione è provvisoria e quale integrazione potrebbe modificarla. Un parere elaborato su poche pagine non può essere presentato come se comprendesse l'intero percorso di cura.\n\nÈ utile che il consulente distingua i documenti originali dalle sintesi fornite dalle parti. Una cronologia preparata dal paziente facilita la lettura, ma non sostituisce le fonti cliniche. Quando una conclusione dipende da un orario o da una misura, il riferimento deve poter essere ritrovato.\n\n## Separare condotta, causalità e danno\n\nUn comportamento criticabile non dimostra automaticamente che abbia prodotto tutte le conseguenze lamentate. La relazione deve affrontare il collegamento tra condotta e peggioramento, considerando il decorso della malattia e le spiegazioni alternative. Allo stesso modo, un esito grave non prova da solo un errore.\n\nLa disciplina civile della [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) fornisce il quadro delle responsabilità, mentre il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) richiama il rapporto tra fatto e conseguenze risarcibili. Il confronto tra consulente e legale serve a tradurre le questioni mediche in domande coerenti con il titolo giuridico invocato, senza confondere i rispettivi ruoli.\n\n## Verificare il confronto con lo scenario alternativo\n\nUna domanda spesso decisiva è che cosa sarebbe ragionevolmente accaduto con una condotta appropriata. La risposta deve poggiare sulle condizioni del paziente e sulle conoscenze pertinenti al momento dei fatti. Non basta descrivere il risultato migliore astrattamente possibile.\n\nPer esempio, se si discute di un ritardo, occorre capire quale intervallo sia rilevante, quali possibilità di intervento esistessero e quali conseguenze siano attribuibili a quel ritardo. La valutazione deve rendere trasparenti le basi e i limiti del confronto, senza trasformare una possibilità in una certezza.\n\n## Usare il parere per scegliere il percorso\n\nUn buon elaborato può sostenere una richiesta risarcitoria, suggerire ulteriori acquisizioni oppure sconsigliare un contenzioso. Quest'ultima conclusione non rende inutile il lavoro: permette di evitare una causa fondata soprattutto sulla comprensibile insoddisfazione per l'esito delle cure.\n\nIl preventivo dovrebbe chiarire attività comprese, eventuale visita, coinvolgimento di specialisti e disponibilità per fasi successive. Prima di procedere, il cliente dovrebbe poter comprendere che cosa il parere dimostra, che cosa non affronta e quali costi potrebbero aggiungersi. La decisione legale nasce dall'insieme di sostenibilità tecnica, prova disponibile e obiettivi realistici.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una perizia privata vincola il giudice?",
+        "answer": "No. È un contributo tecnico della parte, da valutare nel contraddittorio e insieme alle altre risultanze."
+      },
+      {
+        "question": "Serve subito una quantificazione definitiva?",
+        "answer": "Non sempre. La valutazione preliminare può concentrarsi prima su condotta e causalità, chiarendo quando i postumi siano valutabili."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15",
+        "title": "Legge 24/2017 — art. 15",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 15 Nomina dei consulenti tecnici d'ufficio e dei periti nei giudizi di responsabilità sanitaria 1. Nei procedimenti civili e nei procedimenti penali aventi ad oggetto la responsabilità sanitaria, l'autorità giudiziaria affida l'espletamento della consulenza tecnica e della perizia a un medico specializzato in medicina legale e a uno o più specialisti nella disciplina che abbiano specifica e pratica conoscenza di quanto oggetto del procedimento, avendo cura che i soggetti da nominare, scelti tra gli iscritti negli albi di cui ai commi 2 e 3, non siano in posizione di […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Tavolo di lavoro medico-legale con lente, immagini diagnostiche anonime e tre fascicoli separati, composizione accurata e discreta. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Tavolo di lavoro medico-legale con lente, immagini diagnostiche anonime e tre fascicoli separati, composizione accurata e discreta",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-053.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "3c7deca87c9efedbcdf53baa810be80eb77f7ca547c302947665808d86a7a97f",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 600,
+    "contentHash": "9f0429579486c714c4cb9d87e33e8d6a3bfe9d692f4f283dd8b98a2b27ae77ff",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-11",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "8977a814289d8c485539effb634f82043761b68b64705e5f14b2643f82368005",
+    "sha256": "c20a8cf05e8872aef9d8b64be2c4141aad8b755180c8058288e11ce929040e6f"
+  }
+}

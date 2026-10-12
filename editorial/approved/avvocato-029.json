@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-029",
+    "site": "avvocato",
+    "sequence": 29,
+    "area": "Cassazione penale",
+    "slug": "doppia-conforme-penale-confrontare-le-due-motivazioni",
+    "title": "Doppia conforme penale: confrontare le due motivazioni",
+    "intent": "Ricostruire le ragioni convergenti prima della censura",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 56,
+    "status": "approved",
+    "seoTitle": "Doppia conforme penale: confrontare le due motivazioni",
+    "description": "Doppia conforme penale: perché la valutazione del ricorso richiede il confronto fra sentenza di primo grado, appello e motivi già proposti.",
+    "bodyMarkdown": "La Corte d'appello conferma la condanna e il cliente vorrebbe contestare la stessa ricostruzione dei fatti una terza volta. Prima di valutare il ricorso è necessario leggere insieme le due decisioni. La convergenza dei giudizi rende particolarmente importante capire quali ragioni siano state confermate e quale risposta abbia ricevuto l'appello.\n\n## Due decisioni, una lettura coordinata\n\nCon l'espressione doppia conforme si descrive, in termini generali, la concordanza delle decisioni dei gradi di merito. Non significa che i testi siano identici né che ogni questione sia stata affrontata nello stesso modo. Il confronto deve individuare conferme, integrazioni e possibili differenze nei passaggi decisivi.\n\nSi parte dai motivi d'appello e si verifica dove la sentenza successiva risponda. Una motivazione che richiama quella precedente va letta nel contesto; un richiamo non consente al cliente di ignorare il primo provvedimento. Entrambi devono essere disponibili al cassazionista nella loro integralità.\n\n## Il limite del nuovo esame dei fatti\n\nIl [Codice di procedura penale — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606) individua i motivi consentiti e disciplina, tra l'altro, i vizi della motivazione. Un ricorso non può limitarsi a proporre la ricostruzione già respinta, cambiandone il titolo. Occorre individuare il difetto che si assume rilevante nel perimetro del controllo di legittimità.\n\nPer esempio, sostenere nuovamente che un testimone sarebbe poco credibile non equivale a mostrare una manifesta illogicità o un'altra censura consentita. La critica deve confrontarsi con le ragioni effettivamente utilizzate dai giudici, comprese quelle che non favoriscono la tesi difensiva.\n\n## Organizzare il confronto\n\nUna matrice può contenere: questione, motivo d'appello, risposta del primo giudice, risposta dell'appello e atto richiamato. Lo scopo è individuare eventuali passaggi rimasti senza una risposta pertinente, contraddizioni rilevanti o errori giuridici, non contare le pagine dedicate a ogni tema.\n\nIl cliente contribuisce indicando dove vede il problema, ma il professionista verifica se la censura sia specifica e decisiva. Una frase isolata può apparire contraddittoria e diventare comprensibile nel paragrafo successivo. La lettura integrale riduce questo rischio.\n\n## Gli atti a sostegno della censura\n\nSe la critica riguarda verbali, documenti o accertamenti tecnici, si recuperano gli atti completi e la loro collocazione. L'indicazione precisa permette di controllare il rapporto tra prova e motivazione. Riassunti privati e note personali devono restare separati dai documenti processuali.\n\nIl [Codice di procedura penale — art. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art609) disciplina la cognizione della Corte rispetto ai motivi e alle questioni previste. Diventa quindi importante sapere quando il tema sia stato introdotto e se richieda fatti ulteriori. Il fascicolo non deve essere trasformato in una raccolta di nuove ipotesi costruite dopo la conferma della decisione.\n\n## Valutare l'utilità senza automatismi\n\nLa doppia conforme non consente né di promettere un ribaltamento né di escludere in astratto ogni ricorso. Il punto è verificare quali motivi siano realmente sostenibili e quale effetto potrebbe derivarne. Una questione di diritto può richiedere un esame diverso da una contestazione sulla valutazione delle dichiarazioni.\n\nIl parere preliminare dovrebbe spiegare il nucleo delle due motivazioni, la censura proponibile e gli atti necessari. Se la critica resta una ripetizione del merito, è utile riconoscerlo prima di avviare un'impugnazione. Se emerge un difetto specifico, il confronto coordinato offre la base per formularlo con precisione.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La conferma in appello impedisce sempre il ricorso?",
+        "answer": "No. Occorre verificare i motivi consentiti e il contenuto delle due decisioni, senza automatismi."
+      },
+      {
+        "question": "Serve anche la sentenza di primo grado?",
+        "answer": "Sì. La motivazione d’appello può richiamarla o integrarla, e il confronto aiuta a comprendere le ragioni della decisione."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606",
+        "title": "Codice di procedura penale — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606 Casi di ricorso 1. Il ricorso per cassazione può essere proposto per i seguenti motivi: a) esercizio da parte del giudice di una potestà riservata dalla legge a organi legislativi o amministrativi ovvero non consentita ai pubblici poteri; b) inosservanza o erronea applicazione della legge penale o di altre norme giuridiche, di cui si deve tener conto nell'applicazione della legge penale; c) inosservanza delle norme processuali stabilite a pena di nullità, di inutilizzabilità, di inammissibilità o di decadenza; d) mancata assunzione di una prova decisiva, quando la parte […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art609",
+        "title": "Codice di procedura penale — art. 609",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 609 Cognizione della corte di cassazione 1. Il ricorso attribuisce alla corte di cassazione la cognizione del procedimento limitatamente ai motivi proposti. 2. La corte decide altresì le questioni rilevabili di ufficio in ogni stato e grado del processo e quelle che non sarebbe stato possibile dedurre in grado di appello."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due fascicoli paralleli con copertine simili e una terza scheda di confronto centrale, composizione fotografica minimale senza parole leggibili. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due fascicoli paralleli con copertine simili e una terza scheda di confronto centrale, composizione fotografica minimale senza parole leggibili",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-029.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "e8194ec3b769bed39a1aaeba9910e67f76a6cf1e3c4c6f5dbdea12cad85e1f75",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 604,
+    "contentHash": "9e7a1e0a45a5af0d56c6c7f5dcece97b07b8d1940e76ef5823dc5b482a7a8727",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-27",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "9d2ca9c69b0eee1e8a6e0898c47a096e789ea45bae19859fda94a3b24b4a6f48",
+    "sha256": "cdd7013e4b9c2929164735211baf081c85fe612d677b390f1d19a14e87188d6a"
+  }
+}

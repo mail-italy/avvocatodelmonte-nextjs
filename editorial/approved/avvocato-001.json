@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-001",
+    "site": "avvocato",
+    "sequence": 1,
+    "area": "Cassazione civile",
+    "slug": "dopo-la-cassazione-preparare-il-giudizio-civile-di-rinvio",
+    "title": "Dopo la Cassazione: preparare il giudizio civile di rinvio",
+    "intent": "Capire quali questioni restano aperte dopo l'annullamento con rinvio",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 0,
+    "status": "approved",
+    "seoTitle": "Dopo la Cassazione: preparare il giudizio civile di rinvio",
+    "description": "Dopo un annullamento civile con rinvio, quali atti recuperare, quali questioni restano aperte e come preparare il nuovo giudizio.",
+    "bodyMarkdown": "La Cassazione ha accolto il ricorso e rinviato la causa a un altro giudice. Per il cliente questo può sembrare il momento in cui tutto ricomincia. In realtà il nuovo giudizio parte da un perimetro preciso: occorre leggere che cosa è stato annullato, perché e quali questioni sono ormai definite. L'accoglimento del ricorso non equivale necessariamente alla vittoria finale sulla domanda economica o sul diritto controverso.\n\n## Leggere insieme dispositivo e motivazione\n\nIl dispositivo indica il risultato formale; la motivazione spiega il vincolo che accompagnerà il processo. Un annullamento per un errore nella regola giuridica può richiedere una nuova valutazione dei fatti già acquisiti. Un vizio processuale può invece incidere sul percorso attraverso il quale la decisione deve essere adottata. La disciplina della decisione e del principio di diritto si trova nel [Codice di procedura civile — art. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art384).\n\nConviene costruire una tabella con ciascun motivo di ricorso, il suo esito e l'effetto sul giudizio successivo. I motivi accolti, rigettati, dichiarati inammissibili o assorbiti non sono equivalenti. Un punto assorbito non va trattato automaticamente come un punto sul quale la Corte abbia dato ragione a una parte: potrebbe richiedere un esame nella fase di rinvio.\n\n## Il fascicolo da recuperare\n\nServono la decisione della Cassazione completa, le sentenze precedenti, il ricorso e il controricorso, gli atti che fissavano domande ed eccezioni e le produzioni richiamate. Un archivio contenente soltanto l'ultima sentenza rende difficile capire quali difese siano ancora utilizzabili. È utile mantenere la numerazione originaria degli allegati e annotare dove siano stati prodotti.\n\nUna cronologia separata deve riportare pubblicazione, comunicazioni e notificazioni. Non si attende una convocazione generica per decidere che cosa fare: la riassunzione ha una propria disciplina, da verificare tempestivamente. Il [Codice di procedura civile — art. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art392) regola questo passaggio. Copiare una scadenza trovata online, senza individuare l'atto rilevante, può compromettere il risultato già ottenuto.\n\n## Che cosa si può discutere di nuovo\n\nIl rinvio non è una seconda occasione illimitata per cambiare domanda, aggiungere fatti trascurati o riproporre ogni questione del processo. Il [Codice di procedura civile — art. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art394) disciplina la posizione delle parti e i limiti delle conclusioni. La concreta possibilità di svolgere ulteriori attività dipende dal contenuto dell'annullamento e dalle regole applicabili.\n\nSupponiamo che la controversia riguardi un contratto e che la Cassazione censuri il criterio usato per interpretare una clausola. Il lavoro utile consiste nel ricostruire come quel criterio incida sul materiale già presente. Aggiungere una vicenda estranea, solo perché oggi appare favorevole, potrebbe non essere consentito. Questo esempio descrive un metodo di lettura, non l'esito di una causa reale.\n\n## Preparare una decisione consapevole\n\nPrima di proseguire si aggiornano anche costi, interesse concreto e possibilità di accordo. Durante il tempo trascorso il bene potrebbe essere stato venduto, una somma pagata oppure una parte potrebbe avere assunto una diversa posizione. Sono circostanze da rappresentare al difensore, che valuterà se e come possano entrare nel processo.\n\nIl risultato del primo incontro dovrebbe essere una mappa leggibile: questioni chiuse, questioni aperte, documenti necessari, adempimenti urgenti e obiettivo ancora raggiungibile. Il fascicolo di rinvio diventa così la prosecuzione ordinata della controversia, anziché una replica integrale delle difese precedenti.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "L’accoglimento in Cassazione garantisce il risultato nel rinvio?",
+        "answer": "No. Può eliminare un errore lasciando al giudice del rinvio valutazioni necessarie per decidere la controversia."
+      },
+      {
+        "question": "Si possono portare nuovi documenti?",
+        "answer": "La possibilità va valutata rispetto ai limiti del rinvio e alle ragioni dell’annullamento; non è libera integrazione del fascicolo."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art384",
+        "title": "Codice di procedura civile — art. 384",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 384. (Enunciazione del principio di diritto e decisione della causa nel merito). La Corte enuncia il principio di diritto quando decide il ricorso proposto a norma dell'articolo 360, primo comma, n. 3), e in ogni altro caso in cui, decidendo su altri motivi del ricorso, risolve una questione di diritto di particolare importanza. La Corte, quando accoglie il ricorso, cassa la sentenza rinviando la causa ad altro giudice, il quale deve uniformarsi al principio di diritto e comunque a quanto statuito dalla Corte, ovvero decide la causa nel merito […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art392",
+        "title": "Codice di procedura civile — art. 392",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 392. (Riassunzione della causa). La riassunzione della causa davanti al giudice di rinvio può essere fatta da ciascuna delle parti non oltre tre mesi dalla pubblicazione della sentenza della corte di cassazione. La riassunzione si fa con citazione, la quale è notificata personalmente a norma degli articoli 137 e seguenti."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art394",
+        "title": "Codice di procedura civile — art. 394",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 394. (Procedimento in sede di rinvio). In sede di rinvio si osservano le norme stabilite per il procedimento davanti al giudice al quale la corte ha rinviato la causa. In ogni caso deve essere prodotta copia autentica della sentenza di cassazione. Le parti conservano la stessa posizione processuale che avevano nel procedimento in cui fu pronunciata la sentenza cassata. Nel giudizio di rinvio può deferirsi il giuramento decisorio, ma le parti non possono prendere conclusioni diverse da quelle prese nel giudizio nel quale fu pronunciata la sentenza cassata, salvo […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due fascicoli ordinati su una scrivania, collegati da una sottile linea di luce, con un terzo fascicolo aperto per rappresentare la prosecuzione di un giudizio. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due fascicoli ordinati su una scrivania, collegati da una sottile linea di luce, con un terzo fascicolo aperto per rappresentare la prosecuzione di un giudizio",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-001.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "b95317cb38c432f8168447c864df21267bb26bba75c2d9b21c154b841a343be3",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 603,
+    "contentHash": "526fa80195694444e366ed7042aba487c71ef67a9ea3f19882a61ab12e7e0dd2",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-10-12",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "c1b1d5e80dac40754039024d51e0660d799179e1b40b61499553104b4c9ead6f",
+    "sha256": "00f035001fad08cbea74141b20e3415daedcc0cea9e5e07127e988b22d65ef76"
+  }
+}

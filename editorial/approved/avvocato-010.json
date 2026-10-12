@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-010",
+    "site": "avvocato",
+    "sequence": 10,
+    "area": "Cassazione civile",
+    "slug": "il-fascicolo-digitale-per-il-cassazionista-un-indice-che-rende-verificabili-i-motivi",
+    "title": "Il fascicolo digitale per il cassazionista: un indice che rende verificabili i motivi",
+    "intent": "Organizzare sentenze, atti e localizzazione delle produzioni",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 18,
+    "status": "approved",
+    "seoTitle": "Il fascicolo digitale per il cassazionista: un indice che rende verificabili i motivi",
+    "description": "Un fascicolo digitale leggibile per la Cassazione: come ordinare sentenze, notifiche, atti e allegati senza perdere la loro provenienza.",
+    "bodyMarkdown": "Una cartella contiene centinaia di PDF chiamati “scansione”, “definitivo” e “nuovo”. Tutti sembrano importanti, ma il cassazionista deve trovare il documento preciso su cui si fonda una censura. Organizzare l'archivio non significa ridurre artificialmente la vicenda: significa renderla verificabile senza alterare il materiale originario.\n\n## Un indice prima di un unico grande PDF\n\nUn file cumulativo può essere comodo per una lettura iniziale, ma non dovrebbe cancellare la distinzione tra atti. Occorre conservare separatamente sentenze, atti difensivi, verbali, relazioni tecniche e produzioni. Ogni voce dell'indice dovrebbe indicare data, autore, fase processuale e numero attribuito al documento nel fascicolo.\n\nIl [Codice di procedura civile — art. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366) richiede chiarezza nella esposizione del ricorso e specificità nei riferimenti ai documenti rilevanti. L'indice serve a sostenere questo lavoro: non è un adempimento che il cliente possa sostituire alla redazione del legale, ma un modo per rendere più affidabile la collaborazione.\n\n## Separare le versioni\n\nUna bozza, una versione notificata e una versione depositata possono avere differenze decisive. Il nome “definitivo” non garantisce che il documento sia quello utilizzato nel processo. Vanno conservati i riscontri che ne spiegano lo stato: ricevute di deposito, messaggi di trasmissione e notificazioni pertinenti.\n\nSe esistono copie con annotazioni, è bene mantenerle come copie di lavoro. Le note non devono coprire firme, numeri o passaggi del testo originario. Un documento illeggibile va segnalato come tale, evitando di ricostruirne autonomamente parti mancanti e di presentarle come se fossero presenti nell'originale.\n\n## Una mappa per ciascuna questione\n\nAccanto all'archivio completo può essere preparato un indice tematico: domanda proposta, decisione ricevuta, motivo di critica e atti collegati. Per una controversia su un contratto, ad esempio, la scheda può collegare clausola, produzione, difesa che la richiamava e passaggio della sentenza. La scheda orienta, mentre i documenti permettono di verificare.\n\nIl cliente dovrebbe distinguere fatti certi, ricordi personali e punti da chiarire. Una cronologia che mescola questi livelli rischia di attribuire valore documentale a un'impressione. Si possono usare note semplici come “risulta dall'allegato” oppure “da verificare con il precedente difensore”, senza inventare conferme.\n\n## Le notifiche meritano una cartella propria\n\nLe PEC vanno conservate con i messaggi e gli allegati disponibili, mantenendo il formato originale quando possibile. Una fotografia dello schermo può aiutare a orientarsi, ma non sostituisce necessariamente i file utili a verificare la notificazione. Anche le comunicazioni di cancelleria devono restare distinguibili dalle notifiche di parte.\n\nLe date sono un'informazione urgente: si trasmettono subito al legale, anche prima della fine del riordino. La ricerca della perfezione dell'archivio non deve consumare il tempo necessario per valutare un'impugnazione. Si può inviare un primo nucleo essenziale e completarlo attraverso un elenco condiviso dei documenti mancanti.\n\n## Controllare la consegna\n\nPrima dell'invio è utile aprire ogni file, verificare che non sia vuoto, controllare l'orientamento delle pagine e annotare eventuali allegati assenti. Il trasferimento deve utilizzare il canale concordato con lo studio, soprattutto quando il fascicolo contiene dati sanitari o informazioni di terzi.\n\nIl [Codice di procedura civile — art. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art369) disciplina il deposito del ricorso e degli atti: il professionista stabilisce che cosa serva processualmente. L'organizzazione del cliente ha un obiettivo più semplice ma decisivo: consegnare un archivio coerente, leggibile e riconducibile al processo, dal quale possano essere selezionati i documenti effettivamente necessari.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Devo creare un solo PDF con tutto?",
+        "answer": "Non necessariamente. È preferibile conservare anche i singoli documenti e un indice che ne mantenga data, provenienza e collocazione."
+      },
+      {
+        "question": "Aspetto di avere completato l’archivio prima di contattare il legale?",
+        "answer": "No, se esiste una decisione da impugnare o una notifica ricevuta. Le informazioni sulle scadenze vanno comunicate subito."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366",
+        "title": "Codice di procedura civile — art. 366",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 366. (Contenuto del ricorso). Il ricorso deve contenere, a pena di inammissibilità: 1) l'indicazione delle parti; 2) l'indicazione della sentenza o decisione impugnata; 3) la chiara esposizione dei fatti della causa essenziali alla illustrazione dei motivi di ricorso; (171) (173) 4) la chiara e sintetica esposizione dei motivi per i quali si chiede la cassazione, con l'indicazione delle norme di diritto su cui si fondano; (171) (173) 5) l'indicazione della procura, se conferita con atto separato e, nel caso di ammissione al gratuito patrocinio, del relativo decreto. 6) la […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art369",
+        "title": "Codice di procedura civile — art. 369",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 369. (Deposito del ricorso). Il ricorso è depositato, a pena d'improcedibilità, nel termine di giorni venti dall'ultima notificazione alle parti contro le quali è proposto. (171) (173) Insieme col ricorso debbono essere depositati, sempre a pena d'improcedibilità: 1) il decreto di concessione del gratuito patrocinio; 2) copia autentica della sentenza o della decisione impugnata con la relazione di notificazione, se questa è avvenuta, tranne che nei casi di cui ai due articoli precedenti; oppure copia autentica dei provvedimenti dai quali risulta il conflitto nei casi di cui ai numeri […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Portatile con interfaccia astratta di cartelle prive di testo e una pila ordinata di documenti con divisori colorati, luce naturale su tavolo in legno. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Portatile con interfaccia astratta di cartelle prive di testo e una pila ordinata di documenti con divisori colorati, luce naturale su tavolo in legno",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-010.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "4e09ef0af0a3ad5dd8a84d4eaf9ff60be792a7a25decca681c9f25e9a67e489e",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 629,
+    "contentHash": "68f5ad71314071ed4efec0ca5ab935d4789055181bf9e4317da069e4df58b622",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-29",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "18315c3462b02e0b337c8ec01cabc3c8064392d60584403213117be77e1ae457",
+    "sha256": "b19707ff1a0ec1c444eb8d6f7f3de5bed209bbc35021c136433f4935a6bfb61b"
+  }
+}

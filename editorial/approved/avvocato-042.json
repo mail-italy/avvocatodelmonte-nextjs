@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-042",
+    "site": "avvocato",
+    "sequence": 42,
+    "area": "Responsabilità medica",
+    "slug": "accertamento-tecnico-preventivo-sanitario-preparare-il-quesito-medico-legale",
+    "title": "Accertamento tecnico preventivo sanitario: preparare il quesito medico-legale",
+    "intent": "Organizzare l'indagine tecnica e la prospettiva conciliativa",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 82,
+    "status": "approved",
+    "seoTitle": "Accertamento tecnico preventivo sanitario: preparare il quesito medico-legale",
+    "description": "Accertamento tecnico preventivo sanitario: preparare documenti e quesiti per chiarire il caso e valutare una possibile conciliazione.",
+    "bodyMarkdown": "Prima della causa risarcitoria sanitaria può essere necessario un procedimento che metta a confronto le valutazioni tecniche e favorisca una composizione. Il paziente spesso lo immagina come una visita per ottenere una percentuale. Il lavoro è più ampio: riguarda la ricostruzione del percorso, le condotte contestate, il nesso causale e le conseguenze.\n\n## Il quadro del procedimento\n\nLa [Legge 24/2017 — art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art8) disciplina il tentativo preliminare nelle controversie di responsabilità sanitaria e contempla, nei termini previsti, l'accertamento tecnico preventivo o l'alternativa della mediazione. La scelta e gli adempimenti devono essere valutati sul caso, senza ridurre la procedura a un passaggio formale da completare in fretta.\n\nIl [Codice di procedura civile — art. 696bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art696bis) riguarda la consulenza tecnica preventiva ai fini della composizione della lite. Il riferimento alla conciliazione è rilevante: chiarire gli aspetti tecnici può aiutare le parti a valutare un accordo. Non significa che una soluzione debba essere raggiunta né che il paziente debba accettare qualsiasi proposta.\n\n## Definire il problema da esaminare\n\nIl quesito deve permettere di affrontare le questioni pertinenti. Un generico sospetto di errore medico può comprendere problemi diversi: scelta terapeutica, organizzazione, ritardo, gestione di una complicanza o danno successivo. Prima si individuano gli eventi documentati, poi si formulano le domande tecniche.\n\nÈ utile una cronologia che distingua accessi, sintomi registrati, esami, decisioni e decorso. Il paziente può aggiungere una narrazione personale, ma le informazioni non presenti negli atti devono restare riconoscibili come tali. La chiarezza aiuta i consulenti a capire che cosa è accertato e che cosa richiede verifica.\n\n## Individuare documenti e soggetti\n\nSe il percorso coinvolge più strutture o professionisti, il fascicolo deve separare le rispettive fasi. La presenza di un esito sfavorevole non giustifica automaticamente la stessa contestazione verso tutti. La [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) distingue il quadro della responsabilità della struttura e dell'esercente: la posizione concreta va ricostruita.\n\nI documenti includono cartella, referti, immagini, lettere di dimissione e materiali sulle conseguenze. Occorre verificare anche gli atti e le comunicazioni già scambiati con strutture o assicurazioni. La procedura non dovrebbe partire da un archivio nel quale manchino proprio i passaggi clinici che si vogliono contestare.\n\n## Partecipare al confronto tecnico\n\nIl cliente deve conoscere il ruolo del proprio consulente, il calendario delle attività e le modalità di trasmissione delle osservazioni. Le divergenze vanno espresse attraverso dati e argomenti, evitando che la comprensibile sofferenza venga usata come sostituto della dimostrazione del nesso causale.\n\nUna relazione può chiarire soltanto alcuni punti oppure evidenziare limiti documentali. È importante leggerla integralmente, compresi gli elementi contrari alla pretesa. La valutazione dell'accordo dipende dalla qualità del risultato tecnico e dalle altre componenti giuridiche, non soltanto da una singola conclusione favorevole.\n\n## Dopo la relazione\n\nSe non si raggiunge una conciliazione, il procedimento può avere ulteriori sviluppi secondo la disciplina applicabile. Le scadenze e gli atti necessari vanno verificati tempestivamente dal difensore. Non è prudente attendere genericamente una nuova convocazione o presumere che la causa di merito sia già avviata.\n\nIl fascicolo finale deve conservare quesiti, operazioni, osservazioni, relazione e proposte eventualmente formulate. Un esame tecnico preventivo ben preparato offre una base più leggibile per decidere se proseguire, negoziare o rivalutare la pretesa. Il suo valore consiste nel chiarire il caso, senza promettere un risultato risarcitorio automatico.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "L’ATP sanitario serve soltanto a quantificare l’invalidità?",
+        "answer": "No. Può affrontare le questioni tecniche pertinenti al caso e contribuire alla valutazione di una composizione della lite."
+      },
+      {
+        "question": "Se non c’è accordo la causa prosegue da sola?",
+        "answer": "Gli eventuali passaggi successivi e i relativi termini devono essere verificati e gestiti dal difensore."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art8",
+        "title": "Legge 24/2017 — art. 8",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 8 Tentativo obbligatorio di conciliazione 1. Chi intende esercitare un'azione innanzi al giudice civile relativa a una controversia di risarcimento del danno derivante da responsabilità sanitaria è tenuto preliminarmente a proporre ricorso ai sensi dell' articolo 696-bis del codice di procedura civile dinanzi al giudice competente. 2. La presentazione del ricorso di cui al comma 1 costituisce condizione di procedibilità della domanda di risarcimento. È fatta salva la possibilità di esperire in alternativa il procedimento di mediazione ai sensi dell' articolo 5, comma 1, del decreto legislativo 4 marzo […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art696bis",
+        "title": "Codice di procedura civile — art. 696bis",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 696-bis. (Consulenza tecnica preventiva ai fini della composizione della lite). L'espletamento di una consulenza tecnica, in via preventiva, può essere richiesto anche al di fuori delle condizioni di cui al primo comma dell'articolo 696, ai fini dell'accertamento e della relativa determinazione dei crediti derivanti dalla mancata o inesatta esecuzione di obbligazioni contrattuali o da fatto illecito. Il giudice procede a norma del terzo comma del medesimo articolo 696. Il consulente, prima di provvedere al deposito della relazione, tenta, ove possibile, la conciliazione delle parti. (176) Se le parti si […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Tavolo di confronto con cartella clinica, immagini diagnostiche astratte e tre sedie vuote, ambiente professionale neutro senza marchi o testi. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Tavolo di confronto con cartella clinica, immagini diagnostiche astratte e tre sedie vuote, ambiente professionale neutro senza marchi o testi",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-042.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "a60fa41932966f1d0365ceebc0659868679076d42a67a1f7c24f3eb6fb602b78",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 621,
+    "contentHash": "bcc3f8498837aa8572ec368bbfa05c99ef803ec2fde2f0e5edef69f7b987841a",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-10-26",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "b67630e4d440cdc37fca28c245a9859bf001243bf73753abf0914137d834d4f2",
+    "sha256": "4ad6ef86817d9d3131366721bf21d2a081552b1584218367513e8b446f6f0c27"
+  }
+}

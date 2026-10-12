@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-072",
+    "site": "avvocato",
+    "sequence": 72,
+    "area": "Incidenti stradali gravi",
+    "slug": "incidente-con-veicolo-non-identificato-preservare-le-prove-utili",
+    "title": "Incidente con veicolo non identificato: preservare le prove utili",
+    "intent": "Raccogliere riscontri e individuare il percorso del Fondo di garanzia",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni-incidente-stradale"
+    ],
+    "scheduledOffsetDays": 142,
+    "status": "approved",
+    "seoTitle": "Incidente con veicolo non identificato: preservare le prove utili",
+    "description": "Quali elementi conservare quando un incidente è attribuito a un veicolo rimasto sconosciuto e si valuta l’intervento del Fondo di garanzia.",
+    "bodyMarkdown": "Quando un veicolo si allontana senza essere identificato, la mancanza della targa non elimina ogni possibilità di tutela. Rende però particolarmente importante ricostruire l'evento e il ruolo del mezzo sconosciuto. La richiesta non può basarsi soltanto sull'affermazione che un altro veicolo fosse presente.\n\n## Mettere in sicurezza persone e informazioni\n\nLe cure e la sicurezza vengono prima della raccolta delle prove. Appena possibile si conservano dati su luogo, orario, direzione di marcia e caratteristiche osservate del veicolo. I ricordi devono essere descritti senza aggiungere dettagli ricavati successivamente da supposizioni.\n\nÈ utile annotare i recapiti di persone che abbiano assistito ai fatti e segnalare l'eventuale presenza di telecamere. L'accesso alle registrazioni deve avvenire attraverso richieste e canali leciti. La possibile disponibilità di immagini non significa che possano essere ottenute o utilizzate senza verifiche.\n\n## Distinguere ciò che si è visto da ciò che si deduce\n\nUn testimone potrebbe aver visto il veicolo allontanarsi senza osservare l'urto. Un altro potrebbe aver sentito un rumore e trovato il danneggiato a terra. Entrambe le informazioni possono essere utili, ma hanno contenuto diverso e non devono essere uniformate in una versione concordata.\n\nSi conservano fotografie, documenti dei soccorsi e comunicazioni contemporanee. La coerenza tra questi elementi può contribuire alla ricostruzione. Non è opportuno riparare o eliminare oggetti rilevanti senza prima valutare come documentarli, fermo restando ciò che sia necessario per sicurezza e conservazione.\n\n## Verificare il quadro del Fondo di garanzia\n\nIl [Codice delle assicurazioni private — art. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209~art283) prevede l'intervento del Fondo di garanzia per le vittime della strada anche per sinistri causati da veicoli non identificati, entro condizioni e limiti specifici. La disciplina dei danni alle cose non coincide con quella dei danni alla persona e richiede un controllo del caso concreto.\n\nNon basta quindi presentare la situazione come un normale sinistro con assicuratore conosciuto. Occorre individuare la procedura, l'impresa designata competente e i destinatari della richiesta secondo le informazioni ufficiali aggiornate. L'assenza della targa non rende superflua la prova del fatto e del danno.\n\n## Collegare lesioni e dinamica\n\nI documenti sanitari devono riportare il percorso di cura e le conseguenze dell'evento. Il racconto della dinamica fornito ai sanitari va distinto dagli accertamenti clinici. Un referto può documentare una lesione senza dimostrare autonomamente quale veicolo l'abbia provocata.\n\nIl legale valuta la documentazione insieme al quadro del [Codice civile — art. 2054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2054) e agli oneri probatori pertinenti. Se esistono versioni differenti o elementi mancanti, devono essere affrontati apertamente. La ricostruzione più utile rende visibili anche i limiti informativi.\n\n## Preparare una richiesta ordinata\n\nIl fascicolo comprende cronologia, autorità intervenute, dati dei testimoni, immagini disponibili, documenti sanitari e spese. Si conservano ricevute di invio e risposte. Eventuali integrazioni devono poter essere ricondotte alla richiesta originaria.\n\nPrima di accettare una proposta o intraprendere un giudizio, è opportuno verificare quali fatti siano condivisi e quali contestati. Un veicolo sconosciuto non rende il risarcimento automatico né impossibile: la tutela dipende dalla corretta individuazione del percorso e dalla qualità della prova concretamente disponibile.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [incidenti stradali gravi](https://avvocatodelmonte.com/risarcimento-danni-incidente-stradale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Senza targa non posso mai chiedere un risarcimento?",
+        "answer": "Non è così. La legge prevede casi di intervento del Fondo, ma devono essere verificati presupposti, limiti e prova dell’evento."
+      },
+      {
+        "question": "Il referto del pronto soccorso prova tutta la dinamica?",
+        "answer": "No. Documenta gli aspetti sanitari e può riportare un racconto, che va distinto dai fatti direttamente accertati."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209~art283",
+        "title": "Codice delle assicurazioni private — art. 283",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 283 Sinistri verificatisi nel territorio della Repubblica 1. Il Fondo di garanzia per le vittime della strada, costituito presso la CONSAP, risarcisce i danni causati dalla circolazione dei veicoli e dei natanti, per i quali vi è obbligo di assicurazione, nei casi in cui: a) il sinistro sia stato cagionato da veicolo o natante non identificato; b) il veicolo o natante non risulti coperto da assicurazione; c) l'impresa che assicura il veicolo, al momento del sinistro verificatosi nel territorio della Repubblica, sia assoggettata a procedura di regolazione dell'insolvenza o […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2054",
+        "title": "Codice civile — art. 2054",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2054. (Circolazione di veicoli). Il conducente di un veicolo senza guida di rotaie è obbligato a risarcire il danno prodotto a persone o a cose dalla circolazione del veicolo, se non prova di aver fatto tutto il possibile per evitare il danno. Nel caso di scontro tra veicoli si presume, fino a prova contraria, che ciascuno dei conducenti abbia concorso ugualmente a produrre il danno subito dai singoli veicoli. 29 Il proprietario del veicolo, o, in sua vece, l'usufruttuario o l'acquirente con patto di riservato dominio, è responsabile in […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una strada urbana italiana vuota al crepuscolo con una bicicletta integra appoggiata al marciapiede e luci lontane sfocate, nessun incidente rappresentato. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una strada urbana italiana vuota al crepuscolo con una bicicletta integra appoggiata al marciapiede e luci lontane sfocate, nessun incidente rappresentato",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-072.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "0d6eeda1a542b112181b168417a4b3a97e4092a6ecd7ded6bf5b22e2685d3bcb",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 585,
+    "contentHash": "94483b0bd5779d9d0f2ca7118b4ea5044a4e94ac19073e225d044e76a300178f",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-19",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "9aec4713c5b7b6e6aad43d72c4b27278c894ab359f366e53850854519280c825",
+    "sha256": "68504037861b49b23863a5adf4a3b1626fb4c3a1547fad67e4a7b49dad34e31d"
+  }
+}

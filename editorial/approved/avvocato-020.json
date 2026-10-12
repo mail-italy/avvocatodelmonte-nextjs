@@ -1,0 +1,67 @@
+{
+  "article": {
+    "id": "avvocato-020",
+    "site": "avvocato",
+    "sequence": 20,
+    "area": "Cassazione civile",
+    "slug": "decisioni-interlocutorie-e-sentenze-definitive-che-cosa-impugnare",
+    "title": "Decisioni interlocutorie e sentenze definitive: che cosa impugnare",
+    "intent": "Identificare natura del provvedimento e fase del processo",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 38,
+    "status": "approved",
+    "seoTitle": "Decisioni interlocutorie e sentenze definitive: che cosa impugnare",
+    "description": "Sentenza definitiva, non definitiva o provvedimento interlocutorio: perché la natura dell’atto cambia la valutazione del ricorso civile.",
+    "bodyMarkdown": "Nel corso della causa viene emesso un provvedimento sfavorevole, ma il giudizio prosegue. La possibilità di ricorrere subito per Cassazione non dipende soltanto dall'importanza percepita di quel passaggio. Occorre identificare la natura dell'atto, ciò che decide e il sistema di impugnazione previsto.\n\n## Il nome del documento non risolve tutto\n\nUna prima verifica riguarda il contenuto: il provvedimento definisce una domanda, risolve una questione oppure organizza soltanto il processo? La rubrica “ordinanza” o “sentenza” è un dato importante, ma la qualificazione giuridica richiede di leggere gli effetti effettivi dell'atto e la disciplina della materia.\n\nIl [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360) distingue, fra l'altro, le sentenze che decidono questioni senza definire neppure parzialmente il giudizio e ne regola il rapporto con la successiva impugnazione. Questa previsione mostra perché non sia possibile affermare, in generale, che ogni decisione sfavorevole debba essere portata immediatamente in Cassazione.\n\n## Ricostruire la fase del procedimento\n\nSi parte dalla domanda originaria e si verifica che cosa resti ancora da decidere. Un provvedimento può chiudere una parte della controversia e lasciare aperta un'altra; oppure limitarsi a risolvere una questione necessaria per andare avanti. Per comprenderlo servono gli atti precedenti e, talvolta, i verbali delle udienze.\n\nUna scheda del fascicolo può indicare domande pendenti, decisioni già adottate e prossime attività fissate. Aiuta a distinguere il desiderio di contestare subito un passaggio dall'esistenza di un mezzo di impugnazione utilizzabile in quel momento. Il controllo deve comprendere anche eventuali regole speciali.\n\n## Non confondere urgenza pratica e impugnabilità\n\nUn atto interlocutorio può avere conseguenze rilevanti per il cliente. Questo non significa che il ricorso ordinario per Cassazione sia necessariamente lo strumento appropriato. Potrebbero essere previsti altri rimedi, oppure la questione potrebbe dover essere coltivata nel prosieguo del giudizio e nell'impugnazione finale.\n\nIl difensore deve spiegare sia che cosa sia consentito fare ora sia come preservare la posizione per i passaggi successivi. Una risposta che esclude il ricorso immediato non equivale necessariamente a una rinuncia definitiva alla contestazione; dipende dalla struttura del procedimento e dalle preclusioni applicabili.\n\n## Consegnare il contesto, non soltanto l'atto\n\nAl professionista vanno inviati il provvedimento completo, la comunicazione o notifica, l'atto introduttivo e le difese relative al tema deciso. È utile indicare se siano già state fissate udienze, se il giudice abbia assegnato termini e se altre parti abbiano impugnato. Queste informazioni incidono sulla strategia.\n\nIl documento va letto nella sua versione ufficiale. Un estratto ricevuto da un'altra persona potrebbe omettere proprio la parte che chiarisce la prosecuzione del processo. Anche le annotazioni del cliente devono restare distinguibili dagli atti, per evitare di attribuire al giudice una formulazione che non compare nel testo.\n\n## Scegliere il momento corretto\n\nLa valutazione deve collegare natura del provvedimento, rimedio e termine. Agire troppo presto con uno strumento non previsto può essere inutile; attendere senza verificare un atto impugnabile può invece compromettere la tutela. La prudenza consiste nel controllare subito, non nel rinviare genericamente ogni decisione.\n\nIl risultato del primo esame dovrebbe essere una spiegazione concreta: che cosa è stato deciso, quali parti della causa restano aperte, quale iniziativa è oggi disponibile e quali documenti servono per sostenerla. Questa mappa rende comprensibile una fase processuale che, per chi la vive dall'esterno, può sembrare soltanto una successione di atti poco chiari.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Ogni sentenza può essere impugnata subito in Cassazione?",
+        "answer": "No. Occorre verificare natura, grado, contenuto e disciplina del provvedimento, comprese eventuali regole speciali."
+      },
+      {
+        "question": "Se il processo continua posso ignorare il provvedimento?",
+        "answer": "No. Va esaminato subito per capire se richieda un’iniziativa, una contestazione da mantenere o il controllo di una scadenza."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una sequenza di fascicoli disposti come tappe, uno aperto a metà e uno chiuso in fondo, fotografia concettuale senza testo o simboli ufficiali. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una sequenza di fascicoli disposti come tappe, uno aperto a metà e uno chiuso in fondo, fotografia concettuale senza testo o simboli ufficiali",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-020.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "2a3e57e661ff4f532d4410c21551cd0521db2fe156d1fee759ee79904eb6264e",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 627,
+    "contentHash": "298f21266859c24df3f3b31b84f1c68880d46f6dfe6e21553dfd571f49ad590b",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-17",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "0a838be932258ebcde370dfe3e16611b3e2745051271ffd09e9df879889422f9",
+    "sha256": "767842525f63376a4bc89fb1425707d901673feeb0e8569bf0c92c762c7b35c0"
+  }
+}

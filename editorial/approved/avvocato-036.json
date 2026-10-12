@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-036",
+    "site": "avvocato",
+    "sequence": 36,
+    "area": "Cassazione penale",
+    "slug": "prescrizione-del-reato-e-impugnazione-perche-il-calcolo-non-basta",
+    "title": "Prescrizione del reato e impugnazione: perché il calcolo non basta",
+    "intent": "Verificare cronologia, disciplina applicabile e ammissibilità",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 70,
+    "status": "approved",
+    "seoTitle": "Prescrizione del reato e impugnazione: perché il calcolo non basta",
+    "description": "Prescrizione del reato e ricorso penale: perché servono cronologia, disciplina temporale e verifica dell’ammissibilità, non un semplice conteggio.",
+    "bodyMarkdown": "Il cliente inserisce la data del fatto in un calcolatore online e ottiene una presunta data di prescrizione. Quel risultato non basta per decidere se proporre ricorso. La verifica richiede il reato contestato, la disciplina applicabile, gli eventi processuali e il rapporto con l'ammissibilità dell'impugnazione.\n\n## Ricostruire il fatto contestato\n\nLa prima fonte è l'imputazione, insieme alle eventuali modifiche e alle decisioni. La data indicata nel racconto personale può non coincidere con il momento giuridicamente rilevante per il reato contestato. Occorre inoltre verificare il titolo effettivamente ritenuto dalla sentenza, evitando calcoli basati soltanto sull'accusa iniziale.\n\nLa disciplina della prescrizione è contenuta, tra l'altro, nel [Codice penale — art. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art157) e nelle disposizioni collegate. Il professionista deve considerare il regime pertinente al caso e gli effetti delle modifiche normative. Una formula uniforme per ogni procedimento rischia di ignorare differenze decisive.\n\n## Costruire la cronologia processuale\n\nSi raccolgono date del fatto, atti rilevanti, udienze, sospensioni e decisioni. Non ogni rinvio ha automaticamente lo stesso effetto: bisogna leggere il verbale e la ragione del provvedimento. Il cliente può preparare l'elenco, ma la qualificazione degli eventi va verificata sugli atti.\n\nÈ utile distinguere la data dell'udienza dalla durata del periodo che si assume rilevante e indicare il documento che lo dimostra. Se mancano verbali, si segnala la lacuna. Riempire gli intervalli con ipotesi per ottenere una data finale apparentemente precisa rende il risultato meno affidabile.\n\n## Non separare il calcolo dal ricorso\n\nIl [Codice di procedura penale — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606) prevede specifiche cause di inammissibilità legate ai motivi del ricorso; il [Codice di procedura penale — art. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art591) disciplina ulteriori presupposti dell'impugnazione. Il rapporto tra ammissibilità e possibile rilievo di una causa estintiva richiede una valutazione tecnica. Non è prudente proporre un ricorso privo di motivi soltanto per far trascorrere tempo.\n\nLa domanda professionale deve quindi essere doppia: quale sia la situazione della prescrizione e quali motivi siano realmente proponibili. Un conteggio favorevole non sostituisce il controllo dell'interesse, dei termini e del contenuto dell'atto. L'intera strategia va valutata sul procedimento concreto.\n\n## Leggere anche gli effetti civili\n\nL'eventuale estinzione del reato non permette di dedurre automaticamente ogni conseguenza sulle pretese risarcitorie. La presenza di statuizioni civili richiede un esame autonomo della decisione e della disciplina applicabile. Il cliente deve sapere quali parti della vicenda possano continuare a produrre effetti.\n\nPer questo si includono nel fascicolo le domande della parte civile, le conclusioni e i capi economici. Il calcolo della prescrizione resta una componente dell'analisi, non una risposta completa su ciò che accadrà al processo, ai beni o alle somme già riconosciute.\n\n## Chiedere una spiegazione verificabile\n\nUn esame utile dovrebbe indicare la disciplina considerata, i dati utilizzati, gli eventi che incidono e gli elementi ancora da controllare. Se il risultato dipende da un verbale mancante o da una questione interpretativa, questa incertezza deve essere resa visibile. La precisione non consiste nel dare sempre una data, ma nel spiegare da che cosa dipenda.\n\nIl cliente può così comprendere perché due conteggi divergano e quali documenti risolvano la differenza. Prima di assumere iniziative, la cronologia deve essere confrontata con la posizione processuale e con i motivi di ricorso: è questo collegamento a rendere la verifica concretamente utile.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Un calcolatore online basta a stabilire la prescrizione?",
+        "answer": "No. Occorre verificare imputazione, disciplina temporale, eventi processuali e documenti del caso."
+      },
+      {
+        "question": "Conviene ricorrere soltanto per aspettare la prescrizione?",
+        "answer": "Non si può presumere. L’ammissibilità e la sostenibilità dei motivi devono essere valutate insieme al calcolo e ai suoi effetti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art157",
+        "title": "Codice penale — art. 157",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 157. (Prescrizione. Tempo necessario a prescrivere). La prescrizione estingue il reato decorso il tempo corrispondente al massimo della pena edittale stabilita dalla legge e comunque un tempo non inferiore a sei anni se si tratta di delitto e a quattro anni se si tratta di contravvenzione, ancorché puniti con la sola pena pecuniaria. Per determinare il tempo necessario a prescrivere si ha riguardo alla pena stabilita dalla legge per il reato consumato o tentato, senza tener conto della diminuzione per le circostanze attenuanti e dell'aumento per le circostanze aggravanti, […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606",
+        "title": "Codice di procedura penale — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606 Casi di ricorso 1. Il ricorso per cassazione può essere proposto per i seguenti motivi: a) esercizio da parte del giudice di una potestà riservata dalla legge a organi legislativi o amministrativi ovvero non consentita ai pubblici poteri; b) inosservanza o erronea applicazione della legge penale o di altre norme giuridiche, di cui si deve tener conto nell'applicazione della legge penale; c) inosservanza delle norme processuali stabilite a pena di nullità, di inutilizzabilità, di inammissibilità o di decadenza; d) mancata assunzione di una prova decisiva, quando la parte […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art591",
+        "title": "Codice di procedura penale — art. 591",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 591 Inammissibilità dell'impugnazione 1. L'impugnazione è inammissibile: a) quando è proposta da chi non è legittimato o non ha interesse; b) quando il provvedimento non è impugnabile; c) quando non sono osservate le disposizioni degli articoli 581, 582, ... 585 e 586; d) quando vi è rinuncia all'impugnazione. 2. Il giudice dell'impugnazione, anche di ufficio, dichiara con ordinanza l'inammissibilità e dispone l'esecuzione del provvedimento impugnato. 3. L'ordinanza è notificata a chi ha proposto l'impugnazione ed è soggetta a ricorso per cassazione. Se l'impugnazione è stata proposta personalmente dall'imputato, l'ordinanza […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Calendario astratto senza date leggibili accanto a fascicoli ordinati in sequenza, orologio discreto e luce naturale, nessun conto alla rovescia. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Calendario astratto senza date leggibili accanto a fascicoli ordinati in sequenza, orologio discreto e luce naturale, nessun conto alla rovescia",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-036.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "111d52c48010aba0d5b4f297c940ec40e45bb7f39737d1d40bec36d6a595a9b4",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 615,
+    "contentHash": "84c893b6e14cae922f847b25519b84e79feb5ad16493fe5e96bc04ce280b44c3",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-03",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "bb22493d275985edb7080bf9f962ba142933f4ab269906a6856eb1630eab4982",
+    "sha256": "f9e4f6a5f57da830c823b7f2b9f4cf4c5d2bbae1bbe9c1baea6e31c24d3ad12e"
+  }
+}

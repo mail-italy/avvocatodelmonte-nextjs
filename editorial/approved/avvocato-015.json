@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-015",
+    "site": "avvocato",
+    "sequence": 15,
+    "area": "Cassazione civile",
+    "slug": "ctu-nella-sentenza-civile-come-preparare-una-critica-per-la-cassazione",
+    "title": "CTU nella sentenza civile: come preparare una critica per la Cassazione",
+    "intent": "Localizzare osservazioni tecniche e passaggi decisivi della motivazione",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 28,
+    "status": "approved",
+    "seoTitle": "CTU nella sentenza civile: come preparare una critica per la Cassazione",
+    "description": "La sentenza segue una CTU contestata: come ritrovare osservazioni, quesiti e motivazione prima di valutare un ricorso civile.",
+    "bodyMarkdown": "La consulenza tecnica d'ufficio contiene una conclusione sfavorevole e la sentenza la fa propria. Il cliente vorrebbe chiedere alla Cassazione una nuova perizia. La verifica deve partire da una domanda diversa: quale errore della decisione, riconducibile ai motivi consentiti, viene denunciato attraverso il tema tecnico?\n\n## Ricostruire il percorso della consulenza\n\nServono il provvedimento di nomina, i quesiti, i verbali delle operazioni, la relazione, le osservazioni dei consulenti di parte e le risposte dell'ausiliario. Le regole sulla nomina e sulle attività del consulente si trovano negli articoli [Codice di procedura civile — art. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art191) e [Codice di procedura civile — art. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art194). Una sola pagina delle conclusioni non permette di capire il percorso seguito.\n\nLa successione delle versioni è importante. Una bozza può essere stata modificata dopo le osservazioni; una critica può avere ricevuto risposta nella relazione finale. Prima di affermare che un rilievo sia stato ignorato occorre cercarlo nel documento corretto e verificare come sia stato portato all'attenzione del giudice.\n\n## Dalla critica tecnica alla critica della sentenza\n\nIl consulente tecnico esamina questioni che richiedono competenze specifiche; il giudice decide la controversia. Nel ricorso occorre quindi leggere il rapporto tra relazione e motivazione. La mera preferenza per la conclusione del proprio consulente non dimostra un vizio della sentenza.\n\nUn prospetto può indicare, per ogni punto, il dato tecnico contestato, l'osservazione formulata, la risposta del CTU e il passaggio della decisione. Questa sequenza consente al cassazionista di valutare se il problema riguardi un fatto, una regola processuale o un altro profilo giuridicamente rilevante.\n\n## Il momento delle osservazioni\n\nIl [Codice di procedura civile — art. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195) disciplina la relazione e il confronto sulle osservazioni delle parti. È quindi necessario recuperare le date e il contenuto degli scambi, senza confondere una nota preparata privatamente con una osservazione effettivamente trasmessa nel procedimento. Il materiale rimasto nel computer del cliente potrebbe non aver formato parte del contraddittorio tecnico.\n\nQuando la critica compare per la prima volta dopo la sentenza, la sua utilizzabilità richiede particolare attenzione. Non è sufficiente riscriverla come un motivo di diritto per superare eventuali limiti processuali. Il difensore deve conoscere la cronologia completa per misurarne la rilevanza.\n\n## Che cosa può mostrare un esempio\n\nUna relazione indica una misura, ma un allegato contiene un dato diverso. Il punto può meritare approfondimento, tuttavia occorre stabilire se la differenza sia reale, se sia stata contestata, se il giudice l'abbia esaminata e se incida sulla conclusione. Un errore che non cambia il risultato potrebbe non offrire l'utilità attesa.\n\nAl contrario, una divergenza metodologica tra tecnici può essere complessa ma non traducibile automaticamente in un vizio di legittimità. Il lavoro non si riduce al conteggio delle obiezioni: conta il loro rapporto con la decisione impugnata e con il motivo che si intende proporre.\n\n## Preparare il fascicolo senza alterarlo\n\nLe copie annotate devono restare distinguibili dagli originali. Tabelle ricalcolate o elaborazioni successive possono essere utili come strumenti di lettura, purché siano identificate come tali. È preferibile mantenere ogni allegato tecnico nel formato disponibile e segnalare eventuali file mancanti o non leggibili.\n\nL'esito del primo esame dovrebbe chiarire se vi sia una censura sostenibile contro la sentenza e quali atti la sorreggano. La Cassazione non diventa così il luogo di una perizia desiderata ma il controllo di uno specifico errore giuridico o processuale, individuato attraverso un fascicolo tecnico completo.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La Cassazione dispone sempre una nuova CTU se contesto quella precedente?",
+        "answer": "No. Il ricorso deve individuare un vizio della decisione nei limiti del giudizio di legittimità."
+      },
+      {
+        "question": "Servono anche le osservazioni del consulente di parte?",
+        "answer": "Sì. Aiutano a ricostruire quali critiche siano state formulate, quando e con quali risposte."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art191",
+        "title": "Codice di procedura civile — art. 191",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 191. (Nomina del consulente tecnico). Nei casi previsti dagli articoli 61 e seguenti il giudice istruttore, con ordinanza ai sensi dell'articolo 183, quarto comma, o con altra successiva ordinanza, nomina un consulente, formula i quesiti e fissa l'udienza nella quale il consulente deve comparire. (171) 173 Possono essere nominati più consulenti soltanto in caso di grave necessità o quando la legge espressamente lo dispone. -----------"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art194",
+        "title": "Codice di procedura civile — art. 194",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 194. (Attività del consulente). Il consulente tecnico assiste alle udienze alle quali è invitato dal giudice istruttore; compie, anche fuori della circoscrizione giudiziaria, le indagini di cui all'articolo 62, da sé solo o insieme col giudice secondo che questi dispone. Può essere autorizzato a domandare chiarimenti alle parti, ad assumere informazioni da terzi e a eseguire piante, calchi e rilievi. Anche quando il giudice dispone che il consulente compia indagini da sé solo, le parti possono intervenire alle operazioni in persona e a mezzo dei propri consulenti tecnici e […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195",
+        "title": "Codice di procedura civile — art. 195",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 195. (Processo verbale e relazione). Delle indagini del consulente si forma processo verbale, quando sono compiute con l'intervento del giudice istruttore, ma questi può anche disporre che il consulente rediga relazione scritta. Se le indagini sono compiute senza l'intervento del giudice, il consulente deve farne relazione, nella quale inserisce anche le osservazioni e le istanze delle parti. La relazione deve essere trasmessa dal consulente alle parti costituite nel termine stabilito dal giudice con ordinanza resa all'udienza di cui all'articolo 193. Con la medesima ordinanza il giudice fissa il termine […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Un fascicolo tecnico con grafici astratti senza numeri leggibili, righello e lente, accanto a un secondo fascicolo giudiziario, inquadratura sobria. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Un fascicolo tecnico con grafici astratti senza numeri leggibili, righello e lente, accanto a un secondo fascicolo giudiziario, inquadratura sobria",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-015.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "eb70dbd30009c89db71eb97912513a257e6c59abe8645cd87b05ff0239dc5cc7",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 632,
+    "contentHash": "54576117357e96135311cb19651c1a4eee5045dbc2d76ff10c5e2fe36fbafc8d",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-05",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "817fab9f77148df7cc03584629d45394bdca896b4014e57c173b20953be08c44",
+    "sha256": "52d4316d089a34083bc5f3b2c306f670355089559c00787053d3cfb7b08cced9"
+  }
+}

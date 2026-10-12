@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-041",
+    "site": "avvocato",
+    "sequence": 41,
+    "area": "Responsabilità medica",
+    "slug": "ctu-e-consulente-di-parte-nella-responsabilita-sanitaria",
+    "title": "CTU e consulente di parte nella responsabilità sanitaria",
+    "intent": "Comprendere i ruoli tecnici nella valutazione del caso",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 80,
+    "status": "approved",
+    "seoTitle": "CTU e consulente di parte nella responsabilità sanitaria",
+    "description": "CTU e consulente di parte nella responsabilità sanitaria: ruoli, documenti, quesiti e confronto tecnico nel procedimento civile.",
+    "bodyMarkdown": "Il paziente riceve una relazione tecnica sfavorevole e domanda se il medico legale scelto personalmente possa “sostituire il CTU”. I ruoli sono diversi. Comprenderli aiuta a partecipare al confronto tecnico con documenti e osservazioni pertinenti, senza attribuire a un parere di parte un valore che deve ancora essere discusso nel procedimento.\n\n## Chi svolge l'incarico del giudice\n\nLa consulenza tecnica d'ufficio è affidata dal giudice secondo le regole del processo. Nei procedimenti di responsabilità sanitaria la [Legge 24/2017 — art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15) prevede un assetto di competenze medico-legali e specialistiche, con attenzione all'esperienza pertinente e ai conflitti di interessi. La materia non si affronta soltanto con una generica conoscenza clinica.\n\nIl quesito definisce l'oggetto dell'indagine. È quindi importante leggerlo prima della relazione: una conclusione può rispondere a una domanda diversa da quella che il paziente immaginava. Il difensore valuta se i quesiti siano coerenti con le questioni da accertare e quali chiarimenti possano essere richiesti.\n\n## Il contributo del consulente di parte\n\nIl [Codice di procedura civile — art. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art201) disciplina il consulente tecnico di parte. La sua funzione comprende il confronto tecnico nelle forme consentite, non la promessa di ottenere una conclusione favorevole. Un parere utile deve esaminare anche le spiegazioni alternative e i dati che non sostengono la pretesa.\n\nIl cliente dovrebbe chiedere chiarezza su specializzazione, documenti esaminati e ambito dell'incarico. Il medico che segue le cure e il consulente incaricato dell'analisi medico-legale possono avere compiti differenti. La documentazione clinica resta la base comune, mentre la valutazione del rapporto tra condotta, danno e causalità richiede un quesito preciso.\n\n## Preparare i materiali per le operazioni\n\nSi raccolgono cartelle, referti, immagini diagnostiche, documenti del decorso e materiali sui bisogni residui. L'ordine cronologico deve permettere di distinguere condizioni precedenti, evento contestato e conseguenze successive. Eventuali lacune vanno segnalate, non colmate attraverso ricordi presentati come dati clinici.\n\nÈ utile creare un indice con data, struttura, tipo di documento e tema che può chiarire. Le copie devono essere complete; le annotazioni del paziente si tengono separate. Se un'immagine è disponibile in un formato specifico, si conserva il supporto originale invece di ridurla a una fotografia dello schermo.\n\n## Come formulare osservazioni utili\n\nIl [Codice di procedura civile — art. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195) disciplina il confronto sulla relazione e le osservazioni delle parti. Una critica tecnica dovrebbe indicare il dato, il metodo o il passaggio contestato, spiegandone l'effetto sulla risposta al quesito. La frase “non condivido la percentuale” è meno utile di una osservazione motivata sui presupposti della valutazione.\n\nIl consulente e il difensore devono coordinarsi: il primo sviluppa il profilo tecnico, il secondo ne verifica il rapporto con domande e regole processuali. Non ogni errore formale incide sulla conclusione; non ogni divergenza fra specialisti dimostra responsabilità. L'analisi deve rendere visibile la rilevanza del punto.\n\n## Il giudice decide la controversia\n\nLa CTU non va confusa con la sentenza. Il suo peso deve essere letto insieme alle prove, alle contestazioni e alla motivazione finale. Anche una relazione favorevole non garantisce automaticamente il risarcimento richiesto; una relazione sfavorevole deve essere esaminata prima di concludere che ogni tutela sia esclusa.\n\nPer il paziente il percorso più utile è conoscere ruoli e passaggi: quali documenti mancano, quali quesiti sono posti, quando intervenire e quali osservazioni siano state effettivamente formulate. Questa trasparenza permette una partecipazione informata e protegge il fascicolo da aspettative fondate soltanto sul nome del consulente scelto.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il consulente di parte decide il risarcimento?",
+        "answer": "No. Offre un contributo tecnico alla posizione della parte; la decisione della controversia spetta al giudice."
+      },
+      {
+        "question": "Una CTU favorevole garantisce la vittoria?",
+        "answer": "No. Il risultato dipende anche da domande, prove, regole applicabili e valutazione complessiva del giudice."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15",
+        "title": "Legge 24/2017 — art. 15",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 15 Nomina dei consulenti tecnici d'ufficio e dei periti nei giudizi di responsabilità sanitaria 1. Nei procedimenti civili e nei procedimenti penali aventi ad oggetto la responsabilità sanitaria, l'autorità giudiziaria affida l'espletamento della consulenza tecnica e della perizia a un medico specializzato in medicina legale e a uno o più specialisti nella disciplina che abbiano specifica e pratica conoscenza di quanto oggetto del procedimento, avendo cura che i soggetti da nominare, scelti tra gli iscritti negli albi di cui ai commi 2 e 3, non siano in posizione di […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art201",
+        "title": "Codice di procedura civile — art. 201",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 201. (Consulente tecnico di parte). Il giudice istruttore, con l'ordinanza di nomina del consulente, assegna alle parti un termine entro il quale possono depositare la dichiarazione di nomina di un loro consulente tecnico . 178 Il consulente della parte, oltre ad assistere a norma dell'articolo 194 alle operazioni del consulente del giudice, partecipa all'udienza e alla camera di consiglio ogni volta che vi interviene il consulente del giudice, per chiarire e svolgere, con l'autorizzazione del presidente, le sue osservazioni sui risultati delle indagini tecniche. ---------------"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195",
+        "title": "Codice di procedura civile — art. 195",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 195. (Processo verbale e relazione). Delle indagini del consulente si forma processo verbale, quando sono compiute con l'intervento del giudice istruttore, ma questi può anche disporre che il consulente rediga relazione scritta. Se le indagini sono compiute senza l'intervento del giudice, il consulente deve farne relazione, nella quale inserisce anche le osservazioni e le istanze delle parti. La relazione deve essere trasmessa dal consulente alle parti costituite nel termine stabilito dal giudice con ordinanza resa all'udienza di cui all'articolo 193. Con la medesima ordinanza il giudice fissa il termine […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due professionisti sanitari anonimi ripresi solo dalle mani confrontano referti senza dati leggibili su un tavolo, ambiente neutro e non riconducibile a una clinica reale. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due professionisti sanitari anonimi ripresi solo dalle mani confrontano referti senza dati leggibili su un tavolo, ambiente neutro e non riconducibile a una clinica reale",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-041.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "b9defa86cd3b79f629d0299f0610469bbe9d7b2b81cc39f11d0a7f8f53c90c2e",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 640,
+    "contentHash": "b5e20b7d16d70bd0633ca66435a3cf5987627f84c0acafc5c9660f7fcc14512f",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-10-14",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "dea5663277bb38eca53c0b1a330c3a394b575b96c19e9d99b7d0b923c5993c5f",
+    "sha256": "2ead8eb28f30e0903278ea3ce83062f7a8518c5b9b95f25d50dac2acafa50eee"
+  }
+}

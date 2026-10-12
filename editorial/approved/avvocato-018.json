@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-018",
+    "site": "avvocato",
+    "sequence": 18,
+    "area": "Cassazione civile",
+    "slug": "errore-materiale-o-motivo-di-ricorso-scegliere-il-rimedio-sulla-sentenza",
+    "title": "Errore materiale o motivo di ricorso: scegliere il rimedio sulla sentenza",
+    "intent": "Distinguere refuso, contrasto decisionale e questione di diritto",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 34,
+    "status": "approved",
+    "seoTitle": "Errore materiale o motivo di ricorso: scegliere il rimedio sulla sentenza",
+    "description": "Refuso, errore di calcolo o decisione giuridica contestata: quali differenze verificare prima di scegliere il rimedio sulla sentenza civile.",
+    "bodyMarkdown": "Nel dispositivo compare una cifra diversa da quella indicata in motivazione, oppure il nome di una parte è scritto in modo errato. Il problema può essere materiale, ma non va dato per scontato. La scelta del rimedio dipende dal tipo di errore e dal suo rapporto con la decisione effettivamente assunta.\n\n## Riconoscere il problema prima di correggerlo\n\nLa correzione degli errori materiali e di calcolo è disciplinata dal [Codice di procedura civile — art. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art287). Il suo scopo non è ottenere una nuova valutazione della controversia attraverso una procedura più semplice dell'impugnazione. Serve quindi distinguere il difetto nell'espressione della decisione da un dissenso sul contenuto della decisione stessa.\n\nUn errore di trascrizione evidente può avere un trattamento diverso da un contrasto che richieda di scegliere fra due soluzioni giuridiche. La presenza di una cifra incoerente non basta, da sola, a qualificare il caso: occorre leggere domande, motivazione e dispositivo, verificando se la volontà decisoria sia ricostruibile.\n\n## Confrontare le parti del provvedimento\n\nÈ utile raccogliere il testo integrale della decisione, le conclusioni delle parti e gli eventuali conteggi richiamati. La verifica deve partire dalla copia ufficiale, non da un riassunto o da una trascrizione inviata informalmente. Si annota il punto errato e si indica quale altro passaggio consenta di comprenderne la natura.\n\nSe il problema riguarda dati identificativi, vanno recuperati i documenti corretti già presenti nel fascicolo. Se riguarda un calcolo, conviene riprodurre i passaggi aritmetici in un prospetto separato, senza modificare la sentenza. Il prospetto è un supporto di lettura, non un documento sostitutivo dell'originale.\n\n## Non confondere i rimedi\n\nIl ricorso per Cassazione si fonda sui motivi previsti dal [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360). Una richiesta di correzione non può essere utilizzata per aggirare le condizioni dell'impugnazione. D'altra parte, costruire un ricorso contro un semplice refuso senza valutare lo strumento appropriato può comportare attività e costi inutili.\n\nOccorre inoltre considerare quale giudice abbia pronunciato il provvedimento. Per gli errori relativi a decisioni della stessa Cassazione esiste una disciplina specifica nel [Codice di procedura civile — art. 391bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art391bis). Non è corretto applicare indifferentemente a ogni sentenza un modello predisposto per un altro tipo di decisione.\n\n## Controllare le scadenze senza automatismi\n\nQuando un errore viene scoperto, il difensore deve essere informato subito. La scelta di chiedere una correzione può intrecciarsi con i termini di impugnazione e con gli effetti del provvedimento. Non si deve presumere che qualsiasi iniziativa blocchi o rinnovi automaticamente ogni scadenza.\n\nAl primo contatto si trasmettono quindi anche data di pubblicazione, comunicazioni, notificazioni e atti esecutivi eventualmente ricevuti. Queste informazioni permettono di valutare il rimedio senza perdere di vista il rischio pratico prodotto dalla decisione ancora formalmente esistente.\n\n## Documentare l'esito\n\nSe viene adottato un provvedimento di correzione, vanno conservate sia la decisione originaria sia la documentazione che ne modifica il testo. Chi deve applicarla deve poter comprendere il rapporto fra i due atti. Non basta sostituire una pagina nel proprio archivio senza mantenere traccia del provvedimento.\n\nIl risultato di una verifica utile è una qualificazione motivata: refuso correggibile, problema decisorio da impugnare oppure situazione che richiede ulteriori approfondimenti. La precisione iniziale tutela il cliente perché evita di scegliere il percorso soltanto in base alla gravità percepita dell'errore.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Ogni contrasto tra motivazione e dispositivo è un errore materiale?",
+        "answer": "No. Occorre verificare se il contrasto sia risolvibile come difetto espressivo o coinvolga il contenuto della decisione."
+      },
+      {
+        "question": "Posso correggere il PDF e inviarlo alla controparte?",
+        "answer": "No. Si conserva l’originale e si segue il rimedio appropriato; una modifica privata non corregge il provvedimento giudiziario."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art287",
+        "title": "Codice di procedura civile — art. 287",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 287. (Casi di correzione). Le sentenze contro le quali non sia stato proposto appello e le ordinanze non revocabili possono essere corrette, su ricorso di parte, dallo stesso giudice che le ha pronunciate, qualora egli sia incorso in omissioni o in errori materiali o di calcolo. 112 --------------"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art391bis",
+        "title": "Codice di procedura civile — art. 391bis",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 391-bis. (Correzione degli errori materiali e revocazione delle sentenze della Corte di Cassazione) Se la sentenza, l'ordinanza o il decreto di cui all'articolo 380-bis pronunciati dalla Corte di cassazione sono affetti da errore materiale o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata può chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione può essere chiesta, e può essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione può […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una matita posata accanto a un documento e un piccolo foglio di calcolo astratto, senza numeri leggibili, luce focalizzata su un dettaglio. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una matita posata accanto a un documento e un piccolo foglio di calcolo astratto, senza numeri leggibili, luce focalizzata su un dettaglio",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-018.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "6080c48aed467c3f1f3e4e5f4b46e2221600dc42e978289fd0f61fefb6a8e702",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 619,
+    "contentHash": "1c35249530851b384a4170395ba59488656cef5a0c60d0ccb13178973ff3053a",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-01",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "587f589ef11ab34aba6a5ac020effa09b2f8281f3227b3d4754077bb0ee05c3b",
+    "sha256": "bcb81ff4dbb0a59c2c954c61ba0838acdc0ea0477167920e505e8271629fd911"
+  }
+}

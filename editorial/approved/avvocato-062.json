@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-062",
+    "site": "avvocato",
+    "sequence": 62,
+    "area": "Risarcimento danni",
+    "slug": "perdita-di-reddito-del-lavoratore-autonomo-dopo-una-lesione",
+    "title": "Perdita di reddito del lavoratore autonomo dopo una lesione",
+    "intent": "Ricostruire attività, risultati economici e incidenza dell'evento",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 122,
+    "status": "approved",
+    "seoTitle": "Perdita di reddito del lavoratore autonomo dopo una lesione",
+    "description": "Come documentare l’impatto di una lesione sull’attività autonoma, distinguendo fatturato, reddito e costi sostitutivi.",
+    "bodyMarkdown": "Per un lavoratore autonomo, una lesione può incidere su incarichi, tempi di lavoro e capacità di organizzare l'attività. Il danno economico non coincide automaticamente con il calo del fatturato. Occorre ricostruire che cosa sia cambiato a causa dell'evento e distinguere effetti della lesione da andamento ordinario dell'impresa o della professione.\n\n## Descrivere le mansioni reali\n\nLa qualifica professionale da sola dice poco. È utile spiegare quali attività richiedessero presenza fisica, spostamenti, concentrazione o particolari abilità. Un commerciante, un artigiano e un consulente possono subire conseguenze diverse anche con una menomazione apparentemente simile.\n\nSi raccolgono agenda, contratti, ordini, corrispondenza con clienti e documenti sull'organizzazione precedente. L'obiettivo è mostrare il collegamento tra limitazione funzionale e attività concretamente svolta. La valutazione medico-legale deve dialogare con questi dati senza sostituire l'analisi contabile.\n\n## Confrontare periodi omogenei\n\nIl confronto economico dovrebbe considerare stagionalità, crescita o flessione già in corso e cambiamenti indipendenti dall'evento. Paragonare un mese debole con il migliore dell'anno precedente può produrre una stima inattendibile. È preferibile ricostruire una serie coerente e spiegare le anomalie.\n\nDichiarazioni fiscali, fatture e registrazioni contabili devono essere lette insieme. Il fatturato comprende somme che non coincidono con il guadagno netto. Anche i costi risparmiati o sostenuti per mantenere l'attività possono incidere sulla ricostruzione, secondo il caso e il criterio giuridico applicabile.\n\n## Documentare occasioni concretamente perdute\n\nUn incarico annullato è più comprensibile se esistono proposta, accettazione, programma e comunicazione della rinuncia. Una semplice aspettativa di lavoro futuro richiede maggiore cautela. Non ogni contatto commerciale avrebbe necessariamente prodotto un ricavo.\n\nIl [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) distingue perdita subita e mancato guadagno; il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) prevede, nel fatto illecito, un apprezzamento delle circostanze per il lucro cessante. La richiesta deve quindi esporre le basi della previsione, non presentare come certo un risultato economico soltanto possibile.\n\n## Valutare sostituzioni e riorganizzazione\n\nL'attività potrebbe essere proseguita grazie a un collaboratore, a straordinari altrui o all'affidamento esterno di mansioni. In questi casi il danno può emergere nei costi aggiuntivi o nella diversa organizzazione, anche se il fatturato complessivo non diminuisce in modo evidente.\n\nContratti, compensi e motivi della sostituzione devono essere documentati. Si verifica inoltre se la spesa fosse ragionevolmente collegata alla necessità di contenere le conseguenze. Il [Codice civile — art. 1227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1227) richiede attenzione anche ai danni evitabili con ordinaria diligenza, senza imporre al danneggiato soluzioni astratte o incompatibili con le sue condizioni.\n\n## Distinguere fase temporanea e futuro\n\nIl periodo di sospensione immediata e l'eventuale riduzione stabile della capacità di guadagno sono questioni differenti. I postumi non si traducono meccanicamente nella stessa percentuale di perdita reddituale. Occorre valutare mansioni residue, possibilità concrete di adattamento e dati dell'attività.\n\nUn fascicolo ordinato comprende cronologia sanitaria, descrizione del lavoro, documenti economici e spiegazione dei singoli effetti. Se servono competenze contabili, l'incarico dovrebbe avere quesiti precisi. La richiesta più solida rende visibile il percorso che collega la lesione a una perdita determinata, riconoscendo i fattori alternativi che potrebbero aver inciso.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il calo del fatturato dimostra da solo il danno?",
+        "answer": "No. Vanno considerati costi, stagionalità, andamento precedente e collegamento con la lesione."
+      },
+      {
+        "question": "Se l’attività continua grazie a un sostituto non esiste danno?",
+        "answer": "Non necessariamente. I costi aggiuntivi documentati possono essere rilevanti e richiedono una valutazione specifica."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1227",
+        "title": "Codice civile — art. 1227",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1227. (Concorso del fatto colposo del creditore). Se il fatto colposo del creditore ha concorso a cagionare il danno, il risarcimento è diminuito secondo la gravità della colpa e l'entità delle conseguenze che ne sono derivate. Il risarcimento non è dovuto per i danni che il creditore avrebbe potuto evitare usando l'ordinaria diligenza."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Banco di lavoro artigiano temporaneamente fermo con attrezzi ordinati, un tutore appoggiato e una cartella contabile chiusa. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Banco di lavoro artigiano temporaneamente fermo con attrezzi ordinati, un tutore appoggiato e una cartella contabile chiusa",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-062.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "e70c11245c575d07478781e0120f576cbb38ca89eb3971fd2043e12d762a0acb",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 574,
+    "contentHash": "de5505bfb31d6fe87f136054dfb6876e722a869b4904fe82b685c240e990d8a7",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-11",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "63c0cbaaa6d1a95d7af25a4c67714da467ea832b63dcbd88b704a94c7173a207",
+    "sha256": "0d81fd32ce4d582507337c8c5a0e60a92c6fd01414027462099ff7598e7977c1"
+  }
+}

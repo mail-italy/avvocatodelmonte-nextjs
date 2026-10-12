@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-083",
+    "site": "avvocato",
+    "sequence": 83,
+    "area": "Infortuni sul lavoro",
+    "slug": "rientro-al-lavoro-dopo-una-lesione-conservare-gli-elementi-sul-danno-residuo",
+    "title": "Rientro al lavoro dopo una lesione: conservare gli elementi sul danno residuo",
+    "intent": "Coordinare giudizi di idoneità, mansioni e conseguenze senza dare istruzioni sanitarie",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 164,
+    "status": "approved",
+    "seoTitle": "Rientro al lavoro dopo una lesione: conservare gli elementi sul danno residuo",
+    "description": "Come documentare il rientro al lavoro dopo una lesione distinguendo idoneità alla mansione, difficoltà concrete e conseguenze risarcitorie.",
+    "bodyMarkdown": "Tornare al lavoro non significa necessariamente aver recuperato tutte le capacità precedenti. Il rientro può avvenire con limitazioni, adattamenti o maggiore fatica. Per valutare il danno residuo occorre distinguere giudizi sanitari, mansioni effettive e conseguenze economiche, senza assumere che la presenza in servizio risolva ogni questione.\n\n## Conservare la documentazione del rientro\n\nSi raccolgono certificazioni, giudizi pertinenti alla mansione, comunicazioni aziendali e indicazioni sulle attività assegnate. Il significato di ciascun documento va letto nel suo ambito. Una valutazione relativa alla possibilità di svolgere un compito non coincide automaticamente con la quantificazione medico-legale dei postumi.\n\nÈ utile annotare la data del rientro e i cambiamenti successivi. Se le mansioni vengono modificate, si conservano gli atti disponibili e si descrive il lavoro concreto. Il confronto tra prima e dopo deve basarsi sulle attività reali, non soltanto sulla qualifica riportata nel contratto.\n\n## Descrivere adattamenti e difficoltà\n\nRiduzione di sforzi, uso di ausili, pause o supporto di colleghi possono rendere possibile il lavoro. Questi elementi vanno descritti con precisione, senza considerare automaticamente ogni adattamento una perdita economica. La valutazione deve distinguere conseguenze personali, organizzative e patrimoniali.\n\nUn diario può registrare attività difficili e modifiche, ma non sostituisce la valutazione sanitaria. Sintomi e problemi di salute devono essere riferiti ai professionisti competenti. Non è opportuno affrontare mansioni incompatibili con le indicazioni ricevute per dimostrare la propria disponibilità o costruire una prova.\n\n## Collegare postumi e lavoro specifico\n\nUna menomazione può incidere diversamente su professioni differenti. Il consulente medico-legale ha bisogno di conoscere gesti, strumenti, ritmi e responsabilità della mansione. Una descrizione generica come “lavoro manuale” può non essere sufficiente a comprendere l'effetto concreto.\n\nIl [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) riguarda la tutela delle condizioni di lavoro. La sua applicazione e l'eventuale contestazione di condotte successive al rientro richiedono una valutazione distinta rispetto all'infortunio iniziale. Non ogni difficoltà residua dimostra una nuova violazione del datore di lavoro.\n\n## Documentare effetti economici\n\nSe cambiano retribuzione, orari, straordinari o prospettive documentabili, si raccolgono buste paga e atti pertinenti. Occorre distinguere variazioni dovute alla lesione da quelle legate ad altre cause. Il solo confronto tra due mensilità può essere insufficiente se intervengono premi, stagionalità o assenze differenti.\n\nIl [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) e il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) richiedono un collegamento tra fatto e perdite economiche. Il mantenimento dello stesso stipendio non elimina necessariamente ogni danno alla persona; allo stesso tempo, una percentuale di postumi non dimostra automaticamente una pari riduzione del reddito.\n\n## Tenere coordinati i diversi percorsi\n\nPratica INAIL, valutazione sanitaria aziendale e domanda civile hanno finalità e regole differenti. I documenti possono essere utili in più ambiti, ma gli esiti non si trasferiscono automaticamente. Il professionista incaricato deve conoscere i provvedimenti e le prestazioni già ricevute.\n\nPrima di definire una richiesta, si verifica se il rientro abbia chiarito o modificato le conseguenze previste. Un fascicolo aggiornato consente di rappresentare ciò che la persona riesce a fare, ciò che richiede adattamenti e ciò che rimane limitato. Questa precisione tutela meglio di un'alternativa rigida tra completa guarigione e impossibilità assoluta di lavorare.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il rientro dimostra che non ci sono postumi?",
+        "answer": "No. Capacità di riprendere il lavoro e valutazione delle conseguenze residue sono questioni da distinguere."
+      },
+      {
+        "question": "Se lo stipendio è uguale non esiste alcun danno?",
+        "answer": "Non necessariamente. Le conseguenze personali e quelle economiche hanno presupposti diversi e devono essere valutate separatamente."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Postazione di lavoro ergonomica vuota con supporto regolabile e utensili leggeri ordinati, ambiente professionale generico e luminoso. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Postazione di lavoro ergonomica vuota con supporto regolabile e utensili leggeri ordinati, ambiente professionale generico e luminoso",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-083.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "f8d78646ed3817e8239cb4fc07ff3094a4dbc27b3f0ca1365c0d2c82ed66b0bd",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 585,
+    "contentHash": "d6f872c94cd745cf86084e6a5596c551c8e309de6e4f845f7fdfd43f66849bee",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-30",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "8d1866d1627657712a7bec0a50346b79687079717b048b5254585e7616ed1c0c",
+    "sha256": "4df32eeddd1c814032541a75294d4773f90302233ec5167424e70cb864a5b838"
+  }
+}

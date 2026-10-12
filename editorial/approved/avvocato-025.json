@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-025",
+    "site": "avvocato",
+    "sequence": 25,
+    "area": "Cassazione civile",
+    "slug": "cambiare-difensore-prima-della-cassazione-il-passaggio-del-fascicolo",
+    "title": "Cambiare difensore prima della Cassazione: il passaggio del fascicolo",
+    "intent": "Trasmettere in modo completo gli atti senza perdere scadenze",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 48,
+    "status": "approved",
+    "seoTitle": "Cambiare difensore prima della Cassazione: il passaggio del fascicolo",
+    "description": "Passaggio del fascicolo a un cassazionista: documenti, notifiche, mandato e coordinamento quando cambia il difensore dopo l’appello.",
+    "bodyMarkdown": "Dopo l'appello il cliente decide di affidare la valutazione a un altro avvocato. Il passaggio richiede più della consegna della sentenza: il nuovo professionista deve ricostruire le domande, le difese e le scadenze, mentre il precedente può essere ancora destinatario di atti rilevanti.\n\n## Trasmettere subito la decisione e le date\n\nLa prima comunicazione dovrebbe contenere il provvedimento integrale e ogni notifica o comunicazione disponibile. Se esiste una scadenza ravvicinata, la si segnala senza aspettare il completamento dell'archivio. Sarà il professionista a verificare il termine: il cliente non deve presumere che un nuovo incarico faccia ripartire i tempi.\n\nIl [Codice di procedura civile — art. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art85) disciplina revoca e rinuncia alla procura, precisando il rapporto con la sostituzione del difensore nei confronti dell'altra parte. È quindi importante coordinare il cambiamento anche sul piano processuale. Una decisione privata del cliente non risolve, da sola, ogni aspetto delle comunicazioni nel giudizio.\n\n## Il nucleo del fascicolo\n\nPer la valutazione servono normalmente sentenze, atti introduttivi, difese rilevanti, conclusioni, motivi di appello, verbali e produzioni su cui si fondano le questioni. Le consulenze tecniche devono comprendere osservazioni e allegati. La selezione finale compete al cassazionista, ma il materiale deve poter essere recuperato senza ricostruzioni approssimative.\n\nUn elenco di consegna aiuta a distinguere documenti ricevuti, mancanti e richiesti. Per ogni file si mantiene il nome o numero usato nel processo, aggiungendo una descrizione leggibile. Le copie annotate dal cliente possono essere utili, purché restino separate dalle versioni ufficialmente depositate.\n\n## Una sintesi personale, senza riscrivere gli atti\n\nIl cliente può spiegare in una nota l'obiettivo pratico, i punti che ritiene critici e le eventuali vicende successive. È utile distinguere ciò che risulta nei documenti da ciò che viene ricordato. La nota orienta l'analisi ma non sostituisce gli atti né decide quali motivi siano proponibili.\n\nÈ importante riferire anche elementi sfavorevoli, accordi, pagamenti, rinunce o comunicazioni già avvenute. Un secondo parere è più affidabile quando parte da un quadro completo. Presentare soltanto la parte della storia che sostiene il ricorso rischia di produrre una valutazione destinata a cambiare quando emergano gli altri documenti.\n\n## Nuovo mandato e ambito dell'incarico\n\nLa valutazione preliminare e la redazione del ricorso possono costituire attività distinte da chiarire con il professionista. Occorre sapere quali documenti saranno esaminati, quale risposta verrà fornita e quali ulteriori attività richiedano un incarico. Questo evita che il cliente consideri già avviata un'impugnazione quando è stata richiesta soltanto un'analisi.\n\nPer il ricorso civile il [Codice di procedura civile — art. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art365) richiede un avvocato iscritto nell'apposito albo e una procura speciale. La predisposizione del mandato deve quindi essere coordinata con i tempi dell'esame, senza rinviare la firma all'ultimo passaggio utile.\n\n## Chiudere il trasferimento in modo verificabile\n\nAl termine della consegna si controlla che il nuovo difensore disponga degli atti essenziali e sappia chi conservi gli eventuali originali. Le comunicazioni ancora in arrivo devono essere inoltrate tempestivamente attraverso il canale concordato. Il cliente dovrebbe conservare un proprio indice, evitando invii ripetuti di versioni diverse senza spiegazione.\n\nIl cambio di difensore può offrire una lettura nuova, ma non modifica i limiti del giudizio di Cassazione. Il suo valore dipende dalla qualità della ricostruzione: fascicolo completo, mandato chiaro, scadenze controllate e un obiettivo concretamente valutabile sulla decisione ricevuta.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il cambio di avvocato prolunga il termine per ricorrere?",
+        "answer": "Non si deve presumere alcuna proroga. La scadenza va verificata subito sugli atti e sulle notificazioni."
+      },
+      {
+        "question": "Basta consegnare la sentenza d’appello?",
+        "answer": "È il punto di partenza, ma per valutare i motivi possono essere indispensabili atti e produzioni dei gradi precedenti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art85",
+        "title": "Codice di procedura civile — art. 85",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 85. (Revoca e rinuncia alla procura). La procura può essere sempre revocata e il difensore può sempre rinunciarvi, ma la revoca e la rinuncia non hanno effetto nei confronti dell'altra parte finchè non sia avvenuta la sostituzione del difensore."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art365",
+        "title": "Codice di procedura civile — art. 365",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 365. (Sottoscrizione del ricorso). Il ricorso è diretto alla corte e sottoscritto, a pena d'inammissibilità, da un avvocato iscritto nell'apposito albo, munito di procura speciale."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due cartelle professionali ordinate durante un passaggio su un tavolo, mani anonime e un indice senza testo leggibile, nessuna persona identificabile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due cartelle professionali ordinate durante un passaggio su un tavolo, mani anonime e un indice senza testo leggibile, nessuna persona identificabile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-025.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "02bb1f4ecd2a1b0c4f3b4a80c0991dc980f1193a90a0a2c3ee4659e8a310c706",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 624,
+    "contentHash": "5f532efe43254d963d227e2800080aab7eb9e64d42a5a5cf9f2986c40cecfd32",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-28",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "751bbbaefc3bb24095ea03ec8c0a1151582ae7dd4316d35b5ca070814e96d189",
+    "sha256": "c996626542b95930585cbdfc6df73e34332175039c185dee0e3fec881df2d967"
+  }
+}

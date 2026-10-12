@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-043",
+    "site": "avvocato",
+    "sequence": 43,
+    "area": "Responsabilità medica",
+    "slug": "infezione-correlata-all-assistenza-ricostruire-il-percorso-documentale",
+    "title": "Infezione correlata all'assistenza: ricostruire il percorso documentale",
+    "intent": "Ordinare colture, ricoveri e misure organizzative senza automatismi",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 84,
+    "status": "approved",
+    "seoTitle": "Infezione correlata all'assistenza: ricostruire il percorso documentale",
+    "description": "Infezione durante un percorso sanitario: quali documenti raccogliere e perché comparsa dell’infezione e responsabilità richiedono verifiche distinte.",
+    "bodyMarkdown": "Dopo un ricovero viene diagnosticata un'infezione. Il paziente vuole capire se sia collegata all'assistenza e se vi siano responsabilità. La coincidenza temporale è un punto da esaminare, ma non basta da sola a dimostrare origine, condotta rilevante e conseguenze attribuibili. Serve una ricostruzione clinica e documentale specifica.\n\n## Seguire la sequenza degli eventi\n\nSi raccolgono accessi, ricoveri, interventi, trasferimenti e controlli successivi. Per ciascuna fase è utile indicare quali sintomi siano stati registrati e quali accertamenti risultino. La cronologia deve basarsi sui documenti, mantenendo separati i ricordi del paziente e dei familiari.\n\nLe date dei prelievi, dei referti e delle comunicazioni non sono necessariamente coincidenti. Il consulente deve poter vedere i documenti completi per interpretarli nel contesto. Non è compito del cliente dedurre autonomamente da un nome di microrganismo quando o dove sia avvenuta l'infezione.\n\n## I documenti che possono chiarire il percorso\n\nOltre alla cartella clinica possono essere pertinenti referti microbiologici, documentazione operatoria, terapie registrate, trasferimenti e lettere di dimissione. L'elenco concreto viene definito con il consulente, evitando richieste indiscriminate o conclusioni basate su un solo esame.\n\nLa [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4) disciplina l'accesso alla documentazione sanitaria per gli aventi diritto. Nella richiesta è utile identificare periodo, struttura e materiale cercato. Se la risposta appare incompleta, si annotano le lacune e si conserva la corrispondenza: la mancanza di un documento deve essere gestita come un dato da approfondire.\n\n## Condotta e conseguenze sono due verifiche\n\nIl quadro della responsabilità civile è delineato dalla [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7). Nel caso concreto bisogna esaminare il comportamento contestato e il rapporto con il danno. Un'infezione può aver comportato cure ulteriori, ricoveri, postumi o spese, ma ciascuna conseguenza richiede documentazione e valutazione causale.\n\nNon è corretto attribuire automaticamente ogni peggioramento successivo all'infezione oppure ogni infezione a una condotta colposa. Il consulente deve considerare condizioni precedenti, percorso assistenziale e spiegazioni alternative. Il lavoro giuridico utilizza questa ricostruzione per individuare la pretesa sostenibile.\n\n## Il profilo organizzativo\n\nA seconda del caso possono rilevare aspetti dell'organizzazione e dell'assistenza, da esaminare attraverso i documenti disponibili e gli strumenti appropriati. Non si può dedurre l'inadeguatezza di un'intera struttura dalla sola vicenda, né presumere che una procedura scritta dimostri automaticamente ciò che è stato fatto.\n\nIl punto è collegare regole, attività effettive e evento. La [Legge 24/2017 — art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5) richiama raccomandazioni e buone pratiche tenendo conto delle specificità concrete. Una linea guida va individuata nella versione e nell'ambito pertinenti, senza applicarla retroattivamente o fuori contesto.\n\n## Documentare il danno senza ritardare le cure\n\nIl paziente deve seguire il percorso sanitario indicato dai curanti; la raccolta del fascicolo legale non sostituisce l'assistenza. Si conservano prescrizioni, spese, controlli e documenti sulle limitazioni riscontrate. Un diario può aiutare a ricordare gli eventi, purché sia distinto dalle certificazioni cliniche.\n\nIl primo esame dovrebbe chiarire quali dati sostengano il dubbio, quali manchino e quale consulenza specialistica sia necessaria. Non fornisce una diagnosi a distanza né una garanzia di risarcimento. Trasforma invece una successione di eventi preoccupanti in domande tecniche verificabili, sulle quali valutare il percorso di tutela.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "L’infezione comparsa dopo il ricovero prova da sola la colpa?",
+        "answer": "No. Occorre esaminare origine, condotte, nesso causale e conseguenze nel caso concreto."
+      },
+      {
+        "question": "Basta un referto microbiologico?",
+        "answer": "È un elemento, ma va letto con cartella, tempi, terapie e intero percorso clinico da professionisti competenti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5",
+        "title": "Legge 24/2017 — art. 5",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 5 Buone pratiche clinico-assistenziali e raccomandazioni previste dalle linee guida 1. Gli esercenti le professioni sanitarie, nell'esecuzione delle prestazioni sanitarie con finalità preventive, diagnostiche, terapeutiche, palliative, riabilitative e di medicina legale, si attengono, salve le specificità del caso concreto, alle raccomandazioni previste dalle linee guida pubblicate ai sensi del comma 3 ed elaborate da enti e istituzioni pubblici e privati nonché dalle società scientifiche e dalle associazioni tecnico-scientifiche delle professioni sanitarie iscritte in apposito elenco istituito e regolamentato con decreto del Ministro della salute, da emanare entro novanta giorni […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Referti senza dati leggibili accanto a una provetta chiusa neutra e una cartella sanitaria, ambiente pulito, nessun paziente o immagine allarmistica. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Referti senza dati leggibili accanto a una provetta chiusa neutra e una cartella sanitaria, ambiente pulito, nessun paziente o immagine allarmistica",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-043.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "a8b33005ff05035c8d4cb99557d695f8069c4d5402137d09807f049b90bedf54",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 589,
+    "contentHash": "cee051b6e9c5d78d7e7bcab39c1361e30b5587a51043e257c7c031486ee4aafe",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-03",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "40d9f1c9fcbe8e9a697e9a13f6bd028128f5e7d1d5af29cdcd7601a52c131a75",
+    "sha256": "85bd90bc9238daf0a504fb2b68c67890c8390e2d59c44e44cfe0964fb9bca6e0"
+  }
+}

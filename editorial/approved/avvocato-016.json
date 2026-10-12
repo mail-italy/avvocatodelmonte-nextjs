@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-016",
+    "site": "avvocato",
+    "sequence": 16,
+    "area": "Cassazione civile",
+    "slug": "spese-di-lite-in-cassazione-leggere-il-capo-economico-della-sentenza",
+    "title": "Spese di lite in Cassazione: leggere il capo economico della sentenza",
+    "intent": "Esaminare soccombenza, motivi autonomi e conseguenze economiche",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 30,
+    "status": "approved",
+    "seoTitle": "Spese di lite in Cassazione: leggere il capo economico della sentenza",
+    "description": "Spese di lite e ricorso civile: distinguere quanto dovuto al proprio avvocato, quanto liquidato dal giudice e i possibili motivi sul capo spese.",
+    "bodyMarkdown": "La parte ottiene un risultato favorevole, ma ritiene troppo basso il rimborso delle spese; oppure perde e considera eccessiva la somma liquidata alla controparte. Prima di valutare la Cassazione va distinto il compenso concordato con il proprio difensore dalla regolazione delle spese effettuata dal giudice.\n\n## Due rapporti economici differenti\n\nL'incarico professionale regola il rapporto tra cliente e avvocato. La sentenza stabilisce invece, secondo la disciplina processuale, se e quanto una parte debba rimborsare all'altra. Le cifre possono non coincidere. Il fatto di avere pagato un certo importo al proprio legale non dimostra automaticamente che il giudice dovesse liquidare proprio quella somma.\n\nIl [Codice di procedura civile — art. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art91) contiene la regola sulla condanna alle spese; il [Codice di procedura civile — art. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art92) disciplina ulteriori profili, compresa la compensazione nei casi consentiti. Il primo esame deve individuare quale regola si assume violata, evitando di ridurre la censura al confronto tra il totale desiderato e quello riconosciuto.\n\n## Leggere il risultato complessivo della causa\n\nUna vittoria soltanto parziale può incidere sulla valutazione. Occorre ricostruire domande, eccezioni, importi richiesti ed esiti. La percezione di avere ottenuto il risultato principale non esclude che altri capi siano stati respinti. Anche una proposta conciliativa e il suo contenuto possono entrare nella verifica quando la disciplina lo preveda.\n\nÈ utile preparare un prospetto per ciascun grado: risultato, spese liquidate, soggetti tenuti al pagamento ed eventuale compensazione. Questo permette di capire se il problema riguardi una singola voce, la motivazione, il criterio applicato oppure l'effetto di una diversa decisione sul merito.\n\n## Verificare il testo e il calcolo\n\nUn errore materiale nel totale non si affronta necessariamente come una contestazione giuridica della liquidazione. Bisogna distinguere un conteggio sbagliato dalla scelta del criterio o dalla valutazione delle attività. Una cifra incoerente con le altre parti del provvedimento richiede la lettura dell'intera decisione.\n\nServono la nota spese depositata, gli atti che documentano le fasi svolte e la decisione completa. Se la critica riguarda parametri applicabili, valore o scaglione, questi devono essere verificati nella versione pertinente e in relazione alla controversia. Non è corretto usare un calcolatore generico come prova conclusiva dell'errore.\n\n## Valutare l'utilità del ricorso\n\nLa Cassazione è un giudizio di legittimità: la censura sul capo spese va collegata ai motivi consentiti dal [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360). Il solo desiderio di ottenere una liquidazione più alta o più bassa non identifica quel motivo. Il professionista deve spiegare la regola censurata e il risultato realisticamente perseguibile.\n\nOccorre anche confrontare l'interesse economico con costi e rischi dell'impugnazione. Questa valutazione non coincide con una promessa di convenienza: dipende dalla questione tecnica, dall'importo in discussione e dalla presenza di altri motivi. Un ricorso proposto soltanto sulle spese richiede la stessa attenzione all'ammissibilità di ogni altra impugnazione.\n\n## Preparare un confronto trasparente\n\nIl cliente dovrebbe portare sentenze, note spese, preventivi e pagamenti, mantenendo distinti i rispettivi scopi. Il difensore potrà chiarire quali documenti riguardino il rapporto professionale e quali il rimborso processuale. Se esistono accordi con la controparte, vanno inclusi nella lettura.\n\nIl risultato utile è una spiegazione comprensibile di ciò che è dovuto, di ciò che è contestabile e del rimedio eventualmente appropriato. La precisione su queste differenze evita aspettative costruite sulla sola somma finale stampata nel dispositivo.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La vittoria comporta sempre il rimborso integrale della mia parcella?",
+        "answer": "Non automaticamente. Il rapporto con il proprio avvocato e la liquidazione delle spese verso la controparte sono distinti."
+      },
+      {
+        "question": "Una cifra sbagliata richiede sempre ricorso per Cassazione?",
+        "answer": "No. Va distinto l’errore materiale dal problema giuridico relativo alla regolazione o quantificazione delle spese."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art91",
+        "title": "Codice di procedura civile — art. 91",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 91. (Condanna alle spese). Il giudice, con la sentenza che chiude il processo davanti a lui, condanna la parte soccombente al rimborso delle spese a favore dell'altra parte e ne liquida l'ammontare insieme con gli onorari di difesa. Se accoglie la domanda in misura non superiore all'eventuale proposta conciliativa, condanna la parte che ha rifiutato senza giustificato motivo la proposta al pagamento delle spese del processo maturate dopo la formulazione della proposta, salvo quanto disposto dal secondo comma dell'articolo 92. Le spese della sentenza sono liquidate dal cancelliere con […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art92",
+        "title": "Codice di procedura civile — art. 92",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 92. (Condanna alle spese per singoli atti. Compensazione delle spese). Il Giudice, nel pronunciare la condanna di cui all'articolo precedente, può escludere la ripetizione delle spese sostenute dalla parte vincitrice, se le ritiene eccessive o superflue; e può, indipendentemente dalla soccombenza, condannare una parte al rimborso delle spese, anche non ripetibili, che, per trasgressione al dovere di cui all'art. 88, essa ha causato all'altra parte. Se vi è soccombenza reciproca ovvero nel caso di assoluta novità della questione trattata o mutamento della giurisprudenza rispetto alle questioni dirimenti, il giudice […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Calcolatrice spenta, ricevute prive di scritte leggibili e due fascicoli distinti su un tavolo, composizione ordinata senza denaro in vista. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Calcolatrice spenta, ricevute prive di scritte leggibili e due fascicoli distinti su un tavolo, composizione ordinata senza denaro in vista",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-016.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "9a18abc9eb6e34bf67db6955367350aada936731d6cc8e39f567d5d3e67da107",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 626,
+    "contentHash": "0e84f46cc5d3a4b6286e9846968b0a229b9fa3cb2a492fd39ce1dd5bcb62fd80",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-09",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "30a58c1a8e528aed53c9adb056f314fd63e24cda9be8b031238d43cbdffbf903",
+    "sha256": "26b5384fa0e0dd57b3ecf088b0023c5722596a8faa713914dfabfb41a8c875dc"
+  }
+}

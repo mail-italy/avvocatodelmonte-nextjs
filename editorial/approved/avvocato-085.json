@@ -1,0 +1,85 @@
+{
+  "article": {
+    "id": "avvocato-085",
+    "site": "avvocato",
+    "sequence": 85,
+    "area": "Infortuni sul lavoro",
+    "slug": "aggravamento-dei-postumi-da-infortunio-distinguere-revisione-inail-e-danno-civile",
+    "title": "Aggravamento dei postumi da infortunio: distinguere revisione INAIL e danno civile",
+    "intent": "Identificare percorsi differenti e documenti aggiornati",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 168,
+    "status": "approved",
+    "seoTitle": "Aggravamento dei postumi da infortunio: distinguere revisione INAIL e danno civile",
+    "description": "Come distinguere la revisione delle prestazioni INAIL dalla valutazione di un aggravamento nella richiesta di risarcimento civile.",
+    "bodyMarkdown": "Se le conseguenze di un infortunio peggiorano, occorre capire quale valutazione aggiornare e attraverso quale percorso. La revisione delle prestazioni INAIL e la richiesta civile non coincidono. Hanno presupposti, regole e possibili effetti differenti, anche quando utilizzano parte della stessa documentazione sanitaria.\n\n## Descrivere il cambiamento clinico\n\nIl primo confronto riguarda condizioni precedentemente accertate e situazione attuale. Si raccolgono provvedimenti, relazioni, nuovi esami e visite. Un peggioramento riferito dal lavoratore deve essere valutato clinicamente e collegato all'infortunio, considerando anche eventuali fatti successivi.\n\nNon basta che sia cambiata una percentuale in un parere privato. Occorre capire quali funzioni siano peggiorate, quando e sulla base di quali dati. Se il nuovo elaborato utilizza criteri diversi, la differenza potrebbe non rappresentare un aggravamento reale.\n\nNel confronto è utile mantenere separati il referto originario e quello recente, indicando per ciascuno la funzione esaminata e il metodo utilizzato. Per esempio, una diversa descrizione della mobilità non è ancora una misura comparabile se gli esami sono stati svolti in condizioni differenti. Il consulente deve poter riconoscere questi limiti prima di attribuire un significato alla variazione.\n\n## Identificare la prestazione già riconosciuta\n\nIndennizzo in capitale e rendita richiedono verifiche differenti. La pagina ufficiale [INAIL su aggravamento e revisione](https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/aggravamento-del-danno-e-revisione-della-rendita-lavoratore-dipendente.html) distingue i percorsi e chiarisce che la revisione della rendita può comportare conferma, aumento o diminuzione del grado riconosciuto.\n\nOccorre quindi leggere il provvedimento concreto e verificare requisiti e tempi applicabili. Non è prudente utilizzare un unico termine generico per qualunque prestazione o confondere infortunio e malattia professionale. Le comunicazioni ricevute devono essere conservate con prova della data.\n\n## Preparare la documentazione per il percorso pertinente\n\nUn fascicolo utile comprende valutazione precedente, nuovi dati clinici e spiegazione del collegamento. Il professionista incaricato può verificare se servano ulteriori accertamenti e quali documenti accompagnino la domanda. La presenza di cure nuove non dimostra automaticamente un aggravamento dei postumi permanenti.\n\nSe esistono altri eventi lesivi, vanno segnalati. La ricostruzione deve distinguere evoluzione dell'infortunio originario e conseguenze diverse. Omettere un episodio perché sembra sfavorevole può rendere meno attendibile l'intero confronto.\n\n## Esaminare separatamente la situazione civile\n\nPer una pretesa risarcitoria occorre verificare responsabilità, danno e stato dei rapporti già definiti. Il [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) riguarda la tutela delle condizioni di lavoro, mentre il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) e il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) orientano la valutazione delle conseguenze. Un riconoscimento INAIL non determina automaticamente l'esito della domanda civile.\n\nSe è già stato firmato un accordo o pronunciata una decisione, bisogna esaminarne il perimetro prima di ipotizzare nuove richieste. Non ogni peggioramento consente di riaprire ciò che è stato definito. Il testo della liberatoria e le conseguenze considerate all'epoca sono elementi da valutare professionalmente.\n\n## Coordinare importi e decisioni\n\nPrestazioni ricevute, revisioni e pagamenti civili devono essere documentati per titolo e funzione. Il loro rapporto non si risolve sommando o sottraendo automaticamente tutti gli importi. La verifica richiede di comprendere quali componenti siano state considerate nei diversi percorsi.\n\nIl lavoratore può facilitare il controllo conservando un archivio unico delle fonti, con sezioni separate per INAIL e controversia civile. Questa organizzazione permette di aggiornare la tutela senza confondere procedimenti, scadenze o valutazioni. Il punto iniziale resta dimostrare che cosa sia realmente cambiato rispetto alla situazione precedentemente accertata.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La revisione della rendita può soltanto aumentarla?",
+        "answer": "No. INAIL indica che la valutazione può confermare, aumentare o diminuire il grado riconosciuto."
+      },
+      {
+        "question": "Un aggravamento riapre automaticamente un accordo civile?",
+        "answer": "No. Occorre leggere l’accordo e valutare natura delle conseguenze, effetti della definizione e disciplina applicabile."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      },
+      {
+        "url": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/aggravamento-del-danno-e-revisione-della-rendita-lavoratore-dipendente.html",
+        "title": "INAIL — Aggravamento del danno e revisione della rendita",
+        "checkedAt": "2026-10-12",
+        "supports": "Distingue indennizzo in capitale e rendita; la revisione della rendita può confermare, aumentare o diminuire il grado riconosciuto."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due cartelle anonime di valutazioni mediche successive con un ausilio ortopedico sullo sfondo, composizione ordinata senza numeri leggibili. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due cartelle anonime di valutazioni mediche successive con un ausilio ortopedico sullo sfondo, composizione ordinata senza numeri leggibili",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-085.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "5c5f9c6ea9efba1074bb97b2be99d982db8e337b309a7476260dba24efc98c47",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 609,
+    "contentHash": "7efce0fb9f57a0e3975f2c9573a5c97b1fa0a08a8d5d14f86ead847e668ff377",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-21",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "3331993d2bccdd493e9cb53bfde7d241a970cc0e937b05f92d7cab86d0172aa5",
+    "sha256": "96647a0d1a878b7d1b0f3d2a877e4bacbc6ff9e93dc515ad38a409f15ec311b8"
+  }
+}

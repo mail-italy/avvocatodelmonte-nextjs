@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-019",
+    "site": "avvocato",
+    "sequence": 19,
+    "area": "Cassazione civile",
+    "slug": "revocazione-e-ricorso-per-cassazione-perche-non-sono-rimedi-intercambiabili",
+    "title": "Revocazione e ricorso per Cassazione: perché non sono rimedi intercambiabili",
+    "intent": "Capire quale tipo di errore deve essere esaminato",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 36,
+    "status": "approved",
+    "seoTitle": "Revocazione e ricorso per Cassazione: perché non sono rimedi intercambiabili",
+    "description": "Revocazione e Cassazione civile: come individuare il tipo di errore, conservare i documenti e scegliere il rimedio senza sovrapporli.",
+    "bodyMarkdown": "Una parte ritiene che la sentenza abbia frainteso un documento e pensa a un nuovo ricorso. Prima di scegliere fra Cassazione e revocazione è necessario qualificare l'errore: una percezione del fatto, una valutazione della prova e una interpretazione della legge non sono la stessa cosa.\n\n## Due strumenti con presupposti propri\n\nIl [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360) regola i motivi del ricorso civile per Cassazione. Il [Codice di procedura civile — art. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art395) individua invece specifici casi di revocazione. Non sono due tentativi successivi liberamente utilizzabili quando il primo risultato non soddisfa. Ogni rimedio deve corrispondere al vizio effettivamente denunciato.\n\nFra i casi previsti per la revocazione si trova l'errore di fatto alle condizioni indicate dalla norma. Non coincide con qualsiasi valutazione ritenuta sbagliata. La distinzione richiede di leggere il fatto che il giudice ha supposto, il contenuto degli atti e il ruolo della questione nel precedente contraddittorio.\n\n## Dato percepito e valutazione\n\nSupponiamo, in astratto, che una decisione affermi l'inesistenza di un documento che risulta inequivocabilmente nel fascicolo. Il difensore deve verificare se il caso rientri nei presupposti del rimedio e se quel punto sia stato controverso. Diversa può essere la situazione in cui il documento è stato letto ma considerato non sufficiente a provare la pretesa.\n\nIl cliente dovrebbe quindi evitare formule generiche come “il giudice non ha capito”. È più utile indicare la frase della sentenza, l'atto rilevante, la pagina e il rapporto con il risultato. Questa descrizione permette di distinguere ciò che emerge direttamente dal fascicolo da ciò che richiede una nuova valutazione.\n\n## Il documento ritrovato dopo la sentenza\n\nAnche il ritrovamento di un documento decisivo è disciplinato dall'articolo 395 attraverso presupposti specifici. La sola scoperta tardiva non assicura l'accesso alla revocazione. Occorre ricostruire perché non sia stato prodotto prima, quando sia diventato disponibile e quale incidenza abbia sulla decisione.\n\nSi conservano il documento originale e le informazioni sulla provenienza, senza aggiungere date o annotazioni che possano confonderne la storia. Una relazione separata può descrivere le circostanze del ritrovamento, distinguendo fatti documentati e ricordi personali. Il professionista valuterà quali elementi siano necessari e utilizzabili.\n\n## La decisione della Cassazione richiede una verifica specifica\n\nQuando il provvedimento da esaminare è della stessa Corte di Cassazione, la disciplina del [Codice di procedura civile — art. 391bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art391bis) deve essere considerata nel suo ambito. Non è corretto trasferire automaticamente a questa situazione tutte le regole pensate per altri provvedimenti. Anche gli effetti sul giudizio e sull'esecuzione richiedono un esame puntuale.\n\nUn risultato sfavorevole non dimostra, da solo, che sia stato commesso un errore revocatorio. La richiesta deve restare ancorata ai presupposti previsti dalla legge. Presentare lo stesso dissenso con una nuova etichetta può generare un'ulteriore iniziativa senza concreta utilità.\n\n## Organizzare il primo esame\n\nServono tutte le decisioni rilevanti, gli atti cui l'errore si riferisce, le notifiche e una cronologia dei fatti successivi. Il controllo dei termini va svolto subito: aspettare di completare una lunga ricerca personale può ridurre il tempo utile per il rimedio appropriato.\n\nIl parere dovrebbe spiegare quale tipo di errore sia ipotizzato, quali requisiti risultino documentati e quali invece manchino. La scelta del percorso nasce da questa qualificazione, insieme alla verifica della decisività e dell'interesse concreto, non dalla preferenza per lo strumento apparentemente più accessibile.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Revocazione significa chiedere semplicemente di rifare il processo?",
+        "answer": "No. È un rimedio previsto per casi specifici, con presupposti e limiti propri."
+      },
+      {
+        "question": "Ogni documento ritrovato consente la revocazione?",
+        "answer": "No. Vanno verificati decisività, ragioni della mancata produzione e gli altri requisiti del caso previsto dalla legge."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art395",
+        "title": "Codice di procedura civile — art. 395",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 395. (Casi di revocazione). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate per revocazione: 1) se sono l'effetto del dolo di una delle parti in danno dell'altra; 2) se si è giudicato in base a prove riconosciute o comunque dichiarate false dopo la sentenza oppure che la parte soccombente ignorava essere state riconosciute o dichiarate tali prima della sentenza; 3) se dopo la sentenza sono stati trovati uno o più documenti decisivi che la parte non aveva potuto produrre in giudizio per causa di […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art391bis",
+        "title": "Codice di procedura civile — art. 391bis",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 391-bis. (Correzione degli errori materiali e revocazione delle sentenze della Corte di Cassazione) Se la sentenza, l'ordinanza o il decreto di cui all'articolo 380-bis pronunciati dalla Corte di cassazione sono affetti da errore materiale o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata può chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione può essere chiesta, e può essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione può […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due percorsi disegnati con oggetti neutri su un tavolo, ciascuno conduce a un fascicolo distinto, con lente al centro e nessuna parola leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due percorsi disegnati con oggetti neutri su un tavolo, ciascuno conduce a un fascicolo distinto, con lente al centro e nessuna parola leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-019.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "cb8d7a0005851afdfbae084771c77a5310b141c4ef434a78e8c4d041d5b97624",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 619,
+    "contentHash": "51e7ad4a00037386733161402926a88fd52555560d00175d06c1b3ce04e42b1b",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-07",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "fde4ea4d75ebe5b6a7f2576861a82adb09d8ea1bcbe3d2e52dc95df4bd93dc88",
+    "sha256": "ae6554fbbcb9185e4cceef4e929416d75e5cb441737c51e742aa317966644887"
+  }
+}

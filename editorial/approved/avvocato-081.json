@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-081",
+    "site": "avvocato",
+    "sequence": 81,
+    "area": "Infortuni sul lavoro",
+    "slug": "macchinario-che-cambia-dopo-l-infortunio-conservare-le-informazioni-tecniche",
+    "title": "Macchinario che cambia dopo l'infortunio: conservare le informazioni tecniche",
+    "intent": "Documentare stato e trasformazioni attraverso canali legittimi",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 160,
+    "status": "approved",
+    "seoTitle": "Macchinario che cambia dopo l'infortunio: conservare le informazioni tecniche",
+    "description": "Come preservare documenti e informazioni quando un macchinario viene riparato, modificato o sostituito dopo un infortunio.",
+    "bodyMarkdown": "Dopo un infortunio, un macchinario può essere fermato, riparato o sostituito per ragioni di sicurezza e produzione. Il cambiamento rende importante documentare quale fosse la configurazione al momento dell'evento. Non prova da solo una colpa precedente, ma può rendere più difficile la ricostruzione se mancano informazioni affidabili.\n\n## Identificare la macchina e la configurazione\n\nSi raccolgono dati identificativi, manuali, fotografie disponibili e informazioni sugli accessori utilizzati. Due macchine dello stesso modello possono avere allestimenti o modifiche differenti. Anche la posizione nell'ambiente e il rapporto con altre attrezzature possono incidere sulla dinamica.\n\nIl lavoratore dovrebbe descrivere comandi, protezioni e attività effettivamente svolta, distinguendo ciò che conosce direttamente da ciò che ha appreso dopo. Non deve eseguire prove pericolose né accedere senza autorizzazione a luoghi o sistemi aziendali per procurarsi documenti.\n\n## Ricostruire manutenzioni e modifiche\n\nRegistri, ordini di intervento e rapporti tecnici possono mostrare guasti segnalati, controlli e lavori effettuati. È importante distinguere la data del problema, quella della segnalazione e quella dell'intervento. Una manutenzione successiva può riguardare aspetti diversi da quelli coinvolti nell'infortunio.\n\nIl [D.lgs. 81/2008 — art. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art71) disciplina obblighi relativi ad attrezzature, manutenzione e controlli. La verifica richiede di individuare quali prescrizioni fossero pertinenti alla macchina e all'attività, senza presumere che ogni intervento successivo costituisca ammissione di un difetto originario.\n\n## Conservare le versioni documentali\n\nLe fotografie antecedenti e successive devono essere archiviate separatamente con provenienza e data. Se esistono manuali di versioni differenti, vanno identificati. Un documento aggiornato non descrive necessariamente le istruzioni disponibili al momento del fatto.\n\nLe copie annotate possono agevolare la comprensione, ma gli originali vanno mantenuti integri. Eventuali dati digitali devono essere acquisiti attraverso modalità lecite e affidabili. Il legale può valutare richieste di conservazione o accertamenti appropriati, tenendo conto di eventuali attività delle autorità.\n\n## Definire il quesito tecnico\n\nIl consulente dovrebbe sapere quale problema esaminare: accesso a una zona pericolosa, sequenza dei comandi, interblocco, arresto o altra funzione pertinente. Un incarico generico sulla “sicurezza della macchina” rischia di produrre un elaborato ampio ma poco utile alla dinamica concreta.\n\nIl [D.lgs. 81/2008 — art. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art73) richiama informazione, formazione e addestramento sulle attrezzature. La ricostruzione deve quindi considerare anche istruzioni ricevute e situazioni anormali prevedibili, oltre alle caratteristiche materiali. Macchina e organizzazione del lavoro non sono compartimenti isolati.\n\n## Collegare accertamento e richiesta civile\n\nIl [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) fornisce il quadro generale della tutela delle condizioni di lavoro. Per la domanda risarcitoria occorre però individuare condotta, obbligo e collegamento con il danno. La sola differenza tra prima e dopo non risolve tutti questi passaggi.\n\nSe la configurazione originaria non è più accertabile, il limite deve essere dichiarato. Possono restare documenti, testimonianze e altri riscontri, ma non è corretto ricostruire dettagli mancanti come se fossero osservati. Un fascicolo trasparente permette di capire che cosa sia provabile e quali ulteriori acquisizioni potrebbero ancora essere utili, senza sacrificare la sicurezza alla conservazione materiale della macchina.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una modifica dopo l’infortunio dimostra automaticamente una colpa?",
+        "answer": "No. Occorre comprendere motivo, contenuto e rapporto della modifica con la configurazione precedente e con l’evento."
+      },
+      {
+        "question": "Posso ricreare personalmente la manovra per fare un video?",
+        "answer": "Non è opportuno eseguire prove rischiose. Gli accertamenti devono essere valutati e svolti da soggetti competenti con modalità sicure e lecite."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art71",
+        "title": "D.lgs. 81/2008 — art. 71",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 71 Obblighi del datore di lavoro 1. Il datore di lavoro mette a disposizione dei lavoratori attrezzature conformi ai requisiti di cui all'articolo precedente, idonee ai fini della salute e sicurezza e adeguate al lavoro da svolgere o adattate a tali scopi che devono essere utilizzate conformemente alle disposizioni legislative di recepimento delle direttive comunitarie. 2. All'atto della scelta delle attrezzature di lavoro, il datore di lavoro prende in considerazione: a) le condizioni e le caratteristiche specifiche del lavoro da svolgere; b) i rischi presenti nell'ambiente di lavoro; c) […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art73",
+        "title": "D.lgs. 81/2008 — art. 73",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 73 Informazione, formazione e addestramento 1. Nell'ambito degli obblighi di cui agli articoli 36 e 37 il datore di lavoro provvede, affinchè per ogni attrezzatura di lavoro messa a disposizione, i lavoratori incaricati dell'uso dispongano di ogni necessaria informazione e istruzione e ricevano una formazione e un addestramento adeguati, in rapporto alla sicurezza relativamente: a) alle condizioni di impiego delle attrezzature; b) alle situazioni anormali prevedibili. 2. Il datore di lavoro provvede altresì a informare i lavoratori sui rischi cui sono esposti durante l'uso delle attrezzature di lavoro, sulle […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Macchinario industriale spento e isolato in un’officina ordinata, un tecnico non riconoscibile osserva da distanza sicura con una cartella chiusa. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Macchinario industriale spento e isolato in un’officina ordinata, un tecnico non riconoscibile osserva da distanza sicura con una cartella chiusa",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-081.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "2fac8a07274d80f5af83e3bbf7b43098c79118b9640db193681c773f07d59af3",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 570,
+    "contentHash": "eaf71256ac6ad33a484a7e16d6bcc875202218a5ef0b7268ccc5cb4456039980",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-13",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "76c8798ab6b931abbff01bfb9f84aef2d40343a6a6a17dc4686eaeb71dfa9859",
+    "sha256": "08d76128cde65fe2688c06b3e4aa5b83301ae778da0525f88283057ed54c7082"
+  }
+}

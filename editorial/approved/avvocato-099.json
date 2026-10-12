@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-099",
+    "site": "avvocato",
+    "sequence": 99,
+    "area": "Mediazione e risoluzione stragiudiziale",
+    "slug": "mediazione-con-piu-parti-identificare-chi-puo-impegnarsi",
+    "title": "Mediazione con più parti: identificare chi può impegnarsi",
+    "intent": "Coordinare partecipanti e poteri prima di trattare",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/mediazione-risoluzione-stragiudiziale"
+    ],
+    "scheduledOffsetDays": 196,
+    "status": "approved",
+    "seoTitle": "Mediazione con più parti: identificare chi può impegnarsi",
+    "description": "Come preparare una mediazione con più soggetti verificando interessi, partecipazione e poteri necessari per un accordo efficace.",
+    "bodyMarkdown": "Quando una mediazione coinvolge più persone, società o assicuratori, il problema non è soltanto trovare una data comune. Occorre capire chi abbia interesse, chi debba partecipare e chi possa assumere gli impegni necessari. Un'intesa raggiunta al tavolo può restare inefficace se manca il soggetto capace di formalizzarla.\n\n## Mappare le posizioni\n\nSi elencano parti della controversia, rapporti giuridici e risultato cercato. Due soggetti apparentemente allineati possono avere interessi diversi su pagamenti, garanzie o rinunce. La preparazione dovrebbe renderli visibili prima dell'incontro, senza presumere che un rappresentante informale parli per tutti.\n\nÈ utile distinguere chi è titolare del diritto da chi gestisce la pratica o può contribuire economicamente alla soluzione. La presenza di un assicuratore, per esempio, non elimina automaticamente il ruolo dell'assicurato. I rapporti concreti devono essere verificati attraverso i documenti pertinenti.\n\n## Controllare partecipazione e deleghe\n\nIl [D.lgs. 28/2010 — art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8) disciplina partecipazione personale, delega in presenza dei presupposti previsti e rappresentanza dei soggetti diversi dalle persone fisiche. Chi interviene deve conoscere i fatti e avere i poteri necessari per la composizione della controversia.\n\nIl controllo non dovrebbe limitarsi all'identità. Una persona potrebbe essere autorizzata a partecipare ma non a disporre di un bene o assumere una garanzia. La forma e l'ampiezza dei poteri vanno coordinate con gli atti che l'accordo potrebbe richiedere.\n\n## Individuare decisioni e autorizzazioni interne\n\nSocietà, enti e soggetti rappresentati possono avere processi decisionali specifici. È opportuno sapere prima dell'incontro quali approvazioni siano già disponibili e quali richiedano ulteriori passaggi. Non si deve presentare come definitivo ciò che resta subordinato a una decisione altrui.\n\nUna proposta può prevedere condizioni, ma queste devono essere comprensibili e gestite correttamente. Se tutti sanno che un'approvazione manca, il procedimento può essere organizzato di conseguenza. Nascondere il limite dei poteri rischia invece di vanificare il lavoro negoziale.\n\n## Distinguere accordo globale e parziale\n\nUna soluzione potrebbe riguardare soltanto alcune parti o alcune domande. Occorre verificare se sia praticabile senza pregiudicare rapporti con gli altri soggetti e quali questioni restino aperte. La liberatoria deve corrispondere al perimetro effettivamente concordato.\n\nIl [D.lgs. 28/2010 — art. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art11) disciplina conclusione e formalizzazione dell'accordo. Se l'intesa richiede trasferimenti o altri atti con particolari formalità, queste devono essere considerate prima della firma. Il verbale non elimina la necessità dei requisiti previsti per l'operazione concreta.\n\n## Preparare obblighi e attuazione\n\nOgni impegno dovrebbe avere un soggetto, un contenuto e una modalità di esecuzione. Nei pagamenti ripartiti si chiarisce chi versi quale somma e che cosa accada se uno non adempie. Le garanzie e le rinunce devono essere lette anche rispetto alle posizioni degli altri partecipanti.\n\nIl [D.lgs. 28/2010 — art. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art12) disciplina l'efficacia esecutiva dell'accordo secondo requisiti specifici. Una preparazione accurata permette di arrivare all'incontro con documenti, poteri e margini negoziali chiari. La presenza di molte parti non impedisce una soluzione, ma richiede che il consenso sia attribuibile ai soggetti giusti e che gli obblighi possano essere effettivamente realizzati.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [mediazione e risoluzione stragiudiziale](https://avvocatodelmonte.com/mediazione-risoluzione-stragiudiziale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Chi gestisce la pratica può sempre firmare l’accordo?",
+        "answer": "No. Occorre verificare i poteri necessari per gli impegni e gli atti concretamente previsti."
+      },
+      {
+        "question": "È possibile un accordo soltanto con alcune parti?",
+        "answer": "Può essere valutato, controllando rapporti coinvolti, pretese residue ed effetti sugli altri soggetti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8",
+        "title": "D.lgs. 28/2010 — art. 8",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 8 (Procedimento) 1. All'atto della presentazione della domanda di mediazione, il responsabile dell'organismo designa un mediatore e fissa il primo incontro tra le parti, che deve tenersi non prima di venti e non oltre quaranta giorni dal deposito della domanda, salvo diversa concorde indicazione delle parti. La domanda di mediazione, la designazione del mediatore, la sede e l'orario dell'incontro, le modalità di svolgimento della procedura, la data del primo incontro e ogni altra informazione utile sono comunicate alle parti, a cura dell'organismo, con ogni mezzo idoneo ad assicurarne la […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art11",
+        "title": "D.lgs. 28/2010 — art. 11",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 11 (Conclusione del procedimento) 1. Se è raggiunto un accordo di conciliazione, il mediatore forma processo verbale al quale è allegato il testo dell'accordo medesimo. Quando l'accordo non è raggiunto, il mediatore ne dà atto nel verbale e può formulare una proposta di conciliazione da allegare al verbale. In ogni caso, il mediatore formula una proposta di conciliazione se le parti gliene fanno concorde richiesta in qualunque momento del procedimento. Prima della formulazione della proposta, il mediatore informa le parti delle possibili conseguenze di cui all'articolo 13. 2. La […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art12",
+        "title": "D.lgs. 28/2010 — art. 12",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 12 Efficacia esecutiva ed esecuzione 1. Ove tutte le parti aderenti alla mediazione siano assistite dagli avvocati, l'accordo che sia stato sottoscritto dalle parti e dagli stessi avvocati, anche con le modalità di cui all'articolo 8-bis, costituisce titolo esecutivo per l'espropriazione forzata, l'esecuzione per consegna e rilascio, l'esecuzione degli obblighi di fare e non fare, nonché per l'iscrizione di ipoteca giudiziale. Gli avvocati attestano e certificano la conformità dell'accordo alle norme imperative e all'ordine pubblico. L'accordo di cui al presente comma deve essere integralmente trascritto nel precetto ai sensi […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Tavolo ovale con cinque cartelle di colori diversi e sedie vuote, documenti anonimi ordinati al centro, ambiente neutro. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Tavolo ovale con cinque cartelle di colori diversi e sedie vuote, documenti anonimi ordinati al centro, ambiente neutro",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-099.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "8cfca5133732312cc1471fa47da2ee00dad640057184d0be46b63d9fbdb97a20",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 572,
+    "contentHash": "2852d18e0d9e6fa895beb953c9924417cd2e135c71c2f3bf681e38a51864c701",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-11",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "0d109fa2bf4ba1ce6b57a0fbc5ce6148960a89962311bc5f871627a5722e6320",
+    "sha256": "f7e64c915f8c9fe5bd95136dc677c7a7ac05b8bef435491882b27ffdf6e40edb"
+  }
+}

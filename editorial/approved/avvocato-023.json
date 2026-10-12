@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-023",
+    "site": "avvocato",
+    "sequence": 23,
+    "area": "Cassazione civile",
+    "slug": "cronologia-delle-pec-nel-fascicolo-civile-conservare-le-prove-delle-notifiche",
+    "title": "Cronologia delle PEC nel fascicolo civile: conservare le prove delle notifiche",
+    "intent": "Distinguere ricevute, allegati e comunicazioni utili al controllo termini",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 44,
+    "status": "approved",
+    "seoTitle": "Cronologia delle PEC nel fascicolo civile: conservare le prove delle notifiche",
+    "description": "PEC e ricorso civile: come conservare messaggi, ricevute e allegati per permettere al difensore una verifica affidabile delle notifiche.",
+    "bodyMarkdown": "Il cliente inoltra una email al cassazionista e scrive: “La sentenza mi è arrivata ieri”. Il messaggio può essere utile, ma non basta sempre a ricostruire la notificazione. Serve identificare chi abbia ricevuto l'atto, attraverso quale canale, con quali allegati e in quale momento documentato.\n\n## Conservare il messaggio originale\n\nLa prima regola pratica è non sostituire l'originale con una schermata. La fotografia mostra ciò che era visibile in quel momento, ma può omettere dati, ricevute e allegati. Quando possibile si conservano i file originali disponibili, seguendo le istruzioni del professionista per l'esportazione e la trasmissione.\n\nNon occorre modificare la casella o cancellare i messaggi dopo averli inoltrati. È preferibile mantenerli in una cartella identificabile e creare una copia di lavoro. Il legale valuterà quali elementi servano per il controllo e per gli eventuali adempimenti processuali. Il cliente non deve convertire autonomamente ogni file in un formato diverso.\n\n## Distinguere comunicazione e notificazione\n\nUn avviso della cancelleria, una notifica della controparte e una email informale possono avere funzioni differenti. Il fatto che tutti riguardino la stessa sentenza non li rende equivalenti. La cronologia deve riportare la natura del messaggio così come risulta dai documenti, lasciando al difensore la qualificazione giuridica.\n\nAnche il destinatario conta. La ricezione da parte del cliente non coincide necessariamente con quella del difensore costituito. Se si cambia avvocato, bisogna recuperare gli atti pervenuti al precedente professionista e verificare il loro rapporto con le scadenze, senza assumere che queste inizino dal giorno in cui il cliente legge la copia.\n\n## Un indice delle comunicazioni\n\nSi può preparare un elenco con data e ora visibili, mittente, destinatario, oggetto, nomi degli allegati e breve descrizione. Nell'indice si distingue il messaggio originale da un successivo inoltro. Questa distinzione evita che una data di trasmissione interna venga scambiata per la data del passaggio processuale rilevante.\n\nPer ogni allegato si verifica che sia presente e leggibile. Se un messaggio richiama un documento assente, il problema va segnalato subito. Non si recupera un file simile da un'altra cartella presumendo che sia lo stesso: è necessario mantenere la provenienza chiara, soprattutto quando esistono più versioni della decisione.\n\n## Il collegamento con il ricorso\n\nIl [Codice di procedura civile — art. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art369) disciplina il deposito del ricorso e dei documenti richiesti, mentre il [Codice di procedura civile — art. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366) riguarda il suo contenuto. Le informazioni sulle notifiche entrano nel più ampio controllo della regolarità dell'impugnazione. Per questo la raccolta delle PEC deve procedere insieme alla lettura della sentenza e dei motivi.\n\nLa verifica dei termini non va affidata a una tabella costruita senza esaminare gli atti. Il professionista considera il provvedimento, la modalità di comunicazione, la disciplina applicabile e le eventuali vicende rilevanti. Il cliente contribuisce trasmettendo dati completi e segnalando subito qualsiasi atto ricevuto.\n\n## Un invio sicuro e tempestivo\n\nSe i file sono numerosi, si concorda con lo studio il canale di trasferimento e si conserva l'elenco di ciò che è stato consegnato. La presenza di informazioni riservate impone attenzione ai destinatari: un inoltro collettivo non necessario può esporre dati di terzi. Si utilizza il recapito indicato dal professionista.\n\nAl termine si chiede conferma della ricezione dei documenti essenziali, non soltanto del messaggio. L'obiettivo è permettere una ricostruzione affidabile della cronologia, mantenendo separati originali, copie e note. Un archivio ordinato riduce gli equivoci proprio quando il tempo per valutare l'impugnazione è più breve.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Uno screenshot della PEC è sufficiente?",
+        "answer": "Può orientare, ma è opportuno conservare anche messaggio, ricevute e allegati originali disponibili per la verifica del legale."
+      },
+      {
+        "question": "Conta il giorno in cui apro il messaggio?",
+        "answer": "Non si può presumere. Il termine va ricostruito sugli atti e sulle modalità di notificazione applicabili."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art369",
+        "title": "Codice di procedura civile — art. 369",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 369. (Deposito del ricorso). Il ricorso è depositato, a pena d'improcedibilità, nel termine di giorni venti dall'ultima notificazione alle parti contro le quali è proposto. (171) (173) Insieme col ricorso debbono essere depositati, sempre a pena d'improcedibilità: 1) il decreto di concessione del gratuito patrocinio; 2) copia autentica della sentenza o della decisione impugnata con la relazione di notificazione, se questa è avvenuta, tranne che nei casi di cui ai due articoli precedenti; oppure copia autentica dei provvedimenti dai quali risulta il conflitto nei casi di cui ai numeri […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366",
+        "title": "Codice di procedura civile — art. 366",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 366. (Contenuto del ricorso). Il ricorso deve contenere, a pena di inammissibilità: 1) l'indicazione delle parti; 2) l'indicazione della sentenza o decisione impugnata; 3) la chiara esposizione dei fatti della causa essenziali alla illustrazione dei motivi di ricorso; (171) (173) 4) la chiara e sintetica esposizione dei motivi per i quali si chiede la cassazione, con l'indicazione delle norme di diritto su cui si fondano; (171) (173) 5) l'indicazione della procura, se conferita con atto separato e, nel caso di ammissione al gratuito patrocinio, del relativo decreto. 6) la […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Portatile con icone astratte di posta e cartelle senza testo, un orologio analogico non in primo piano e una chiavetta di archiviazione neutra. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Portatile con icone astratte di posta e cartelle senza testo, un orologio analogico non in primo piano e una chiavetta di archiviazione neutra",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-023.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "4435a269e317605c2462192bb618624ff9c0c38763e4a69c4abf6ac97ffa1b93",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 642,
+    "contentHash": "a20a1c531c87480b361e9f24f02f3ef375ad3913be7950451218f2654dc16cbe",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-08",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "ea7694b52aea2a7a28a58f431267f7165a021ea34916c366740c6be8adad33cd",
+    "sha256": "9d9baea9b4260c26a72134df2306f6cf58245f3c051d1841b88bae0f9b4f76a3"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-012",
+    "site": "avvocato",
+    "sequence": 12,
+    "area": "Cassazione civile",
+    "slug": "questioni-nuove-in-cassazione-controllare-dove-il-tema-e-entrato-nel-processo",
+    "title": "Questioni nuove in Cassazione: controllare dove il tema è entrato nel processo",
+    "intent": "Ricostruire allegazioni e domande dei gradi di merito",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 22,
+    "status": "approved",
+    "seoTitle": "Questioni nuove in Cassazione: controllare dove il tema è entrato nel processo",
+    "description": "Questioni nuove in Cassazione civile: come verificare se il tema è già stato introdotto e discusso nei gradi precedenti.",
+    "bodyMarkdown": "Durante la preparazione del ricorso emerge un argomento che nessuno aveva valorizzato prima. Può sembrare la chiave della controversia, ma occorre capire se richieda nuovi fatti, una nuova domanda o soltanto una diversa lettura giuridica del materiale già presente. Non ogni idea maturata dopo la sentenza può essere trasferita direttamente in Cassazione.\n\n## Ricostruire l'ingresso della questione\n\nLa prima domanda è documentale: dove compare il tema nel processo? Si cercano l'atto introduttivo, le difese, le conclusioni e i motivi dell'appello. Non basta che il cliente ne abbia parlato al proprio legale o lo abbia indicato in una email privata. Occorre sapere se e come sia stato portato davanti al giudice.\n\nIl [Codice di procedura civile — art. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366) impone di rendere comprensibili i fatti essenziali e i riferimenti sui quali si fondano i motivi. Per una questione apparentemente nuova, la localizzazione degli atti consente di verificare se la novità sia reale oppure dipenda soltanto dal modo in cui oggi viene formulata.\n\n## Nuovo fatto e nuova argomentazione\n\nUna diversa argomentazione giuridica può presentare problemi differenti rispetto all'introduzione di un fatto mai accertato. Il giudizio di legittimità non permette di ricostruire liberamente una vicenda alternativa attraverso nuovi documenti o testimonianze. Il [Codice di procedura civile — art. 372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art372) conferma i limiti alla produzione documentale in quella sede.\n\nSupponiamo che un contratto sia già agli atti e che venga prospettata una diversa qualificazione del rapporto. Il difensore deve verificare se la questione possa essere decisa sui fatti già acquisiti e se incontri preclusioni. Se invece la tesi dipende da un accordo laterale mai allegato, il problema cambia: non si tratta semplicemente di trovare una norma più favorevole.\n\n## Leggere la risposta dell'appello\n\nTalvolta la questione era presente in primo grado, ma non è stata coltivata in appello; altre volte il giudice l'ha considerata assorbita. L'esame deve seguire l'intero percorso, senza fermarsi alla prima comparsa nella quale il tema è nominato. Una frase isolata potrebbe non equivalere a una domanda o a un motivo di gravame ritualmente proposto.\n\nUna scheda cronologica aiuta: prima deduzione, eventuale contestazione, decisione, impugnazione ed esito. Si riportano riferimenti puntuali, evitando di ricostruire retroattivamente gli atti in base a ciò che sarebbe stato opportuno scrivere. La fedeltà al fascicolo è più utile di una narrazione apparentemente perfetta.\n\n## Le questioni rilevabili d'ufficio\n\nL'esistenza di questioni rilevabili d'ufficio non autorizza a presumere che tutto sia sempre recuperabile. Restano da valutare poteri della Corte, materiale fattuale disponibile, giudicato e contraddittorio. Anche una questione di diritto deve essere collocata nel procedimento concreto.\n\nIl [Codice di procedura civile — art. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art384) contempla il confronto con le parti sulle questioni rilevate d'ufficio poste a fondamento della decisione. Questo riferimento mostra l'importanza del contraddittorio, ma non costituisce una scorciatoia per introdurre liberamente una causa diversa da quella già trattata.\n\n## Preparare la verifica professionale\n\nIl cliente può consegnare l'idea nuova in una nota separata, spiegando da quali documenti nasce e se ne abbia mai parlato nel processo. Il cassazionista potrà distinguere un argomento utilizzabile, una questione preclusa e un tema che richiede ulteriori accertamenti incompatibili con quella sede.\n\nL'obiettivo non è respingere ogni intuizione tardiva, ma verificarne il corretto posto nel giudizio. Questo evita di costruire il ricorso intorno a una questione interessante in astratto ma non decidibile attraverso l'impugnazione disponibile.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Se non ho mai parlato di un fatto in causa posso aggiungerlo ora?",
+        "answer": "Non liberamente. Va verificata la compatibilità con il giudizio di legittimità e con i limiti del materiale acquisito."
+      },
+      {
+        "question": "Un nuovo argomento giuridico è sempre vietato?",
+        "answer": "No, non si può generalizzare. Dipende dai fatti necessari, dalle preclusioni e dalle questioni effettivamente devolute."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366",
+        "title": "Codice di procedura civile — art. 366",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 366. (Contenuto del ricorso). Il ricorso deve contenere, a pena di inammissibilità: 1) l'indicazione delle parti; 2) l'indicazione della sentenza o decisione impugnata; 3) la chiara esposizione dei fatti della causa essenziali alla illustrazione dei motivi di ricorso; (171) (173) 4) la chiara e sintetica esposizione dei motivi per i quali si chiede la cassazione, con l'indicazione delle norme di diritto su cui si fondano; (171) (173) 5) l'indicazione della procura, se conferita con atto separato e, nel caso di ammissione al gratuito patrocinio, del relativo decreto. 6) la […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art372",
+        "title": "Codice di procedura civile — art. 372",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 372. (Produzione di altri documenti). Non è ammesso il deposito di atti e documenti non prodotti nei precedenti gradi del processo, tranne di quelli che riguardano la nullità della sentenza impugnata e l'ammissibilità del ricorso e del controricorso. Il deposito dei documenti relativi all'ammissibilità può avvenire indipendentemente da quello del ricorso e del controricorso, fino a quindici giorni prima dell'udienza o dell'adunanza in camera di consiglio. (171) 173 -----------"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art384",
+        "title": "Codice di procedura civile — art. 384",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 384. (Enunciazione del principio di diritto e decisione della causa nel merito). La Corte enuncia il principio di diritto quando decide il ricorso proposto a norma dell'articolo 360, primo comma, n. 3), e in ogni altro caso in cui, decidendo su altri motivi del ricorso, risolve una questione di diritto di particolare importanza. La Corte, quando accoglie il ricorso, cassa la sentenza rinviando la causa ad altro giudice, il quale deve uniformarsi al principio di diritto e comunque a quanto statuito dalla Corte, ovvero decide la causa nel merito […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una cartella processuale aperta con una nota separata al margine, senza scritte, luce che evidenzia la distinzione tra archivio e nuova osservazione. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una cartella processuale aperta con una nota separata al margine, senza scritte, luce che evidenzia la distinzione tra archivio e nuova osservazione",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-012.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "d50aa235daa191f8bb69f157a322069912c20ff35ad5570dd6662e2e4f54a942",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 639,
+    "contentHash": "85cf29dd8e5fc6c580eae8dc46965f50c43f7706515c8f73ff392f67e58bbbcd",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-14",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "d587efeecfc896acaa14a709746d1bab95e0e4052505300f1b3e4de51f318a09",
+    "sha256": "27e81f7d9b32916d38878121f4a25ee9c079c24ca0f1d8ec6e94cae027b3d778"
+  }
+}

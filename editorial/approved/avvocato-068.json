@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-068",
+    "site": "avvocato",
+    "sequence": 68,
+    "area": "Risarcimento danni",
+    "slug": "concause-nel-danno-alla-persona-ricostruire-una-storia-con-piu-eventi",
+    "title": "Concause nel danno alla persona: ricostruire una storia con più eventi",
+    "intent": "Distinguere antecedenti, evento e conseguenze attribuibili",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 134,
+    "status": "approved",
+    "seoTitle": "Concause nel danno alla persona: ricostruire una storia con più eventi",
+    "description": "Come ricostruire il danno alla persona quando intervengono patologie precedenti, eventi successivi e possibili cause concorrenti.",
+    "bodyMarkdown": "Una storia sanitaria può comprendere un incidente, una patologia precedente e un ulteriore evento durante il recupero. Per valutare il danno non basta scegliere una sola data come origine di tutto. Occorre distinguere le conseguenze e spiegare come i diversi fattori abbiano interagito.\n\n## Costruire una cronologia completa\n\nSi ordinano condizioni precedenti, evento iniziale, cure, miglioramenti, peggioramenti e fatti successivi. Ogni passaggio dovrebbe essere collegato a documenti o a un racconto chiaramente identificato. È importante non eliminare episodi ritenuti sfavorevoli: potrebbero essere proprio quelli necessari a comprendere il quadro.\n\nLa cronologia deve riportare anche periodi di stabilità e recupero. Una sequenza composta soltanto da eventi negativi può suggerire una continuità che i dati non dimostrano. Il consulente ha bisogno dell'intero andamento, non soltanto dei momenti che sembrano sostenere la richiesta.\n\n## Distinguere successione e causalità\n\nUn sintomo comparso dopo un fatto non ne è automaticamente conseguenza. La valutazione richiede coerenza clinica, spiegazioni alternative e rapporto temporale. Quando più fattori sono plausibili, il parere dovrebbe indicare come siano stati confrontati e quali dati abbiano orientato la conclusione.\n\nIl [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223), richiamato dal [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) per il fatto illecito, pone il tema delle conseguenze risarcibili. La ricostruzione medica aiuta a individuare i collegamenti, mentre la qualificazione giuridica del rapporto tra eventi richiede un esame distinto.\n\n## Separare menomazioni e conseguenze economiche\n\nUna nuova lesione può riguardare la stessa funzione già compromessa oppure una funzione diversa. I suoi effetti non si descrivono necessariamente sommando percentuali. Il metodo di valutazione deve spiegare il rapporto tra condizioni preesistenti e peggioramento.\n\nAnche spese e perdite reddituali vanno attribuite con attenzione. Una terapia iniziata dopo il secondo evento potrebbe servire a entrambi i problemi; un periodo di assenza potrebbe dipendere da cause sovrapposte. Se una ripartizione precisa non è possibile, il limite deve essere dichiarato e affrontato tecnicamente.\n\n## Valutare condotte del danneggiato senza automatismi\n\nIl [Codice civile — art. 1227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1227) disciplina il concorso colposo e i danni evitabili con ordinaria diligenza. La sua applicazione non può essere dedotta da un semplice disaccordo sulle scelte personali. Occorre verificare fatti, informazioni disponibili e ragionevolezza della condotta rispetto alla situazione concreta.\n\nPer esempio, un'interruzione delle cure richiede di comprendere motivi, indicazioni ricevute ed effettive possibilità di prosecuzione. Il giudizio non dovrebbe essere costruito retrospettivamente come se ogni scelta fosse stata semplice. Allo stesso tempo, le difficoltà devono essere documentate e non soltanto affermate.\n\n## Preparare una rappresentazione trasparente\n\nUn prospetto può distinguere conseguenze attribuite al primo evento, al secondo e questioni ancora aperte. Si allegano le valutazioni che sostengono la distinzione e si evidenziano eventuali divergenze tra consulenti. Non è utile presentare come certa una ripartizione che nessuno ha motivato.\n\nPrima di trattare una liquidazione, si controlla se esistano richieste o pagamenti relativi agli altri eventi. La loro gestione deve evitare sovrapposizioni e rinunce inconsapevoli. Il risultato di una buona analisi non è sempre una divisione perfetta, ma una spiegazione comprensibile di ciò che può essere attribuito, di ciò che interagisce e di ciò che resta incerto.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Due eventi comportano sempre due danni separati?",
+        "answer": "No. Le conseguenze possono interagire e richiedono una valutazione medica e giuridica coordinata."
+      },
+      {
+        "question": "Posso omettere un incidente successivo se mi sembra poco importante?",
+        "answer": "È preferibile segnalarlo al professionista incaricato, che ne valuterà la pertinenza rispetto al quadro complessivo."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1227",
+        "title": "Codice civile — art. 1227",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1227. (Concorso del fatto colposo del creditore). Se il fatto colposo del creditore ha concorso a cagionare il danno, il risarcimento è diminuito secondo la gravità della colpa e l'entità delle conseguenze che ne sono derivate. Il risarcimento non è dovuto per i danni che il creditore avrebbe potuto evitare usando l'ordinaria diligenza."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una linea temporale rappresentata da tre piccoli oggetti distinti su una scrivania, accanto a referti anonimi, senza scritte o numeri. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una linea temporale rappresentata da tre piccoli oggetti distinti su una scrivania, accanto a referti anonimi, senza scritte o numeri",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-068.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "6e16b8d62f1c1844561a6735b9cd9af1c36c3861d6608fb5f4b889236b9edbe5",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 574,
+    "contentHash": "898e6a7df1cfbd13cb40e7f0bcff8ba0692689eea2e9fc319f985feac88526a8",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-09",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "764a9cd5a1e3e288e163054a834781b4bda7cada42fb9ca60752eee1da473a27",
+    "sha256": "d71ae9b2097459ec77a425da6146a356a3120faf80ff0dce637e4eadac68dde2"
+  }
+}

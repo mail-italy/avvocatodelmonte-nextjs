@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-065",
+    "site": "avvocato",
+    "sequence": 65,
+    "area": "Risarcimento danni",
+    "slug": "relazione-medico-legale-e-documentazione-fiscale-collegare-i-due-fascicoli",
+    "title": "Relazione medico-legale e documentazione fiscale: collegare i due fascicoli",
+    "intent": "Separare danno biologico e perdita patrimoniale",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 128,
+    "status": "approved",
+    "seoTitle": "Relazione medico-legale e documentazione fiscale: collegare i due fascicoli",
+    "description": "Come organizzare referti, prescrizioni e giustificativi economici per rendere comprensibile una richiesta di risarcimento.",
+    "bodyMarkdown": "Il fascicolo sanitario descrive lesioni e cure; quello economico mostra pagamenti, costi e perdite. Per una richiesta risarcitoria efficace devono potersi leggere insieme. Una cartella di ricevute senza collegamenti clinici e una perizia priva dei dati sulle spese lasciano aperte domande diverse ma ugualmente importanti.\n\n## Creare un indice comune\n\nA ogni spesa si può associare data, causale, documento fiscale, prova del pagamento e ragione sanitaria. L'indice non sostituisce gli originali: serve a ritrovarli e a capire il rapporto tra loro. I documenti vanno conservati integralmente, senza ritagliare le parti che sembrano superflue.\n\nUn codice interno semplice permette di collegare una fattura alla prescrizione e alla visita pertinente. Se il collegamento non è certo, si annota il dubbio. È preferibile dichiarare una voce da verificare piuttosto che presentarla come definitivamente attribuibile all'evento.\n\n## Distinguere necessità e pagamento\n\nLa fattura dimostra una prestazione addebitata, ma non sempre prova che sia stata pagata o che fosse necessaria per il danno lamentato. La prescrizione, a sua volta, non dimostra l'esborso. Quando disponibili, entrambi gli aspetti devono essere documentati.\n\nIl [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) richiede un collegamento tra fatto e conseguenze economiche. Il consulente può chiarire la pertinenza sanitaria di cure, ausili o riabilitazione; il legale valuta la loro rilevanza nella domanda. Non ogni acquisto effettuato nel periodo successivo alla lesione appartiene automaticamente al risarcimento.\n\n## Gestire rimborsi e pagamenti altrui\n\nIl prospetto dovrebbe indicare eventuali rimborsi, anticipazioni, prestazioni assicurative e somme sostenute da altri. Il trattamento giuridico dipende dal titolo e dalla funzione di ciascuna prestazione. La prima esigenza è renderle visibili, così da evitare conteggi doppi o richieste incoerenti.\n\nSe un familiare ha pagato una spesa, si conserva la prova e si chiarisce per conto di chi sia stata sostenuta. Il fatto materiale del pagamento e la titolarità della pretesa non devono essere confusi. Quando la situazione è incerta, la questione va sottoposta al legale prima di formulare una domanda.\n\n## Collegare periodi e conseguenze\n\nLe spese possono riguardare la fase iniziale, la riabilitazione o bisogni duraturi. La relazione medico-legale dovrebbe permettere di comprendere questa scansione, senza attribuire retroattivamente una necessità a ogni esborso. Le attività non prescritte richiedono una spiegazione specifica, non un'omissione dal racconto.\n\nPer il mancato reddito servono documenti differenti da quelli delle cure: assenze, contratti, contabilità e dati sull'attività. Una percentuale di menomazione non sostituisce la prova della perdita economica. Il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) richiama criteri di valutazione che devono essere applicati alle circostanze concrete.\n\n## Preparare un controllo finale\n\nPrima dell'invio si verificano duplicati, importi, intestazioni e documenti mancanti. Le somme vanno separate per natura, evitando un totale unico che renda impossibile capire che cosa venga richiesto. Le voci contestabili possono essere accompagnate da una spiegazione breve e verificabile.\n\nIl [Codice civile — art. 2697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697) richiama l'onere di provare i fatti posti a fondamento del diritto. Un archivio ordinato non garantisce l'accoglimento della richiesta, ma permette di individuare tempestivamente i punti deboli. Il risultato utile è un fascicolo in cui ogni cifra abbia una fonte e ogni collegamento sanitario sia spiegato, lasciando riconoscibili le questioni ancora da valutare.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La fattura basta per ottenere il rimborso?",
+        "answer": "Non sempre. Occorre valutare pagamento, pertinenza della spesa e collegamento con il fatto contestato."
+      },
+      {
+        "question": "Devo indicare anche le somme già rimborsate?",
+        "answer": "Sì. Titolo e funzione dei rimborsi vanno verificati per formulare una richiesta trasparente ed evitare duplicazioni."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697",
+        "title": "Codice civile — art. 2697",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2697. (Onere della prova). Chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Ricevute anonime ordinate accanto a prescrizioni mediche e una calcolatrice senza cifre leggibili, viste dall’alto su un piano chiaro. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Ricevute anonime ordinate accanto a prescrizioni mediche e una calcolatrice senza cifre leggibili, viste dall’alto su un piano chiaro",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-065.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "c8a0707eac6a63defbc44fd922ed4a03d4ee4f2884b86934052dfa75cd2b3d16",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 590,
+    "contentHash": "5b68718c60ff26c5074ae4bd4468e60d28c8ce5edd9b3b31487acfa968a93c2f",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-12",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "1cd515888588f9b21ab10786f677b5496e17e65cde68b2e5973cec75656563c9",
+    "sha256": "454da92da85d32dc8d259150ffaf80db04ba02975160854c571eec0cffc6957b"
+  }
+}

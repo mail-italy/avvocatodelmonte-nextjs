@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-066",
+    "site": "avvocato",
+    "sequence": 66,
+    "area": "Risarcimento danni",
+    "slug": "danno-psichico-dopo-un-evento-traumatico-tutela-della-prova-e-riservatezza",
+    "title": "Danno psichico dopo un evento traumatico: tutela della prova e riservatezza",
+    "intent": "Documentare un percorso clinico senza sovraesporre la persona",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 130,
+    "status": "approved",
+    "seoTitle": "Danno psichico dopo un evento traumatico: tutela della prova e riservatezza",
+    "description": "Come documentare conseguenze psichiche dopo un evento traumatico, rispettando la riservatezza e distinguendo diagnosi e racconto personale.",
+    "bodyMarkdown": "Dopo un evento traumatico, le conseguenze possono riguardare sonno, relazioni, attività quotidiane e capacità di affrontare situazioni prima abituali. La tutela risarcitoria richiede una valutazione professionale e una documentazione pertinente. Il racconto personale è importante, ma non sostituisce una diagnosi né dimostra da solo il collegamento con l'evento.\n\n## Dare priorità al percorso di cura\n\nLe scelte cliniche devono essere guidate dai professionisti che seguono la persona. Avviare o proseguire un trattamento non dovrebbe dipendere dalla prospettiva di una causa. Per il fascicolo si conservano i documenti disponibili, evitando di chiedere formulazioni orientate esclusivamente a sostenere una pretesa.\n\nÈ utile distinguere assistenza clinica e valutazione medico-legale. La prima affronta i bisogni di salute; la seconda esamina conseguenze e collegamenti rilevanti per il risarcimento. I rispettivi elaborati possono dialogare, ma rispondono a finalità e domande differenti.\n\n## Descrivere cambiamenti osservabili\n\nUn resoconto può indicare quando sono comparsi i disturbi, come siano evoluti e quali attività ne risentano. Conviene usare esempi concreti senza attribuire etichette diagnostiche autonome. “Ho smesso di utilizzare l'automobile dopo l'incidente” descrive un fatto; la sua interpretazione clinica richiede competenza specialistica.\n\nAnche le informazioni delle persone vicine devono riguardare ciò che hanno direttamente osservato. Un familiare può descrivere cambiamenti nelle abitudini, ma non stabilire la causa medica. Il fascicolo dovrebbe distinguere chiaramente osservazione, diagnosi e ipotesi causale.\n\n## Considerare la storia precedente\n\nEventi e condizioni anteriori possono essere rilevanti per comprendere la situazione. Ometterli impedisce una valutazione attendibile e può generare contestazioni. La presenza di una fragilità precedente non risolve da sola la questione: occorre capire se e come l'evento abbia inciso.\n\nIl consulente valuta coerenza temporale, dati clinici, fattori alternativi e sviluppo del quadro. Il semplice fatto che un disturbo sia stato diagnosticato dopo l'evento non dimostra automaticamente che ne derivi. La relazione deve spiegare il ragionamento e i suoi limiti.\n\n## Raccogliere soltanto dati pertinenti\n\nLa documentazione psicologica e psichiatrica può contenere informazioni particolarmente delicate. Prima di condividerla con controparti o altri soggetti, occorre valutare quali atti siano necessari e attraverso quali canali trasmetterli. Conservare il fascicolo completo per il professionista incaricato non significa diffonderlo indiscriminatamente.\n\nEventuali estratti o oscuramenti richiedono attenzione alla completezza e all'utilizzabilità del documento. Non si devono alterare originali né eliminare passaggi rilevanti per rendere la storia più favorevole. Il criterio è pertinenza, con una gestione trasparente delle versioni e dei destinatari.\n\n## Distinguere le componenti della richiesta\n\nIl [Codice civile — art. 2059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2059) costituisce il riferimento per il danno non patrimoniale, la cui applicazione dipende dal caso e dall'elaborazione giuridica pertinente. Le spese di cura e le perdite economiche richiedono invece un collegamento documentato secondo i criteri del [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) e del [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056).\n\nLa stessa conseguenza non va moltiplicata cambiandole nome. Il legale e il consulente devono coordinare la descrizione delle limitazioni con le voci richieste. Prima di una liquidazione definitiva si valuta anche se il quadro sia sufficientemente definito. Una documentazione rispettosa e completa permette di tutelare la persona senza trasformare la sua esperienza in una raccolta indiscriminata di dati intimi.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il diario personale dimostra un danno psichico?",
+        "answer": "Può descrivere fatti e cambiamenti, ma non sostituisce la valutazione clinica e medico-legale."
+      },
+      {
+        "question": "Devo consegnare a chiunque tutta la documentazione psicologica?",
+        "answer": "No. La condivisione va valutata con il professionista incaricato in base a pertinenza, finalità e regole applicabili."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2059",
+        "title": "Codice civile — art. 2059",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2059. (Danni non patrimoniali). Il danno non patrimoniale deve essere risarcito solo nei casi determinati dalla legge."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una poltrona vuota vicino a una finestra con luce calma, un quaderno chiuso e una tazza su un tavolino, atmosfera rispettosa e non drammatica. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una poltrona vuota vicino a una finestra con luce calma, un quaderno chiuso e una tazza su un tavolino, atmosfera rispettosa e non drammatica",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-066.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "c2be5e9da42042a3e09917282d5aa2a6cebda00c5c0d2ee1552a635eb30a841e",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 584,
+    "contentHash": "0a354500bf738bc2a5d3a1ea930b335c18cb710faa9551932e211e75eb386e7c",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-26",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "d6c7a31d703bc665e60c5ce678f33ff198dec4b3928a9a9baaa9f7674e5bc644",
+    "sha256": "e477fe516cde8d2b4b58e4a602f7e669271e0bc966bc42bbcf6bf3e2196f3ba0"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-005",
+    "site": "avvocato",
+    "sequence": 5,
+    "area": "Cassazione civile",
+    "slug": "giudicato-interno-le-parti-della-sentenza-che-il-ricorso-non-riapre",
+    "title": "Giudicato interno: le parti della sentenza che il ricorso non riapre",
+    "intent": "Mappare capi autonomi e limiti dell'impugnazione",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 8,
+    "status": "approved",
+    "seoTitle": "Giudicato interno: le parti della sentenza che il ricorso non riapre",
+    "description": "Giudicato interno e Cassazione: come individuare i capi autonomi della sentenza e capire quali parti possono ancora essere contestate.",
+    "bodyMarkdown": "Una sentenza contiene più decisioni: riconosce un credito, respinge una domanda ulteriore e regola le spese. Il ricorso non trasforma necessariamente ogni parte di quel provvedimento in una questione ancora aperta. Il giudicato interno riguarda proprio il consolidamento di decisioni all'interno della stessa controversia e va esaminato prima di scegliere i motivi.\n\n## Scomporre la sentenza senza spezzarla artificialmente\n\nIl primo lavoro consiste nell'individuare i capi della decisione, evitando di confonderli con ogni paragrafo della motivazione. Un capo può corrispondere a una decisione autonoma su una domanda o una questione capace di produrre un risultato proprio. Una frase che spiega il ragionamento potrebbe invece essere soltanto un argomento.\n\nIl [Codice di procedura civile — art. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art324) disciplina il giudicato formale; il [Codice di procedura civile — art. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art329) regola l'acquiescenza e l'impugnazione parziale. La loro applicazione al singolo fascicolo richiede di esaminare quali parti siano state contestate e quali dipendano da quelle impugnate. Non basta colorare tutte le frasi con cui non si concorda.\n\n## Il percorso dei gradi precedenti conta\n\nLa Cassazione riceve una controversia che ha già attraversato scelte processuali. Un punto non coltivato nel momento appropriato può non essere più disponibile. Occorre quindi leggere la sentenza di primo grado, l'appello, le difese e la decisione successiva, ricostruendo il passaggio di ciascuna questione.\n\nÈ utile una griglia con quattro colonne: domanda iniziale, decisione, impugnazione proposta ed esito. Per una causa con diverse richieste economiche questa griglia mostra subito se il ricorso mira a un punto ancora controverso oppure tenta di recuperare una parte ormai consolidata. Anche l'interesse pratico va descritto, specificando che cosa cambierebbe con l'accoglimento.\n\n## Ragioni alternative e decisioni autonome\n\nUna stessa domanda può essere respinta sulla base di più ragioni. Il problema delle ragioni autonome non coincide sempre con quello dei capi autonomi, ma entrambi incidono sull'utilità delle censure. Se una ragione sufficiente a sostenere il risultato resta intatta, criticare un passaggio diverso potrebbe non produrre l'effetto desiderato.\n\nL'analisi deve però verificare che la ragione sia davvero decisiva e autosufficiente. Un commento aggiuntivo, una considerazione ipotetica o un richiamo non necessario non hanno automaticamente lo stesso peso. Per questo si legge la motivazione intera, insieme al dispositivo, anziché partire da singoli estratti condivisi per email.\n\n## Che cosa portare al difensore\n\nServono gli atti contenenti le conclusioni e i motivi di impugnazione, non soltanto le sentenze. Se una domanda è stata modificata, rinunciata o assorbita, bisogna rendere disponibile il documento che permette di verificarlo. Anche un precedente accordo tra le parti può incidere sul perimetro della lite e deve essere segnalato.\n\nUna sintesi del cliente è utile se distingue ciò che ricorda da ciò che risulta negli atti. Scrivere «su questo non hanno deciso» non basta: occorre individuare dove la questione era stata posta e che risposta abbia ricevuto, anche eventualmente attraverso il complesso della motivazione.\n\n## Una scelta che protegge il ricorso\n\nIl controllo del giudicato interno serve a concentrare il lavoro su questioni ancora utili. Può evitare un'impugnazione costosa ma incapace di modificare il risultato e può far emergere la necessità di una censura trascurata. È un esame preliminare sostanziale, da compiere prima di investire nella ricerca di precedenti favorevoli su un punto che il processo potrebbe avere già chiuso.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Ogni paragrafo non impugnato diventa giudicato?",
+        "answer": "No. Occorre distinguere capi autonomi della decisione, questioni e semplici argomenti della motivazione."
+      },
+      {
+        "question": "Basta leggere l’ultima sentenza?",
+        "answer": "Spesso no. Le impugnazioni e le conclusioni dei gradi precedenti permettono di capire quali questioni siano rimaste aperte."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art324",
+        "title": "Codice di procedura civile — art. 324",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 324. (Cosa giudicata formale). S'intende passata in giudicato la sentenza che non è più soggetta né a regolamento di competenza, né ad appello, né a ricorso per cassazione, né a revocazione per i motivi di cui ai numeri 4 e 5 dell'articolo 395."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art329",
+        "title": "Codice di procedura civile — art. 329",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 329. (Acquiescenza totale o parziale). Salvi i casi di cui ai numeri 1, 2, 3 e 6 dell'articolo 395, l'acquiescenza risultante da accettazione espressa o da atti incompatibili con la volontà di avvalersi delle impugnazioni ammesse dalla legge ne esclude la proponibilità. L'impugnazione parziale importa acquiescenza alle parti della sentenza non impugnate."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Fascicolo con divisori ordinati, alcune sezioni chiuse da fermagli e una sezione aperta illuminata, metafora discreta delle questioni ancora aperte. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Fascicolo con divisori ordinati, alcune sezioni chiuse da fermagli e una sezione aperta illuminata, metafora discreta delle questioni ancora aperte",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-005.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "255a5603b629bd3594997e72b00fe02787f1aa2e043323988ba68a6dfd88a3ac",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 614,
+    "contentHash": "472c52d8df17140e39f0c2e31fdeba1623da320af53118485c88a9d60364daaf",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-17",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "ce2423328c4967ce6c90cff0f99f62ad42fe5b8ef1843185a0953a616708429a",
+    "sha256": "b20c1829236139869ccae101698c8b13b4bc0af3bc017219d2916c88653e725c"
+  }
+}

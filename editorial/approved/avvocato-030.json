@@ -1,0 +1,85 @@
+{
+  "article": {
+    "id": "avvocato-030",
+    "site": "avvocato",
+    "sequence": 30,
+    "area": "Cassazione penale",
+    "slug": "nullita-processuali-nel-ricorso-penale-la-cronologia-delle-eccezioni",
+    "title": "Nullità processuali nel ricorso penale: la cronologia delle eccezioni",
+    "intent": "Verificare quando e come il vizio è stato dedotto",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 58,
+    "status": "approved",
+    "seoTitle": "Nullità processuali nel ricorso penale: la cronologia delle eccezioni",
+    "description": "Nullità processuali e Cassazione penale: come ricostruire atto, eccezione, momento della deduzione e risposta del giudice.",
+    "bodyMarkdown": "Durante il processo si è verificato un problema in una notifica o in un'attività difensiva. Dopo la sentenza il cliente vuole farlo valere in Cassazione. La prima verifica riguarda il tipo di vizio, la disciplina applicabile e la cronologia delle eccezioni: non ogni irregolarità produce gli stessi effetti.\n\n## Descrivere il fatto processuale\n\nPrima di attribuire una categoria giuridica al problema occorre raccogliere l'atto contestato, le prove della sua formazione o notificazione e il verbale nel quale se ne è discusso. Il racconto deve indicare che cosa sia accaduto, a chi e in quale momento del procedimento.\n\nLe nullità sono disciplinate da regole specifiche, fra cui gli articoli [Codice di procedura penale — art. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art178), [Codice di procedura penale — art. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art180) e [Codice di procedura penale — art. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art182). La classificazione incide sui tempi e sui modi con cui il vizio può essere dedotto. Per questo la formula generica “il processo è nullo” non fornisce una base sufficiente per valutare il ricorso.\n\n## Quando il problema è stato segnalato\n\nSi deve verificare se l'eccezione sia stata sollevata, da chi, in quale atto e con quale contenuto. Una discussione informale tra cliente e difensore non equivale alla deduzione nel procedimento. Anche il momento in cui la parte ha potuto conoscere il vizio può richiedere un esame documentale.\n\nÈ utile una cronologia con atto, conoscenza, eccezione e decisione. Se la questione è stata riproposta in appello, si conserva il motivo e la risposta ricevuta. Se non lo è stata, il difensore deve saperlo prima di ipotizzare una censura di Cassazione, per verificare gli effetti della mancata deduzione.\n\n## Irregolarità, nullità e altri vizi\n\nIl codice distingue categorie diverse: nullità, inutilizzabilità, inammissibilità e decadenza non sono termini intercambiabili. Il [Codice di procedura penale — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606) contempla l'inosservanza di norme processuali nei limiti indicati. Un problema percepito come grave deve quindi essere ricondotto alla regola effettivamente applicabile.\n\nLa verifica riguarda anche eventuali sanatorie e preclusioni. Non si può presumere che il vizio rimanga sempre deducibile soltanto perché non è stato risolto nel modo desiderato. Al tempo stesso, non è corretto dichiararlo irrilevante senza esaminarne la categoria e la storia nel procedimento.\n\n## Collegare il vizio alla posizione della parte\n\nOccorre spiegare quale attività difensiva sia stata interessata e quale conseguenza si chieda. Il cliente può descrivere ciò che non ha potuto fare o conoscere, ma il professionista deve confrontarlo con gli atti e con la disciplina. Il motivo non si costruisce attraverso una somma indistinta di lamentele.\n\nPer esempio, un problema relativo alla partecipazione a una udienza richiede il recupero delle notifiche, del verbale, delle eventuali istanze e dei provvedimenti. La sola assenza della persona non dimostra automaticamente la nullità: serve verificare presupposti e ragioni registrate nel fascicolo.\n\n## Preparare un fascicolo cronologico\n\nLa consegna dovrebbe mantenere l'ordine degli eventi e distinguere documenti ufficiali da ricordi. Se un atto manca, si segnala la lacuna invece di sostituirlo con una ricostruzione personale. Anche gli elementi apparentemente contrari alla censura devono essere disponibili al difensore.\n\nL'esito del controllo è una risposta motivata: quale vizio sia ipotizzabile, se sia ancora deducibile e con quale effetto utile. Questa precisione tutela la difesa più di una contestazione ampia ma priva di riferimenti, perché permette di affrontare il reale problema processuale nel momento e con lo strumento consentiti.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Qualunque errore processuale rende nulla la sentenza?",
+        "answer": "No. Occorre individuare la norma, la categoria del vizio e la sua disciplina, comprese eventuali preclusioni o sanatorie."
+      },
+      {
+        "question": "Conta quando ho sollevato l’eccezione?",
+        "answer": "Sì. La cronologia può essere decisiva e va ricostruita attraverso atti e verbali, non soltanto a memoria."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art178",
+        "title": "Codice di procedura penale — art. 178",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 178 Nullità di ordine generale 1. È sempre prescritta a pena di nullità l'osservanza delle disposizioni concernenti: a) le condizioni di capacità del giudice e il numero dei giudici necessario per costituire i collegi stabilito dalle leggi di ordinamento giudiziario; b) l'iniziativa del pubblico ministero nell'esercizio dell'azione penale e la sua partecipazione al procedimento; c) l'intervento, l'assistenza e la rappresentanza dell'imputato e delle altre parti private nonché la citazione in giudizio della persona offesa dal reato e del querelante."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art180",
+        "title": "Codice di procedura penale — art. 180",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 180 Regime delle altre nullità di ordine generale 1. Salvo quanto disposto dall'articolo 179, le nullità previste dall'articolo 178 sono rilevate anche di ufficio, ma non possono più essere rilevate né dedotte dopo la deliberazione della sentenza di primo grado ovvero, se si sono verificate nel giudizio, dopo la deliberazione della sentenza del grado successivo."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art182",
+        "title": "Codice di procedura penale — art. 182",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 182 Deducibilità delle nullità 1. Le nullità previste dagli articoli 180 e 181 non possono essere eccepite da chi vi ha dato o ha concorso a darvi causa ovvero non ha interesse all'osservanza della disposizione violata. 2. Quando la parte vi assiste, la nullità di un atto deve essere eccepita prima del suo compimento ovvero, se ciò non è possibile, immediatamente dopo. Negli altri casi la nullità deve essere eccepita entro i termini previsti dagli articoli 180 e 181 commi 2, 3 e 4. 3. I termini per rilevare […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606",
+        "title": "Codice di procedura penale — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606 Casi di ricorso 1. Il ricorso per cassazione può essere proposto per i seguenti motivi: a) esercizio da parte del giudice di una potestà riservata dalla legge a organi legislativi o amministrativi ovvero non consentita ai pubblici poteri; b) inosservanza o erronea applicazione della legge penale o di altre norme giuridiche, di cui si deve tener conto nell'applicazione della legge penale; c) inosservanza delle norme processuali stabilite a pena di nullità, di inutilizzabilità, di inammissibilità o di decadenza; d) mancata assunzione di una prova decisiva, quando la parte […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una linea cronologica costruita con cartelline e fermagli su un tavolo, un orologio neutro e un fascicolo aperto, nessun testo leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una linea cronologica costruita con cartelline e fermagli su un tavolo, un orologio neutro e un fascicolo aperto, nessun testo leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-030.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "1bc9fca987b9acd56cdeac54b36bf979cf61db348867c60e56441f0e24abcff3",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 626,
+    "contentHash": "783cef94becd75f1d809c1d43ca24cef2d07b981847386b359f9037a1e3e08f0",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-09",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "09396e1e4ed92102363f318025ae90935eb4af73be00cd46a55e26adc19c75c0",
+    "sha256": "5224eb6c90ef75d998a1a06765cb227988ec6789c7e7078918470f726aafc0c7"
+  }
+}
