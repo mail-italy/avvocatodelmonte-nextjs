@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-001",
     "url": "https://avvocatodelmonte.com/approfondimenti/dopo-la-cassazione-preparare-il-giudizio-civile-di-rinvio",
-    "stagedAt": "2026-10-12T13:11:12.237Z"
+    "stagedAt": "2026-10-12T13:11:12.237Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-12T13:11:24.070Z"
   },
   "lastVerified": null
 }
