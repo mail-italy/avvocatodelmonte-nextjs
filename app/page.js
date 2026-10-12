@@ -182,7 +182,7 @@ export default function HomePage() {
                 <CallButton className="button button-phone button-hero" fallbackToContact={false} trackingLocation="home_hero" />
                 <a
                   className="button button-whatsapp button-hero"
-                  href={`https://wa.me/${siteConfig.whatsapp}`}
+                  href={siteConfig.whatsappHref}
                   target="_blank"
                   rel="noopener noreferrer"
                   data-event="contact_whatsapp"

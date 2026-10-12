@@ -110,7 +110,7 @@ export default function ContactSection({
               <CallButton className="button button-phone" fallbackToContact={false} trackingLocation={trackingLocation} />
               <a
                 className="button button-whatsapp"
-                href={`https://wa.me/${siteConfig.whatsapp}`}
+                href={siteConfig.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
                 data-event="contact_whatsapp"

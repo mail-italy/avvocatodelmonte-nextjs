@@ -26,7 +26,7 @@ export default function PageHero({ eyebrow, title, description, image, imageAlt,
               <CallButton className="button button-phone button-hero" fallbackToContact={false} trackingLocation={trackingLocation} />
               <a
                 className="button button-whatsapp button-hero"
-                href={`https://wa.me/${siteConfig.whatsapp}`}
+                href={siteConfig.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
                 data-event="contact_whatsapp"

@@ -144,7 +144,7 @@ export default function ServicePageContent({ service }) {
               </Link>
               <a
                 className="button button-whatsapp"
-                href={`https://wa.me/${siteConfig.whatsapp}`}
+                href={siteConfig.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
                 data-event="contact_whatsapp"
