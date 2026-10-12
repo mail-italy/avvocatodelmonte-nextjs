@@ -57,7 +57,7 @@ function DesktopActions({ onAction }) {
       </CallButton>
       <a
         className="header-secondary-link"
-        href={`https://wa.me/${siteConfig.whatsapp}`}
+        href={siteConfig.whatsappHref}
         target="_blank"
         rel="noopener noreferrer"
         onClick={onAction}
@@ -79,7 +79,7 @@ function MobileActions({ onAction }) {
       <CallButton className="button button-phone header-call-button" label="Chiama" fallbackToContact={false} trackingLocation="header_mobile" />
       <a
         className="header-secondary-link"
-        href={`https://wa.me/${siteConfig.whatsapp}`}
+        href={siteConfig.whatsappHref}
         target="_blank"
         rel="noopener noreferrer"
         onClick={onAction}
