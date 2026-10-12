@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-096",
+    "site": "avvocato",
+    "sequence": 96,
+    "area": "Mediazione e risoluzione stragiudiziale",
+    "slug": "mediazione-online-preparare-documenti-partecipanti-e-poteri",
+    "title": "Mediazione online: preparare documenti, partecipanti e poteri",
+    "intent": "Organizzare l'incontro a distanza senza trattarlo come una semplice videochiamata",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/mediazione-risoluzione-stragiudiziale"
+    ],
+    "scheduledOffsetDays": 190,
+    "status": "approved",
+    "seoTitle": "Mediazione online: preparare documenti, partecipanti e poteri",
+    "description": "Come preparare una mediazione telematica verificando collegamento, documenti, identità, poteri e sottoscrizione dell’accordo.",
+    "bodyMarkdown": "La mediazione online può ridurre gli spostamenti, ma richiede preparazione sui documenti e sulla partecipazione. Collegarsi a una videochiamata non risolve automaticamente identità, poteri e firma degli atti. Prima dell'incontro occorre conoscere le indicazioni dell'organismo e il ruolo di ciascun partecipante.\n\n## Chiarire la modalità del procedimento\n\nIl [D.lgs. 28/2010 — art. 8bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8bis) disciplina la mediazione telematica con il consenso delle parti e regola formazione, sottoscrizione e conservazione degli atti informatici. La modalità concreta va concordata con l'organismo, verificando strumenti e requisiti prima dell'incontro.\n\nNon è prudente presumere che basti una firma scansionata o una conferma verbale. Se una parte ha difficoltà tecniche, il problema va segnalato tempestivamente al professionista incaricato e all'organismo. La soluzione deve rispettare il procedimento, non essere improvvisata soltanto al momento della conclusione.\n\n## Verificare chi partecipa e con quali poteri\n\nIl [D.lgs. 28/2010 — art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8) disciplina la partecipazione personale e le condizioni della delega, oltre alla presenza di rappresentanti per soggetti diversi dalle persone fisiche. Chi interviene deve conoscere i fatti e poter affrontare la composizione della controversia nei limiti richiesti.\n\nUna procura alle liti non dovrebbe essere trattata automaticamente come risposta a ogni esigenza rappresentativa. Occorre verificare i documenti pertinenti e il loro contenuto. Per società, enti o persone rappresentate, i poteri devono essere chiariti prima di discutere un accordo che non possa poi essere sottoscritto.\n\n## Preparare un ambiente riservato\n\nLa partecipazione dovrebbe avvenire da un luogo adatto, con connessione stabile e possibilità di leggere i documenti. È opportuno conoscere chi sia presente nella stanza e rispettare le indicazioni del mediatore. Non si dovrebbero effettuare registrazioni autonome o condividere accessi senza una verifica delle regole e dei consensi necessari.\n\nLa riservatezza non dipende soltanto dalla piattaforma. Anche schermi visibili a terzi, altoparlanti in ambienti condivisi e inoltro indiscriminato dei file possono creare problemi. Il [D.lgs. 28/2010 — art. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art9) disciplina gli obblighi relativi a dichiarazioni e informazioni del procedimento.\n\n## Organizzare i documenti essenziali\n\nUn indice breve aiuta a ritrovare contratti, perizie, pagamenti e corrispondenza. I file devono essere leggibili e nominati in modo comprensibile. Non è necessario inviare ogni documento disponibile: la selezione va concordata con il difensore in base alle questioni da affrontare.\n\nLe versioni delle proposte devono restare distinguibili. Durante una trattativa online possono circolare modifiche rapide; prima della firma occorre verificare che tutti leggano lo stesso testo. Una variazione apparentemente minima può incidere su rinunce, scadenze o soggetti obbligati.\n\n## Preparare la conclusione\n\nIl procedimento telematico richiede la corretta sottoscrizione del documento informatico secondo la disciplina applicabile. Conviene verificare in anticipo disponibilità e funzionamento degli strumenti necessari. Il mediatore svolge i controlli e gli adempimenti previsti, ma le parti devono poter comprendere ciò che sottoscrivono.\n\nDopo l'incontro si conservano verbale, eventuale accordo e comunicazioni dell'organismo nella versione completa. Il legale verifica gli obblighi successivi e le scadenze operative. Una buona preparazione tecnica consente di dedicare l'incontro al merito della controversia, mantenendo affidabili identificazione, confronto e formalizzazione dell'eventuale intesa.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [mediazione e risoluzione stragiudiziale](https://avvocatodelmonte.com/mediazione-risoluzione-stragiudiziale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Basta collegarsi con il telefono?",
+        "answer": "Dipende dalle modalità dell’organismo e dalla possibilità di leggere e sottoscrivere correttamente gli atti. Va verificato prima."
+      },
+      {
+        "question": "Posso inviare il collegamento a un familiare?",
+        "answer": "La presenza di terzi deve essere valutata e comunicata secondo le regole del procedimento, rispettando riservatezza e ruoli."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8bis",
+        "title": "D.lgs. 28/2010 — art. 8bis",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 8-bis (Mediazione in modalità telematica). 1. Quando la mediazione, con il consenso delle parti, si svolge in modalità telematica, gli atti del procedimento sono formati dal mediatore e sottoscritti in conformità al presente decreto nel rispetto delle disposizioni del codice dell'amministrazione digitale , di cui al decreto legislativo 7 marzo 2005, n. 82 . 2. A conclusione del procedimento il mediatore forma un documento informatico contenente il verbale e l'eventuale accordo per l'apposizione della firma da parte dei soggetti che vi sono tenuti. Il documento è immediatamente firmato e […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8",
+        "title": "D.lgs. 28/2010 — art. 8",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 8 (Procedimento) 1. All'atto della presentazione della domanda di mediazione, il responsabile dell'organismo designa un mediatore e fissa il primo incontro tra le parti, che deve tenersi non prima di venti e non oltre quaranta giorni dal deposito della domanda, salvo diversa concorde indicazione delle parti. La domanda di mediazione, la designazione del mediatore, la sede e l'orario dell'incontro, le modalità di svolgimento della procedura, la data del primo incontro e ogni altra informazione utile sono comunicate alle parti, a cura dell'organismo, con ogni mezzo idoneo ad assicurarne la […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art9",
+        "title": "D.lgs. 28/2010 — art. 9",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 9 Dovere di riservatezza 1. Chiunque presta la propria opera o il proprio servizio nell'organismo o partecipa al procedimento di mediazione è tenuto all'obbligo di riservatezza rispetto alle dichiarazioni rese e alle informazioni acquisite durante il procedimento medesimo. (9) 10 2. Rispetto alle dichiarazioni rese e alle informazioni acquisite nel corso delle sessioni separate e salvo consenso della parte dichiarante o dalla quale provengono le informazioni, il mediatore è altresì tenuto alla riservatezza nei confronti delle altre parti. -------------"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Computer portatile su una scrivania riservata con schermata astratta di videoconferenza senza volti o testi, cuffie e cartella chiusa. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Computer portatile su una scrivania riservata con schermata astratta di videoconferenza senza volti o testi, cuffie e cartella chiusa",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-096.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "be7e02c88aec6ef26ef644be6128df1c685ff9bfdc13db88f3c3289a179ab259",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 578,
+    "contentHash": "e1e350f2105589e11de79a1a51dd7b7799ee35d883cb2940fc0f061acd7e692f",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-01",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "f56ba0146dbd6e92a7bf210af3c15551ac3de117eda116036724759cc92c6b35",
+    "sha256": "5ee84b321af125e8f33efc7e703391e89eb6c9a1046a88784c9833e2ce0d254a"
+  }
+}

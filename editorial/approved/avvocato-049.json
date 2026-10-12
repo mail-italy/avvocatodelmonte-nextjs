@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-049",
+    "site": "avvocato",
+    "sequence": 49,
+    "area": "Responsabilità medica",
+    "slug": "lesioni-da-pressione-durante-il-ricovero-documentare-l-assistenza",
+    "title": "Lesioni da pressione durante il ricovero: documentare l'assistenza",
+    "intent": "Ricostruire rilevazioni e interventi senza desumere colpa dal solo esito",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 96,
+    "status": "approved",
+    "seoTitle": "Lesioni da pressione durante il ricovero: documentare l'assistenza",
+    "description": "Lesioni da pressione e ricovero: quali dati assistenziali e clinici servono per valutare un dubbio di responsabilità senza automatismi.",
+    "bodyMarkdown": "Durante un ricovero vengono rilevate lesioni da pressione. Il paziente o la famiglia vogliono capire se l'assistenza sia stata adeguata. La valutazione deve ricostruire condizioni iniziali, evoluzione, attività registrate e conseguenze, evitando di ricavare una conclusione giuridica dal solo nome della lesione.\n\n## Stabilire il punto di partenza\n\nÈ importante sapere che cosa risultasse all'ingresso e nei successivi trasferimenti. Il consulente deve poter distinguere una condizione già presente da una comparsa o da un aggravamento durante una specifica fase. Le schede e le annotazioni vanno quindi ordinate per data e struttura.\n\nIl racconto dei familiari può integrare la cronologia, ma deve mantenere il suo carattere di osservazione. Fotografie eventualmente disponibili richiedono data e provenienza chiare e devono essere trasmesse con attenzione alla riservatezza. Non vanno diffuse pubblicamente per chiedere diagnosi o attribuire responsabilità.\n\n## Ricostruire l'assistenza documentata\n\nLa documentazione pertinente può comprendere valutazioni, diario infermieristico, indicazioni, interventi e controlli del decorso. La [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4) costituisce il riferimento per l'accesso ai documenti sanitari da parte degli aventi diritto. La richiesta dovrebbe identificare ricovero e materiali necessari, secondo le indicazioni del professionista.\n\nSi controlla la continuità dei documenti: date mancanti, passaggi tra reparti e annotazioni non leggibili devono essere segnalati. Una sintesi che elimina le lacune per rendere la storia più lineare rischia di ridurre l'utilità del fascicolo. Il consulente deve sapere dove l'informazione è disponibile e dove non lo è.\n\n## Valutare regole e specificità\n\nLa [Legge 24/2017 — art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5) richiama raccomandazioni e buone pratiche con attenzione al caso concreto. La valutazione dell'assistenza richiede quindi competenze cliniche pertinenti e non può essere sostituita da un elenco generico reperito online. Il confronto deve riguardare le condizioni note e le attività effettivamente documentate.\n\nL'esistenza di un protocollo non prova da sola la sua applicazione; l'esito sfavorevole non dimostra da solo una sua violazione. Occorre collegare la regola rilevante, il comportamento e il risultato. Questa distinzione è centrale per evitare sia accuse premature sia risposte puramente formali.\n\n## Conseguenze attribuibili\n\nSi raccolgono documenti sulle cure successive, eventuali ricoveri aggiuntivi, limitazioni e spese. Il consulente deve distinguere le conseguenze della lesione dalle altre condizioni del paziente. La domanda risarcitoria non può limitarsi a sommare ogni costo sostenuto durante un periodo complesso.\n\nLa [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) delinea il quadro della responsabilità civile. La verifica giuridica utilizza il contributo medico-legale per individuare condotte, causalità e danno. Se il percorso comprende più strutture, bisogna evitare di attribuire indistintamente a ciascuna l'intera evoluzione senza una ricostruzione delle rispettive fasi.\n\n## Preparare il confronto con lo studio\n\nUn indice può dividere i documenti in ingresso, assistenza, trasferimenti e decorso successivo. Una nota breve descrive quando il problema è stato segnalato, da chi e quali risposte siano state ricevute. Le comunicazioni vengono conservate integralmente, con data e destinatario.\n\nIl primo esame dovrebbe indicare le lacune, la consulenza necessaria e le questioni verificabili. Nel frattempo la gestione clinica resta affidata ai curanti. La tutela legale serve a comprendere se il percorso presenti responsabilità sostenibili, senza trasformare una situazione sanitaria delicata in un giudizio immediato privo dei dati essenziali.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Le lesioni da pressione provano sempre una cattiva assistenza?",
+        "answer": "No. Vanno esaminate condizioni, rischio, attività assistenziali, decorso e causalità nel caso concreto."
+      },
+      {
+        "question": "Le fotografie sostituiscono la cartella?",
+        "answer": "No. Possono essere un elemento con provenienza e data verificabili, ma devono essere lette insieme alla documentazione clinica."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5",
+        "title": "Legge 24/2017 — art. 5",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 5 Buone pratiche clinico-assistenziali e raccomandazioni previste dalle linee guida 1. Gli esercenti le professioni sanitarie, nell'esecuzione delle prestazioni sanitarie con finalità preventive, diagnostiche, terapeutiche, palliative, riabilitative e di medicina legale, si attengono, salve le specificità del caso concreto, alle raccomandazioni previste dalle linee guida pubblicate ai sensi del comma 3 ed elaborate da enti e istituzioni pubblici e privati nonché dalle società scientifiche e dalle associazioni tecnico-scientifiche delle professioni sanitarie iscritte in apposito elenco istituito e regolamentato con decreto del Ministro della salute, da emanare entro novanta giorni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Letto ospedaliero vuoto ordinato con cuscini di supporto e cartella neutra su un tavolino, scena rispettosa senza lesioni o corpi. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Letto ospedaliero vuoto ordinato con cuscini di supporto e cartella neutra su un tavolino, scena rispettosa senza lesioni o corpi",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-049.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "6a0ab2206e9abdf669391f53e4b574b84aa1f586d3395135240bfe8d4b246b23",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 594,
+    "contentHash": "a8b4f3bd3e159501b840a22338d7ef32c4dd801aeca15b8a81340273f21a8602",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-04",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "55225c0b6c2644032cc5d0f241ba7c686cb780b89390c65d64e77e3c426f3a94",
+    "sha256": "37f24dd0ec6d0a54ab0e18a006832e763637c7a9698d5b0016355c018bea1b34"
+  }
+}

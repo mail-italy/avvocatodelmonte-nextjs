@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-070",
+    "site": "avvocato",
+    "sequence": 70,
+    "area": "Risarcimento danni",
+    "slug": "spese-legali-e-tecniche-nel-risarcimento-programmare-il-percorso",
+    "title": "Spese legali e tecniche nel risarcimento: programmare il percorso",
+    "intent": "Separare compensi, anticipazioni e voci richieste alla controparte",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 138,
+    "status": "approved",
+    "seoTitle": "Spese legali e tecniche nel risarcimento: programmare il percorso",
+    "description": "Come programmare costi legali e tecnici in una richiesta di risarcimento, distinguendo incarichi, anticipazioni e possibili recuperi.",
+    "bodyMarkdown": "Una richiesta risarcitoria può richiedere attività legali, valutazioni medico-legali, consulenze specialistiche e accertamenti giudiziari. Programmare i costi significa capire quali passaggi servano davvero, chi li svolga e quando possano aggiungersi ulteriori spese. La prospettiva di recuperarle dalla controparte non deve essere presentata come una certezza.\n\n## Distinguere gli incarichi\n\nIl mandato al legale e quello al consulente tecnico riguardano attività differenti. Un preventivo dovrebbe rendere comprensibili prestazioni incluse, fasi considerate e oneri ulteriori. La preparazione di un parere preliminare non comprende necessariamente partecipazione a incontri, osservazioni a una CTU o assistenza durante il giudizio.\n\nPrima dell'incarico è utile chiarire quali documenti siano già disponibili e quali richiedano acquisizioni. Un fascicolo disordinato può aumentare il lavoro senza migliorare la prova. La prima spesa utile può essere una valutazione circoscritta che chiarisca se esistano basi sufficienti per proseguire.\n\n## Pianificare per fasi\n\nIl percorso può essere diviso in analisi iniziale, trattativa, eventuale procedimento preliminare e giudizio. Per ogni fase si individuano obiettivo, attività e decisione successiva. Questa organizzazione permette di aggiornare la scelta alla luce dei risultati, evitando di considerare inevitabile sin dall'inizio l'intero contenzioso.\n\nNon tutti i casi richiedono gli stessi accertamenti. Una controversia sulla dinamica può aver bisogno di competenze diverse da una disputa sulla quantificazione dei postumi. Gli incarichi dovrebbero rispondere a quesiti concreti, anziché accumulare pareri che ripetono le medesime conclusioni.\n\n## Comprendere anticipazioni e spese giudiziali\n\nLe somme anticipate durante un processo non coincidono necessariamente con quelle che saranno poste a carico della controparte. Il [Codice di procedura civile — art. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art91) disciplina la condanna alle spese secondo il quadro processuale, mentre il [Codice di procedura civile — art. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art92) prevede le ipotesi di compensazione. La decisione concreta dipende dal procedimento e dal suo esito.\n\nAnche le spese tecniche richiedono una verifica di pertinenza e trattamento. Non è corretto assicurare che ogni costo sostenuto privatamente sarà integralmente rimborsato. Il cliente dovrebbe conoscere sia l'esborso previsto sia l'incertezza sul recupero.\n\n## Verificare coperture e accordi esistenti\n\nEventuali polizze di tutela legale o altre coperture vanno lette prima di affidarsi a un rimborso. Occorre controllare ambito, esclusioni, modalità di attivazione e rapporto con la scelta dei professionisti. La sola presenza della parola “tutela” in un contratto non dimostra che la controversia sia coperta.\n\nSi conservano le comunicazioni con l'assicuratore e le eventuali autorizzazioni. Gli accordi economici con i professionisti devono restare chiari anche se interviene un terzo pagatore. Chi debba anticipare una somma e chi possa chiederne il rimborso sono domande distinte.\n\n## Aggiornare la valutazione di convenienza\n\nDopo un parere o una proposta della controparte, il quadro può cambiare. È utile confrontare beneficio ragionevolmente perseguibile, prove disponibili, costi ulteriori e incertezze. Il [Codice civile — art. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965) offre il riferimento per una possibile transazione, che può evitare ulteriori attività senza eliminare la necessità di comprenderne le rinunce.\n\nLa decisione non dovrebbe essere guidata soltanto dalle spese già sostenute. Continuare per “recuperare quanto investito” può aumentare il rischio se i nuovi elementi indeboliscono il caso. Un aggiornamento trasparente del preventivo e della strategia permette di scegliere consapevolmente se proseguire, trattare o fermarsi, sulla base di informazioni attuali.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Se vinco recupero automaticamente ogni spesa?",
+        "answer": "No. Liquidazione, compensazione e recuperabilità dei singoli costi richiedono una valutazione del procedimento e della decisione."
+      },
+      {
+        "question": "Posso chiedere un preventivo per singole fasi?",
+        "answer": "Sì. È utile distinguere attività iniziali, eventuali consulenze e sviluppi processuali, con aggiornamenti quando cambia il lavoro necessario."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art91",
+        "title": "Codice di procedura civile — art. 91",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 91. (Condanna alle spese). Il giudice, con la sentenza che chiude il processo davanti a lui, condanna la parte soccombente al rimborso delle spese a favore dell'altra parte e ne liquida l'ammontare insieme con gli onorari di difesa. Se accoglie la domanda in misura non superiore all'eventuale proposta conciliativa, condanna la parte che ha rifiutato senza giustificato motivo la proposta al pagamento delle spese del processo maturate dopo la formulazione della proposta, salvo quanto disposto dal secondo comma dell'articolo 92. Le spese della sentenza sono liquidate dal cancelliere con […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art92",
+        "title": "Codice di procedura civile — art. 92",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 92. (Condanna alle spese per singoli atti. Compensazione delle spese). Il Giudice, nel pronunciare la condanna di cui all'articolo precedente, può escludere la ripetizione delle spese sostenute dalla parte vincitrice, se le ritiene eccessive o superflue; e può, indipendentemente dalla soccombenza, condannare una parte al rimborso delle spese, anche non ripetibili, che, per trasgressione al dovere di cui all'art. 88, essa ha causato all'altra parte. Se vi è soccombenza reciproca ovvero nel caso di assoluta novità della questione trattata o mutamento della giurisprudenza rispetto alle questioni dirimenti, il giudice […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965",
+        "title": "Codice civile — art. 1965",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1965. (Nozione). La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Cartelle professionali ordinate in fasi su una scrivania, con una calcolatrice e un blocco per preventivi anonimo, luce naturale. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Cartelle professionali ordinate in fasi su una scrivania, con una calcolatrice e un blocco per preventivi anonimo, luce naturale",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-070.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "c9c1d4b90813f0f411f478f14bc949bd883308accd09e1ec3da68efc89c588d6",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 595,
+    "contentHash": "8d7f6950f90c49fa52d0fe2532f6b6a38fd087ef37034464f8a51d9d2ed3604e",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-22",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "1e12f4dc625e37fca6ca6fd98254d1f89aeadfaeb371fb667c89667402fc42ec",
+    "sha256": "bfc219629cc8ad980481b2f7598fac4d1a09b609ff42cce6f7a53560d1d5df2a"
+  }
+}

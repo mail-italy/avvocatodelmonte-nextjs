@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-028",
+    "site": "avvocato",
+    "sequence": 28,
+    "area": "Cassazione penale",
+    "slug": "travisamento-della-prova-nel-ricorso-penale-dal-verbale-al-motivo",
+    "title": "Travisamento della prova nel ricorso penale: dal verbale al motivo",
+    "intent": "Distinguere difformità del dato e diversa valutazione della prova",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 54,
+    "status": "approved",
+    "seoTitle": "Travisamento della prova nel ricorso penale: dal verbale al motivo",
+    "description": "Travisamento della prova nel ricorso penale: come confrontare il dato processuale con la sentenza e distinguere errore percettivo e valutazione.",
+    "bodyMarkdown": "La sentenza attribuisce a un testimone un'affermazione che, secondo la difesa, non compare nel verbale. Il problema merita una verifica precisa: contestare il dato utilizzato dal giudice è diverso dal chiedere che una dichiarazione effettivamente resa venga ritenuta meno credibile.\n\n## Il punto di partenza è l'atto completo\n\nSi recuperano verbale, eventuale trascrizione e riferimenti della deposizione, mantenendo il contesto della domanda e della risposta. Un estratto può eliminare una precisazione successiva o il significato della domanda precedente. La verifica deve confrontare il contenuto processuale con la rappresentazione che ne offre la motivazione.\n\nIl [Codice di procedura penale — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606) contempla il vizio di motivazione nei termini previsti e richiede la specifica indicazione degli atti richiamati nel motivo quando il vizio emerga da essi. Il richiamo generico a “tutte le testimonianze” non rende individuabile il problema. Occorrono passaggi e riferimenti che consentano il controllo.\n\n## Dato inesistente e lettura diversa\n\nUna censura può segnalare che la decisione utilizza un contenuto non presente nell'atto, oppure trascura un dato che si assume decisivo. La sua ammissibilità richiede un esame tecnico. Non basta chiamare travisamento qualsiasi valutazione sfavorevole o qualsiasi preferenza accordata a una fonte di prova.\n\nSe il testimone ha pronunciato la frase ma il giudice la considera attendibile, il dissenso riguarda un piano diverso. La Cassazione non diventa per questo una nuova udienza nella quale confrontare liberamente tutte le ricostruzioni possibili. Il motivo deve restare nei limiti del controllo previsto dal codice.\n\n## Spiegare l'incidenza sul ragionamento\n\nLa differenza tra atto e motivazione deve essere collegata al risultato. Un'imprecisione periferica non ha necessariamente lo stesso rilievo di un dato sul quale si fonda il passaggio decisivo. La difesa deve mostrare il rapporto con le altre prove e con la struttura della sentenza, evitando di isolare un errore senza misurarne l'effetto.\n\nUna tabella può riportare testo dell'atto, passaggio della sentenza, differenza contestata e conseguenza nel ragionamento. È uno strumento di preparazione, non una prova autonoma. Il documento originale rimane indispensabile e ogni citazione deve essere fedele, senza correzioni silenziose della trascrizione.\n\n## Confrontare primo grado e appello\n\nQuando le decisioni convergono, la lettura della sola sentenza d'appello può essere insufficiente. Occorre verificare come il tema fosse stato proposto nell'impugnazione precedente e quale risposta abbia ricevuto. Il [Codice di procedura penale — art. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art609) delimita la cognizione della Corte in relazione ai motivi e alle questioni previste dalla norma.\n\nIl cliente può segnalare il passaggio che ritiene alterato, ma deve consegnare anche il motivo d'appello pertinente e la decisione di primo grado. Questo permette al professionista di ricostruire il percorso della doglianza e di non confondere un punto mai dedotto con uno già esaminato.\n\n## Evitare ricostruzioni parallele\n\nUna nuova trascrizione privata o una registrazione disponibile deve essere presentata con la sua provenienza e il suo stato processuale. Non va sostituita agli atti ufficiali senza spiegazione. Eventuali difformità richiedono una valutazione del difensore sulle modalità corrette per rappresentarle.\n\nIl risultato del primo esame deve chiarire se esista una divergenza verificabile, se sia decisiva e se possa essere formulata nel ricorso. Questo metodo trasforma un'obiezione intuitiva in una questione controllabile, oppure consente di riconoscere che il dissenso riguarda il merito e non il tipo di vizio ipotizzato.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una prova che il giudice interpreta diversamente è sempre travisata?",
+        "answer": "No. È necessario distinguere il contenuto del dato probatorio dalla valutazione che ne viene data."
+      },
+      {
+        "question": "Posso inviare solo la frase che considero decisiva?",
+        "answer": "È utile segnalarla, ma occorrono l’atto completo e il contesto per verificarne significato e incidenza."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606",
+        "title": "Codice di procedura penale — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606 Casi di ricorso 1. Il ricorso per cassazione può essere proposto per i seguenti motivi: a) esercizio da parte del giudice di una potestà riservata dalla legge a organi legislativi o amministrativi ovvero non consentita ai pubblici poteri; b) inosservanza o erronea applicazione della legge penale o di altre norme giuridiche, di cui si deve tener conto nell'applicazione della legge penale; c) inosservanza delle norme processuali stabilite a pena di nullità, di inutilizzabilità, di inammissibilità o di decadenza; d) mancata assunzione di una prova decisiva, quando la parte […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art609",
+        "title": "Codice di procedura penale — art. 609",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 609 Cognizione della corte di cassazione 1. Il ricorso attribuisce alla corte di cassazione la cognizione del procedimento limitatamente ai motivi proposti. 2. La corte decide altresì le questioni rilevabili di ufficio in ogni stato e grado del processo e quelle che non sarebbe stato possibile dedurre in grado di appello."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due pagine affiancate con segnalibri e una lente al centro, su una delle pagine un piccolo registratore neutro spento, nessun testo leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due pagine affiancate con segnalibri e una lente al centro, su una delle pagine un piccolo registratore neutro spento, nessun testo leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-028.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "4639e707403bb5ef21021c7477ad61edde2803723ae37883b1e8f7e7fc262af8",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 618,
+    "contentHash": "ac000bd83c041812577105ef7a0be798dbdaa80bbf100649fdcf008be8662fcc",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-13",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "027ca9fd115f9520cbdbfe9fa17c107c13cfb8f1f22329cf112dc5a0ac2fe23d",
+    "sha256": "54da9b8271be54083184e58ac638cec622d67cf8eb9ffea7571246adf44267e7"
+  }
+}

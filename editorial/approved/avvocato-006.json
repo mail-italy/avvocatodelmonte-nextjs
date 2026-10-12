@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-006",
+    "site": "avvocato",
+    "sequence": 6,
+    "area": "Cassazione civile",
+    "slug": "omessa-pronuncia-come-riconoscere-una-domanda-rimasta-senza-decisione",
+    "title": "Omessa pronuncia: come riconoscere una domanda rimasta senza decisione",
+    "intent": "Distinguere domanda, argomento e decisione implicita",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 10,
+    "status": "approved",
+    "seoTitle": "Omessa pronuncia: come riconoscere una domanda rimasta senza decisione",
+    "description": "Omessa pronuncia civile: distinguere una domanda senza risposta da un argomento non discusso e preparare gli atti per la verifica.",
+    "bodyMarkdown": "Una parte legge la sentenza e non trova risposta a una richiesta importante. Prima di parlare di omessa pronuncia bisogna individuare esattamente che cosa era stato chiesto al giudice e verificare se la risposta manchi davvero. L'assenza di un paragrafo dedicato a un argomento non coincide necessariamente con l'omissione di una decisione.\n\n## Domanda, eccezione e argomento\n\nIl [Codice di procedura civile — art. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art112) impone al giudice di pronunciarsi sulla domanda entro i suoi limiti e disciplina anche il rapporto con le eccezioni riservate alle parti. Una domanda mira a un risultato processuale; un argomento serve a sostenerlo. La distinzione è centrale: il giudice può decidere una domanda senza esaminare separatamente ogni osservazione sviluppata per illustrarla.\n\nPer esempio, chiedere il pagamento di una somma è diverso dal richiamare un documento come prova di quel credito. Se la sentenza respinge il credito, la mancata menzione del documento non dimostra da sola omessa pronuncia. Potrebbe eventualmente porre un problema diverso, da valutare nei limiti dei motivi previsti dal [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360).\n\n## Cercare la richiesta negli atti\n\nOccorre recuperare l'atto in cui la domanda o l'eccezione è stata proposta, le eventuali modifiche e le conclusioni rilevanti. Nel passaggio tra primo grado e appello una questione potrebbe essere stata abbandonata, non riproposta oppure trattata in modo diverso. Il ricorso non può prescindere da questa storia.\n\nUn prospetto utile riporta il testo della richiesta, la pagina dell'atto, il momento processuale e il punto della sentenza che avrebbe dovuto occuparsene. Se il materiale è digitale, è bene distinguere la numerazione del documento dalla pagina visualizzata nel lettore PDF. Questa precisione evita ricerche ambigue e permette di verificare subito la corrispondenza.\n\n## Leggere anche le risposte implicite\n\nUna decisione può risultare dal ragionamento complessivo, anche se non usa le stesse parole delle conclusioni. La verifica non si limita quindi a cercare nel PDF il nome della domanda. Deve accertare se la soluzione adottata sia incompatibile con il suo accoglimento o se il giudice l'abbia effettivamente lasciata senza risposta.\n\nAnche l'assorbimento richiede attenzione. Quando la decisione di una questione rende superfluo l'esame di un'altra, non si può automaticamente equiparare la mancata trattazione a un'omissione. Il difensore valuta se l'assorbimento sia reale, dichiarato o desumibile e quale conseguenza produca sull'interesse a impugnare.\n\n## Spiegare perché il punto incide sul risultato\n\nIl fascicolo deve rendere visibile l'utilità della censura. Non basta individuare un passaggio mancante: bisogna capire quale domanda resti da decidere e come essa possa influire sulla posizione della parte. Questo aiuta a distinguere una contestazione processuale concreta da un'insoddisfazione per la brevità della motivazione.\n\nIl cliente può preparare una sintesi separando tre elementi: richiesta formulata, risposta attesa come oggetto della decisione e documento in cui la richiesta compare. La qualificazione giuridica del vizio viene dopo. Applicare un'etichetta prima di avere verificato gli atti può portare a costruire il motivo nella direzione sbagliata.\n\n## Il controllo finale\n\nPrima dell'impugnazione si confrontano integralmente domanda e sentenza, si verifica il percorso dell'appello e si individua il rimedio appropriato. Talvolta il problema apparente si scioglie leggendo un passaggio trascurato; altre volte emerge una vera questione processuale. La solidità dell'esame dipende dalla localizzazione degli atti, dalla lettura completa della motivazione e dall'effetto concreto della decisione mancante.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il giudice deve rispondere a ogni frase delle difese?",
+        "answer": "Non necessariamente. Occorre distinguere le domande e le eccezioni dagli argomenti utilizzati per sostenerle."
+      },
+      {
+        "question": "Una domanda assorbita è sempre una domanda dimenticata?",
+        "answer": "No. L’assorbimento ha un significato processuale diverso e va verificato nel rapporto fra le questioni decise."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art112",
+        "title": "Codice di procedura civile — art. 112",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 112. (Corrispondenza tra il chiesto e il pronunciato). Il giudice deve pronunciare su tutta la domanda e non oltre i limiti di essa; e non può pronunciare d'ufficio su eccezioni, che possono essere proposte soltanto dalle parti."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una pagina di fascicolo con tre segnalibri e uno spazio evidenziato dalla luce, nessuna parola leggibile, atmosfera di lettura attenta. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una pagina di fascicolo con tre segnalibri e uno spazio evidenziato dalla luce, nessuna parola leggibile, atmosfera di lettura attenta",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-006.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "b92cf54d1a37fe2baf66249ef44db6a3663792d4d9f966d8216deb627502e5f0",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 630,
+    "contentHash": "fb65b8739183d32358dfdc93357543fb664adc70645624c4e75367fe4569162d",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-23",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "d198e0ff54dfd8d3a17d773ccb584bc3ddf13ac5a752e838328dd7a5c0ef16a1",
+    "sha256": "85baaab1c61e9077754bcff03611ea24eeb427bf8aab1c77d8c297764eaffc8b"
+  }
+}

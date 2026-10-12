@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-082",
+    "site": "avvocato",
+    "sequence": 82,
+    "area": "Infortuni sul lavoro",
+    "slug": "formazione-e-addestramento-nel-fascicolo-dell-infortunio",
+    "title": "Formazione e addestramento nel fascicolo dell'infortunio",
+    "intent": "Distinguere attestati e attività effettivamente svolte",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 162,
+    "status": "approved",
+    "seoTitle": "Formazione e addestramento nel fascicolo dell'infortunio",
+    "description": "Come leggere attestati, registri e attività pratiche quando si valuta la formazione del lavoratore dopo un infortunio.",
+    "bodyMarkdown": "Nel fascicolo di un infortunio, l'attestato di un corso è un punto di partenza. Bisogna verificare che cosa sia stato insegnato, a chi, quando e rispetto a quale mansione. Informazione, formazione e addestramento non sono parole intercambiabili: possono riguardare attività e obblighi differenti.\n\n## Collegare il corso al lavoro reale\n\nSi ricostruiscono mansione, attrezzature e rischi presenti nel momento dell'evento. Il documento formativo dovrebbe essere confrontato con questi dati, non soltanto con il nome generico del settore. Un corso precedente a un cambiamento di attività potrebbe richiedere ulteriori verifiche sulla formazione successiva.\n\nIl [D.lgs. 81/2008 — art. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art37) disciplina formazione e addestramento, considerando anche cambiamenti e caratteristiche dei lavoratori. La versione applicabile e gli accordi pertinenti devono essere verificati in relazione al periodo dei fatti. Non è prudente utilizzare schemi di durata trovati online senza controllarne aggiornamento e ambito.\n\n## Distinguere presenza e apprendimento\n\nRegistro delle presenze, programma, materiale didattico e verifiche disponibili descrivono aspetti diversi. La firma sul registro può documentare una partecipazione, ma non risolve da sola la questione dell'adeguatezza dei contenuti. Anche comprensibilità linguistica e corrispondenza con i compiti possono essere rilevanti.\n\nIl lavoratore può riferire modalità del corso e attività svolte, senza trasformare il ricordo in una valutazione tecnica conclusiva. Se alcuni dati mancano, si identificano le informazioni da richiedere. Non si devono attribuire retroattivamente a un corso contenuti che il programma non documenta.\n\n## Ricostruire l'addestramento pratico\n\nQuando è richiesto, l'addestramento riguarda anche l'esercizio concreto delle operazioni in sicurezza. È utile sapere chi lo abbia svolto, su quale attrezzatura, con quali attività e registrazioni. Una spiegazione verbale occasionale può non coincidere con il percorso che la disciplina richiede nel caso specifico.\n\nIl [D.lgs. 81/2008 — art. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art73) considera informazione, formazione e addestramento per le attrezzature, comprese condizioni di impiego e situazioni anormali prevedibili. La ricostruzione deve quindi esaminare anche le istruzioni per anomalie, pulizia o altre attività pertinenti all'infortunio, non soltanto il funzionamento ordinario.\n\n## Confrontare procedure scritte e prassi\n\nUna procedura può essere formalmente corretta ma diversa da ciò che veniva richiesto nella pratica. Occorre documentare eventuali differenze attraverso fatti: tempi, ordini, organizzazione e testimonianze. L'affermazione generica che “si è sempre fatto così” richiede di capire chi lo sapesse e come si svolgesse realmente il lavoro.\n\nAllo stesso tempo, un comportamento individuale deve essere valutato nel contesto, senza automatismi assolutori o accusatori. Il [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) si coordina con gli obblighi specifici e con la ricostruzione causale. La questione è quale misura dovuta avrebbe potuto incidere sull'evento.\n\n## Preparare domande verificabili\n\nIl fascicolo dovrebbe consentire di rispondere a quesiti circoscritti: il rischio era trattato, le istruzioni erano comprensibili, il lavoratore aveva esercitato l'operazione, il cambiamento di mansione era stato considerato? Queste domande aiutano il confronto tra legale e consulente tecnico.\n\nUna lacuna documentale non dimostra automaticamente ogni omissione, ma richiede approfondimento. Una raccolta completa evita anche di contestare attività che risultano effettivamente svolte. Il valore probatorio nasce dal collegamento tra documenti, lavoro reale e dinamica, non dal semplice numero di attestati presenti in archivio.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Un attestato dimostra sempre una formazione adeguata?",
+        "answer": "No. Va confrontato con contenuti, mansione, rischi e periodo di riferimento."
+      },
+      {
+        "question": "L’esperienza lavorativa sostituisce l’addestramento?",
+        "answer": "Non automaticamente. Gli obblighi pertinenti devono essere verificati rispetto all’attività e alle attrezzature utilizzate."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art37",
+        "title": "D.lgs. 81/2008 — art. 37",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 37 Formazione dei lavoratori e dei loro rappresentanti 1. Il datore di lavoro assicura che ciascun lavoratore riceva una formazione sufficiente ed adeguata in materia di salute e sicurezza, anche rispetto alle conoscenze linguistiche, con particolare riferimento a: a) concetti di rischio, danno, prevenzione, protezione, organizzazione della prevenzione aziendale, diritti e doveri dei vari soggetti aziendali, organi di vigilanza, controllo, assistenza; b) rischi riferiti alle mansioni e ai possibili danni e alle conseguenti misure e procedure di prevenzione e protezione caratteristici del settore o comparto di appartenenza dell'azienda. 2. […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art73",
+        "title": "D.lgs. 81/2008 — art. 73",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 73 Informazione, formazione e addestramento 1. Nell'ambito degli obblighi di cui agli articoli 36 e 37 il datore di lavoro provvede, affinchè per ogni attrezzatura di lavoro messa a disposizione, i lavoratori incaricati dell'uso dispongano di ogni necessaria informazione e istruzione e ricevano una formazione e un addestramento adeguati, in rapporto alla sicurezza relativamente: a) alle condizioni di impiego delle attrezzature; b) alle situazioni anormali prevedibili. 2. Il datore di lavoro provvede altresì a informare i lavoratori sui rischi cui sono esposti durante l'uso delle attrezzature di lavoro, sulle […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Aula tecnica vuota con un banco dimostrativo sicuro, casco e schede formative anonime, luce naturale e nessuna scritta leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Aula tecnica vuota con un banco dimostrativo sicuro, casco e schede formative anonime, luce naturale e nessuna scritta leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-082.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "7e1020b3047a065a5b6e21167bace49c0fdcb993a6f9d097def0948a92162cbf",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 579,
+    "contentHash": "7a189d9d375ca37584bd8c5872f984b9c69504ba00abdd8c817b5131295d3514",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-10",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "1eab9fa34fbdb5e215765231813bf434a6f346af9815935b3377e34e57605e34",
+    "sha256": "309dc493dd7056c2a165d2752a4e61cbdf7cfddeb23a910c4866207203bc9efb"
+  }
+}

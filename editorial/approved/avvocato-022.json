@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-022",
+    "site": "avvocato",
+    "sequence": 22,
+    "area": "Cassazione civile",
+    "slug": "precedenti-della-cassazione-come-leggere-una-sentenza-senza-fermarsi-alla-massima",
+    "title": "Precedenti della Cassazione: come leggere una sentenza senza fermarsi alla massima",
+    "intent": "Verificare fatti, principio ed effettiva pertinenza del precedente",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 42,
+    "status": "approved",
+    "seoTitle": "Precedenti della Cassazione: come leggere una sentenza senza fermarsi alla massima",
+    "description": "Come leggere un precedente della Cassazione: decisione integrale, fatti, motivo e principio prima di usarlo nel proprio fascicolo.",
+    "bodyMarkdown": "Una ricerca restituisce una massima che sembra dare ragione al cliente. Il titolo è chiaro, ma la decisione integrale può raccontare un problema diverso. Per utilizzare seriamente un precedente bisogna capire che cosa la Corte abbia deciso, su quale motivo e dentro quale quadro processuale.\n\n## La massima orienta la ricerca\n\nUna massima riassume un principio e aiuta a individuare la pronuncia. Non sostituisce la lettura del provvedimento quando occorre applicarlo a un'altra vicenda. La selezione dei fatti e la formulazione sintetica possono lasciare fuori condizioni decisive per il confronto.\n\nÈ utile recuperare numero, data, sezione e testo integrale attraverso una fonte affidabile, preferibilmente istituzionale. Se un commento cita soltanto una frase, si cerca il documento prima di attribuirle un significato generale. Le citazioni incomplete non devono essere trasformate in una promessa sul risultato del proprio processo.\n\n## Seguire il percorso della decisione\n\nLa lettura può iniziare da quattro domande: quale domanda era stata proposta, che cosa aveva deciso il giudice precedente, quale motivo era stato portato in Cassazione e quale risposta ha ricevuto. Un ricorso dichiarato inammissibile non offre necessariamente una decisione di merito sulla tesi sostenuta dal ricorrente.\n\nAnche i passaggi che riportano le posizioni delle parti vanno distinti dalle affermazioni della Corte. Copiare una frase dalla ricostruzione del motivo e presentarla come principio giudiziario ne altera il significato. Nel fascicolo di ricerca conviene annotare dove termina la tesi della parte e dove comincia la valutazione del giudice.\n\n## Confrontare i fatti rilevanti\n\nNon ogni differenza conta allo stesso modo. Il lavoro consiste nell'individuare quelle che incidono sulla regola applicata: tipo di contratto, qualità del soggetto, domanda proposta, momento della contestazione o versione della norma. Due vicende descritte con la stessa parola comune possono avere una struttura giuridica differente.\n\nUn prospetto comparativo è spesso più utile di molti precedenti accumulati. A una colonna con il caso deciso si affianca quella del proprio fascicolo. Le informazioni mancanti restano segnalate come tali: non si colmano con supposizioni per far apparire le controversie più simili.\n\n## Verificare il tempo e gli sviluppi\n\nLa disciplina potrebbe essere cambiata dopo la pronuncia, oppure potrebbero esistere decisioni successive che precisano o discutono il principio. La verifica deve riguardare anche orientamenti contrari. Un quadro completo permette al professionista di spiegare perché un precedente conservi rilevanza o richieda cautela.\n\nIl [Codice di procedura civile — art. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art374) disciplina alcune ipotesi in cui la Corte affronta contrasti interpretativi attraverso le Sezioni Unite. Il [Codice di procedura civile — art. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art384) riguarda il principio di diritto nella decisione della causa. Questi riferimenti aiutano a collocare il precedente, senza trasformare ogni sentenza in una disposizione legislativa generale.\n\n## Usare la ricerca per una domanda concreta\n\nAl difensore è utile inviare il documento e una breve nota: quale passaggio sembra pertinente e quale effetto si vorrebbe ottenere. Non serve riempire la comunicazione di decine di collegamenti senza spiegazione. La ricerca del cliente diventa più efficace quando indica un problema circoscritto.\n\nIl risultato della lettura dovrebbe essere una conclusione verificabile: precedente pertinente, parzialmente pertinente, superato oppure riferito a una questione diversa. Anche scartare una pronuncia inizialmente promettente è un passo utile. Evita di costruire il ricorso su una citazione che non sostiene la tesi nel modo immaginato.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Posso basarmi solo sul titolo di un articolo legale?",
+        "answer": "No. Per valutare un precedente occorrono il provvedimento e il suo contesto, distinguendo commento e decisione."
+      },
+      {
+        "question": "La sentenza più recente è sempre quella decisiva?",
+        "answer": "Non necessariamente. Contano pertinenza, disciplina applicabile, tipo di questione e rapporto con gli altri orientamenti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art374",
+        "title": "Codice di procedura civile — art. 374",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 374. (Pronuncia a sezioni unite). La Corte pronuncia a sezioni unite nei casi previsti nel n. 1) dell'articolo 360 e nell'articolo 362. Tuttavia, tranne che nei casi di impugnazione delle decisioni del Consiglio di Stato e della Corte dei conti, il ricorso può essere assegnato alle sezioni semplici, se sulla questione di giurisdizione proposta si sono già pronunciate le sezioni unite. Inoltre il primo presidente può disporre che la Corte pronunci a sezioni unite sui ricorsi che presentano una questione di diritto già decisa in senso difforme dalle sezioni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art384",
+        "title": "Codice di procedura civile — art. 384",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 384. (Enunciazione del principio di diritto e decisione della causa nel merito). La Corte enuncia il principio di diritto quando decide il ricorso proposto a norma dell'articolo 360, primo comma, n. 3), e in ogni altro caso in cui, decidendo su altri motivi del ricorso, risolve una questione di diritto di particolare importanza. La Corte, quando accoglie il ricorso, cassa la sentenza rinviando la causa ad altro giudice, il quale deve uniformarsi al principio di diritto e comunque a quanto statuito dalla Corte, ovvero decide la causa nel merito […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Libro giuridico aperto e lente sopra una pagina senza parole leggibili, due schede neutre di confronto accanto, fotografia luminosa e sobria. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Libro giuridico aperto e lente sopra una pagina senza parole leggibili, due schede neutre di confronto accanto, fotografia luminosa e sobria",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-022.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "0ce63c7bda01ab2e4625485b1a2b8ad21fbaf0b23ed7e235bea8c9370ecda6dc",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 610,
+    "contentHash": "5aeb33a6e5e598efe74a7163abab381c37478f5e4411a1cb1e444c64c1ae46e7",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-31",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "9d6b4c9410712cf3b486342555b04d4e2031a8a37e4d69d7951f75ea94a9577b",
+    "sha256": "fa2054929d62e840081778d633fb4bff98c5f01f3374b19f6d45a51bd95aa484"
+  }
+}

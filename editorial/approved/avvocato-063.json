@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-063",
+    "site": "avvocato",
+    "sequence": 63,
+    "area": "Risarcimento danni",
+    "slug": "danno-da-ridotta-autonomia-domestica-quali-fatti-descrivere",
+    "title": "Danno da ridotta autonomia domestica: quali fatti descrivere",
+    "intent": "Documentare attività compromesse e soluzioni assistenziali",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 124,
+    "status": "approved",
+    "seoTitle": "Danno da ridotta autonomia domestica: quali fatti descrivere",
+    "description": "Come descrivere le limitazioni nelle attività domestiche dopo una lesione e distinguerle dai relativi costi economici.",
+    "bodyMarkdown": "Le conseguenze di una lesione possono essere rilevanti anche quando non incidono su un lavoro retribuito. Preparare i pasti, pulire, fare acquisti o occuparsi della gestione quotidiana richiede capacità concrete. Per valutarne la riduzione bisogna descrivere attività e cambiamenti, evitando sia di ignorarli sia di trasformarli in somme automatiche.\n\n## Ricostruire l'organizzazione precedente\n\nSi parte da ciò che la persona faceva realmente prima dell'evento. La distribuzione delle attività in famiglia può essere molto diversa da quella immaginata attraverso età, genere o occupazione. Una descrizione attendibile indica compiti, frequenza e aiuti già presenti.\n\nIl racconto può essere sostenuto da documenti e persone informate sui fatti. Non serve catalogare ogni gesto quotidiano: occorre individuare le attività pertinenti alle limitazioni lamentate. Il confronto diventa più chiaro quando riguarda esempi concreti, come fare la spesa senza accompagnamento o utilizzare le scale per raggiungere la lavanderia.\n\n## Descrivere il cambiamento funzionale\n\nLa documentazione sanitaria aiuta a collegare una menomazione alle difficoltà osservate. Il diario personale dovrebbe distinguere impossibilità, maggiore lentezza, dolore e necessità di aiuto, senza attribuire diagnosi autonome. Anche l'evoluzione nel tempo è importante: una limitazione iniziale può ridursi o stabilizzarsi.\n\nIl consulente deve valutare la coerenza tra dati clinici e attività descritte. Non ogni difficoltà successiva deriva necessariamente dall'evento. Condizioni preesistenti, cambiamenti abitativi e altre circostanze possono richiedere un esame separato.\n\n## Separare conseguenze personali e spese\n\nUna cosa è l'incidenza della lesione sulla vita quotidiana; altra è il costo sostenuto per sostituire attività prima svolte personalmente. Le due prospettive devono essere coordinate per evitare duplicazioni. Il [Codice civile — art. 2059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2059) fornisce il riferimento normativo per il danno non patrimoniale, la cui concreta applicazione richiede una valutazione giuridica del caso.\n\nPer le perdite economiche rilevano il collegamento causale e i criteri del [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223), richiamati dal [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) nel fatto illecito. Fatture di pulizia, consegne o assistenza devono essere accompagnate da una spiegazione della necessità e del periodo cui si riferiscono.\n\n## Valutare l'aiuto familiare\n\nSe un convivente assume nuovi compiti, la ricostruzione dovrebbe indicare quali e con quale frequenza. L'assenza di un pagamento non rende invisibile il cambiamento, ma non autorizza a calcolarne il valore con una tariffa scelta liberamente. Occorre valutare la posizione del danneggiato e l'eventuale rilevanza delle conseguenze altrui.\n\nLa descrizione deve evitare sovrapposizioni: la stessa ora di aiuto non dovrebbe comparire in più prospetti come se riguardasse prestazioni indipendenti. Se intervengono più persone, è utile indicare come si alternino e quali bisogni coprano effettivamente.\n\n## Preparare una richiesta proporzionata ai fatti\n\nUn prospetto semplice può confrontare attività precedente, difficoltà attuale, aiuto necessario e documenti disponibili. Le stime vanno riconosciute come tali. Le conclusioni mediche e la quantificazione economica devono essere affidate ai professionisti competenti.\n\nPrima di discutere un'offerta, è importante comprendere quali conseguenze siano già considerate nella valutazione generale della lesione e quali spese ulteriori vengano richieste. Il valore del lavoro domestico non dipende dall'esistenza di uno stipendio, ma la tutela richiede una rappresentazione concreta del cambiamento. Questo permette di affrontare il problema senza stereotipi e senza sommare etichette di danno che descrivono il medesimo effetto.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Chi non ha uno stipendio può documentare conseguenze risarcibili?",
+        "answer": "Sì. L’assenza di reddito non elimina le conseguenze personali e gli eventuali costi causati dalla lesione."
+      },
+      {
+        "question": "Basta dichiarare di non riuscire più a fare le pulizie?",
+        "answer": "È meglio descrivere attività, frequenza, limitazioni e aiuti, collegandoli alla documentazione sanitaria pertinente."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2059",
+        "title": "Codice civile — art. 2059",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2059. (Danni non patrimoniali). Il danno non patrimoniale deve essere risarcito solo nei casi determinati dalla legge."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Cucina domestica ordinata con una busta della spesa ancora sul tavolo e un bastone da passeggio accanto a una sedia, nessuna persona riconoscibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Cucina domestica ordinata con una busta della spesa ancora sul tavolo e un bastone da passeggio accanto a una sedia, nessuna persona riconoscibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-063.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "f9b665de6bb8ece43c169123adc260aefd8e7d44124f75e39bf09b3e9094c4df",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 597,
+    "contentHash": "7d6c8220b423f3a2b39115c705c8a0cd95620b34d348542bbfa602ff9f1d2207",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-29",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "6e4aa34419e74d8e9b9cdbc9f16125c4350e4bcd1c14b5396caffcb9eb0a5415",
+    "sha256": "417eb5009f31c8b9e950f0e39fa8277d3f116da3b4a40ca04145f072f455aa62"
+  }
+}

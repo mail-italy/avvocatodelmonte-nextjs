@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-048",
+    "site": "avvocato",
+    "sequence": 48,
+    "area": "Responsabilità medica",
+    "slug": "caduta-del-paziente-ricoverato-organizzazione-e-danno",
+    "title": "Caduta del paziente ricoverato: organizzazione e danno",
+    "intent": "Esaminare condizioni del paziente e misure di assistenza",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 94,
+    "status": "approved",
+    "seoTitle": "Caduta del paziente ricoverato: organizzazione e danno",
+    "description": "Caduta del paziente in ospedale: ricostruire condizioni, assistenza, luogo e conseguenze per una valutazione della responsabilità.",
+    "bodyMarkdown": "Un paziente cade durante il ricovero e subisce una lesione. La verifica richiede di capire come sia avvenuto l'evento e quale assistenza fosse necessaria nella situazione concreta. Non basta affermare che la caduta sia avvenuta dentro una struttura per individuare automaticamente la responsabilità.\n\n## Ricostruire luogo e circostanze\n\nSi annotano reparto, momento, attività in corso e persone presenti, distinguendo osservazioni dirette e informazioni ricevute. La nota dei familiari può essere utile, ma non sostituisce cartella, annotazioni assistenziali e altri documenti pertinenti. Eventuali fotografie del luogo devono essere raccolte nel rispetto delle regole e della riservatezza altrui.\n\nÈ importante descrivere ciò che si sa senza completare i vuoti con ipotesi. Se nessuno ha assistito alla caduta, questa lacuna deve restare visibile. Le ricostruzioni successive vanno attribuite alla loro fonte, così che il professionista possa valutarne il significato.\n\n## Le condizioni del paziente\n\nMobilità, autonomia e condizioni cliniche registrate possono incidere sull'esame dell'assistenza necessaria. Il consulente deve ricostruire il quadro disponibile prima dell'evento, non soltanto quello risultante dopo la lesione. La documentazione delle valutazioni e degli interventi diventa quindi rilevante.\n\nLa [Legge 24/2017 — art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5) richiama raccomandazioni e buone pratiche tenendo conto delle specificità del caso. L'applicazione concreta deve essere verificata da chi possiede le competenze appropriate. Non si può dedurre da una regola generale che ogni paziente debba ricevere identiche misure in ogni momento.\n\n## I documenti sull'assistenza\n\nPossono essere pertinenti cartella, diario infermieristico, registrazioni delle condizioni, indicazioni assistenziali e documenti relativi all'evento. La richiesta di accesso si colloca nel quadro della [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4). È utile individuare il periodo e segnalare quali parti manchino nella copia ricevuta.\n\nUn modulo compilato non dimostra da solo tutta l'attività effettiva; allo stesso modo, un documento assente non consente automaticamente di affermare che nulla sia stato fatto. Il lavoro consiste nel confrontare le fonti, chiarire le lacune e individuare i fatti sostenibili.\n\n## La lesione e le conseguenze\n\nSi raccolgono gli accertamenti eseguiti dopo la caduta, le cure, il decorso e le eventuali nuove limitazioni. Il consulente deve distinguere il danno attribuibile all'evento dalle condizioni già presenti. Un prolungamento del ricovero o una maggiore necessità di aiuto richiedono una lettura causale specifica.\n\nLa [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) offre il quadro della responsabilità civile. La pretesa deve collegare condotta e conseguenze, evitando una domanda indistinta che includa ogni problema sanitario successivo. Le spese e il carico assistenziale vanno documentati nella loro effettiva relazione con l'evento.\n\n## Il contributo di paziente e familiari\n\nUna cronologia semplice può indicare ciò che accadeva prima, il momento conosciuto della caduta e i cambiamenti successivi. È preferibile evitare conversazioni pubbliche che espongano dati sanitari o attribuiscano colpe prima della verifica. Le informazioni si raccolgono attraverso il canale concordato con il difensore.\n\nIl primo esame dovrebbe individuare le domande tecniche: quale bisogno assistenziale fosse noto, quali misure risultino e quale effetto abbia avuto la caduta. La risposta può richiedere ulteriori documenti o una consulenza. L'obiettivo è trasformare l'evento in una ricostruzione controllabile, mantenendo distinta la necessità di capire dalla conclusione sulla responsabilità.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una caduta in reparto comporta sempre un risarcimento?",
+        "answer": "No. Occorre valutare circostanze, assistenza dovuta, condotta e danno attribuibile nel caso concreto."
+      },
+      {
+        "question": "I familiari possono preparare una nota?",
+        "answer": "Sì, distinguendo ciò che hanno visto da ciò che è stato riferito e mantenendo separate le valutazioni personali."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5",
+        "title": "Legge 24/2017 — art. 5",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 5 Buone pratiche clinico-assistenziali e raccomandazioni previste dalle linee guida 1. Gli esercenti le professioni sanitarie, nell'esecuzione delle prestazioni sanitarie con finalità preventive, diagnostiche, terapeutiche, palliative, riabilitative e di medicina legale, si attengono, salve le specificità del caso concreto, alle raccomandazioni previste dalle linee guida pubblicate ai sensi del comma 3 ed elaborate da enti e istituzioni pubblici e privati nonché dalle società scientifiche e dalle associazioni tecnico-scientifiche delle professioni sanitarie iscritte in apposito elenco istituito e regolamentato con decreto del Ministro della salute, da emanare entro novanta giorni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Corridoio ospedaliero vuoto con corrimano e sedia a rotelle parcheggiata in sicurezza, luce naturale, nessuna scena di caduta o sofferenza. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Corridoio ospedaliero vuoto con corrimano e sedia a rotelle parcheggiata in sicurezza, luce naturale, nessuna scena di caduta o sofferenza",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-048.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "c7068bcb460be4c7e0246006c9f02e4a65f29b476500d4de52c3cee3f742f071",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 588,
+    "contentHash": "2bec1ce03afb8fab80149bd1283d0f41e472336e6642238928d7d3ce81ba6b21",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-23",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "8b4f37babd3fa48e3bbff693be715f5ded8e8c4e4108d5b8b71f8bd30c9d511a",
+    "sha256": "b01505ff9c8fa85d0841b47700ae428afa67b1ae53b692b80c3a01336cb6d7ac"
+  }
+}

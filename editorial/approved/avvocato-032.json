@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-032",
+    "site": "avvocato",
+    "sequence": 32,
+    "area": "Cassazione penale",
+    "slug": "pena-e-motivazione-della-sentenza-controllare-il-percorso-di-determinazione",
+    "title": "Pena e motivazione della sentenza: controllare il percorso di determinazione",
+    "intent": "Verificare ragioni della pena senza proporre un nuovo giudizio di merito",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 62,
+    "status": "approved",
+    "seoTitle": "Pena e motivazione della sentenza: controllare il percorso di determinazione",
+    "description": "Determinazione della pena e Cassazione: come ricostruire i passaggi della sentenza e distinguere calcolo, regola e valutazione.",
+    "bodyMarkdown": "La pena indicata nel dispositivo appare molto più severa di quanto il cliente si aspettasse. Prima di valutare il ricorso occorre ricostruire il percorso seguito dal giudice: pena di partenza, passaggi applicati, ragioni della scelta e risultato finale. La sola distanza dalle aspettative non identifica un vizio di legittimità.\n\n## Leggere il calcolo e la motivazione\n\nIl dispositivo offre il totale, ma la motivazione dovrebbe consentire di comprendere la decisione. Si devono distinguere questioni di calcolo, applicazione delle norme e valutazioni affidate al giudice. Ciascun profilo può richiedere un esame diverso e non deve essere mescolato in una censura indistinta.\n\nIl [Codice di procedura penale — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606) disciplina i motivi del ricorso, compresi errori di legge e vizi della motivazione nei limiti previsti. Il cassazionista deve identificare il passaggio concretamente contestabile, senza trasformare la Corte in un giudice chiamato a scegliere nuovamente la pena soltanto perché quella applicata è ritenuta alta.\n\n## Ricostruire i singoli passaggi\n\nÈ utile un prospetto che riporti ciò che la sentenza indica, mantenendo separate operazioni aritmetiche e valutazioni. Se un dato manca o è ambiguo, si segnala la lacuna invece di ricostruire un calcolo ipotetico e attribuirlo al giudice. Gli atti del processo e le richieste difensive possono aiutare a comprendere il punto.\n\nQuando vi sono più reati, circostanze o altri elementi che incidono sul trattamento, la lettura deve seguirne l'ordine effettivo. Un confronto con la pena di un'altra persona o di un altro processo è insufficiente se non tiene conto delle differenze giuridiche e fattuali.\n\n## Che cosa era stato chiesto in appello\n\nSi recuperano i motivi relativi alla pena e la risposta della decisione successiva. Il ricorso deve confrontarsi con quella motivazione, non limitarsi a ripetere una richiesta già respinta. Se vengono richiamati documenti sulla situazione personale, occorre sapere quando siano stati acquisiti e quale tema dovessero sostenere.\n\nIl cliente può fornire informazioni aggiornate, ma il difensore deve distinguere quelle utili alla censura da quelle che eventualmente riguardino altre fasi o strumenti. La Cassazione non è un contenitore generale per ogni elemento favorevole maturato dopo il giudizio.\n\n## Errore giuridico e preferenza per una pena diversa\n\nUna regola applicata in modo errato presenta un problema diverso dalla richiesta di un apprezzamento più benevolo. Anche una motivazione sintetica deve essere valutata nel contesto, senza presumere che la brevità equivalga sempre a mancanza di ragioni. Il confronto riguarda ciò che è giuridicamente richiesto per il punto deciso.\n\nIl parere deve spiegare quale errore venga ipotizzato e quale effetto avrebbe la sua correzione. Talvolta il tema può riguardare un passaggio limitato; altre volte incide sul complesso della determinazione. Non si devono promettere riduzioni predeterminate prima di aver ricostruito il provvedimento.\n\n## Gli esiti possibili\n\nIl [Codice di procedura penale — art. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art620) comprende ipotesi nelle quali la Corte può adottare una decisione senza rinvio, anche nei termini previsti per la rideterminazione. In altri casi può essere necessario un rinvio. La scelta dipende dal tipo di errore e dagli accertamenti richiesti, non dalla semplice richiesta della parte.\n\nPer preparare il confronto servono quindi sentenze integrali, motivi d'appello, atti richiamati e una cronologia delle notifiche. Un quadro ordinato permette di distinguere ciò che può essere censurato in Cassazione dalle aspettative che richiedono una diversa valutazione professionale.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una pena alta è di per sé ricorribile?",
+        "answer": "La severità percepita non basta. Occorre individuare un errore di legge o un vizio consentito della motivazione."
+      },
+      {
+        "question": "La Cassazione può modificare direttamente la pena?",
+        "answer": "Può farlo nelle condizioni previste dalla disciplina applicabile; in altri casi l’esito può richiedere un rinvio."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606",
+        "title": "Codice di procedura penale — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606 Casi di ricorso 1. Il ricorso per cassazione può essere proposto per i seguenti motivi: a) esercizio da parte del giudice di una potestà riservata dalla legge a organi legislativi o amministrativi ovvero non consentita ai pubblici poteri; b) inosservanza o erronea applicazione della legge penale o di altre norme giuridiche, di cui si deve tener conto nell'applicazione della legge penale; c) inosservanza delle norme processuali stabilite a pena di nullità, di inutilizzabilità, di inammissibilità o di decadenza; d) mancata assunzione di una prova decisiva, quando la parte […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art620",
+        "title": "Codice di procedura penale — art. 620",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 620 Annullamento senza rinvio 1. Oltre che nei casi particolarmente previsti dalla legge, la corte pronuncia sentenza di annullamento senza rinvio: a) se il fatto non è previsto dalla legge come reato, se il reato è estinto o se l'azione penale non doveva essere iniziata o proseguita; b) se il reato non appartiene alla giurisdizione del giudice ordinario; c) se il provvedimento impugnato contiene disposizioni che eccedono i poteri della giurisdizione, limitatamente alle medesime; d) se la decisione impugnata consiste in un provvedimento non consentito dalla legge; e) se […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Fascicolo con un percorso di piccoli blocchi numerici astratti senza cifre leggibili, penna e luce sobria, nessuna immagine carceraria. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Fascicolo con un percorso di piccoli blocchi numerici astratti senza cifre leggibili, penna e luce sobria, nessuna immagine carceraria",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-032.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "5c40b4c8eff73d521c5fe3f9e985776187c055142a28edc35e296f1f1bb7d239",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 615,
+    "contentHash": "9b8891e0aead94ac4984505552f848507c111e4fea3a174140a13b0e9b3526f0",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-06",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "f01b98635dcf40b05274091cf0cee73086f9473d9c26fa7d845df374cf3724b9",
+    "sha256": "991200ec5a8e83c73399c49a19e87fd4667de81c28f880d0b8e3b0903e4de1cd"
+  }
+}

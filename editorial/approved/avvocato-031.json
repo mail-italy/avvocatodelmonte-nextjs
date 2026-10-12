@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-031",
+    "site": "avvocato",
+    "sequence": 31,
+    "area": "Cassazione penale",
+    "slug": "prova-decisiva-non-assunta-preparare-la-verifica-per-la-cassazione-penale",
+    "title": "Prova decisiva non assunta: preparare la verifica per la Cassazione penale",
+    "intent": "Leggere richiesta istruttoria, decisione e incidenza della prova",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 60,
+    "status": "approved",
+    "seoTitle": "Prova decisiva non assunta: preparare la verifica per la Cassazione penale",
+    "description": "Prova non assunta nel processo penale: come verificare richiesta, diniego e decisività prima di valutare il motivo di Cassazione.",
+    "bodyMarkdown": "Un testimone richiesto dalla difesa non viene ascoltato e la sentenza è sfavorevole. Il cliente ritiene che quella deposizione avrebbe cambiato tutto. La verifica per la Cassazione deve però ricostruire il contenuto della richiesta, la decisione del giudice e il ruolo che la prova avrebbe avuto nel ragionamento.\n\n## Recuperare la richiesta effettiva\n\nIl fascicolo deve mostrare quale prova sia stata chiesta, su quali circostanze e in quale momento. Non basta indicare il nome di una persona che avrebbe potuto essere utile. La richiesta processuale e la sua eventuale reiterazione devono risultare dagli atti, con la risposta ricevuta.\n\nIl [Codice di procedura penale — art. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art190) disciplina il diritto alla prova e l'ammissione. Il [Codice di procedura penale — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606) contempla la mancata assunzione di una prova decisiva nei limiti specificamente previsti. La valutazione richiede quindi più del dissenso rispetto a una scelta istruttoria: occorre verificare l'inquadramento nel motivo consentito.\n\n## Che cosa significa decisiva nel fascicolo\n\nUna prova può essere pertinente senza essere decisiva nel senso richiesto per la censura. Il lavoro consiste nel spiegare quale passaggio della ricostruzione avrebbe potuto incidere sul risultato e perché. Non si può presumere il contenuto favorevole di una testimonianza mai resa come se fosse già acquisito.\n\nÈ utile distinguere il fatto da dimostrare, gli elementi già presenti e il contributo specifico della prova richiesta. Se il punto è già documentato da altre fonti o non incide sul ragionamento decisorio, il significato del diniego può essere diverso da quello immaginato. Il professionista deve considerare anche questi elementi.\n\n## Leggere le ragioni del diniego\n\nIl giudice potrebbe avere ritenuto la prova superflua, irrilevante o non ammissibile per altre ragioni. Occorre leggere il provvedimento e verificare se la motivazione affronti la richiesta effettiva. Una critica che attribuisce al giudice una ragione mai utilizzata non si confronta con la decisione.\n\nIl verbale dell'udienza può contenere precisazioni decisive: limitazioni dei capitoli, rinunce, opposizioni o diverse formulazioni della richiesta. Per questo non è sufficiente inviare soltanto l'elenco originario dei testimoni. Va ricostruito ciò che è rimasto effettivamente oggetto della domanda istruttoria.\n\n## Il passaggio in appello\n\nSi verifica come il tema sia stato sviluppato nel motivo d'appello e quale risposta abbia ricevuto. La mancata assunzione in primo grado e la richiesta di rinnovazione in appello non sono passaggi da sovrapporre senza analisi. Le rispettive discipline e il percorso della censura devono risultare chiari.\n\nUna scheda può collegare richiesta iniziale, diniego, motivo d'appello, decisione e critica residua. Questo metodo evita che la Cassazione sia utilizzata per proporre per la prima volta una prova semplicemente individuata dopo la sentenza. Se esistono elementi nuovi, vanno segnalati separatamente al difensore perché ne valuti la collocazione corretta.\n\n## Preparare una valutazione realistica\n\nIl cliente può spiegare perché ritiene importante la prova, ma deve distinguere ciò che sa direttamente da ciò che suppone. Il cassazionista esamina la documentazione e il rapporto con l'intera motivazione. Non è sufficiente affermare che il teste “avrebbe certamente smentito tutto”.\n\nL'esito del primo controllo dovrebbe chiarire se la richiesta fosse stata correttamente formulata, se il diniego sia censurabile e quale effetto utile possa avere il motivo. Questa ricostruzione protegge il diritto di difesa attraverso dati verificabili, evitando di trasformare un'occasione istruttoria mancata in una promessa di annullamento non sostenuta dagli atti.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una prova utile è sempre decisiva per la Cassazione?",
+        "answer": "No. Occorre verificare il suo specifico rapporto con il risultato e i presupposti del motivo previsto dal codice."
+      },
+      {
+        "question": "Serve il verbale del diniego?",
+        "answer": "Sì. Il provvedimento, la richiesta e gli eventuali sviluppi in appello permettono di ricostruire la questione."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art190",
+        "title": "Codice di procedura penale — art. 190",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 190 Diritto alla prova 1. Le prove sono ammesse a richiesta di parte. Il giudice provvede senza ritardo con ordinanza escludendo le prove vietate dalla legge e quelle che manifestamente sono superflue o irrilevanti. 2. La legge stabilisce i casi in cui le prove sono ammesse di ufficio. 3. I provvedimenti sull'ammissione della prova possono essere revocati sentite le parti in contraddittorio."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art606",
+        "title": "Codice di procedura penale — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606 Casi di ricorso 1. Il ricorso per cassazione può essere proposto per i seguenti motivi: a) esercizio da parte del giudice di una potestà riservata dalla legge a organi legislativi o amministrativi ovvero non consentita ai pubblici poteri; b) inosservanza o erronea applicazione della legge penale o di altre norme giuridiche, di cui si deve tener conto nell'applicazione della legge penale; c) inosservanza delle norme processuali stabilite a pena di nullità, di inutilizzabilità, di inammissibilità o di decadenza; d) mancata assunzione di una prova decisiva, quando la parte […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Sedia vuota accanto a un tavolo con fascicolo e verbale privo di testo leggibile, scena concettuale rispettosa senza aula americana. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Sedia vuota accanto a un tavolo con fascicolo e verbale privo di testo leggibile, scena concettuale rispettosa senza aula americana",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-031.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "e0383663d9e7f0a71df4cf7d34cc47cd745a845b88ee29f4a245a1a4d24a9858",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 624,
+    "contentHash": "39eff54c02498b8f6711e7a67baff1b1a7f8d6aa518c987be6b77e2ead75de13",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-21",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "10544ad91d5a66dbb877cafec05c75ef5a7500c057796784bbdd8dcad155aefa",
+    "sha256": "0b45d7b7f06460cc1260b1a15ca78b5e962069b6118a250dc163bd962018ca01"
+  }
+}

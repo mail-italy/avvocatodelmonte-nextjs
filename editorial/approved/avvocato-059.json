@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-059",
+    "site": "avvocato",
+    "sequence": 59,
+    "area": "Responsabilità medica",
+    "slug": "responsabilita-sanitaria-civile-e-procedimento-penale-coordinare-i-documenti",
+    "title": "Responsabilità sanitaria civile e procedimento penale: coordinare i documenti",
+    "intent": "Distinguere finalità e standard dei due percorsi",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 116,
+    "status": "approved",
+    "seoTitle": "Responsabilità sanitaria civile e procedimento penale: coordinare i documenti",
+    "description": "Come coordinare documentazione e valutazioni quando una vicenda sanitaria è esaminata sia in sede civile sia in sede penale.",
+    "bodyMarkdown": "La stessa vicenda sanitaria può dare luogo a una richiesta risarcitoria e a un procedimento penale. I due percorsi non coincidono per finalità, regole e valutazioni. Coordinare i documenti è utile; trasferire automaticamente una conclusione dall'uno all'altro può invece produrre errori.\n\n## Distinguere le domande dei due procedimenti\n\nIn sede civile si discute della responsabilità risarcitoria secondo il rapporto dedotto e la disciplina applicabile. La [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) distingue la posizione della struttura da quella del professionista. In sede penale si verifica la responsabilità personale per un reato, con presupposti e garanzie propri.\n\nIl [Codice penale — art. 590sexies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art590sexies) contiene una disciplina specifica per morte o lesioni colpose in ambito sanitario. La sua applicazione richiede attenzione al tipo di colpa e all'adeguatezza delle raccomandazioni al caso. Non consente di affermare genericamente che il rispetto di una linea guida escluda ogni responsabilità, anche civile.\n\n## Costruire un archivio comune delle fonti\n\nCartelle, referti, immagini e documenti di spesa possono essere organizzati in un archivio unico, mantenendo però separati gli atti dei diversi procedimenti. Per ciascun documento si conserva provenienza, data di acquisizione e versione. Gli elaborati tecnici devono indicare quali fonti abbiano effettivamente esaminato.\n\nUn documento depositato in un procedimento non si considera automaticamente presente nell'altro. Il difensore deve valutare se e come possa essere acquisito o prodotto. Anche l'accessibilità degli atti penali dipende dalla fase e dalla posizione del richiedente: non tutto il materiale è immediatamente disponibile.\n\n## Confrontare i quesiti tecnici\n\nDue consulenze possono divergere perché affrontano domande differenti, utilizzano documenti diversi o adottano presupposti non coincidenti. Prima di parlare di contraddizione, si confrontano incarico, materiale esaminato e percorso argomentativo. Le conclusioni vanno lette nel loro contesto.\n\nLa [Legge 24/2017 — art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15) riguarda la composizione degli incarichi tecnici giudiziari in materia sanitaria. La presenza delle competenze appropriate è importante in entrambi i percorsi, ma non rende gli elaborati intercambiabili. Una perizia può chiarire un punto clinico senza risolvere tutte le questioni giuridiche della domanda risarcitoria.\n\n## Evitare automatismi sugli esiti\n\nUn provvedimento penale deve essere letto per motivazione, definitività e oggetto. Non è corretto dedurre dal solo titolo che la richiesta civile sia sempre fondata o sempre preclusa. Gli effetti nel diverso giudizio richiedono una verifica specifica, anche rispetto alle parti coinvolte e alle domande formulate.\n\nAllo stesso modo, una proposta risarcitoria non equivale necessariamente a un'ammissione di reato. Le parti possono trattare per ragioni diverse. Dichiarazioni, accordi e comunicazioni devono essere valutati prima dell'utilizzo in altri contesti, tenendo conto della loro natura e delle regole applicabili.\n\n## Coordinare strategia e comunicazioni\n\nSe operano più professionisti, serve una condivisione ordinata delle informazioni autorizzata dal cliente. La cronologia dovrebbe riportare udienze, richieste, notifiche e attività tecniche dei diversi percorsi, senza confondere le rispettive scadenze. Ogni scelta va verificata nel fascicolo pertinente.\n\nIl cliente può aiutare conservando comunicazioni complete e segnalando tempestivamente nuovi atti ricevuti. È preferibile evitare ricostruzioni differenti della stessa vicenda: eventuali errori o precisazioni vanno spiegati apertamente. La coerenza nasce dalla qualità delle fonti e dalla distinzione dei piani, non dall'adattamento del racconto al risultato desiderato.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una consulenza penale vale automaticamente nella causa civile?",
+        "answer": "No. Occorre verificarne contenuto, utilizzabilità e acquisizione nel diverso procedimento."
+      },
+      {
+        "question": "L’archiviazione chiude sempre ogni richiesta risarcitoria?",
+        "answer": "Non si può dedurlo dal solo nome del provvedimento. Vanno esaminati motivazione, effetti e situazione processuale concreta."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398:1~art590sexies",
+        "title": "Codice penale — art. 590sexies",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 590-sexies. (Responsabilità colposa per morte o lesioni personali in ambito sanitario). Se i fatti di cui agli articoli 589 e 590 sono commessi nell'esercizio della professione sanitaria, si applicano le pene ivi previste salvo quanto disposto dal secondo comma. Qualora l'evento si sia verificato a causa di imperizia, la punibilità è esclusa quando sono rispettate le raccomandazioni previste dalle linee guida come definite e pubblicate ai sensi di legge ovvero, in mancanza di queste, le buone pratiche clinico-assistenziali, sempre che le raccomandazioni previste dalle predette linee guida risultino adeguate […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15",
+        "title": "Legge 24/2017 — art. 15",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 15 Nomina dei consulenti tecnici d'ufficio e dei periti nei giudizi di responsabilità sanitaria 1. Nei procedimenti civili e nei procedimenti penali aventi ad oggetto la responsabilità sanitaria, l'autorità giudiziaria affida l'espletamento della consulenza tecnica e della perizia a un medico specializzato in medicina legale e a uno o più specialisti nella disciplina che abbiano specifica e pratica conoscenza di quanto oggetto del procedimento, avendo cura che i soggetti da nominare, scelti tra gli iscritti negli albi di cui ai commi 2 e 3, non siano in posizione di […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due fascicoli anonimi su piani distinti della stessa scrivania, con una cartella clinica centrale e una luce naturale uniforme. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due fascicoli anonimi su piani distinti della stessa scrivania, con una cartella clinica centrale e una luce naturale uniforme",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-059.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "851f706e879b00147d80e3b5c3ec394b9d251c167f5de3d0ebb2f32004fbf71c",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 586,
+    "contentHash": "920921090ee063703e5de7093839cefd78bff50f59d80776ebbc081e18968929",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-14",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "e6242190781654601fa494abd00bdb9e999f0f0b21650d4d7d13032ca0086f94",
+    "sha256": "1be76431cffe6554df0790dfb58930ac56663d6570c714a5c779937913c9ca50"
+  }
+}

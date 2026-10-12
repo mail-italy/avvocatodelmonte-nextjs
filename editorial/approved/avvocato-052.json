@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-052",
+    "site": "avvocato",
+    "sequence": 52,
+    "area": "Responsabilità medica",
+    "slug": "cartella-clinica-incompleta-gestire-le-lacune-senza-colmarle-con-supposizioni",
+    "title": "Cartella clinica incompleta: gestire le lacune senza colmarle con supposizioni",
+    "intent": "Identificare documenti mancanti e rilevanza probatoria",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 102,
+    "status": "approved",
+    "seoTitle": "Cartella clinica incompleta: gestire le lacune senza colmarle con supposizioni",
+    "description": "Come riconoscere e approfondire le lacune della cartella clinica, mantenendo distinti documenti, ricordi e ipotesi.",
+    "bodyMarkdown": "Una cartella clinica incompleta pone un problema di ricostruzione, ma non autorizza a riempire gli spazi vuoti con ciò che sembra più probabile. Il lavoro utile consiste nell'individuare con precisione la lacuna, cercare fonti alternative e valutarne il peso rispetto alla questione sanitaria concreta.\n\n## Verificare che cosa è stato effettivamente consegnato\n\nPrima di parlare di omissione si controlla il contenuto della richiesta e della risposta. Potrebbero mancare allegati, tracciati, immagini diagnostiche o documenti conservati separatamente. Un fascicolo scaricato dal portale può non coincidere con la copia completa della documentazione dell'episodio.\n\nLa [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4) disciplina l'accesso alla documentazione da parte degli aventi diritto. Nella richiesta integrativa conviene identificare il ricovero e nominare i documenti assenti: per esempio diario infermieristico, scheda di terapia o verbale operatorio. Una domanda precisa rende più comprensibile anche l'eventuale risposta negativa.\n\n## Descrivere la lacuna senza attribuirle subito un significato\n\n“Non compare un'annotazione del controllo” è diverso da “il controllo non fu eseguito”. La prima frase descrive ciò che risulta dalla copia disponibile; la seconda afferma un fatto ulteriore che richiede valutazione. Lo stesso vale per una firma illeggibile, un orario mancante o un foglio non numerato.\n\nÈ utile conservare il fascicolo ricevuto nella sua forma originaria, insieme al messaggio di trasmissione. Eventuali integrazioni successive si archiviano come versioni distinte. In questo modo è possibile spiegare che cosa fosse disponibile in ogni momento, senza confondere l'ordine di acquisizione con quello degli eventi clinici.\n\n## Cercare riscontri indipendenti\n\nReferti di laboratorio, registri delle somministrazioni, schede di trasferimento e documenti della struttura successiva possono contribuire alla ricostruzione. Anche messaggi contemporanei e ricordi di persone presenti possono suggerire verifiche, ma devono essere valutati per provenienza e attendibilità.\n\nUn familiare potrebbe ricordare un colloquio, senza conoscere il contenuto della decisione medica. Nel resoconto si indica quindi chi parlò, dove e quali parole si ricordano, evitando di trasformare una percezione in un dato tecnico. Nessun documento deve essere retrodatato o modificato per rendere più ordinata la storia.\n\n## Valutare la rilevanza sul caso\n\nNon tutte le lacune hanno lo stesso peso. L'assenza di un dato potrebbe essere decisiva per valutare una terapia oppure irrilevante rispetto al danno lamentato. Il consulente deve spiegare quale domanda rimane senza risposta e se esistano altri elementi sufficienti per affrontarla.\n\nLa distribuzione degli oneri probatori va esaminata alla luce del rapporto dedotto, della [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) e del [Codice civile — art. 2697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697). Non è corretto promettere che una cartella incompleta comporti automaticamente la vittoria del paziente. L'effetto processuale richiede un'analisi del fatto da provare e dell'intero materiale disponibile.\n\n## Preparare le richieste successive\n\nIl fascicolo per il legale dovrebbe contenere un elenco delle lacune, i tentativi di integrazione e le risposte ricevute. Accanto a ciascun punto si indica il motivo per cui il documento potrebbe servire. Questo aiuta a distinguere una ricerca esplorativa da una richiesta collegata a un preciso tema di responsabilità.\n\nSe la documentazione non viene reperita, la valutazione deve dichiararlo. Un parere serio può individuare un limite informativo e proporre approfondimenti, senza fingere una certezza che le fonti non consentono. Riconoscere quel limite è parte della tutela della prova.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Posso aggiungere mie annotazioni alla copia della cartella?",
+        "answer": "Meglio conservare intatta la copia ricevuta e predisporre un documento separato con osservazioni e riferimenti alle pagine."
+      },
+      {
+        "question": "Una pagina mancante prova una responsabilità?",
+        "answer": "Non da sola. Occorre verificare che cosa manca, perché è rilevante e come incide sui fatti da accertare."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697",
+        "title": "Codice civile — art. 2697",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2697. (Onere della prova). Chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una cartella sanitaria anonima aperta con un separatore vuoto ben visibile e fogli ordinati accanto, luce laterale delicata. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una cartella sanitaria anonima aperta con un separatore vuoto ben visibile e fogli ordinati accanto, luce laterale delicata",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-052.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "847050962461ed4ba419c37de9898bb2dc284a56950d9f10cae6831df39906dd",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 606,
+    "contentHash": "2500b3d3079f6b1e9073f0b1d6effe0fb293fe3f7660761f189ce012bb8e8c5c",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-03",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "5710c4851416c08811b29f85c8ce414eb39d9e0db65c99e74171aed067c4cc99",
+    "sha256": "d449ac60c6c1c4685b980b19b9f61cdeb5235c9e93f1dc09993116db1d13271b"
+  }
+}

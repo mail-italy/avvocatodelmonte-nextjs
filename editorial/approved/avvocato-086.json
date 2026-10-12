@@ -1,0 +1,85 @@
+{
+  "article": {
+    "id": "avvocato-086",
+    "site": "avvocato",
+    "sequence": 86,
+    "area": "Infortuni sul lavoro",
+    "slug": "infortunio-mortale-e-familiari-prestazioni-e-pretese-da-coordinare",
+    "title": "Infortunio mortale e familiari: prestazioni e pretese da coordinare",
+    "intent": "Distinguere tutela INAIL, danni propri e posizioni ereditarie",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 170,
+    "status": "approved",
+    "seoTitle": "Infortunio mortale e familiari: prestazioni e pretese da coordinare",
+    "description": "Come coordinare prestazioni per i superstiti e possibili richieste civili dopo un infortunio mortale sul lavoro.",
+    "bodyMarkdown": "Dopo un infortunio mortale sul lavoro, i familiari possono dover affrontare contemporaneamente pratiche INAIL, accertamenti sulle responsabilità e questioni successorie. Coordinare questi percorsi evita duplicazioni e omissioni. Non significa considerarli un'unica procedura: beneficiari, presupposti e documenti possono essere differenti.\n\n## Separare le posizioni dei familiari\n\nLa qualità di superstite ai fini di una prestazione, quella di erede e la titolarità di una pretesa personale devono essere verificate separatamente. Non è corretto presumere che ogni familiare abbia gli stessi diritti o debba presentare gli stessi documenti.\n\nIl primo prospetto identifica persone coinvolte, rapporto con il lavoratore e pratiche avviate. Eventuali minori o situazioni di rappresentanza richiedono controlli specifici. Anche una gestione familiare condivisa deve rispettare i poteri di chi sottoscrive domande o accordi.\n\n## Verificare le prestazioni disponibili\n\nLa pagina ufficiale [INAIL sulle prestazioni economiche per i superstiti](https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/superstite-erede-del-lavoratore/prestazioni-economiche.html) distingue diverse prestazioni, tra cui rendita e assegno una tantum. Il diritto concreto e la documentazione dipendono dalla misura richiesta e dalla situazione degli interessati.\n\nSi conservano domande, ricevute, comunicazioni e provvedimenti, senza presumere che l'apertura di una pratica attivi automaticamente ogni altra possibilità. Importi e condizioni devono essere verificati sulle informazioni ufficiali pertinenti al momento della domanda, evitando di utilizzare tabelle non aggiornate.\n\n## Ricostruire evento e organizzazione del lavoro\n\nPer la responsabilità civile occorre esaminare dinamica, mansioni, attrezzature e soggetti coinvolti. Il [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) pone il quadro generale della tutela delle condizioni di lavoro, da coordinare con gli obblighi specifici. Il riconoscimento assicurativo dell'evento non sostituisce l'accertamento della responsabilità risarcitoria.\n\nGli atti disponibili di indagini e ispezioni possono essere importanti, ma vanno acquisiti e interpretati secondo le regole applicabili. Non ogni documento è immediatamente accessibile. La famiglia può contribuire conservando comunicazioni e dati già legittimamente disponibili, senza svolgere accertamenti impropri.\n\n## Documentare conseguenze e rapporti economici\n\nLe richieste personali dei familiari richiedono una descrizione concreta delle rispettive conseguenze. Il [Codice civile — art. 2059](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2059) costituisce il riferimento per il danno non patrimoniale, da valutare nel caso. I rapporti affettivi non dovrebbero essere ridotti a formule identiche per tutti.\n\nPer spese e perdite economiche si raccolgono giustificativi, dati sul sostegno ricevuto e altre informazioni pertinenti. Il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) orienta la verifica del collegamento con il fatto. Le eventuali pretese trasmesse dal lavoratore richiedono un esame distinto dei presupposti e della situazione successoria.\n\n## Coordinare pagamenti e accordi\n\nOgni prestazione ricevuta deve essere identificata per titolo, beneficiario e funzione. Il rapporto con il risarcimento civile non si risolve sommando o sottraendo automaticamente tutti gli importi. Il legale deve confrontare le componenti considerate nei diversi percorsi.\n\nPrima di accettare una proposta globale, si verifica quali persone e pretese vengano comprese, quali rinunce siano richieste e chi abbia potere di firmare. Una raccolta ordinata permette di affrontare le pratiche senza confondere la tutela previdenziale con la definizione delle responsabilità. L'obiettivo è rendere comprensibile a ciascun familiare che cosa sia stato chiesto, che cosa sia stato riconosciuto e quali questioni restino aperte.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La rendita INAIL chiude automaticamente ogni richiesta civile?",
+        "answer": "No. Le finalità e i presupposti dei percorsi sono differenti e il loro rapporto deve essere valutato."
+      },
+      {
+        "question": "Tutti i familiari devono firmare la stessa liberatoria?",
+        "answer": "Dipende dalle posizioni coinvolte. Occorre verificare diritti, rappresentanza e contenuto dell’accordo per ciascuno."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2059",
+        "title": "Codice civile — art. 2059",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2059. (Danni non patrimoniali). Il danno non patrimoniale deve essere risarcito solo nei casi determinati dalla legge."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/superstite-erede-del-lavoratore/prestazioni-economiche.html",
+        "title": "INAIL — Prestazioni economiche per i superstiti",
+        "checkedAt": "2026-10-12",
+        "supports": "Elenca prestazioni distinte per i superstiti, tra cui rendita e assegno una tantum, con rinvio alle specifiche condizioni."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Casco da lavoro pulito su una mensola accanto a una cartella familiare chiusa, composizione sobria e rispettosa senza scene di incidente. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Casco da lavoro pulito su una mensola accanto a una cartella familiare chiusa, composizione sobria e rispettosa senza scene di incidente",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-086.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "b375eef1b25a1232b0f7d8c4e417005222b5e57ee365229330e6833fe7fa858c",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 568,
+    "contentHash": "b6dee41cd0fcfcea422fd94c93ad2cff26039079588a34e2c62de317e13530e8",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-18",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "5f26a3ae21c58d00bb6d5c06cf1ea23e02a7cb04f928582efe2f371f81438779",
+    "sha256": "5b183d9b8aaa13915bb66c3d3044cf973ab28f8a3c0ad7987189da178d392014"
+  }
+}

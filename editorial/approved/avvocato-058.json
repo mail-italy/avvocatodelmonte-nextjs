@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-058",
+    "site": "avvocato",
+    "sequence": 58,
+    "area": "Responsabilità medica",
+    "slug": "offerta-risarcitoria-sanitaria-leggere-voci-riserve-e-liberatoria",
+    "title": "Offerta risarcitoria sanitaria: leggere voci, riserve e liberatoria",
+    "intent": "Valutare il contenuto dell'accordo proposto dalla struttura o assicurazione",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 114,
+    "status": "approved",
+    "seoTitle": "Offerta risarcitoria sanitaria: leggere voci, riserve e liberatoria",
+    "description": "Che cosa verificare in una proposta di risarcimento sanitario prima di sottoscrivere quietanza, accordo o liberatoria.",
+    "bodyMarkdown": "Un'offerta risarcitoria sanitaria deve essere letta insieme alle condizioni che la accompagnano. Il totale economico è importante, ma non chiarisce da solo quali danni siano compresi, quali soggetti vengano liberati e se restino aperte conseguenze ancora da valutare. Una firma può chiudere più questioni di quelle discusse informalmente.\n\n## Identificare natura e perimetro della proposta\n\nSi verifica chi formula l'offerta, in nome di chi e per quale vicenda. Struttura, professionista e assicuratore possono avere ruoli differenti. Il documento dovrebbe permettere di comprendere quali pretese vengano regolate e quali obblighi assuma ciascuno dei firmatari.\n\nIl [Codice civile — art. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965) definisce la transazione attraverso reciproche concessioni dirette a comporre o prevenire una lite. Non ogni pagamento ha automaticamente questa natura, ma non basta chiamarlo “acconto” per conservarne tutte le possibilità. Conta il contenuto complessivo del documento e delle dichiarazioni richieste.\n\n## Confrontare le voci di danno\n\nLa proposta va confrontata con la documentazione medica e patrimoniale. È utile distinguere conseguenze temporanee, postumi, spese già sostenute, bisogni futuri e perdite economiche dedotte. Se l'offerta è globale, si può chiedere su quali valutazioni sia costruita.\n\nIl riferimento della [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) ai criteri di liquidazione del danno sanitario non elimina la necessità di verificare fatti, epoca dell'evento e disciplina applicabile. Una cifra riportata in una tabella non sostituisce la valutazione della persona e non giustifica l'utilizzo di valori trovati in documenti non aggiornati.\n\n## Verificare ciò che resta incerto\n\nQuando il quadro clinico è ancora in evoluzione, il problema riguarda anche la conoscibilità delle conseguenze future. Occorre capire se il testo pretende di chiudere ogni pretesa, comprese quelle non ancora definite, e se tale chiusura sia coerente con le informazioni disponibili.\n\nUna riserva deve essere chiara e compatibile con l'accordo complessivo. Aggiungere a mano poche parole senza un confronto tra le parti può generare un nuovo contrasto interpretativo. Il legale deve valutare se la riserva serva davvero a preservare una questione identificata e come venga accettata.\n\n## Leggere liberatoria e destinatari\n\nFormule ampie possono riguardare più soggetti, più titoli o più procedimenti. Si controlla se la rinuncia si estenda a richieste di familiari, ad altre vicende oppure a spese tecniche e legali. Chi sottoscrive non dovrebbe disporre di diritti altrui senza averne il potere.\n\nSe esistono più danneggiati, la posizione di ciascuno va identificata. Anche le somme già ricevute e gli eventuali rapporti con enti o assicurazioni meritano un controllo separato. L'obiettivo è evitare che lo stesso importo venga interpretato in modi incompatibili dalle parti.\n\n## Chiarire pagamento e chiusura della lite\n\nL'accordo dovrebbe precisare quando e come avverrà il pagamento, come siano trattate le spese e quali attività processuali seguiranno. Se la causa è pendente, la chiusura del rapporto economico e quella del procedimento devono essere coordinate.\n\nPrima della firma conviene predisporre un confronto scritto tra richiesta, offerta e punti ancora aperti. Il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) aiuta a mantenere il legame tra conseguenze e pretese patrimoniali, ma la decisione finale comprende anche costi, tempi e incertezze del contenzioso. Accettare una proposta può essere una scelta ragionevole, purché il significato della rinuncia sia comprensibile e consapevole.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una liberatoria riguarda soltanto la somma ricevuta?",
+        "answer": "Dipende dal testo. Può contenere rinunce più ampie, che devono essere lette insieme all’intero accordo."
+      },
+      {
+        "question": "Posso chiedere di distinguere le voci offerte?",
+        "answer": "Sì. Una spiegazione delle componenti aiuta a confrontare la proposta con la documentazione e con le conseguenze ancora aperte."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965",
+        "title": "Codice civile — art. 1965",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1965. (Nozione). La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due copie di un accordo anonimo su una scrivania con una penna ancora appoggiata e una cartella medica chiusa, atmosfera di valutazione prudente. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due copie di un accordo anonimo su una scrivania con una penna ancora appoggiata e una cartella medica chiusa, atmosfera di valutazione prudente",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-058.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "26639a2bcac63a9da30b47792d5a00dedf39da2555790f1df24a07f797ea27b5",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 598,
+    "contentHash": "fda16be9c3d1e531fc28516672108fc9bcbb56e6f45b42ebf77313d4d82cac65",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-02",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "74be6dee0039e5b62f638c4d1a6962da91d573562d6c2a72b7000e4072e7f1e2",
+    "sha256": "e6007e781e5e818b68bc4c623e9a2163755ce56249f5e980124367beb354ce8b"
+  }
+}

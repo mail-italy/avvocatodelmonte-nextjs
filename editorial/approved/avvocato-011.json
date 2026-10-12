@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-011",
+    "site": "avvocato",
+    "sequence": 11,
+    "area": "Cassazione civile",
+    "slug": "sentenza-fondata-su-piu-ragioni-individuare-tutte-le-rationes-decidendi",
+    "title": "Sentenza fondata su più ragioni: individuare tutte le rationes decidendi",
+    "intent": "Verificare se una ragione autonoma rende inefficace una censura isolata",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 20,
+    "status": "approved",
+    "seoTitle": "Sentenza fondata su più ragioni: individuare tutte le rationes decidendi",
+    "description": "Una sentenza può fondarsi su più ragioni autonome: come riconoscerle e valutare se il ricorso civile possa incidere davvero sul risultato.",
+    "bodyMarkdown": "La domanda viene respinta perché il giudice ritiene mancante un presupposto e aggiunge una seconda ragione che, da sola, potrebbe sostenere lo stesso risultato. Se il ricorso contesta soltanto la prima, è necessario capire che effetto avrebbe anche un suo accoglimento. La questione delle ragioni autonome della decisione incide sull'utilità concreta dell'impugnazione.\n\n## Identificare il ragionamento che sostiene il dispositivo\n\nPer ratio decidendi si intende la ragione che sorregge la decisione. Una sentenza può sviluppare più argomenti a sostegno di un'unica ragione oppure fondarsi su ragioni tra loro autonome. Le due situazioni non vanno confuse: il numero dei paragrafi non indica il numero delle basi indipendenti del risultato.\n\nSi parte dal dispositivo e si risale ai passaggi necessari per giustificarlo. Ogni ragione candidata viene sottoposta a una verifica pratica: se le altre venissero eliminate, questa sarebbe ancora sufficiente? La risposta richiede una lettura giuridica della decisione, non una classificazione automatica delle frasi contenenti parole come “inoltre” o “comunque”.\n\n## Distinguere una ragione decisiva da un'osservazione\n\nIl giudice può formulare considerazioni ulteriori, esempi o argomenti ipotetici. Non tutto ciò che compare in motivazione sostiene autonomamente il dispositivo. D'altra parte, una ragione importante può essere esposta in poche righe e passare inosservata se ci si concentra sul tema che ha occupato la maggior parte della causa.\n\nÈ utile far precedere la ricerca dei motivi da una mappa della sentenza. Per ciascun passaggio si indicano fatto accertato, regola applicata ed effetto. Il cliente può segnalare gli aspetti che non condivide, ma il cassazionista deve verificare quali siano davvero necessari per ottenere una modifica della decisione.\n\n## Collegare ogni critica al motivo consentito\n\nIl [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360) individua i motivi del ricorso civile. Una ragione autonoma non viene superata soltanto perché il cliente la ritiene ingiusta: serve una censura che rientri nel perimetro della legittimità. Se quella ragione dipende da una valutazione dei fatti non utilmente contestabile, il vantaggio di impugnare altri passaggi può ridursi.\n\nIl [Codice di procedura civile — art. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366) richiede chiarezza e specificità. Nella preparazione si può usare una tabella che affianchi ragione decisiva, possibile vizio, atti necessari e risultato atteso. Questa struttura mette in luce anche i punti deboli: per esempio, una critica che presuppone una ricostruzione fattuale diversa da quella accertata.\n\n## Un esempio di verifica\n\nUna richiesta di pagamento viene respinta sia per la lettura del contratto sia per una distinta questione relativa al rapporto dedotto. Contestare con successo l'interpretazione contrattuale non garantisce che il credito debba essere riconosciuto. Prima bisogna capire il ruolo e la tenuta della seconda ragione. L'esempio è astratto: la qualificazione varia secondo gli atti e la motivazione concreta.\n\nLa verifica deve comprendere anche l'eventuale dipendenza tra le ragioni. Se una conclusione è soltanto conseguenza dell'altra, l'annullamento della premessa potrebbe incidere sul resto. Presentarle come autonome senza leggerne il rapporto sarebbe un errore speculare a ignorarne l'indipendenza.\n\n## Decidere con un quadro completo\n\nLa valutazione finale dovrebbe spiegare quali ragioni occorra contestare e se esistano motivi sostenibili per ciascuna. Un ricorso con molte pagine su un unico tema può essere meno utile di una critica breve ma capace di affrontare tutte le basi del risultato. Il controllo iniziale permette di scegliere se procedere, circoscrivere l'impugnazione o evitare una causa incapace di offrire il vantaggio sperato.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Più paragrafi significano più ragioni autonome?",
+        "answer": "No. Possono essere argomenti della stessa ragione oppure considerazioni non decisive. Conta il loro rapporto con il dispositivo."
+      },
+      {
+        "question": "Una censura fondata basta sempre a vincere?",
+        "answer": "No. Va valutato se altre ragioni indipendenti continuino a sostenere il risultato della sentenza."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366",
+        "title": "Codice di procedura civile — art. 366",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 366. (Contenuto del ricorso). Il ricorso deve contenere, a pena di inammissibilità: 1) l'indicazione delle parti; 2) l'indicazione della sentenza o decisione impugnata; 3) la chiara esposizione dei fatti della causa essenziali alla illustrazione dei motivi di ricorso; (171) (173) 4) la chiara e sintetica esposizione dei motivi per i quali si chiede la cassazione, con l'indicazione delle norme di diritto su cui si fondano; (171) (173) 5) l'indicazione della procura, se conferita con atto separato e, nel caso di ammissione al gratuito patrocinio, del relativo decreto. 6) la […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due pilastri sobri sostengono una struttura astratta in pietra su una scrivania, metafora architettonica delle ragioni autonome di una decisione. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due pilastri sobri sostengono una struttura astratta in pietra su una scrivania, metafora architettonica delle ragioni autonome di una decisione",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-011.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "cfea26488b871361df0ef18cbbe5f25c48bacdd95a52f89aea10725f1d608862",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 627,
+    "contentHash": "2cab51cc8648a68ab8397ba2487b360266597aded15bde4fd7a9a6b9845579ca",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-02",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "f53663d33b5d9696b3e627ad6628f3401dd3b19de027bf7694a69509b7a5acfd",
+    "sha256": "9f0807baa47ccb06fbf9dbb4fb0e9289dc15e8a15969857e18617989e276a7a4"
+  }
+}

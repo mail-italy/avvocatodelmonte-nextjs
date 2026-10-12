@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-014",
+    "site": "avvocato",
+    "sequence": 14,
+    "area": "Cassazione civile",
+    "slug": "onere-della-prova-in-cassazione-regola-violata-o-prova-valutata-diversamente",
+    "title": "Onere della prova in Cassazione: regola violata o prova valutata diversamente?",
+    "intent": "Inquadrare il tema dell'articolo 2697 rispetto agli apprezzamenti di merito",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 26,
+    "status": "approved",
+    "seoTitle": "Onere della prova in Cassazione: regola violata o prova valutata diversamente?",
+    "description": "Onere della prova e Cassazione: distinguere l’errata distribuzione del compito di provare dai risultati della valutazione delle prove.",
+    "bodyMarkdown": "La parte perde perché il giudice ritiene non dimostrato un fatto. Dire che “l'onere della prova è stato violato” può descrivere problemi molto diversi. Prima di ricorrere bisogna capire se il giudice abbia chiesto la prova al soggetto sbagliato oppure abbia valutato come insufficiente la prova offerta dal soggetto che doveva fornirla.\n\n## Chi deve provare che cosa\n\nIl [Codice civile — art. 2697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697) contiene la regola generale sull'onere della prova: distingue i fatti posti a fondamento del diritto dai fatti che ne modificano, impediscono o estinguono gli effetti. L'applicazione concreta dipende dal tipo di domanda, dalle eccezioni e dalle eventuali regole speciali del rapporto.\n\nIl primo passo è quindi scomporre la pretesa. Per ciascun fatto si annotano la sua funzione nella domanda, il soggetto al quale la sentenza attribuisce la prova e la ragione di tale attribuzione. Questa ricostruzione consente di verificare se esista un errore nella regola utilizzata, evitando di partire soltanto dal risultato sfavorevole.\n\n## Il valore attribuito ai documenti è un altro piano\n\nSe il giudice ha posto correttamente l'onere a carico di una parte, ma ritiene il suo documento non convincente, il problema può riguardare la valutazione della prova. Gli articoli [Codice di procedura civile — art. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art115) e [Codice di procedura civile — art. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art116) disciplinano disponibilità e valutazione delle prove, ma non rendono ogni dissenso sul loro apprezzamento un motivo automaticamente proponibile in Cassazione.\n\nUn esempio astratto: sostenere che l'avvenuto pagamento dovesse essere dimostrato da chi lo eccepiva è diverso dal sostenere che una ricevuta sia stata interpretata male. La prima questione riguarda la distribuzione del compito probatorio; la seconda richiede di esaminare natura del documento, contenuto della decisione e limiti della censura.\n\n## Ricostruire anche le contestazioni\n\nLa posizione assunta dalla controparte può avere rilievo. Bisogna leggere come il fatto sia stato allegato, se sia stato contestato e in quali atti. Non basta affermare che “nessuno lo aveva negato” senza recuperare le difese pertinenti. Una contestazione potrebbe essere stata formulata in un passaggio diverso da quello ricordato dal cliente.\n\nSi possono preparare schede con fatto, allegazione, risposta avversaria, prova e motivazione. La scheda non decide il valore giuridico della mancata contestazione; mette il professionista nelle condizioni di verificarlo. È importante evitare riassunti che sostituiscano parole precise degli atti con interpretazioni personali.\n\n## Non chiedere una nuova istruttoria\n\nLa Cassazione civile opera entro i motivi previsti dal codice. Se la critica richiede di risentire un testimone o scegliere una ricostruzione fattuale alternativa, occorre capire se il problema sia davvero traducibile in una censura ammessa. La mancata condivisione del risultato probatorio non autorizza un nuovo giudizio completo sui fatti.\n\nAnche una consulenza successiva che propone una lettura più favorevole deve essere valutata rispetto ai limiti processuali. Il suo contenuto può aiutare a comprendere il fascicolo, ma non diventa automaticamente prova utilizzabile né dimostra da solo una violazione dell'articolo 2697.\n\n## Il risultato della verifica\n\nIl parere dovrebbe identificare il fatto decisivo e spiegare quale regola sarebbe stata applicata erroneamente, oppure perché il dissenso resti sul piano dell'apprezzamento. Questa distinzione permette di evitare motivi soltanto nominali, nei quali il titolo richiama l'onere della prova ma il testo chiede una diversa lettura dei documenti.\n\nPreparare atti completi, riferimenti puntuali e una descrizione chiara della domanda è il contributo più utile del cliente. La qualificazione del vizio viene dopo la ricostruzione, non prima.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una prova ritenuta insufficiente significa onere invertito?",
+        "answer": "No. L’inversione riguarda chi era tenuto a provare il fatto; l’insufficienza riguarda il risultato della valutazione."
+      },
+      {
+        "question": "Posso indicare soltanto i documenti favorevoli?",
+        "answer": "Il difensore deve conoscere anche contestazioni e documenti contrari, per valutare la censura sull’intero fascicolo."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697",
+        "title": "Codice civile — art. 2697",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2697. (Onere della prova). Chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art115",
+        "title": "Codice di procedura civile — art. 115",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 115. (Disponibilità delle prove). Salvi i casi previsti dalla legge, il giudice deve porre a fondamento della decisione le prove proposte dalle parti o dal pubblico ministero, nonché i fatti non specificatamente contestati dalla parte costituita. Il giudice può tuttavia, senza bisogno di prova, porre a fondamento della decisione le nozioni di fatto che rientrano nella comune esperienza ."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art116",
+        "title": "Codice di procedura civile — art. 116",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 116. (Valutazione delle prove). Il giudice deve valutare le prove secondo il suo prudente apprezzamento, salvo che la legge disponga altrimenti. Il giudice può desumere argomenti di prova dalle risposte che le parti gli danno a norma dell'articolo seguente, dal loro rifiuto ingiustificato a consentire le ispezioni che egli ha ordinate e, in generale, dal contegno delle parti stesse nel processo."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due fascicoli affiancati a una piccola bilancia astratta senza simboli ufficiali, documenti ordinati e luce naturale, nessuna scritta. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due fascicoli affiancati a una piccola bilancia astratta senza simboli ufficiali, documenti ordinati e luce naturale, nessuna scritta",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-014.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "9f578bd0a3d7da65771b53e2970b6ab728d2b1ae54973b8e04ff581f100825b4",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 634,
+    "contentHash": "d6f10ac11d5322830adccd32d1f92d297584864d8b10af13684cfa1291842629",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-24",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "34a89ba8594b32bc3822ac6320d26ccfb5b0e93bb44b59a9e38b37cb1a596247",
+    "sha256": "88b26269434080d43d5c3edb62f03b5fef51f35e813b8aaeaeaf5adfeaa7c640"
+  }
+}

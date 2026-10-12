@@ -2,6 +2,8 @@
 
 import { useEffect, useState, useSyncExternalStore } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
+import { articleAttribution } from '@/lib/article-tracking.mjs';
 import {
   CONSENT_EVENT, CONSENT_KEY, PREFERENCES_EVENT, GTM_ID,
   readConsent, isTrackingHost, saveConsent, updateGoogleConsent, clearMeasurementCookies,
@@ -35,6 +37,7 @@ export function CookiePreferencesButton() {
 }
 
 export default function ConsentManager() {
+  const pathname = usePathname();
   const choice = useConsent();
   const trackingHost = useTrackingHost();
   const [open, setOpen] = useState(false);
@@ -47,12 +50,36 @@ export default function ConsentManager() {
   }, []);
 
   useEffect(() => {
+    const refresh = () => { articleAttribution.syncPage(); articleAttribution.rewriteWhatsAppLinks(); };
+    const prepareContact = (event) => {
+      if (!event.isTrusted || !(event.target instanceof Element)) return;
+      const anchor = event.target.closest('a[href]');
+      if (!anchor) return;
+      articleAttribution.rememberContactNavigation(anchor.getAttribute('href'));
+      const decorated = articleAttribution.decorateWhatsAppHref(anchor.getAttribute('href'));
+      if (decorated !== anchor.getAttribute('href')) anchor.setAttribute('href', decorated);
+    };
+    refresh();
+    const observer = new MutationObserver(() => articleAttribution.rewriteWhatsAppLinks());
+    observer.observe(document.body, { childList: true, subtree: true });
+    document.addEventListener('click', prepareContact, true);
+    window.addEventListener(CONSENT_EVENT, refresh);
+    window.addEventListener('storage', refresh);
+    return () => {
+      observer.disconnect();
+      document.removeEventListener('click', prepareContact, true);
+      window.removeEventListener(CONSENT_EVENT, refresh);
+      window.removeEventListener('storage', refresh);
+    };
+  }, [pathname]);
+
+  useEffect(() => {
     const trackContactClick = (event) => {
       if (!event.isTrusted || readConsent() !== 'accepted' || !isTrackingHost(window.location.hostname)) return;
       const anchor = event.target instanceof Element ? event.target.closest('a[data-event]') : null;
       if (!anchor) return;
       const payload = contactClickEvent(anchor.dataset.event, anchor.getAttribute('href'), anchor.dataset.eventLocation);
-      if (payload && Array.isArray(window.dataLayer)) window.dataLayer.push(payload);
+      if (payload && Array.isArray(window.dataLayer)) window.dataLayer.push({ ...payload, ...articleAttribution.getEventContext() });
     };
     document.addEventListener('click', trackContactClick);
     return () => document.removeEventListener('click', trackContactClick);

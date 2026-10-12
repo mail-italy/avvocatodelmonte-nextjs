@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-054",
+    "site": "avvocato",
+    "sequence": 54,
+    "area": "Responsabilità medica",
+    "slug": "osservazioni-alla-ctu-sanitaria-come-rendere-verificabile-il-dissenso",
+    "title": "Osservazioni alla CTU sanitaria: come rendere verificabile il dissenso",
+    "intent": "Confrontare dati, metodo e risposta ai quesiti",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 106,
+    "status": "approved",
+    "seoTitle": "Osservazioni alla CTU sanitaria: come rendere verificabile il dissenso",
+    "description": "Come organizzare osservazioni tecniche alla consulenza sanitaria, collegando ogni critica a documenti, quesiti e passaggi della relazione.",
+    "bodyMarkdown": "Dissentire da una consulenza sanitaria richiede più di un giudizio negativo sulla conclusione. Le osservazioni efficaci mostrano dove il ragionamento sarebbe incompleto, quale documento sia stato trascurato e quale conseguenza abbia il rilievo sulla risposta al quesito. Il tono polemico non sostituisce questa dimostrazione.\n\n## Partire dal quesito e dalla bozza\n\nSi confrontano anzitutto le domande del giudice con le risposte del consulente. Una relazione può apparire ampia ma non affrontare un punto essenziale, oppure rispondere correttamente a una questione diversa da quella percepita dalla parte. Il primo controllo consiste nell'individuare il perimetro effettivo dell'incarico.\n\nIl [Codice di procedura civile — art. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195) disciplina la trasmissione della relazione, le osservazioni delle parti e la valutazione conclusiva del consulente nei termini fissati dal giudice. Il calendario concreto va letto nel provvedimento del fascicolo. Attendere il deposito finale per segnalare problemi già riconoscibili nella bozza può compromettere l'utilità del confronto tecnico.\n\n## Classificare il tipo di rilievo\n\nUna critica può riguardare un errore materiale, l'uso di un documento, il metodo, la ricostruzione clinica o il collegamento causale. Tenerli separati evita che una correzione modesta venga presentata come se demolisse l'intero elaborato. Anche un dato errato potrebbe non modificare la conclusione: occorre spiegare perché invece la modificherebbe.\n\nPer ciascun rilievo è utile indicare pagina della bozza, dato contestato, fonte alternativa e conseguenza proposta. Se manca una risposta, si formula una domanda precisa. “Non sono d'accordo con la percentuale” è meno utile di una critica che identifichi la menomazione trascurata e i documenti che la descrivono.\n\n## Rendere controllabile la base scientifica\n\nQuando il dissenso riguarda raccomandazioni o letteratura, si verificano pertinenza clinica, data e condizioni di applicabilità. Una pubblicazione successiva ai fatti non dimostra automaticamente quale condotta fosse esigibile allora. Il riferimento alla [Legge 24/2017 — art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5) richiede attenzione alle specificità del caso, oltre che alle fonti richiamate.\n\nIl consulente di parte dovrebbe spiegare come la fonte incida sul problema concreto. Allegare molti lavori senza collegarli alla vicenda rende più difficile individuare il passaggio decisivo. È preferibile un confronto selettivo e motivato, capace di riconoscere anche i dati che sostengono una conclusione diversa.\n\n## Coordinare osservazioni tecniche e difesa\n\nIl consulente di parte e il legale svolgono funzioni complementari. Il primo affronta il merito specialistico; il secondo verifica il rapporto con domande, allegazioni, documenti e regole processuali. Il [Codice di procedura civile — art. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art201) disciplina la nomina del consulente tecnico di parte, ma non trasforma quest'ultimo nel rappresentante processuale del cliente.\n\nPrima dell'invio si controlla che ogni documento menzionato sia identificabile e che la critica non presupponga fatti mai dimostrati. Le nuove allegazioni o produzioni richiedono una valutazione processuale autonoma: non diventano ammissibili soltanto perché inserite in una nota tecnica.\n\n## Leggere la risposta finale\n\nDopo il deposito si verifica come siano state affrontate le osservazioni. Il consulente può accoglierle, respingerle motivatamente o modificare soltanto una parte dell'elaborato. Il confronto tra bozza, nota e relazione finale permette al difensore di individuare eventuali questioni ancora aperte.\n\nLa richiesta di chiarimenti o di ulteriori attività deve essere collegata a un problema concreto rimasto irrisolto. Ripetere integralmente la nota senza esaminare la risposta non aiuta. L'obiettivo è rendere comprensibile al giudice una controversia tecnica, distinguendo il dissenso fondato dalla semplice preferenza per una conclusione favorevole.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Le osservazioni devono contestare tutta la relazione?",
+        "answer": "No. Possono concentrarsi sui punti realmente rilevanti, riconoscendo le parti condivise."
+      },
+      {
+        "question": "Il consulente deve accogliere le critiche della parte?",
+        "answer": "No. Deve confrontarsi con le osservazioni secondo la disciplina applicabile; il loro accoglimento dipende dal merito tecnico."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195",
+        "title": "Codice di procedura civile — art. 195",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 195. (Processo verbale e relazione). Delle indagini del consulente si forma processo verbale, quando sono compiute con l'intervento del giudice istruttore, ma questi può anche disporre che il consulente rediga relazione scritta. Se le indagini sono compiute senza l'intervento del giudice, il consulente deve farne relazione, nella quale inserisce anche le osservazioni e le istanze delle parti. La relazione deve essere trasmessa dal consulente alle parti costituite nel termine stabilito dal giudice con ordinanza resa all'udienza di cui all'articolo 193. Con la medesima ordinanza il giudice fissa il termine […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5",
+        "title": "Legge 24/2017 — art. 5",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 5 Buone pratiche clinico-assistenziali e raccomandazioni previste dalle linee guida 1. Gli esercenti le professioni sanitarie, nell'esecuzione delle prestazioni sanitarie con finalità preventive, diagnostiche, terapeutiche, palliative, riabilitative e di medicina legale, si attengono, salve le specificità del caso concreto, alle raccomandazioni previste dalle linee guida pubblicate ai sensi del comma 3 ed elaborate da enti e istituzioni pubblici e privati nonché dalle società scientifiche e dalle associazioni tecnico-scientifiche delle professioni sanitarie iscritte in apposito elenco istituito e regolamentato con decreto del Ministro della salute, da emanare entro novanta giorni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art201",
+        "title": "Codice di procedura civile — art. 201",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 201. (Consulente tecnico di parte). Il giudice istruttore, con l'ordinanza di nomina del consulente, assegna alle parti un termine entro il quale possono depositare la dichiarazione di nomina di un loro consulente tecnico . 178 Il consulente della parte, oltre ad assistere a norma dell'articolo 194 alle operazioni del consulente del giudice, partecipa all'udienza e alla camera di consiglio ogni volta che vi interviene il consulente del giudice, per chiarire e svolgere, con l'autorizzazione del presidente, le sue osservazioni sui risultati delle indagini tecniche. ---------------"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due versioni anonime di una relazione medica affiancate con linguette colorate e una matita, nessuna parola leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due versioni anonime di una relazione medica affiancate con linguette colorate e una matita, nessuna parola leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-054.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "2c534a1c66bcb4cc560b90bbd5b97df34c346fc482737efbd9e1e26eb102d735",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 618,
+    "contentHash": "c34c5f62f4fe18d68d40610ddc6936a6a813108a16908de39a72954f45a33f5b",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-23",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "a2f471913a3fe9119c41e53426fd99287b2bd7a1abbcac1ef576b634370fc5ac",
+    "sha256": "be035bf8ae281ab1651f1a556193c7c0c5a7baa597b586da723f1fe920da113b"
+  }
+}

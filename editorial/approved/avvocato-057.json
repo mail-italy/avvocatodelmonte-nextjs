@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-057",
+    "site": "avvocato",
+    "sequence": 57,
+    "area": "Responsabilità medica",
+    "slug": "danno-sanitario-e-assistenza-familiare-documentare-il-carico-di-cura",
+    "title": "Danno sanitario e assistenza familiare: documentare il carico di cura",
+    "intent": "Raccogliere attività e spese effettive dopo la lesione",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 112,
+    "status": "approved",
+    "seoTitle": "Danno sanitario e assistenza familiare: documentare il carico di cura",
+    "description": "Come documentare l’assistenza prestata dai familiari dopo un evento sanitario e distinguere bisogni, costi e conseguenze personali.",
+    "bodyMarkdown": "Dopo un danno sanitario, gran parte dell'assistenza può ricadere sulla famiglia. Per descrivere questo carico non basta dire che “è cambiato tutto”: occorre ricostruire attività, frequenza, persone coinvolte e differenze rispetto alla situazione precedente. La documentazione serve a valutare le conseguenze, senza trasformare ogni gesto di vicinanza in una voce automaticamente risarcibile.\n\n## Distinguere presenza e assistenza necessaria\n\nStare accanto al paziente, accompagnarlo a una visita e aiutarlo nelle attività essenziali sono situazioni diverse. Un diario può indicare quale attività sia stata svolta, per quanto tempo e per quale bisogno. Le prescrizioni e le valutazioni cliniche aiutano a comprendere la necessità dell'assistenza.\n\nLa descrizione deve restare concreta: preparare i pasti, aiutare nei trasferimenti, sorvegliare un'attività indicata dai sanitari, organizzare il trasporto. Espressioni generiche come “assistenza continua” richiedono chiarimenti, soprattutto quando diversi familiari si alternano o sono presenti aiuti professionali.\n\n## Ricostruire il prima e il dopo\n\nSe il paziente aveva già bisogno di sostegno, bisogna individuare l'incremento successivo. Il confronto riguarda quantità e qualità dell'aiuto, non soltanto il numero di ore. Una limitazione nuova può rendere necessarie competenze o attrezzature prima inutilizzate.\n\nAnche i cambiamenti nell'organizzazione familiare meritano una cronologia: turni modificati, trasferimenti temporanei, rinunce documentabili e ricorso a servizi esterni. Questi elementi non provano da soli il diritto a un risarcimento autonomo del familiare, ma consentono al legale di valutare le singole posizioni su basi verificabili.\n\n## Conservare costi e ragioni delle spese\n\nContratti di assistenza, fatture, ricevute e pagamenti vanno raccolti insieme alle indicazioni che ne spiegano la pertinenza. Una spesa per trasporto può essere collegata a una visita; un adattamento domestico richiede una spiegazione del bisogno che lo ha reso necessario. La sola ricevuta non dimostra sempre il nesso con l'evento.\n\nIl [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) richiama perdite e mancati guadagni causalmente collegati al fatto; il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) disciplina il rinvio ai criteri di valutazione nel fatto illecito. Il lavoro consiste quindi nel collegare ogni richiesta a una conseguenza specifica, evitando sovrapposizioni tra costi sostenuti, assistenza futura e altre componenti del danno.\n\n## Valutare l'assistenza gratuita\n\nL'aiuto familiare gratuito non dovrebbe sparire dalla ricostruzione soltanto perché manca una fattura. Occorre però valutarne significato, necessità e trattamento giuridico nel caso concreto. Non è corretto moltiplicare autonomamente le ore annotate per una tariffa trovata online e considerare il risultato dovuto.\n\nIl consulente può contribuire a descrivere i bisogni assistenziali e la loro evoluzione. Il legale verifica poi quali conseguenze siano deducibili, da chi e con quale prova. Se più persone lamentano effetti propri, le rispettive posizioni vanno distinte da quella del paziente.\n\n## Preparare un quadro aggiornabile\n\nUn prospetto semplice comprende attività, persona che presta aiuto, frequenza, periodo e documenti disponibili. È preferibile aggiornarlo regolarmente, senza ricostruzioni tardive eccessivamente precise. Le stime devono essere riconoscibili come stime e non confondersi con registrazioni contemporanee.\n\nLa tutela della riservatezza resta essenziale: si raccolgono dati pertinenti, evitando di diffondere informazioni sanitarie a soggetti estranei. Il fascicolo va condiviso con i professionisti incaricati attraverso canali adeguati. La valutazione della responsabilità sanitaria, regolata anche dalla [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7), rimane distinta dalla descrizione del carico di cura: entrambi i passaggi sono necessari per una richiesta fondata.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "L’aiuto gratuito dei familiari è irrilevante?",
+        "answer": "No, va descritto e valutato. La sua eventuale rilevanza risarcitoria richiede però un esame giuridico e probatorio specifico."
+      },
+      {
+        "question": "È utile un diario delle attività?",
+        "answer": "Sì, se concreto, veritiero e aggiornato. Non sostituisce le valutazioni cliniche né dimostra da solo la responsabilità."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Mani adulte che sistemano una coperta su una poltrona domestica, con un deambulatore e un quaderno chiuso sullo sfondo, scena rispettosa. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Mani adulte che sistemano una coperta su una poltrona domestica, con un deambulatore e un quaderno chiuso sullo sfondo, scena rispettosa",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-057.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "7243b392a9e51e457e8c29b97feb8d78522ec1e27399dd9756b8168f37660419",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 608,
+    "contentHash": "e0e9d75aeeaa85e90a1da7e2507cdb5cef3d856c59e7a500a2d164f39a1a9e36",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-25",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "b51bc6922e689acf495d4e147a4e60e91c36834fb818dba10a2a5339050ba411",
+    "sha256": "7579314af62081491f2e449df047c105369d8b19faca73e7c73a568488f991b3"
+  }
+}

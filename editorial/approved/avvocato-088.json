@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-088",
+    "site": "avvocato",
+    "sequence": 88,
+    "area": "Successioni complesse",
+    "slug": "rendiconto-tra-coeredi-in-giudizio-costruire-la-prova-dei-movimenti",
+    "title": "Rendiconto tra coeredi in giudizio: costruire la prova dei movimenti",
+    "intent": "Organizzare entrate, uscite e giustificativi contestati",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/successioni-complesse"
+    ],
+    "scheduledOffsetDays": 174,
+    "status": "approved",
+    "seoTitle": "Rendiconto tra coeredi in giudizio: costruire la prova dei movimenti",
+    "description": "Come organizzare documenti e contestazioni sui movimenti economici tra coeredi durante un giudizio di rendiconto.",
+    "bodyMarkdown": "Una controversia sui movimenti economici tra coeredi richiede più di un elenco di prelievi. Occorre capire chi abbia gestito le somme, in quale periodo, a quale titolo e con quali giustificativi. Un'uscita dal conto dimostra un movimento, ma non ne spiega automaticamente la destinazione o la legittimità.\n\n## Definire il periodo e il rapporto\n\nSi distingue la gestione precedente al decesso da quella successiva e si identifica il rapporto da cui deriverebbe l'obbligo di rendere conto. Procure, incarichi, accordi e disponibilità operative possono avere rilievo. Non ogni accesso materiale a un conto corrisponde allo stesso titolo giuridico.\n\nIl legale deve confrontare la ricostruzione con le domande formulate in giudizio. Chiedere un rendiconto, contestare un'appropriazione e domandare una restituzione non sono attività da confondere. Le prove necessarie dipendono dai fatti e dal diritto concretamente invocato.\n\n## Ricostruire i movimenti senza attribuzioni premature\n\nGli estratti conto completi permettono di vedere entrate, uscite e saldi. Si conserva la sequenza originale, evitando di isolare soltanto le operazioni sospette. Giroconti e trasferimenti possono sembrare spese se manca il documento del conto di destinazione.\n\nUn prospetto dovrebbe riportare data, importo, causale bancaria, soggetto indicato e giustificativo disponibile. La causale va trascritta come appare, mentre le interpretazioni restano in una colonna separata. “Prelievo contanti” non dimostra da solo né una spesa familiare né un uso personale.\n\n## Collegare giustificativi e gestione\n\nFatture, ricevute, tributi e spese immobiliari possono spiegare parte delle uscite. Si verifica a quale bene o persona si riferiscano e se il pagamento sia documentato. Un documento intestato a un coerede può richiedere chiarimenti sul rapporto con la gestione comune.\n\nIl [Codice di procedura civile — art. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art263) disciplina la presentazione del conto ordinata dal giudice con i documenti giustificativi e i possibili effetti dell'accettazione. Il concreto calendario processuale deve essere letto negli atti, senza sostituirlo con una raccolta informale di file condivisi tra parenti.\n\n## Formulare contestazioni specifiche\n\nUna contestazione utile identifica operazione, ragione del dissenso e documento mancante o contrario. Dire che “tutto il conto è falso” può impedire di distinguere errori, lacune e divergenze giuridiche. Anche le voci condivise dovrebbero essere riconoscibili, per concentrare il confronto sui punti reali.\n\nIl [Codice civile — art. 2697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697) richiama la distribuzione dell'onere della prova. La posizione di chi chiede, di chi rende il conto e di chi contesta va valutata in relazione al rapporto dedotto. Non è corretto presumere che un sospetto trasferisca automaticamente ogni onere alla controparte.\n\n## Separare conteggio e decisione\n\nUn consulente contabile può ricostruire flussi e verificare coerenza, ma non decide da solo la spettanza giuridica delle somme. Se una voce dipende da un accordo contestato o da un titolo controverso, il presupposto deve essere esplicitato. Il calcolo dovrebbe poter essere aggiornato quando il giudice risolve quella questione.\n\nPrima di un accordo si controlla che il saldo consideri tutti i movimenti pertinenti e che la liberatoria abbia un perimetro comprensibile. La ricostruzione documentale può ridurre il conflitto proprio perché distingue ciò che risulta dagli atti da ciò che rimane da spiegare, senza trasformare ogni lacuna in un'accusa definitiva.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [successioni complesse](https://avvocatodelmonte.com/successioni-complesse). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Un prelievo prova che il coerede abbia trattenuto il denaro?",
+        "answer": "Non da solo. Occorre ricostruire titolo della gestione, destinazione e giustificativi disponibili."
+      },
+      {
+        "question": "Devo conservare anche le operazioni che non contesto?",
+        "answer": "Sì. La sequenza completa aiuta a verificare saldi, trasferimenti e possibili duplicazioni."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art263",
+        "title": "Codice di procedura civile — art. 263",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 263. (Presentazione e accettazione del conto). Se il giudice ordina la presentazione di un conto, questo deve essere depositato ... con i documenti giustificativi, almeno cinque giorni prima dell'udienza fissata per la discussione di esso. 178 Se il conto viene accettato, il giudice istruttore ne dà atto nel processo verbale e ordina il pagamento delle somme che risultano dovute. L'ordinanza non è impugnabile e costituisce titolo esecutivo. ---------------"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697",
+        "title": "Codice civile — art. 2697",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2697. (Onere della prova). Chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Estratti conto anonimi, ricevute e chiavi di una casa ordinati in cartelle separate su un tavolo, vista dall’alto senza dati leggibili. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Estratti conto anonimi, ricevute e chiavi di una casa ordinati in cartelle separate su un tavolo, vista dall’alto senza dati leggibili",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-088.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "860248254888d39cfa00e6cff5c6ff420fc5b5c689dab0d8d9ed5112a593febc",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 579,
+    "contentHash": "bca344b5d6e18674e615f2e2f9d752bc844c4a53c6a23cbf28712c7e5806dde5",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-25",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "30715673af820dd043507e12a470a76ae144c4cbcf4b1b74d28c240e0f9326e1",
+    "sha256": "5f5ea3dbccc9033c951d21e1eee5ff33037ad7110c9e746b7f33316925afbaa5"
+  }
+}

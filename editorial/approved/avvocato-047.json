@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-047",
+    "site": "avvocato",
+    "sequence": 47,
+    "area": "Responsabilità medica",
+    "slug": "anestesia-e-complicanze-quali-documenti-servono-al-medico-legale",
+    "title": "Anestesia e complicanze: quali documenti servono al medico legale",
+    "intent": "Ricostruire fase preoperatoria, anestesiologica e risveglio",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 92,
+    "status": "approved",
+    "seoTitle": "Anestesia e complicanze: quali documenti servono al medico legale",
+    "description": "Complicanza anestesiologica e verifica medico-legale: quali documenti descrivono valutazione preliminare, procedura, monitoraggio e risveglio.",
+    "bodyMarkdown": "Dopo un intervento si verifica una complicanza che il paziente collega all'anestesia. Per comprendere il caso serve ricostruire l'intero percorso perioperatorio, distinguendo la procedura chirurgica dalle attività anestesiologiche e dal successivo monitoraggio. Il nome della complicanza non identifica da solo una responsabilità.\n\n## Prima dell'intervento\n\nSi recuperano la valutazione anestesiologica, le informazioni cliniche registrate e la documentazione disponibile sulle condizioni precedenti. Il consulente deve sapere quali dati fossero noti e quali decisioni siano state assunte. Un'informazione comunicata soltanto dopo l'evento non può essere trattata automaticamente come se fosse stata disponibile prima.\n\nAnche la documentazione del consenso va conservata integralmente, senza confondere il profilo informativo con quello dell'esecuzione tecnica. Le domande possono essere diverse e richiedono una lettura coordinata. La firma di un modulo non risolve da sola ogni questione sul percorso, né la presenza di un rischio dimostra che la sua gestione fosse adeguata.\n\n## Durante la procedura e il risveglio\n\nIl fascicolo può comprendere scheda anestesiologica, registrazioni, terapie, verbale operatorio e documenti della fase successiva. È il professionista competente a individuare quali materiali siano necessari. Il cliente non deve interpretare autonomamente valori o abbreviazioni come prova di errore.\n\nLa cronologia è importante: tempi di insorgenza del problema, interventi registrati e trasferimenti devono poter essere confrontati. Se vi sono discrepanze, si mantengono visibili. Correggere gli orari in una sintesi per renderli coerenti può nascondere proprio il punto che il consulente deve esaminare.\n\n## Accedere alla documentazione\n\nLa [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4) regola la disponibilità dei documenti sanitari per gli aventi diritto. Nella richiesta è utile individuare l'intervento e il periodo, specificando i materiali pertinenti alla fase anestesiologica. Se la copia ricevuta non comprende una parte attesa, si conserva l'elenco e la risposta della struttura.\n\nUna lacuna documentale richiede approfondimento, ma non va presentata automaticamente come ammissione di responsabilità. Il legale valuterà gli strumenti appropriati e il consulente chiarirà quali limiti essa produca sull'analisi tecnica. La ricostruzione deve distinguere il dato assente dal dato che prova una condotta.\n\n## La valutazione specialistica\n\nLa [Legge 24/2017 — art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15) richiama competenze medico-legali e specialistiche pertinenti nei procedimenti sanitari. Il quesito dovrebbe chiarire condotta, causalità e conseguenze, considerando le condizioni del paziente e le spiegazioni alternative. Non si attribuisce all'anestesia ogni problema emerso dopo l'intervento soltanto per vicinanza temporale.\n\nIl quadro civile della responsabilità è nella [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7). L'analisi giuridica utilizza il contributo tecnico per individuare soggetti e pretese, senza confondere complicanza, errore e danno risarcibile. Ciascun passaggio deve essere motivato attraverso gli atti disponibili.\n\n## Documentare il decorso successivo\n\nSi raccolgono controlli, diagnosi, riabilitazione, spese e limitazioni documentate. Il percorso di cura deve proseguire secondo le indicazioni sanitarie; la consulenza legale non sostituisce il medico curante. Un diario personale può aiutare a descrivere effetti quotidiani, purché rimanga distinto dalle certificazioni.\n\nIl primo esame dovrebbe restituire una cronologia comprensibile e una lista di questioni da chiarire. Questo permette di capire se il sospetto richieda un approfondimento e di quale tipo. Una valutazione prudente, fondata sui documenti, è più utile di una conclusione immediata ricavata dal solo esito sfavorevole.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Ogni problema dopo l’intervento dipende dall’anestesia?",
+        "answer": "No. Occorre esaminare il percorso complessivo e il rapporto causale attraverso competenze specialistiche."
+      },
+      {
+        "question": "Quale documento distingue la fase anestesiologica?",
+        "answer": "Possono essere rilevanti valutazione preliminare, scheda anestesiologica e registrazioni del decorso; il consulente definisce il materiale necessario."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15",
+        "title": "Legge 24/2017 — art. 15",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 15 Nomina dei consulenti tecnici d'ufficio e dei periti nei giudizi di responsabilità sanitaria 1. Nei procedimenti civili e nei procedimenti penali aventi ad oggetto la responsabilità sanitaria, l'autorità giudiziaria affida l'espletamento della consulenza tecnica e della perizia a un medico specializzato in medicina legale e a uno o più specialisti nella disciplina che abbiano specifica e pratica conoscenza di quanto oggetto del procedimento, avendo cura che i soggetti da nominare, scelti tra gli iscritti negli albi di cui ai commi 2 e 3, non siano in posizione di […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Postazione anestesiologica generica vuota con monitor spento e cartella neutra in primo piano, nessun paziente, nessun dato o marchio visibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Postazione anestesiologica generica vuota con monitor spento e cartella neutra in primo piano, nessun paziente, nessun dato o marchio visibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-047.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "0135f32cd9554a1d985ae32e5f22db05937829bd285dcc06626a25fab444ac26",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 592,
+    "contentHash": "3289046e7e348f6512195d2444a510738dac98c7c54e0df8c2d0cfad1ffdfacf",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-15",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "32b152e04af26cd1901b064523d6c329cc29bff75964b8ad7faaa64a8179fab9",
+    "sha256": "9379d831233a4efec4a4f67345bf6947c6bff1389be78ae4d7916ddf42e46636"
+  }
+}

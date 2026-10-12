@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-046",
+    "site": "avvocato",
+    "sequence": 46,
+    "area": "Responsabilità medica",
+    "slug": "esame-radiologico-contestato-conservare-immagini-e-referti",
+    "title": "Esame radiologico contestato: conservare immagini e referti",
+    "intent": "Separare referto scritto, immagini originali e valutazione specialistica",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 90,
+    "status": "approved",
+    "seoTitle": "Esame radiologico contestato: conservare immagini e referti",
+    "description": "Esame radiologico contestato: perché immagini originali, referto, richiesta e confronto con gli esami successivi hanno funzioni diverse.",
+    "bodyMarkdown": "Un esame successivo individua una condizione che non era stata descritta nel precedente referto radiologico. Il paziente sospetta un errore. La verifica non consiste nel confrontare soltanto le due conclusioni scritte: occorre recuperare le immagini, la richiesta clinica e il contesto nel quale ciascun accertamento è stato eseguito.\n\n## Referto e immagini sono materiali distinti\n\nIl referto contiene la valutazione del sanitario. Le immagini costituiscono il materiale che uno specialista può esaminare nuovamente nelle modalità appropriate. Una fotografia stampata o uno screenshot potrebbe non conservare tutte le informazioni del formato originario. Per questo il supporto digitale disponibile va mantenuto integro.\n\nLa [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4) disciplina la disponibilità della documentazione sanitaria per gli aventi diritto. Nella richiesta conviene indicare esame, data, struttura, referto e materiale diagnostico pertinente. Se il centro mette a disposizione un portale o un supporto, si conservano anche le istruzioni necessarie all'accesso senza diffondere credenziali a persone non autorizzate.\n\n## Capire che cosa si cercava\n\nLa richiesta dell'esame e le informazioni cliniche disponibili possono essere rilevanti per interpretarne il risultato. Uno specialista deve valutare tecnica, ambito e quesito, evitando di assumere che ogni accertamento avesse lo stesso scopo. La comparsa di un dato in un esame diverso non dimostra automaticamente che fosse riconoscibile prima.\n\nIl paziente può preparare una cronologia con sintomi registrati, prescrizioni, esami e decisioni successive. È utile mantenere separata la data di esecuzione da quella del referto o della comunicazione. La distinzione può incidere sulla ricostruzione del percorso assistenziale.\n\n## Il confronto specialistico\n\nLa valutazione medico-legale richiede competenze pertinenti. La [Legge 24/2017 — art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15) disciplina l'assetto dei consulenti e periti nei procedimenti di responsabilità sanitaria. Una lettura seria deve spiegare quali dati siano disponibili, quali limiti presenti il materiale e quale significato abbia la differenza fra gli esami.\n\nNon è corretto cercare online immagini simili e usarle per attribuire un errore al referto. La somiglianza visiva non sostituisce la competenza e la conoscenza del caso. Anche una nuova relazione deve distinguere l'interpretazione tecnica dalla conclusione giuridica sulla responsabilità.\n\n## Il passaggio dalla diagnosi al danno\n\nL'eventuale criticità del referto deve essere collegata alle conseguenze. Il fascicolo deve chiarire quali decisioni siano state assunte dopo l'esame e come un diverso percorso avrebbe potuto incidere sul risultato, secondo una valutazione specialistica. Il quadro della responsabilità civile è nella [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7).\n\nUn dato non riportato può essere clinicamente rilevante, ma non consente da solo di quantificare un risarcimento. Occorre esaminare decorso, opportunità terapeutiche e danno attribuibile, considerando anche spiegazioni alternative. Questa distinzione evita di trasformare una differenza diagnostica in una conclusione automatica.\n\n## Conservare il fascicolo in modo utilizzabile\n\nSi mantengono referti completi, immagini originali, prescrizioni, lettere di dimissione e documenti degli accertamenti successivi. Se un file non si apre, si segnala il problema al centro o al professionista prima di convertirlo in un formato che potrebbe perdere informazioni. Le copie di lavoro restano separate.\n\nIl primo esame dovrebbe indicare quale materiale manchi, quale specialista serva e quale domanda concreta debba essere chiarita. Per il paziente è un percorso di comprensione documentata: la tutela nasce dalla verifica del dato e del suo effetto, senza diagnosticare a distanza né promettere un esito sulla base di due referti diversi.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Bastano i referti scritti?",
+        "answer": "Possono non bastare. Lo specialista può avere bisogno delle immagini originali e del contesto clinico dell’esame."
+      },
+      {
+        "question": "Un esame successivo diverso prova l’errore precedente?",
+        "answer": "No. Vanno valutati tecnica, tempi, quesito e riconoscibilità del dato, oltre alle conseguenze attribuibili."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15",
+        "title": "Legge 24/2017 — art. 15",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 15 Nomina dei consulenti tecnici d'ufficio e dei periti nei giudizi di responsabilità sanitaria 1. Nei procedimenti civili e nei procedimenti penali aventi ad oggetto la responsabilità sanitaria, l'autorità giudiziaria affida l'espletamento della consulenza tecnica e della perizia a un medico specializzato in medicina legale e a uno o più specialisti nella disciplina che abbiano specifica e pratica conoscenza di quanto oggetto del procedimento, avendo cura che i soggetti da nominare, scelti tra gli iscritti negli albi di cui ai commi 2 e 3, non siano in posizione di […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Monitor con immagini radiologiche astratte non diagnostiche e cartella senza dati personali, vista laterale di una postazione vuota, luce sobria. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Monitor con immagini radiologiche astratte non diagnostiche e cartella senza dati personali, vista laterale di una postazione vuota, luce sobria",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-046.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "d4207d342cdb0bf616deae1fa960918fa7deafd8805e4cf660efc1f7a6f81ce5",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 611,
+    "contentHash": "b994ee440d0e4b5a1dd77be53a0a9c2a5cbde38d95f2023e908fe23a29b42c07",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-05",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "44b0d9861332f5f455f53af68ee60db4cd66fcddaf90c0451cf89df19b93bddf",
+    "sha256": "7b8e68d20608360183589d54a0825f6c735449ed836c1aedf6c0878ab2ad490e"
+  }
+}

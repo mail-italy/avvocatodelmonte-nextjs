@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-044",
+    "site": "avvocato",
+    "sequence": 44,
+    "area": "Responsabilità medica",
+    "slug": "dimissione-e-rientro-in-ospedale-valutare-la-continuita-delle-cure",
+    "title": "Dimissione e rientro in ospedale: valutare la continuità delle cure",
+    "intent": "Confrontare indicazioni alla dimissione ed evoluzione clinica",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 86,
+    "status": "approved",
+    "seoTitle": "Dimissione e rientro in ospedale: valutare la continuità delle cure",
+    "description": "Dimissione e nuovo ricovero: come confrontare condizioni, istruzioni, tempi e documenti per valutare una possibile responsabilità sanitaria.",
+    "bodyMarkdown": "Una persona viene dimessa e torna poco dopo in ospedale con un problema importante. La vicinanza dei due accessi può sollevare domande, ma non dimostra automaticamente che la dimissione fosse sbagliata. Per una valutazione seria occorre ricostruire quali informazioni fossero disponibili in quel momento e che cosa sia accaduto successivamente.\n\n## La fotografia al momento della dimissione\n\nSi recuperano cartella, esami, valutazioni registrate e lettera di dimissione. Il consulente deve capire le condizioni documentate e il percorso che ha portato alla decisione. Leggere soltanto il successivo peggioramento rischia di giudicare retrospettivamente la scelta senza considerare il quadro originario.\n\nSono importanti anche le indicazioni consegnate: controlli, terapia, segnali per cui richiedere assistenza e riferimenti per il seguito. Il documento va conservato completo. Se il paziente ricorda spiegazioni orali diverse, può descriverle in una nota separata, senza sostituirle a ciò che risulta negli atti.\n\n## Collegare il periodo trascorso a domicilio\n\nLa cronologia deve indicare sintomi, contatti sanitari, nuovi esami e modalità del rientro. Il valore della nota personale sta nella precisione dei fatti, non nell'uso di termini medici. Dire quale difficoltà sia comparsa e quando è spesso più utile che attribuirle autonomamente una diagnosi.\n\nLe prescrizioni e le comunicazioni successive aiutano a ricostruire la continuità assistenziale. Eventuali ostacoli nell'accesso ai controlli vanno descritti con riscontri disponibili. Il professionista valuterà la loro rilevanza, distinguendo problemi organizzativi, evoluzione della patologia e altre circostanze.\n\n## Confrontare le due cartelle\n\nIl nuovo ricovero può fornire informazioni sul problema emerso, ma il suo contenuto deve essere letto insieme al precedente. Le diagnosi riportate in documenti diversi non sono sempre direttamente sovrapponibili. Il consulente deve interpretarle, evitando conclusioni ricavate dal confronto di singole parole.\n\nLa [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4) riguarda la documentazione sanitaria: quando sono coinvolte più strutture è utile richiedere i materiali separatamente e costruire poi un indice unico. Le lacune vanno mantenute visibili, perché possono limitare l'affidabilità dell'analisi o richiedere ulteriori acquisizioni.\n\n## La domanda giuridica\n\nLa [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) delinea il quadro della responsabilità civile. Per sostenere una pretesa occorre esaminare la condotta contestata e il suo rapporto con il danno. Il rientro in ospedale, da solo, non identifica né l'errore né l'intera conseguenza risarcibile.\n\nL'analisi può riguardare, secondo i documenti, la decisione di dimettere, la completezza delle indicazioni, il coordinamento o altri passaggi. Non tutti saranno necessariamente critici. La selezione serve a individuare il tema effettivo, evitando di trasformare ogni elemento del percorso in una contestazione generica.\n\n## Conseguenze e bisogni successivi\n\nSi conservano spese, certificazioni e documenti sul decorso dopo il nuovo accesso. Il consulente deve distinguere l'evoluzione della condizione di base da un eventuale peggioramento attribuibile al comportamento esaminato. La quantificazione viene dopo questa ricostruzione, non la sostituisce.\n\nIl primo incontro con il legale dovrebbe arrivare a domande circoscritte: quale momento appare critico, quali documenti lo descrivono e quale approfondimento medico-legale sia necessario. Nel frattempo le decisioni sulle cure spettano ai sanitari. Il fascicolo legale serve a comprendere responsabilità e danno, mantenendo un percorso distinto dall'assistenza clinica in corso.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Un rientro rapido prova una dimissione prematura?",
+        "answer": "No. Occorre valutare condizioni note al momento della dimissione, indicazioni ricevute e successivo decorso."
+      },
+      {
+        "question": "Devo procurarmi entrambe le cartelle?",
+        "answer": "Sono normalmente utili per confrontare i due accessi e ricostruire il periodo intermedio, secondo le indicazioni del consulente."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due cartelle sanitarie collegate da un calendario neutro e una chiave di casa, luce delicata, nessun volto o testo leggibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due cartelle sanitarie collegate da un calendario neutro e una chiave di casa, luce delicata, nessun volto o testo leggibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-044.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "f4077073d1621e89d7850b0959e440882b3666415a928d1f540a051ef715b58e",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 581,
+    "contentHash": "a468230e7561902c3f88ec3a2458ec715f9ab56218b72a0134f9c964cc357892",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-15",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "d624aa6bcd6530e4dec77ae334b69e43495af11670ed78015d9af39f8e9dcc6a",
+    "sha256": "69f390a1b382d19718446dedfde653e534fa60f232b609feeb9cd332cec7db9a"
+  }
+}

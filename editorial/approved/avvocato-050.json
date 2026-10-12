@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-050",
+    "site": "avvocato",
+    "sequence": 50,
+    "area": "Responsabilità medica",
+    "slug": "riabilitazione-dopo-un-danno-sanitario-documentare-bisogni-e-costi",
+    "title": "Riabilitazione dopo un danno sanitario: documentare bisogni e costi",
+    "intent": "Distinguere percorso di cura e prova delle conseguenze economiche",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 98,
+    "status": "approved",
+    "seoTitle": "Riabilitazione dopo un danno sanitario: documentare bisogni e costi",
+    "description": "Riabilitazione dopo un possibile danno sanitario: documentare percorso, limitazioni, spese e bisogni futuri senza confondere cura e risarcimento.",
+    "bodyMarkdown": "Dopo un evento sanitario la persona affronta un percorso riabilitativo lungo. Le sedute, gli spostamenti e l'aiuto quotidiano producono documenti diversi, spesso raccolti in modo frammentario. Organizzarli permette di descrivere le conseguenze, ma non dimostra da solo che ogni costo sia imputabile a una responsabilità sanitaria.\n\n## Distinguere il percorso clinico dalla domanda economica\n\nLe scelte riabilitative competono ai sanitari. Il fascicolo legale deve rappresentare ciò che è stato prescritto ed eseguito, senza suggerire trattamenti per aumentare un risarcimento. Prescrizioni, valutazioni funzionali e relazioni sul decorso hanno un ruolo diverso dalle fatture: spiegano il bisogno, non soltanto la spesa.\n\nIl quadro della responsabilità sanitaria è nella [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7). La quantificazione delle conseguenze richiede il collegamento con la condotta contestata e con il danno attribuibile. Se una parte della riabilitazione dipende dalla patologia di base, il consulente deve poterla distinguere dall'eventuale aggravamento.\n\n## Un registro semplice delle attività\n\nSi può costruire un prospetto con data, prestazione, struttura, prescrizione collegata, costo e prova del pagamento. Si conservano gli originali e si annotano rimborsi ricevuti. Questo evita di conteggiare due volte la stessa voce o di presentare come spesa personale un importo già coperto da altri soggetti.\n\nAnche trasferimenti e ausili possono richiedere documenti specifici. Non si presume che qualsiasi acquisto effettuato durante la riabilitazione sia risarcibile. Il legale e il consulente devono verificarne necessità, pertinenza e rapporto con la condizione esaminata.\n\n## Descrivere le limitazioni nel tempo\n\nLe relazioni periodiche possono mostrare miglioramenti, stabilizzazione o difficoltà persistenti. È utile conservarle nella sequenza completa, senza selezionare soltanto quelle più severe. La valutazione medico-legale richiede una rappresentazione fedele del decorso e delle condizioni precedenti.\n\nUn diario personale può descrivere attività quotidiane concretamente compromesse: spostarsi, svolgere mansioni domestiche o partecipare a determinate attività. Deve indicare fatti e cambiamenti, evitando di attribuire autonomamente percentuali di invalidità. Le osservazioni personali accompagnano la documentazione clinica, non la sostituiscono.\n\n## I bisogni futuri\n\nUna richiesta sulle spese future deve partire da elementi tecnici e da una previsione motivata, non dalla semplice moltiplicazione dei costi attuali per un numero arbitrario di anni. Il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) riguarda perdita e mancato guadagno collegati all'inadempimento; il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) richiama criteri di valutazione nel fatto illecito. La concreta applicazione dipende dal titolo della responsabilità.\n\nIl consulente deve chiarire quali necessità siano prevedibili e su quali dati si fondino. Il difensore valuterà come formulare e sostenere la domanda, distinguendo spese già documentate, costi possibili e bisogni ancora incerti. Rendere visibili queste differenze aumenta la credibilità del fascicolo.\n\n## Non chiudere la ricostruzione troppo presto\n\nUn'offerta risarcitoria va letta alla luce dello stato del percorso e del contenuto della liberatoria. Se restano accertamenti importanti, il punto deve essere rappresentato al professionista. Non significa rifiutare ogni accordo, ma comprenderne il rapporto con le conseguenze ancora da valutare.\n\nIl materiale utile al primo esame comprende quadro clinico, programma riabilitativo, relazioni, spese e rimborsi. L'obiettivo è una domanda leggibile, capace di distinguere il bisogno di cura dall'eventuale pretesa economica e di documentare entrambi senza sovrapposizioni.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Bastano le fatture delle sedute?",
+        "answer": "Sono importanti, ma vanno collegate a prescrizioni, prestazioni eseguite, decorso e conseguenze attribuibili."
+      },
+      {
+        "question": "Posso calcolare le spese future moltiplicando quelle attuali?",
+        "answer": "Una previsione deve avere basi tecniche e giuridiche verificabili; una moltiplicazione arbitraria non basta."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Spazio riabilitativo generico vuoto con parallele e un quaderno neutro su una panca, luce naturale, nessun paziente identificabile o marchio. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Spazio riabilitativo generico vuoto con parallele e un quaderno neutro su una panca, luce naturale, nessun paziente identificabile o marchio",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-050.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "e63c05efd331c8e78275ce739e763fbc206cfe077f59984a4394d11e6942f1a0",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 576,
+    "contentHash": "06de9d75a8c8c4b74e94c6cb8276e6e12ea4302b6016e3a5e72952aaf6708dfd",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-01-16",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "ed2e3c5fc3d7e877e6d718a563dfd90d007f35021dbfa9ee6f677626b7f6ce58",
+    "sha256": "74d238e5f5cb38acb73f02858e457b6ab940126a70dee61712ea37f05401c76c"
+  }
+}

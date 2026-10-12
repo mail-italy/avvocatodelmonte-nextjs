@@ -137,6 +137,17 @@ export default function PrivacyPage() {
               </a>. Il collegamento esterno per aprire la mappa su Google Maps resta disponibile.
             </p>
             <p>
+              Con il consenso alle statistiche, il sito può conservare in sessionStorage il
+              codice, il titolo pubblico e il percorso dell’articolo da cui apri la pagina
+              Contatti. Questa informazione collega le interazioni all’articolo, senza contenuti
+              del modulo o parametri dell’indirizzo web. È utilizzabile per un massimo di 30 minuti;
+              viene rimossa al successivo controllo se scaduta, quando abbandoni il percorso,
+              revochi il consenso o il modulo conferma l’invio. La chiusura della scheda termina
+              questa memoria di sessione. Il messaggio WhatsApp può indicare l’articolo che stai
+              consultando; dalla pagina Contatti usa questa provenienza solo se il consenso alle
+              statistiche è presente e il collegamento è ancora valido.
+            </p>
+            <p>
               Il sito considera valida la preferenza per 180 giorni; il dato nella memoria
               locale può restare fino alla sua sostituzione o alla cancellazione dei dati del sito.
               La scelta può essere cambiata in

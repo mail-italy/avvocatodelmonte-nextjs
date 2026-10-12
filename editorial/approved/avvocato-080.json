@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-080",
+    "site": "avvocato",
+    "sequence": 80,
+    "area": "Infortuni sul lavoro",
+    "slug": "dispositivi-di-protezione-e-infortunio-oltre-la-ricevuta-di-consegna",
+    "title": "Dispositivi di protezione e infortunio: oltre la ricevuta di consegna",
+    "intent": "Verificare adeguatezza, addestramento e uso nel contesto concreto",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 158,
+    "status": "approved",
+    "seoTitle": "Dispositivi di protezione e infortunio: oltre la ricevuta di consegna",
+    "description": "Come valutare documenti e uso dei dispositivi di protezione dopo un infortunio, oltre alla semplice firma di consegna.",
+    "bodyMarkdown": "La ricevuta di consegna di un dispositivo di protezione è un documento utile, ma non esaurisce l'analisi della sicurezza. Occorre verificare quale rischio dovesse affrontare il dispositivo, se fosse adeguato, disponibile, mantenuto e utilizzabile correttamente. La ricostruzione deve riguardare il lavoro concreto nel momento dell'infortunio.\n\n## Identificare dispositivo e rischio\n\nSi raccolgono modello, caratteristiche, istruzioni e documenti disponibili. Un generico riferimento a “guanti” o “imbracatura” non permette di valutare l'idoneità rispetto all'attività. Anche taglia, compatibilità con altre attrezzature e condizioni d'uso possono avere rilievo tecnico.\n\nIl [D.lgs. 81/2008 — art. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art77) disciplina obblighi relativi alla scelta, fornitura, uso e mantenimento dei DPI. La valutazione non dovrebbe quindi fermarsi alla loro presenza in magazzino. È necessario collegare il dispositivo al rischio individuato e alle condizioni effettive del lavoratore.\n\n## Verificare consegna e disponibilità reale\n\nLa firma di consegna va letta insieme alla data, al tipo di dispositivo e alle eventuali sostituzioni. Il lavoratore dovrebbe descrivere che cosa avesse effettivamente a disposizione e dove fosse conservato. Se il dispositivo mancava o era danneggiato, servono fatti e riscontri, non soltanto conclusioni.\n\nFotografie, richieste di sostituzione, segnalazioni e testimonianze possono essere pertinenti. Gli originali devono essere conservati senza alterazioni. Non è corretto creare retroattivamente comunicazioni o registri per rendere più coerente una versione dei fatti.\n\n## Esaminare istruzioni e addestramento\n\nSapere che un dispositivo esiste non equivale a saperlo utilizzare in sicurezza. Occorre verificare informazioni ricevute, comprensibilità e attività pratica svolta quando necessaria. Il [D.lgs. 81/2008 — art. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art77) prevede formazione e, nei casi indicati, addestramento; il [D.lgs. 81/2008 — art. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art37) disciplina più in generale formazione e addestramento.\n\nUn attestato deve essere collegato a contenuti, periodo e mansione. Se il lavoro o l'attrezzatura erano cambiati, si verifica come siano state gestite le nuove esigenze. L'esperienza del lavoratore non sostituisce automaticamente gli obblighi formativi pertinenti.\n\n## Ricostruire l'uso nel momento dell'evento\n\nIl punto non è stabilire astrattamente se il dispositivo fosse “buono”, ma capire se e come potesse incidere sulla dinamica. Un consulente tecnico può valutare idoneità, modalità d'impiego e compatibilità con la lavorazione. Le conclusioni devono indicare dati e ipotesi utilizzati.\n\nSe si contesta un mancato uso, vanno esaminate istruzioni, disponibilità e contesto. Non è corretto attribuire automaticamente tutta la responsabilità al lavoratore o escluderla a priori. Il [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) va letto insieme agli obblighi specifici e ai fatti accertati.\n\n## Conservare il dispositivo quando pertinente\n\nDopo l'infortunio, eventuali oggetti rilevanti possono richiedere conservazione e accertamenti. Non devono essere manipolati o utilizzati se non sicuri, né sottratti a controlli delle autorità. Il legale può valutare come documentarne condizioni e provenienza attraverso canali appropriati.\n\nIl fascicolo finale dovrebbe distinguere scelta, consegna, formazione, manutenzione e uso effettivo. Questa struttura consente di individuare il passaggio realmente controverso. La firma su un modulo rimane un elemento della prova, ma non sostituisce la verifica dell'intero sistema di protezione rispetto all'evento concreto.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La firma di consegna prova che il DPI fosse adeguato?",
+        "answer": "Non da sola. Occorre esaminare caratteristiche, rischio, condizioni d’uso e altri obblighi pertinenti."
+      },
+      {
+        "question": "Posso modificare il dispositivo per mostrare come funzionava?",
+        "answer": "È preferibile conservarlo senza alterazioni e concordare eventuali verifiche con i professionisti e le autorità competenti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art77",
+        "title": "D.lgs. 81/2008 — art. 77",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 77 Obblighi del datore di lavoro 1. Il datore di lavoro ai fini della scelta dei DPI: a) effettua l'analisi e la valutazione dei rischi che non possono essere evitati con altri mezzi; b) individua le caratteristiche dei DPI necessarie affinchè questi siano adeguati ai rischi di cui alla lettera a), tenendo conto delle eventuali ulteriori fonti di rischio rappresentate dagli stessi DPI; c) valuta, sulla base delle informazioni e delle norme d'uso fornite dal fabbricante a corredo dei DPI, le caratteristiche dei DPI disponibili sul mercato e le […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art37",
+        "title": "D.lgs. 81/2008 — art. 37",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 37 Formazione dei lavoratori e dei loro rappresentanti 1. Il datore di lavoro assicura che ciascun lavoratore riceva una formazione sufficiente ed adeguata in materia di salute e sicurezza, anche rispetto alle conoscenze linguistiche, con particolare riferimento a: a) concetti di rischio, danno, prevenzione, protezione, organizzazione della prevenzione aziendale, diritti e doveri dei vari soggetti aziendali, organi di vigilanza, controllo, assistenza; b) rischi riferiti alle mansioni e ai possibili danni e alle conseguenti misure e procedure di prevenzione e protezione caratteristici del settore o comparto di appartenenza dell'azienda. 2. […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Guanti protettivi, occhiali e casco neutri disposti su un banco pulito accanto a una scheda di consegna anonima, dettaglio realistico. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Guanti protettivi, occhiali e casco neutri disposti su un banco pulito accanto a una scheda di consegna anonima, dettaglio realistico",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-080.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "85de7fd1d737d56d31eb1daf44a852656902d61ad12d3b35d950d77b1e6526bd",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 566,
+    "contentHash": "24100fdecebdd407c945ff8d67e27388593db2e013edf15240bc918211da741f",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-21",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "cc7a32f6224e558a42c15d4eb5562fa4d76bf8a8079393f37bc28a055ddd9710",
+    "sha256": "7b9a4fb59c45d28fcd858611f4975af2e1d79d1c731acb1e0527e0eaf4b749c8"
+  }
+}

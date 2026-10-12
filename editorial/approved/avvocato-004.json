@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-004",
+    "site": "avvocato",
+    "sequence": 4,
+    "area": "Cassazione civile",
+    "slug": "ricorso-incidentale-in-cassazione-quando-la-parte-vittoriosa-deve-reagire",
+    "title": "Ricorso incidentale in Cassazione: quando la parte vittoriosa deve reagire",
+    "intent": "Distinguere difesa del risultato e impugnazione dei capi sfavorevoli",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 6,
+    "status": "approved",
+    "seoTitle": "Ricorso incidentale in Cassazione: quando la parte vittoriosa deve reagire",
+    "description": "Ricorso incidentale civile: come distinguere i capi sfavorevoli, le questioni assorbite e la semplice difesa della sentenza.",
+    "bodyMarkdown": "La sentenza dà ragione a una parte sul risultato finale, ma respinge una sua domanda o non accoglie un'eccezione. Quando la controparte ricorre per Cassazione, il problema non è soltanto rispondere: bisogna capire se esistano punti da impugnare a propria volta e quale utilità concreta abbia farlo.\n\n## Vittoria pratica e singoli capi\n\nIl ricorso incidentale, disciplinato dal [Codice di procedura civile — art. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art371), consente di portare nel giudizio di legittimità una propria impugnazione. Il presupposto non si ricava dall'etichetta di vincitore o sconfitto. Occorre ricostruire le domande proposte, le decisioni adottate e il rapporto tra esse.\n\nUna richiesta accolta solo in parte presenta un quadro diverso da una richiesta interamente accolta attraverso una ragione alternativa. Diversa ancora è la questione non esaminata perché assorbita. Le parole usate nel dispositivo e nella motivazione vanno lette insieme: non ogni frase sfavorevole costituisce un autonomo capo da impugnare.\n\n## Il controllo da fare prima della risposta\n\nPer ogni domanda conviene indicare che cosa era stato chiesto, che cosa è stato deciso e quale modifica sarebbe utile. Accanto si annotano i motivi del ricorso principale che potrebbero cambiare il risultato. Questo quadro permette al difensore di valutare l'interesse all'impugnazione e l'eventuale rapporto condizionato con l'esito del ricorso avversario.\n\nLa valutazione non si esaurisce nella domanda «vorrei una motivazione migliore». Un ricorso deve perseguire un risultato processuale concretamente rilevante. Se la parte ha già ottenuto tutto ciò che poteva chiedere, il semplice dissenso verso una considerazione del giudice potrebbe non giustificare un'impugnazione. Il controllo riguarda l'effetto, non il gradimento della formulazione.\n\n## Non confondere impugnazione e argomento difensivo\n\nNel controricorso si può sostenere la tenuta della sentenza rispetto alle critiche ricevute. Chiedere di eliminare una statuizione sfavorevole è un'operazione diversa. La disciplina delle impugnazioni e dell'acquiescenza, fra cui il [Codice di procedura civile — art. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art329), rende necessario individuare tempestivamente questa distinzione.\n\nSupponiamo che una parte abbia ottenuto una somma, ma sia stata respinta un'altra domanda autonoma. L'eventuale interesse a recuperare quella domanda non si protegge necessariamente con una frase inserita nella difesa del credito riconosciuto. Il difensore deve valutare lo strumento corretto e la sua ammissibilità, considerando anche termini e collegamenti fra i capi.\n\n## Quali documenti servono\n\nOltre alla sentenza e al ricorso principale, sono utili gli atti che contengono le conclusioni definitive, i motivi dell'appello e le decisioni precedenti. Permettono di verificare se una questione sia stata ritualmente introdotta e mantenuta. Un elenco preparato a memoria può attribuire al giudice una mancata risposta a una richiesta che non era più presente negli atti rilevanti.\n\nDevono essere conservate anche le notifiche. La decisione di proporre un'impugnazione incidentale non può essere rinviata genericamente alla fine dello studio del ricorso principale. Prima si verifica il quadro temporale, poi si completa l'analisi del merito delle possibili censure.\n\n## Il risultato della valutazione\n\nUn parere utile indica quali punti richiedono soltanto difesa, quali meritano un'impugnazione e quali non possono essere riaperti. Deve esplicitare anche l'utilità attesa e il rischio di aggiungere motivi deboli. Il ricorso incidentale non è una risposta di forza alla controparte: è uno strumento tecnico per proteggere una posizione individuata negli atti.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Ogni parte vittoriosa deve fare ricorso incidentale?",
+        "answer": "No. Dipende dalle statuizioni sfavorevoli, dall’interesse concreto e dal rapporto con il ricorso principale."
+      },
+      {
+        "question": "Una questione assorbita equivale a una domanda respinta?",
+        "answer": "No. L’assorbimento e il rigetto richiedono una lettura diversa; occorre esaminare la motivazione e le domande originarie."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art371",
+        "title": "Codice di procedura civile — art. 371",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 371. (Ricorso incidentale). La parte di cui all'articolo precedente deve proporre con l'atto contenente il controricorso l'eventuale ricorso incidentale contro la stessa sentenza. La parte alla quale è stato notificato il ricorso per integrazione a norma degli articoli 331 e 332 deve proporre l'eventuale ricorso incidentale con atto depositato nel termine di quaranta giorni dalla notificazione. (171) (173) Al ricorso incidentale si applicano le disposizioni degli articoli 365, 366 e 369. Per resistere al ricorso incidentale può essere depositato un controricorso entro quaranta giorni dal deposito dell'atto di cui […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art329",
+        "title": "Codice di procedura civile — art. 329",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 329. (Acquiescenza totale o parziale). Salvi i casi di cui ai numeri 1, 2, 3 e 6 dell'articolo 395, l'acquiescenza risultante da accettazione espressa o da atti incompatibili con la volontà di avvalersi delle impugnazioni ammesse dalla legge ne esclude la proponibilità. L'impugnazione parziale importa acquiescenza alle parti della sentenza non impugnate."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Tre cartelle di diverso colore su una scrivania, una aperta e due chiuse, con piccoli divisori senza testo che rappresentano capi diversi di una decisione. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Tre cartelle di diverso colore su una scrivania, una aperta e due chiuse, con piccoli divisori senza testo che rappresentano capi diversi di una decisione",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-004.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "e8dbaaf6590cc51a7e693524818f8b785bf3721e3c9e7fd68565910e7eec7e69",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 609,
+    "contentHash": "1b0acf7cf59bf2abab63da718142f013b80b73572f12c9d9f620b0e75618655d",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-09",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "f3f9b5ea48358cf53ef9070a53aaf616b96a2c6475a600b1a01d7e236da428b4",
+    "sha256": "ee1734cdfe1f4151d8661acee7a3071f5a0c16d2236686297f5df8a130548111"
+  }
+}

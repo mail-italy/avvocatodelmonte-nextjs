@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-007",
+    "site": "avvocato",
+    "sequence": 7,
+    "area": "Cassazione civile",
+    "slug": "violazione-di-legge-e-falsa-applicazione-leggere-la-censura-civile",
+    "title": "Violazione di legge e falsa applicazione: leggere la censura civile",
+    "intent": "Separare interpretazione della norma e applicazione ai fatti accertati",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 12,
+    "status": "approved",
+    "seoTitle": "Violazione di legge e falsa applicazione: leggere la censura civile",
+    "description": "Violazione e falsa applicazione della legge in Cassazione civile: come confrontare norma, fatti accertati e ragionamento della sentenza.",
+    "bodyMarkdown": "La sentenza richiama la norma corretta, ma la parte ritiene che l'abbia usata male. Oppure attribuisce alla norma un significato contestato. Sono situazioni da distinguere prima di costruire un motivo di Cassazione: citare un articolo del codice non trasforma automaticamente il dissenso sul risultato in una violazione di legge.\n\n## La regola e il caso concreto\n\nIl [Codice di procedura civile — art. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360) comprende fra i motivi del ricorso la violazione o falsa applicazione di norme di diritto. Per leggere il problema è utile separare due domande: quale significato il giudice abbia attribuito alla norma e come abbia ricondotto i fatti accertati a quella regola. La distinzione orienta l'analisi, anche quando i due profili sono collegati.\n\nUn esempio astratto riguarda una clausola contrattuale: una cosa è discutere il criterio giuridico applicato, altra cosa è chiedere che una testimonianza sia ritenuta più convincente. Nel secondo caso, il semplice richiamo a una norma non elimina il fatto che si stia tentando di cambiare la ricostruzione della vicenda.\n\n## Ricostruire il ragionamento della sentenza\n\nPrima di cercare precedenti favorevoli conviene riassumere il percorso effettivo del giudice: fatti ritenuti provati, norma applicata, passaggio logico e conseguenza. Una censura indirizzata a una regola che la sentenza non ha utilizzato rischia di non incontrare la decisione impugnata.\n\nÈ importante distinguere le affermazioni della parte dai fatti ormai assunti nella motivazione. Se la tesi richiede di sostituire questi ultimi con una versione diversa, il difensore deve verificare se esista un motivo ammissibile per farlo e con quali limiti. La critica di diritto non è un contenitore nel quale riversare ogni contestazione fattuale.\n\n## Leggere la norma nella versione pertinente\n\nLa disposizione deve essere individuata con precisione e collocata nel tempo. Una modifica normativa successiva al rapporto o al processo non si applica automaticamente alla controversia. Anche le norme transitorie possono incidere sulla soluzione. Il controllo non consiste soltanto nel trovare il testo oggi visibile in una banca dati.\n\nPer agevolarlo, il cliente può fornire date del contratto, del fatto, della domanda e delle decisioni, mantenendole separate. Il professionista potrà così valutare quale disciplina governi il rapporto sostanziale e quale il procedimento. Le due sequenze temporali possono essere differenti e non vanno confuse in un unico riepilogo.\n\n## Usare i precedenti come confronto\n\nUna massima apparentemente favorevole va verificata nella decisione integrale. Potrebbe riguardare una fattispecie diversa, una versione precedente della norma o una specifica questione processuale. Il lavoro utile consiste nell'esplicitare la corrispondenza con il caso, non nell'accumulare pronunce.\n\nNella scheda di ricerca si annotano problema deciso, regola affermata, fatti rilevanti e differenze. Questo consente anche di individuare precedenti contrari e di valutarne il peso. Nascondere al difensore una decisione sfavorevole già nota non aiuta: la solidità della valutazione cresce quando considera l'intero quadro.\n\n## Rendere verificabile il motivo\n\nIl [Codice di procedura civile — art. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366) richiede una chiara e sintetica esposizione dei motivi e dei riferimenti rilevanti. Il fascicolo dovrebbe permettere di collegare ogni censura a un passaggio della sentenza e alla regola che si assume violata. Se questo collegamento manca, occorre tornare all'analisi prima di allungare il testo.\n\nIl risultato atteso è una critica circoscritta: che cosa ha deciso il giudice, quale errore giuridico viene indicato e perché la correzione potrebbe cambiare l'esito. È questa sequenza a rendere utile il confronto con il cassazionista.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Basta indicare una norma violata?",
+        "answer": "No. Va spiegato il rapporto fra la regola, il ragionamento della sentenza e il risultato che si chiede di modificare."
+      },
+      {
+        "question": "Si può usare una norma nuova per una vicenda vecchia?",
+        "answer": "Dipende dalla disciplina temporale e dalle disposizioni transitorie. La data del fatto e quella del processo devono essere ricostruite."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art360",
+        "title": "Codice di procedura civile — art. 360",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 360. (Sentenze impugnabili e motivi di ricorso). Le sentenze pronunciate in grado d'appello o in unico grado possono essere impugnate con ricorso per cassazione: 1) per motivi attinenti alla giurisdizione; 2) per violazione delle norme sulla competenza, quando non è prescritto il regolamento di competenza; 3) per violazione o falsa applicazione di norme di diritto e dei contratti e accordi collettivi nazionali di lavoro; 4) per nullità della sentenza o del procedimento; 5) per omesso esame circa un fatto decisivo per il giudizio che è stato oggetto di discussione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art366",
+        "title": "Codice di procedura civile — art. 366",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 366. (Contenuto del ricorso). Il ricorso deve contenere, a pena di inammissibilità: 1) l'indicazione delle parti; 2) l'indicazione della sentenza o decisione impugnata; 3) la chiara esposizione dei fatti della causa essenziali alla illustrazione dei motivi di ricorso; (171) (173) 4) la chiara e sintetica esposizione dei motivi per i quali si chiede la cassazione, con l'indicazione delle norme di diritto su cui si fondano; (171) (173) 5) l'indicazione della procura, se conferita con atto separato e, nel caso di ammissione al gratuito patrocinio, del relativo decreto. 6) la […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Un volume giuridico aperto accanto a una lente e un fascicolo, composizione pulita che rappresenta il confronto tra regola e caso concreto. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Un volume giuridico aperto accanto a una lente e un fascicolo, composizione pulita che rappresenta il confronto tra regola e caso concreto",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-007.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "0fabe2ec9d2a0e598b846334afdb5f4cee4169a70a84bd5fde06e4d365160d83",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 636,
+    "contentHash": "32397f254b779afc4798291bcf03d2921dbf7ac89790dc3b96fea2f092444059",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-03",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "8c54a82a6cf69c0fac3d8a8a1f7bca4a12a826d4039620762d1ae91db8934194",
+    "sha256": "8c7b80f8a9a020c7e930750947b62f5df7f04c0636dae739808d52217de513ed"
+  }
+}

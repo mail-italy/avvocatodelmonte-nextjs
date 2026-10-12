@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-056",
+    "site": "avvocato",
+    "sequence": 56,
+    "area": "Responsabilità medica",
+    "slug": "protesi-e-dispositivi-medici-separare-prodotto-intervento-e-controlli",
+    "title": "Protesi e dispositivi medici: separare prodotto, intervento e controlli",
+    "intent": "Organizzare diverse ipotesi di responsabilità senza confonderle",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 110,
+    "status": "approved",
+    "seoTitle": "Protesi e dispositivi medici: separare prodotto, intervento e controlli",
+    "description": "Come organizzare documenti e accertamenti quando un danno coinvolge una protesi o un dispositivo medico.",
+    "bodyMarkdown": "Quando una protesi o un dispositivo medico presenta problemi, bisogna distinguere almeno tre piani: caratteristiche del prodotto, attività sanitaria e controlli successivi. La presenza di un malfunzionamento non indica da sola chi ne risponda. Anche l'assenza di un difetto visibile non esaurisce la valutazione delle cure.\n\n## Identificare il dispositivo\n\nSi raccolgono tessera dell'impianto, etichette disponibili, modello, produttore e documenti dell'intervento. I dati identificativi permettono al consulente di sapere quale prodotto sia stato effettivamente utilizzato. Una fotografia della confezione generica trovata online non sostituisce la documentazione riferibile al paziente.\n\nSe il dispositivo è stato rimosso, conviene chiarire dove si trovi e quali esami siano stati eseguiti. Qualunque richiesta di conservazione o analisi deve rispettare le esigenze cliniche e le procedure della struttura. Non è opportuno manipolare personalmente materiali potenzialmente rilevanti né ritardare cure necessarie per ragioni probatorie.\n\n## Separare i possibili problemi\n\nUn conto è ipotizzare un difetto del prodotto; altro è discutere la scelta del dispositivo, il posizionamento, le istruzioni o il monitoraggio. Queste ipotesi possono richiedere competenze differenti e coinvolgere soggetti diversi. Il parere preliminare dovrebbe elencarle senza trattarle come equivalenti.\n\nLa [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7) riguarda la responsabilità civile della struttura e del professionista sanitario. Le questioni relative al prodotto richiedono una distinta individuazione della disciplina applicabile, anche in relazione alla sua circolazione e al momento dei fatti. Non è prudente trasferire automaticamente le regole della responsabilità sanitaria al fabbricante.\n\n## Costruire la sequenza dei controlli\n\nSi ordinano visite, immagini, segnalazioni di sintomi, prescrizioni e indicazioni ricevute. Per ogni controllo si distingue ciò che era stato riferito dal paziente da ciò che il sanitario aveva riscontrato. È importante conservare anche i documenti che descrivono un funzionamento inizialmente regolare.\n\nUn problema emerso molto tempo dopo l'intervento potrebbe avere spiegazioni diverse. Il consulente deve confrontare usura, eventi successivi, condizioni del paziente e altre ipotesi pertinenti. La sola vicinanza temporale tra un disturbo e una visita non prova che in quella visita fosse già riconoscibile la causa.\n\n## Documentare le conseguenze\n\nUn ulteriore intervento, un periodo di riabilitazione o nuove spese devono essere collegati alla vicenda mediante documenti clinici e giustificativi. Il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) offre il riferimento generale per distinguere perdite e mancati guadagni collegati al fatto. Non ogni costo sostenuto dopo l'impianto è necessariamente conseguenza del problema contestato.\n\nSi annotano inoltre le limitazioni concrete, la durata dell'assistenza e l'eventuale cambiamento dell'attività lavorativa. Le valutazioni sui postumi spettano ai professionisti competenti: il diario personale descrive ciò che accade, senza attribuire percentuali o formulare diagnosi autonome.\n\n## Organizzare una valutazione con competenze adeguate\n\nIl fascicolo può richiedere il confronto tra medico legale, specialista e competenze tecniche sul dispositivo. La pluralità di saperi non implica moltiplicare gli incarichi senza motivo: occorre identificare prima la domanda a cui ciascun esperto dovrà rispondere. La [Legge 24/2017 — art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15) conferma l'importanza delle competenze pertinenti negli incarichi giudiziari sanitari.\n\nPrima di inviare una contestazione, è utile verificare che il prodotto sia identificato, che i documenti siano completi e che il collegamento tra problema e conseguenze sia spiegato. Questa preparazione consente di rivolgere richieste mirate, evitando di attribuire a tutti i soggetti coinvolti la stessa condotta indistinta.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Devo conservare la tessera della protesi?",
+        "answer": "Sì, insieme alla documentazione dell’intervento e ai dati identificativi disponibili. Può aiutare a riconoscere il prodotto effettivamente impiantato."
+      },
+      {
+        "question": "Un dispositivo rimosso prova che fosse difettoso?",
+        "answer": "No. La ragione della rimozione e gli accertamenti sul prodotto devono essere valutati nel contesto clinico e tecnico."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art15",
+        "title": "Legge 24/2017 — art. 15",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 15 Nomina dei consulenti tecnici d'ufficio e dei periti nei giudizi di responsabilità sanitaria 1. Nei procedimenti civili e nei procedimenti penali aventi ad oggetto la responsabilità sanitaria, l'autorità giudiziaria affida l'espletamento della consulenza tecnica e della perizia a un medico specializzato in medicina legale e a uno o più specialisti nella disciplina che abbiano specifica e pratica conoscenza di quanto oggetto del procedimento, avendo cura che i soggetti da nominare, scelti tra gli iscritti negli albi di cui ai commi 2 e 3, non siano in posizione di […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Modello generico di protesi articolare su un supporto neutro, accanto a una confezione priva di marchi e a documenti sanitari chiusi. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Modello generico di protesi articolare su un supporto neutro, accanto a una confezione priva di marchi e a documenti sanitari chiusi",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-056.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "725f4d027b4b724ae5efccfd9c047c579e8977922a912840e11ac66b41b85f38",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 609,
+    "contentHash": "52d794773c4e7eed94e1beb96bc1a5a79e64306c23ff445ad9d8ab12e542bbf0",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-15",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "850bb0e99ce3595aaf00ac60af6c8a1a3d356125e204629dc681e5c37fbaada4",
+    "sha256": "ff12edb2baabc16fb84b3e312a999c599f6bb5ff058e46edadf4b583febf24f3"
+  }
+}

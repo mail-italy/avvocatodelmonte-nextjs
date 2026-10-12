@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-077",
+    "site": "avvocato",
+    "sequence": 77,
+    "area": "Incidenti stradali gravi",
+    "slug": "riabilitazione-lunga-dopo-un-incidente-tenere-aggiornato-il-fascicolo",
+    "title": "Riabilitazione lunga dopo un incidente: tenere aggiornato il fascicolo",
+    "intent": "Integrare cure e spese senza affrettare la liquidazione definitiva",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni-incidente-stradale"
+    ],
+    "scheduledOffsetDays": 152,
+    "status": "approved",
+    "seoTitle": "Riabilitazione lunga dopo un incidente: tenere aggiornato il fascicolo",
+    "description": "Come aggiornare referti, spese e conseguenze quotidiane durante una riabilitazione prolungata dopo un incidente.",
+    "bodyMarkdown": "Una riabilitazione lunga produce molti documenti e cambiamenti graduali. Per la richiesta risarcitoria serve un fascicolo che segua l'evoluzione senza confondere fase iniziale, recupero e possibili postumi. Il controllo legale dei tempi deve procedere insieme alle cure, senza condizionare le decisioni sanitarie.\n\n## Organizzare il percorso per periodi\n\nSi distinguono ricovero, prime cure, riabilitazione intensiva, controlli e attività successive. Per ciascun periodo si raccolgono prescrizioni, relazioni e prestazioni effettivamente eseguite. Le date permettono di collegare una spesa alla fase clinica pertinente e di riconoscere eventuali interruzioni.\n\nSe il programma cambia, si conserva l'indicazione che ne spiega il motivo. Non è necessario interpretare autonomamente la scelta: basta mantenere disponibili i documenti e chiedere chiarimenti ai sanitari quando servono per comprendere il percorso. Una terapia più lunga non dimostra da sola una maggiore responsabilità della controparte.\n\n## Descrivere progressi e difficoltà\n\nUn diario utile registra attività recuperate, assistenza ancora necessaria e limitazioni osservate. Dovrebbe includere anche i miglioramenti, non soltanto i giorni peggiori. Questo consente al consulente di valutare un andamento reale anziché una selezione orientata del materiale.\n\nLe annotazioni personali non sostituiscono gli esami clinici. Dolore, stanchezza e difficoltà quotidiane possono essere descritti, mentre diagnosi e percentuali richiedono valutazioni professionali. Se emergono sintomi nuovi, vanno affrontati prima nel percorso sanitario e poi documentati nel fascicolo.\n\n## Collegare spese e necessità\n\nFatture, ricevute, trasporti e ausili devono essere ordinati con le prescrizioni pertinenti. Si distinguono importi pagati, rimborsati o sostenuti da altri. Il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) e il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) richiedono attenzione al collegamento tra evento e conseguenze economiche, evitando l'inclusione indistinta di ogni esborso.\n\nAnche le spese prevedibili richiedono una base concreta. Un piano riabilitativo futuro può essere aggiornato, ma non va presentato come definitivo se i sanitari lo considerano ancora provvisorio. Le ipotesi devono essere esplicite e riconoscibili rispetto ai costi già sostenuti.\n\n## Gestire la pratica assicurativa durante le cure\n\nIl [Codice delle assicurazioni private — art. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209~art148) disciplina la procedura risarcitoria e i documenti pertinenti alla valutazione delle lesioni. La comunicazione iniziale del sinistro e la completezza della richiesta sono passaggi distinti. Il legale deve verificare quali informazioni inviare e quando, in relazione al quadro concreto.\n\nEventuali visite richieste dall'assicuratore e integrazioni documentali vanno gestite in modo ordinato. Si conservano convocazioni, documenti consegnati e risposte. La collaborazione agli accertamenti pertinenti non significa accettare automaticamente la valutazione proposta dalla controparte.\n\n## Valutare il momento di una definizione\n\nUna proposta può arrivare mentre il recupero è ancora in corso. Prima di accettarla bisogna comprendere quali conseguenze siano già valutabili, quali restino aperte e quanto sia ampia la liberatoria. Un pagamento parziale e un accordo definitivo hanno effetti da distinguere attentamente.\n\nIl fascicolo aggiornato aiuta a formulare domande precise al medico legale e al difensore. Non serve attendere una generica “fine di tutto” senza presidiare la pratica; serve coordinare valutazione sanitaria, documentazione e scelte processuali. Questo consente di seguire il recupero con attenzione senza perdere la continuità della tutela risarcitoria.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [incidenti stradali gravi](https://avvocatodelmonte.com/risarcimento-danni-incidente-stradale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Devo conservare anche i referti che descrivono miglioramenti?",
+        "answer": "Sì. Il percorso completo permette una valutazione attendibile dell’evoluzione e delle conseguenze residue."
+      },
+      {
+        "question": "Posso chiudere la pratica mentre faccio ancora riabilitazione?",
+        "answer": "Va valutato con attenzione, comprendendo le conseguenze ancora incerte e il perimetro dell’accordo proposto."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209~art148",
+        "title": "Codice delle assicurazioni private — art. 148",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 148 Procedura di risarcimento 1. Per i sinistri con soli danni a cose, la richiesta di risarcimento deve recare l'indicazione degli aventi diritto al risarcimento e del luogo, dei giorni e delle ore in cui le cose danneggiate sono disponibili, per non meno di cinque giorni non festivi, per l'ispezione diretta ad accertare l'entità del danno. Entro sessanta giorni dalla ricezione di tale documentazione, l'impresa di assicurazione formula al danneggiato congrua e motivata offerta per il risarcimento, ovvero comunica specificatamente i motivi per i quali non ritiene di fare […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una palestra riabilitativa vuota con parallele e una cartella di controlli su una panca, luce naturale e ambiente rassicurante. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una palestra riabilitativa vuota con parallele e una cartella di controlli su una panca, luce naturale e ambiente rassicurante",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-077.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "cbd924e09d5c9d65886749ac6ee9681cd15f64420c0be03bac23c651bcafb096",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 567,
+    "contentHash": "b63cc3f23d445b47076d886a1da2171fca289b46be2d21143b31b3c5a87276a1",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-19",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "2e6eee116a40201e8394ae4ab92647ea29e452e9c6e5282e43d9715a63611910",
+    "sha256": "ce89ce3564268e84b41153dd24ded335cd09510304c1809246c04f77e8dd6a93"
+  }
+}

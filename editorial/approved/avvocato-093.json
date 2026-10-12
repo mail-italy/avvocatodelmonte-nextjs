@@ -1,0 +1,85 @@
+{
+  "article": {
+    "id": "avvocato-093",
+    "site": "avvocato",
+    "sequence": 93,
+    "area": "Impugnazione del testamento",
+    "slug": "testamenti-diversi-nel-fascicolo-ordinare-atti-e-domande-giudiziali",
+    "title": "Testamenti diversi nel fascicolo: ordinare atti e domande giudiziali",
+    "intent": "Distinguere cronologia degli atti e ragioni della contestazione",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/impugnazione-testamento"
+    ],
+    "scheduledOffsetDays": 184,
+    "status": "approved",
+    "seoTitle": "Testamenti diversi nel fascicolo: ordinare atti e domande giudiziali",
+    "description": "Come ordinare più testamenti e gli atti collegati per individuare le questioni realmente controverse nel giudizio.",
+    "bodyMarkdown": "La presenza di più documenti testamentari richiede un archivio preciso prima di qualsiasi conclusione su quale regoli la successione. Date, forme, contenuti e contestazioni devono essere letti insieme. Non è sufficiente scegliere il foglio apparentemente più recente senza verificare che cosa disponga e quali problemi presenti.\n\n## Censire ogni documento\n\nPer ciascun atto si annotano forma, data indicata, luogo di conservazione, disponibilità dell'originale e copie. Gli atti di pubblicazione o altri documenti collegati devono essere distinti dal testamento stesso. È utile attribuire un codice interno stabile per evitare che nelle comunicazioni lo stesso documento venga chiamato in modi diversi.\n\nLa provenienza delle copie va conservata. Un'immagine ricevuta da un familiare e una copia acquisita attraverso un professionista possono avere storie differenti. Il fascicolo deve permettere di ricostruire come ogni documento sia entrato nella disponibilità della parte.\n\n## Confrontare contenuti e beni\n\nUna tabella può indicare beneficiari, disposizioni, beni menzionati e clausole rilevanti. Il confronto serve a individuare sovrapposizioni e differenze, non a risolvere automaticamente la loro efficacia. Le questioni di interpretazione e rapporto tra atti richiedono una valutazione giuridica specifica.\n\nUn documento successivo potrebbe affrontare soltanto alcuni beni o contenere espressioni da interpretare nel contesto. La regola pratica “vale sempre l'ultimo foglio” è quindi una semplificazione inaffidabile. Occorre leggere integralmente gli atti e verificare la disciplina pertinente alle singole disposizioni.\n\n## Separare i tipi di contestazione\n\nAutografia, sottoscrizione e data dell'olografo trovano riferimento nel [Codice civile — art. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art602); i difetti di forma richiedono l'esame del [Codice civile — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art606). La capacità del testatore riguarda invece il [Codice civile — art. 591](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art591). Questi problemi non devono essere raccolti in un'unica contestazione generica di “testamento falso o invalido”.\n\nPer ogni atto si dovrebbe indicare quale vizio venga ipotizzato, da chi e con quali elementi. Una perizia grafica non risolve la capacità, e una cartella clinica non dimostra l'autografia. Tenere distinti i piani permette di individuare le competenze e le prove necessarie.\n\n## Collegare i documenti alle domande processuali\n\nNel giudizio conta ciò che viene effettivamente chiesto e su quali fatti. Il [Codice di procedura civile — art. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art112) riguarda la corrispondenza tra domanda e pronuncia. Il difensore deve verificare che le conclusioni siano coerenti con gli atti contestati e con il risultato perseguito.\n\nNon ogni dubbio emerso durante la lettura può essere introdotto in qualunque momento. Le questioni nuove, i documenti e le modifiche della domanda richiedono un controllo processuale. Un archivio completo aiuta a svolgerlo tempestivamente, senza affidarsi a ricordi frammentari.\n\n## Preparare una cronologia utile al giudizio\n\nLa cronologia può comprendere redazione, eventi clinici pertinenti, consegna, ritrovamento e acquisizione degli atti. Occorre distinguere fatti documentati e dichiarazioni delle persone coinvolte. Le lacune non devono essere riempite con supposizioni su chi avrebbe avuto interesse a una certa versione.\n\nPrima di una trattativa o di un'impugnazione, il quadro dovrebbe rendere chiaro quali atti siano pacifici e quali controversi. La pluralità di testamenti non implica necessariamente un contenzioso inevitabile, ma richiede precisione. Un confronto ordinato consente di discutere le vere questioni giuridiche senza perdersi tra copie, date e denominazioni incoerenti.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [impugnazione del testamento](https://avvocatodelmonte.com/impugnazione-testamento). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il testamento con la data più recente risolve sempre tutto?",
+        "answer": "No. Vanno esaminati contenuto, validità e rapporto tra le disposizioni, senza automatismi."
+      },
+      {
+        "question": "Posso usare una sola perizia per ogni contestazione?",
+        "answer": "Dipende dai quesiti. Autografia, capacità e interpretazione richiedono competenze e valutazioni differenti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art602",
+        "title": "Codice civile — art. 602",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 602. (Testamento olografo). Il testamento olografo deve essere scritto per intero, datato e sottoscritto di mano del testatore. La sottoscrizione deve essere posta alla fine delle disposizioni. Se anche non è fatta indicando nome e cognome, è tuttavia valida quando designa con certezza la persona del testatore. La data deve contenere l'indicazione del giorno, mese e anno. La prova della non verità della data è ammessa soltanto quando si tratta di giudicare della capacità del testatore, della priorità di data tra più testamenti o di altra questione da decidersi […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art606",
+        "title": "Codice civile — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606. (Nullità del testamento per difetto di forma). Il testamento è nullo quando manca l'autografia o la sottoscrizione nel caso di testamento olografo, ovvero manca la redazione per iscritto, da parte del notaio, delle dichiarazioni del testatore o la sottoscrizione dell'uno o dell'altro, nel caso di testamento per atto di notaio. Per ogni altro difetto di forma il testamento può essere annullato su istanza di chiunque vi ha interesse. L'azione di annullamento si prescrive nel termine di cinque anni dal giorno in cui è stata data esecuzione alle disposizioni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art591",
+        "title": "Codice civile — art. 591",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 591. (Casi d'incapacità). Possono disporre per testamento tutti coloro che non sono dichiarati incapaci dalla legge. Sono incapaci di testare: 1) coloro che non hanno compiuto la maggiore età; 2) gli interdetti per infermità di mente; 3) quelli che, sebbene non interdetti, si provi essere stati, per qualsiasi causa, anche transitoria, incapaci di intendere e di volere nel momento in cui fecero testamento . Nei casi d'incapacità preveduti dal presente articolo il testamento può essere impugnato da chiunque vi ha interesse. L'azione si prescrive nel termine di cinque anni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art112",
+        "title": "Codice di procedura civile — art. 112",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 112. (Corrispondenza tra il chiesto e il pronunciato). Il giudice deve pronunciare su tutta la domanda e non oltre i limiti di essa; e non può pronunciare d'ufficio su eccezioni, che possono essere proposte soltanto dalle parti."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Tre buste d’archivio differenti con fogli manoscritti anonimi parzialmente visibili, ordinati cronologicamente senza date leggibili. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Tre buste d’archivio differenti con fogli manoscritti anonimi parzialmente visibili, ordinati cronologicamente senza date leggibili",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-093.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "7b93deefd594638fea024d8caaff5392c0a736d5d7be1e8da69e621eb047b11a",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 582,
+    "contentHash": "94b95ddc78acfda01c29bc7e92182c7ea2a9ae8c38739b6e8448e0e07c5f79c0",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-15",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "9200fceaef621c8548b31c1f8c627ef1555a58a5325d467f4ddc89535947f60f",
+    "sha256": "d9df4d3149d4c8c2c7258577afb5ab5b2342ad43100351e626909333d06955a6"
+  }
+}

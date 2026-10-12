@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-084",
+    "site": "avvocato",
+    "sequence": 84,
+    "area": "Infortuni sul lavoro",
+    "slug": "verbali-ispettivi-e-causa-risarcitoria-leggerne-portata-e-limiti",
+    "title": "Verbali ispettivi e causa risarcitoria: leggerne portata e limiti",
+    "intent": "Separare accertamenti, valutazioni e prova civile",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 166,
+    "status": "approved",
+    "seoTitle": "Verbali ispettivi e causa risarcitoria: leggerne portata e limiti",
+    "description": "Come utilizzare gli atti di un accertamento ispettivo nella valutazione civile di un infortunio senza attribuire loro effetti automatici.",
+    "bodyMarkdown": "Gli atti ispettivi possono contenere informazioni importanti su un infortunio, ma devono essere letti per contenuto e funzione. Un verbale può riportare fatti osservati, dichiarazioni, documenti acquisiti e valutazioni. Questi elementi non hanno tutti lo stesso significato nella successiva richiesta risarcitoria.\n\n## Identificare atto e fase\n\nSi verifica quale autorità abbia redatto il documento, in quale attività e con quali allegati. Una comunicazione iniziale, un verbale di sopralluogo e un provvedimento conclusivo non sono intercambiabili. Il titolo da solo non permette di comprenderne la portata.\n\nL'accesso agli atti deve avvenire attraverso i canali applicabili, considerando eventuali limiti legati a procedimenti in corso. Se la copia è parziale, questo va indicato. Non è corretto presentare l'assenza di un documento nel proprio fascicolo come prova che l'autorità non abbia svolto una certa attività.\n\n## Distinguere osservazioni e dichiarazioni\n\nIl verbale può descrivere direttamente condizioni di un macchinario oppure riportare ciò che una persona ha riferito. La distinzione deve restare visibile nella ricostruzione. Anche la data del sopralluogo conta: le condizioni osservate dopo l'evento potrebbero essere cambiate.\n\nFotografie e allegati aiutano a verificare il contenuto, ma devono essere letti insieme alle spiegazioni. Un dettaglio isolato può assumere un significato diverso nel contesto. Il legale deve valutare la specifica efficacia dei singoli elementi, senza attribuire a ogni frase una forza probatoria assoluta.\n\n## Collegare rilievi e obblighi pertinenti\n\nIl [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) pone il quadro generale della tutela del lavoratore; gli obblighi specifici dipendono da attività, rischi e attrezzature. Per esempio, il [D.lgs. 81/2008 — art. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art71) disciplina aspetti relativi alle attrezzature di lavoro. La richiesta civile deve individuare quali obblighi siano pertinenti alla dinamica concreta.\n\nUna violazione rilevata può essere importante, ma occorre anche esaminare il collegamento con il danno lamentato. Non ogni irregolarità presente in azienda ha causato l'infortunio. Viceversa, l'assenza di una contestazione su un punto non dimostra automaticamente che quel punto sia irrilevante per la causa civile.\n\n## Confrontare gli atti con altre fonti\n\nManuali, registri, testimonianze e documenti sanitari possono integrare o porre domande rispetto al verbale. Se emergono divergenze, si descrivono con riferimenti precisi. Non serve accusare genericamente l'accertamento di essere incompleto: è più utile indicare quale informazione manchi e perché incida sulla ricostruzione.\n\nIl [Codice civile — art. 2697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697) richiama l'onere di provare i fatti posti a fondamento della pretesa. L'esistenza di un procedimento ispettivo non consente quindi di trascurare la preparazione del proprio fascicolo. Il materiale deve essere acquisito e utilizzato secondo le regole del giudizio pertinente.\n\n## Preparare una valutazione coordinata\n\nIl consulente tecnico può aiutare a comprendere misure, funzionamento delle attrezzature e compatibilità con la dinamica. Il legale valuta effetti e utilizzabilità degli atti. La collaborazione permette di separare problemi tecnici, probatori e giuridici che altrimenti rischiano di essere confusi.\n\nPrima di una trattativa, è utile riassumere fatti condivisi, contestazioni e accertamenti ancora mancanti. Il verbale può costituire una base importante, ma non sostituisce la prova delle conseguenze personali ed economiche. La domanda risarcitoria deve collegare organizzazione, evento e danno attraverso un percorso comprensibile e documentato.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Un verbale ispettivo garantisce la vittoria nella causa civile?",
+        "answer": "No. Vanno valutati contenuto, efficacia, collegamento causale e prova delle conseguenze."
+      },
+      {
+        "question": "Posso usare soltanto la pagina favorevole?",
+        "answer": "È preferibile esaminare l’atto completo e i suoi allegati, così da comprenderne contesto e limiti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art71",
+        "title": "D.lgs. 81/2008 — art. 71",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 71 Obblighi del datore di lavoro 1. Il datore di lavoro mette a disposizione dei lavoratori attrezzature conformi ai requisiti di cui all'articolo precedente, idonee ai fini della salute e sicurezza e adeguate al lavoro da svolgere o adattate a tali scopi che devono essere utilizzate conformemente alle disposizioni legislative di recepimento delle direttive comunitarie. 2. All'atto della scelta delle attrezzature di lavoro, il datore di lavoro prende in considerazione: a) le condizioni e le caratteristiche specifiche del lavoro da svolgere; b) i rischi presenti nell'ambiente di lavoro; c) […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697",
+        "title": "Codice civile — art. 2697",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2697. (Onere della prova). Chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Cartella ispettiva anonima aperta accanto a fotografie industriali non leggibili e un metro pieghevole, tavolo tecnico ordinato. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Cartella ispettiva anonima aperta accanto a fotografie industriali non leggibili e un metro pieghevole, tavolo tecnico ordinato",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-084.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "0c339ff9cd47159ff16a1b0d7ca1fff44161edee680bd4dd43df65d7d2b70418",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 581,
+    "contentHash": "b422f7cdf1e7a4237cb29f70983cb6e695a3458ac7389dee1ad2818e4695c5b9",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-27",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "4e0c78ebdd43db93d2f0db361fd1912feed64c2bd1798eaad304643a1006ad81",
+    "sha256": "caf3ce8bdfe90c4387386d03aee0b4df437ca7bb706b3b19b4229a3cbf5304e9"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-091",
+    "site": "avvocato",
+    "sequence": 91,
+    "area": "Impugnazione del testamento",
+    "slug": "consulenza-grafica-sul-testamento-originali-comparazioni-e-contraddittorio",
+    "title": "Consulenza grafica sul testamento: originali, comparazioni e contraddittorio",
+    "intent": "Preparare una verifica tecnica senza presentarla come prova infallibile",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/impugnazione-testamento"
+    ],
+    "scheduledOffsetDays": 180,
+    "status": "approved",
+    "seoTitle": "Consulenza grafica sul testamento: originali, comparazioni e contraddittorio",
+    "description": "Come preparare originali e scritture di confronto per una consulenza sull’autografia del testamento olografo.",
+    "bodyMarkdown": "Quando si discute dell'autografia di un testamento, l'esame tecnico richiede documenti adeguati e quesiti precisi. Una fotografia ricevuta in chat può suggerire dubbi, ma non offre necessariamente le stesse possibilità dell'originale. Il lavoro deve distinguere analisi della scrittura, requisiti del testamento e scelta del rimedio processuale.\n\n## Identificare il documento contestato\n\nSi verifica dove sia conservato l'originale, quali copie esistano e come siano state ottenute. È importante distinguere il foglio testamentario dagli atti che lo accompagnano. La disponibilità di una copia pubblicata non risolve automaticamente ogni questione sull'esame materiale della scrittura.\n\nIl [Codice civile — art. 602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art602) disciplina i requisiti del testamento olografo, mentre il [Codice civile — art. 606](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art606) riguarda i difetti di forma e i relativi effetti. Individuare il problema concreto evita di confondere mancanza di autografia, sottoscrizione, data e altre contestazioni che possono richiedere percorsi differenti.\n\n## Conservare gli originali senza alterazioni\n\nNon si dovrebbero aggiungere segni, evidenziare tratti, plastificare o intervenire sul documento. Anche operazioni apparentemente protettive possono modificare caratteristiche utili all'esame. La conservazione e l'eventuale accesso devono essere concordati attraverso modalità appropriate e rispettose dei diritti dei soggetti coinvolti.\n\nLe fotografie di lavoro vanno mantenute separate dalle copie annotate. Se un file è stato compresso o modificato, questo deve essere dichiarato. Il consulente deve conoscere i limiti del materiale e spiegare se una conclusione richieda l'esame diretto dell'originale.\n\n## Selezionare scritture di comparazione\n\nI documenti di confronto devono avere provenienza attendibile e caratteristiche utili rispetto al quesito. Non basta raccogliere molte firme se si discute dell'intero testo; analogamente, scritture molto lontane nel tempo possono richiedere cautela. La scelta deve essere motivata dal tecnico.\n\nÈ utile indicare data, contesto e ragione per cui la scrittura sia attribuita al testatore. Se l'attribuzione è controversa, non va presentata come certa. La qualità del confronto dipende anche dalla solidità dei documenti assunti come riferimento, non soltanto dalla competenza di chi li esamina.\n\n## Formulare un quesito tecnico circoscritto\n\nLa consulenza dovrebbe chiarire caratteristiche osservate, metodo e limiti. Una conclusione sull'autografia non risolve automaticamente capacità del testatore, interpretazione delle disposizioni o validità di ogni aspetto dell'atto. Sono questioni da tenere separate.\n\nIl legale deve individuare il rimedio e gli oneri probatori pertinenti alla contestazione testamentaria. Non è corretto trasferire meccanicamente al testamento tutte le regole utilizzate per una comune scrittura privata. Il [Codice civile — art. 2697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697) fornisce il quadro generale dell'onere della prova, da applicare alla domanda effettivamente proposta.\n\n## Garantire un confronto controllabile\n\nIn giudizio, accesso ai documenti e attività tecniche devono rispettare il contraddittorio e i provvedimenti adottati. Un parere privato può essere utile per decidere se procedere, ma non sostituisce l'accertamento processuale. Le osservazioni dovrebbero identificare dati e passaggi, evitando giudizi personali sul consulente avversario.\n\nPrima di avviare una contestazione, il fascicolo dovrebbe contenere documento, comparazioni, storia della conservazione e quesiti. Se manca l'originale o la provenienza è incerta, il limite deve essere dichiarato. Un dubbio comprensibile sulla grafia merita verifica, ma non può essere trasformato in una certezza soltanto attraverso il confronto visivo di poche immagini.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [impugnazione del testamento](https://avvocatodelmonte.com/impugnazione-testamento). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una foto permette sempre una conclusione definitiva?",
+        "answer": "No. Il consulente deve dichiararne i limiti e valutare se sia necessario l’esame dell’originale."
+      },
+      {
+        "question": "Posso evidenziare direttamente i tratti sospetti?",
+        "answer": "È preferibile lasciare intatto l’originale e utilizzare copie separate per le annotazioni di lavoro."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art602",
+        "title": "Codice civile — art. 602",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 602. (Testamento olografo). Il testamento olografo deve essere scritto per intero, datato e sottoscritto di mano del testatore. La sottoscrizione deve essere posta alla fine delle disposizioni. Se anche non è fatta indicando nome e cognome, è tuttavia valida quando designa con certezza la persona del testatore. La data deve contenere l'indicazione del giorno, mese e anno. La prova della non verità della data è ammessa soltanto quando si tratta di giudicare della capacità del testatore, della priorità di data tra più testamenti o di altra questione da decidersi […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art606",
+        "title": "Codice civile — art. 606",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 606. (Nullità del testamento per difetto di forma). Il testamento è nullo quando manca l'autografia o la sottoscrizione nel caso di testamento olografo, ovvero manca la redazione per iscritto, da parte del notaio, delle dichiarazioni del testatore o la sottoscrizione dell'uno o dell'altro, nel caso di testamento per atto di notaio. Per ogni altro difetto di forma il testamento può essere annullato su istanza di chiunque vi ha interesse. L'azione di annullamento si prescrive nel termine di cinque anni dal giorno in cui è stata data esecuzione alle disposizioni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697",
+        "title": "Codice civile — art. 2697",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2697. (Onere della prova). Chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Foglio manoscritto antico con segni volutamente non leggibili sotto una lente da esame, guanti da archivio accanto e luce radente. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Foglio manoscritto antico con segni volutamente non leggibili sotto una lente da esame, guanti da archivio accanto e luce radente",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-091.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "b7276713b342e3fad309a4cda6d5e9b3950b55dcea5be1bffd595003ba653b59",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 585,
+    "contentHash": "dc4abf5820890956b9654cfe0c7a9c5e673332df9b824fff0a3413b9aa600d7a",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-07",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "bc0a3694946afca9386dd5f2068966b6a92c37078ccb5e08958d395cf83063bd",
+    "sha256": "549df9efb57a49a54340b73047aaadb0934f3bbe61367d7f74fa32b5a8a69951"
+  }
+}

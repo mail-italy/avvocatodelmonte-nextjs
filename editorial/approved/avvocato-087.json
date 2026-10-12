@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-087",
+    "site": "avvocato",
+    "sequence": 87,
+    "area": "Successioni complesse",
+    "slug": "ctu-nella-divisione-ereditaria-verificare-il-progetto-e-le-stime",
+    "title": "CTU nella divisione ereditaria: verificare il progetto e le stime",
+    "intent": "Leggere la consulenza nel processo divisorio senza duplicare le guide generali",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/successioni-complesse"
+    ],
+    "scheduledOffsetDays": 172,
+    "status": "approved",
+    "seoTitle": "CTU nella divisione ereditaria: verificare il progetto e le stime",
+    "description": "Come leggere stime e proposte tecniche nella divisione ereditaria giudiziale e formulare osservazioni utili sul progetto.",
+    "bodyMarkdown": "Nella divisione ereditaria giudiziale, la consulenza tecnica può aiutare a stimare beni e verificare ipotesi di formazione dei lotti. Non decide da sola chi abbia diritto a una quota né risolve tutte le questioni sui titoli. Per leggerla occorre distinguere dati tecnici, presupposti giuridici e scelte del giudizio.\n\n## Partire dall'oggetto della divisione\n\nSi confrontano domande, beni indicati e documenti sui diritti. Il consulente lavora entro un incarico: una stima accurata può essere poco utile se riguarda un bene o una quota controversi senza chiarirne il presupposto. Il legale deve verificare che le questioni giuridiche rimangano riconoscibili.\n\nIl [Codice di procedura civile — art. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art784) disciplina la partecipazione necessaria al giudizio di divisione. L'individuazione delle parti non è un dettaglio amministrativo: va controllata insieme ai titoli e alle eventuali posizioni che incidono sul procedimento. La CTU non sostituisce questa verifica.\n\n## Controllare il metodo di stima\n\nLa relazione dovrebbe indicare caratteristiche del bene, data della valutazione, fonti e criteri. Per un immobile possono rilevare stato, uso, vincoli e condizioni documentate. Un confronto con annunci generici non basta a spiegare ogni differenza di valore.\n\nSe si contesta la stima, occorre indicare un dato concreto: superficie, stato manutentivo, elemento non considerato o confronto non pertinente. Una valutazione alternativa deve utilizzare presupposti riconoscibili, non soltanto proporre un importo più favorevole al proprio lotto.\n\n## Esaminare la formazione dei lotti\n\nUn progetto può apparire equilibrato nei totali ma presentare differenze pratiche di utilizzo o costi. Accessi, servizi, indivisibilità materiale e necessità di interventi devono essere affrontati tecnicamente quando pertinenti. Le preferenze personali dei condividenti vanno distinte dalle condizioni oggettive dei beni.\n\nSe sono previsti conguagli, occorre comprendere il criterio e il rapporto con le quote assunte come base. Il consulente non dovrebbe essere chiamato a risolvere implicitamente una controversia giuridica attraverso un calcolo. Ogni presupposto contestato deve essere segnalato nel modo processualmente corretto.\n\n## Formulare osservazioni mirate\n\nIl [Codice di procedura civile — art. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195) disciplina il confronto sulla relazione tecnica nei termini fissati dal giudice. Le osservazioni dovrebbero collegare pagina, dato, documento e conseguenza. È utile distinguere errori materiali, divergenze di metodo e questioni che richiedono una decisione giuridica.\n\nUn elenco di preferenze non equivale a una critica tecnica. Se un lotto è ritenuto meno utilizzabile, si spiega perché e quali elementi lo dimostrino. I nuovi documenti e le questioni processuali devono essere valutati dal difensore, senza presumere che ogni allegato a una nota tecnica sia automaticamente ammissibile.\n\n## Leggere il progetto nel procedimento\n\nIl [Codice di procedura civile — art. 789](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art789) disciplina progetto di divisione e contestazioni. La relazione del consulente e il progetto sottoposto alla discussione non vanno confusi senza esaminare gli atti. Il momento e la forma dei rilievi devono essere verificati nel fascicolo concreto.\n\nPrima di aderire a una soluzione è opportuno confrontare valori, praticabilità e adempimenti successivi. Un accordo può valorizzare esigenze che una divisione imposta non soddisfa nello stesso modo, ma richiede precisione su beni e obblighi. La qualità del controllo tecnico permette di trattare su dati comprensibili, mantenendo distinti il valore dei beni e il diritto di ciascun condividente.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [successioni complesse](https://avvocatodelmonte.com/successioni-complesse). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Il CTU decide le quote ereditarie?",
+        "answer": "Il suo incarico tecnico non sostituisce la decisione sulle questioni giuridiche. Occorre leggere quesiti e provvedimenti del giudizio."
+      },
+      {
+        "question": "Per contestare una stima basta presentare un prezzo diverso?",
+        "answer": "No. È utile spiegare metodo, dati e ragioni della differenza, collegandoli al bene effettivamente valutato."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art784",
+        "title": "Codice di procedura civile — art. 784",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 784. (Litisconsorzio necessario). Le domande di divisione ereditaria o di scioglimento di qualsiasi altra comunione debbono proporsi in confronto di tutti gli eredi o condomini e dei creditori opponenti se vi sono."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art195",
+        "title": "Codice di procedura civile — art. 195",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 195. (Processo verbale e relazione). Delle indagini del consulente si forma processo verbale, quando sono compiute con l'intervento del giudice istruttore, ma questi può anche disporre che il consulente rediga relazione scritta. Se le indagini sono compiute senza l'intervento del giudice, il consulente deve farne relazione, nella quale inserisce anche le osservazioni e le istanze delle parti. La relazione deve essere trasmessa dal consulente alle parti costituite nel termine stabilito dal giudice con ordinanza resa all'udienza di cui all'articolo 193. Con la medesima ordinanza il giudice fissa il termine […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art789",
+        "title": "Codice di procedura civile — art. 789",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 789. (Progetto di divisione e contestazioni su di esso). Il giudice istruttore predispone un progetto di divisione ... e fissa con decreto l'udienza di discussione del progetto, ordinando la comparizione dei condividenti e dei creditori intervenuti. 178 Il decreto è comunicato alle parti. Se non sorgono contestazioni, il giudice istruttore, con ordinanza non impugnabile, dichiara esecutivo il progetto, altrimenti provvede a norma dell'articolo 187. In ogni caso il giudice istruttore dà con ordinanza le disposizioni necessarie per l'estrazione a sorte dei lotti. ---------------"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Modelli di piccoli edifici neutrali e planimetrie anonime distribuiti su un tavolo, con strumenti di misurazione e luce naturale. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Modelli di piccoli edifici neutrali e planimetrie anonime distribuiti su un tavolo, con strumenti di misurazione e luce naturale",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-087.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "af9726274336284987ed4aa75ff1eeb20c661167317c9ec1b3d9b6e187880340",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 586,
+    "contentHash": "8e143c8e552de27b73b72eaa706650de41a1a3b72f03b2445e2a3be87c5902ae",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-05",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "083c149849514630d3ad779421e6030bc882e39d3e7a20003b3d78ec0b89037c",
+    "sha256": "d88d6d61f6f38096f2448df69389dcd4158fa4fa1069f468ab7c5f1f1444ce5d"
+  }
+}

@@ -1,5 +1,7 @@
 'use client';
 
+import { articleAttribution } from '@/lib/article-tracking.mjs';
+
 import { useRef, useState } from 'react';
 import { siteConfig } from '@/lib/site';
 import { MAX_FILE_SIZE, FIELD_LIMITS, CONTACT_AREAS } from '@/lib/contact-config.mjs';
@@ -77,6 +79,7 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
     }
 
     const data = new FormData(currentForm);
+    const articleContext = articleAttribution.getEventContext();
 
     try {
       const response = await fetch('/api/contact', {
@@ -102,14 +105,18 @@ export default function ContactForm({ compact = false, trackingLocation = 'conta
         window.dataLayer.push({
           event: 'form_submit',
           form_name: 'contact_form',
-          form_location: trackingLocation
+          form_location: trackingLocation,
+          ...articleContext
         });
         window.dataLayer.push({
           event: 'generate_lead',
           lead_channel: 'contact_form',
-          form_location: trackingLocation
+          form_location: trackingLocation,
+          ...articleContext
         });
       }
+      articleAttribution.clear();
+      articleAttribution.rewriteWhatsAppLinks();
       setForm(initialState);
       setFileName('');
 

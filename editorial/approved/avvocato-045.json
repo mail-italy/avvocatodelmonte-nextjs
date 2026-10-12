@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-045",
+    "site": "avvocato",
+    "sequence": 45,
+    "area": "Responsabilità medica",
+    "slug": "farmaci-e-somministrazioni-contestate-il-fascicolo-della-terapia",
+    "title": "Farmaci e somministrazioni contestate: il fascicolo della terapia",
+    "intent": "Ricostruire prescrizione, somministrazione e conseguenze",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 88,
+    "status": "approved",
+    "seoTitle": "Farmaci e somministrazioni contestate: il fascicolo della terapia",
+    "description": "Terapia contestata e responsabilità sanitaria: ricostruire prescrizione, somministrazione, controlli e conseguenze attraverso i documenti.",
+    "bodyMarkdown": "Dopo una terapia il paziente manifesta un problema e sospetta un errore nella somministrazione. Per valutare il caso bisogna distinguere ciò che era prescritto, ciò che risulta somministrato e il decorso successivo. La sola successione temporale non dimostra che il farmaco o la modalità di uso abbiano causato il danno lamentato.\n\n## Ricostruire il percorso della terapia\n\nIl fascicolo può comprendere prescrizioni, schede di terapia, annotazioni infermieristiche, referti e lettere di dimissione. È importante mantenere date e orari nella forma originale, segnalando discrepanze senza correggerle. Il consulente potrà valutare se rappresentino un problema reale, un dato incompleto o un aspetto da chiarire.\n\nQuando la terapia prosegue a domicilio, si conservano anche indicazioni ricevute e documenti dei controlli. Il paziente non deve modificare o interrompere autonomamente il trattamento per raccogliere prove: le decisioni cliniche vanno affrontate con i curanti. Il lavoro legale riguarda la ricostruzione, non la gestione della cura.\n\n## Prescrizione e somministrazione non sono lo stesso documento\n\nUn ordine terapeutico descrive ciò che è stato disposto; una registrazione di somministrazione riguarda l'attività eseguita. Per capire il caso può essere necessario confrontarli, insieme alle informazioni disponibili ai sanitari. Non basta un elenco di medicinali ricavato da memoria o da una confezione rimasta in casa.\n\nSe compaiono sigle o abbreviazioni non comprensibili, si chiedono chiarimenti al professionista competente. Espanderle arbitrariamente rischia di alterare la cronologia. Il paziente può annotare il dubbio e indicare la pagina, lasciando il documento integro.\n\n## Il ruolo delle condizioni precedenti\n\nAllergie riferite, terapie già in corso e condizioni note possono essere rilevanti, ma devono essere documentate e collocate nel tempo. Occorre distinguere ciò che il paziente conosceva da ciò che era stato comunicato o registrato nel percorso sanitario. La valutazione non può basarsi su una ricostruzione retrospettiva priva di riscontri.\n\nLa [Legge 24/2017 — art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5) richiama raccomandazioni e buone pratiche nel rispetto delle specificità del caso. L'analisi tecnica deve quindi considerare il contesto, evitando di applicare una regola generale senza verificare se fosse pertinente alla situazione concreta.\n\n## Dalla reazione avversa alla responsabilità\n\nUn evento avverso e un errore professionale sono concetti da tenere distinti. Il consulente esamina la condotta e le alternative spiegazioni del danno; il legale ne valuta l'inquadramento nel sistema della [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7). La richiesta risarcitoria deve collegare il comportamento contestato alle conseguenze effettive.\n\nSi possono individuare domande specifiche: quale passaggio si ritiene errato, quale documento lo descrive e quale cambiamento clinico ne sarebbe derivato. La risposta richiede competenza specialistica. Non è corretto dedurre colpa o causalità soltanto da informazioni generiche reperite nel foglietto illustrativo o online.\n\n## Preparare la raccolta documentale\n\nLa [Legge 24/2017 — art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4) offre il riferimento per la documentazione sanitaria. Nella richiesta alla struttura conviene individuare periodo e materiali pertinenti; se alcune schede mancano, si conserva la risposta e si segnala il punto al difensore. L'assenza non va automaticamente interpretata come conferma dell'errore.\n\nIl primo esame dovrebbe chiarire la cronologia, le lacune e l'approfondimento necessario. Il paziente può così comprendere se il sospetto abbia una base da verificare e quali documenti siano realmente utili. Un percorso ordinato evita sia accuse premature sia la perdita di elementi importanti per ricostruire la vicenda.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Un effetto indesiderato dimostra un errore medico?",
+        "answer": "No. Occorre distinguere evento avverso, condotta, causalità e danno attraverso una valutazione specialistica."
+      },
+      {
+        "question": "Posso cambiare terapia mentre raccolgo i documenti?",
+        "answer": "Le decisioni sulla cura vanno concordate con i sanitari. La raccolta del fascicolo legale non sostituisce le indicazioni cliniche."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art5",
+        "title": "Legge 24/2017 — art. 5",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 5 Buone pratiche clinico-assistenziali e raccomandazioni previste dalle linee guida 1. Gli esercenti le professioni sanitarie, nell'esecuzione delle prestazioni sanitarie con finalità preventive, diagnostiche, terapeutiche, palliative, riabilitative e di medicina legale, si attengono, salve le specificità del caso concreto, alle raccomandazioni previste dalle linee guida pubblicate ai sensi del comma 3 ed elaborate da enti e istituzioni pubblici e privati nonché dalle società scientifiche e dalle associazioni tecnico-scientifiche delle professioni sanitarie iscritte in apposito elenco istituito e regolamentato con decreto del Ministro della salute, da emanare entro novanta giorni […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art4",
+        "title": "Legge 24/2017 — art. 4",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 4 Trasparenza dei dati 1. Le prestazioni sanitarie erogate dalle strutture pubbliche e private sono soggette all'obbligo di trasparenza, nel rispetto del codice in materia di protezione dei dati personali , di cui al decreto legislativo 30 giugno 2003, n. 196 . 2. La direzione sanitaria della struttura pubblica o privata, entro sette giorni dalla presentazione della richiesta da parte degli interessati aventi diritto, in conformità alla disciplina sull'accesso ai documenti amministrativi e a quanto previsto dal codice in materia di protezione dei dati personali , di cui al […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Confezioni farmaceutiche neutre senza marchi o scritte leggibili accanto a schede terapeutiche astratte e una penna, ambiente sobrio e non pubblicitario. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Confezioni farmaceutiche neutre senza marchi o scritte leggibili accanto a schede terapeutiche astratte e una penna, ambiente sobrio e non pubblicitario",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-045.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "e27a9a789ec50838a82bef568d4d0b52f3d4c23e8137527af747dc2c34f8e69c",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 605,
+    "contentHash": "758016b0818a90ca4af6a4883d396ec5b5af61b409bac2373b11c70ea6683acd",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-11-25",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "4528eef29b1d48b5e5a149c8c20686bd34da772c3ff70223d74789ab16c80eda",
+    "sha256": "940d6bd0ce1086d128310e790c407e463eedb174f515e033f6f27604c294ebfd"
+  }
+}

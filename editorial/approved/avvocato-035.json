@@ -1,0 +1,67 @@
+{
+  "article": {
+    "id": "avvocato-035",
+    "site": "avvocato",
+    "sequence": 35,
+    "area": "Cassazione penale",
+    "slug": "misure-cautelari-e-cassazione-separare-il-procedimento-incidentale",
+    "title": "Misure cautelari e Cassazione: separare il procedimento incidentale",
+    "intent": "Identificare ordinanze, impugnazioni e limiti della censura",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-penale"
+    ],
+    "scheduledOffsetDays": 68,
+    "status": "approved",
+    "seoTitle": "Misure cautelari e Cassazione: separare il procedimento incidentale",
+    "description": "Ricorso in materia cautelare penale: identificare ordinanza, riesame o appello e distinguere il procedimento incidentale dal giudizio principale.",
+    "bodyMarkdown": "Durante un procedimento penale viene applicata una misura cautelare. Il cliente chiede di “fare ricorso in Cassazione”, ma prima occorre capire quale provvedimento sia stato emesso e quali impugnazioni siano già state proposte. Il percorso cautelare ha una propria struttura, distinta dalla futura impugnazione della sentenza sul merito.\n\n## Individuare la sequenza degli atti\n\nSi raccolgono ordinanza applicativa, notifiche, richieste di riesame o appello, decisioni successive e avvisi di deposito. La parola ricorso viene spesso usata nel linguaggio comune per indicare strumenti diversi. Nel fascicolo ogni atto deve essere identificato correttamente, perché da esso dipendono rimedio e termine.\n\nIl [Codice di procedura penale — art. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art311) disciplina il ricorso per Cassazione in materia cautelare personale nelle ipotesi previste. La norma distingue anche percorsi diversi e relativi limiti. Non è quindi appropriato applicare automaticamente le regole di un ricorso contro una sentenza definitiva a un'ordinanza cautelare.\n\n## La decisione cautelare non coincide con la sentenza finale\n\nLa misura viene esaminata all'interno del quadro proprio di quella fase. Il cliente deve comprendere che il risultato dell'impugnazione cautelare non rappresenta, da solo, una decisione definitiva sulla responsabilità penale. Allo stesso modo, una questione del giudizio principale può non essere trattabile attraverso quel procedimento incidentale.\n\nIl difensore individua i presupposti contestati e il vizio deducibile. La critica deve confrontarsi con le ragioni dell'ordinanza, non soltanto esporre una versione alternativa dell'intera vicenda. Le informazioni personali e documentali vanno collegate al punto specifico che si chiede di riesaminare.\n\n## Il tempo è parte del fascicolo\n\nLe impugnazioni cautelari richiedono una gestione tempestiva. Data della notifica, deposito e comunicazioni devono essere trasmessi subito, anche se mancano altri documenti. Non è prudente calcolare un termine sulla base di una conversazione o del giorno in cui un familiare riceve una copia informale.\n\nUna cronologia condivisa deve distinguere la data del provvedimento dalla sua conoscenza nelle forme rilevanti. Il professionista verifica la disciplina applicabile e la situazione concreta. Il cliente aiuta mantenendo integri messaggi, avvisi e documenti, senza riordinarli in modo da perdere le informazioni originarie.\n\n## Fatti sopravvenuti e rimedi diversi\n\nUn cambiamento successivo può essere importante, ma la sua rilevanza processuale va valutata. Il ricorso per Cassazione non è necessariamente lo strumento adatto a introdurre ogni fatto nuovo. Il difensore deve distinguere il controllo della decisione impugnata dalle eventuali iniziative legate a una situazione mutata.\n\nSi può preparare una nota separata con data del cambiamento, documento che lo dimostra e conseguenza pratica. Questo evita di mescolare la ricostruzione dell'ordinanza con fatti che il giudice non aveva davanti. La scelta del percorso corretto dipende proprio da tale distinzione.\n\n## Comunicare in modo ordinato\n\nQuando più familiari raccolgono documenti, è utile concordare un referente e un indice, riducendo invii duplicati e versioni contrastanti. Nessuno dovrebbe contattare autonomamente soggetti coinvolti per orientarne il racconto o modificare elementi del fascicolo. Le attività da svolgere vanno definite con il difensore.\n\nL'esito della prima valutazione dovrebbe chiarire quale decisione si contesta, quale rimedio sia disponibile, quali motivi siano deducibili e quali documenti siano urgenti. Una spiegazione precisa aiuta a gestire una fase delicata senza confonderla con l'intero processo e senza attribuire all'impugnazione effetti che devono ancora essere verificati.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "La Cassazione cautelare decide definitivamente se sono colpevole?",
+        "answer": "No. Il procedimento riguarda il provvedimento cautelare nel suo specifico quadro, distinto dal giudizio finale sul merito."
+      },
+      {
+        "question": "Un fatto nuovo va sempre inserito nel ricorso?",
+        "answer": "La sua collocazione va valutata dal difensore: può richiedere un’iniziativa diversa dal controllo del provvedimento già emesso."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art311",
+        "title": "Codice di procedura penale — art. 311",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 311 Ricorso per cassazione 1. Contro le decisioni emesse a norma degli articoli 309 e 310, il pubblico ministero che ha richiesto l'applicazione della misura, l'imputato e il suo difensore possono proporre ricorso per cassazione entro dieci giorni dalla comunicazione o dalla notificazione dell'avviso di deposito del provvedimento. Il ricorso può essere proposto anche dal pubblico ministero presso il tribunale indicato nel comma 7 dell'articolo 309. 2. Entro i termini previsti dall'articolo 309 commi 1, 2 e 3, l'imputato e il suo difensore possono proporre direttamente ricorso per cassazione […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una cartella processuale essenziale accanto a un orologio e a un calendario senza scritte, luce calma e nessuna immagine di manette o sbarre. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una cartella processuale essenziale accanto a un orologio e a un calendario senza scritte, luce calma e nessuna immagine di manette o sbarre",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-035.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "9bd20ca88beceece0e73df34e1569fa1c5be9017649197def696ac8fa0336092",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 609,
+    "contentHash": "66e3532827689790f62fab94500bbd4479fac5b27267f1314b51977a6199a388",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-17",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "e2f86f65c5202b59ffc50fa131daeaebeee1befcdd385894342622d85210cbb7",
+    "sha256": "0c4bd7e042bd287c536aa0c105f34d361e474703b85e7db3d842202ae1e41900"
+  }
+}

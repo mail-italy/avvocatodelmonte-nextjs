@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-017",
+    "site": "avvocato",
+    "sequence": 17,
+    "area": "Cassazione civile",
+    "slug": "rinunciare-al-ricorso-per-cassazione-dopo-un-accordo",
+    "title": "Rinunciare al ricorso per Cassazione dopo un accordo",
+    "intent": "Coordinare transazione e chiusura del giudizio di legittimità",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 32,
+    "status": "approved",
+    "seoTitle": "Rinunciare al ricorso per Cassazione dopo un accordo",
+    "description": "Accordo durante il ricorso civile per Cassazione: come coordinare pagamento, rinuncia, adesione delle parti e spese del giudizio.",
+    "bodyMarkdown": "Le parti raggiungono un accordo mentre il ricorso è pendente. Firmare la transazione non significa necessariamente che il procedimento si chiuda da solo. Occorre coordinare gli impegni sostanziali con gli atti processuali, stabilendo chi debba fare che cosa e in quale sequenza.\n\n## Separare accordo e chiusura processuale\n\nLa transazione è regolata dal [Codice civile — art. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965): le reciproche concessioni possono definire una lite o prevenirla. Il contenuto patrimoniale dell'accordo va però raccordato con il giudizio in corso. Pagamento, rinuncia a una pretesa e rinuncia al ricorso sono operazioni che devono essere descritte con precisione.\n\nIl [Codice di procedura civile — art. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art390) disciplina la rinuncia al ricorso principale o incidentale, compresi requisiti e momento processuale. Il difensore deve verificare lo stato del procedimento e predisporre l'atto necessario. Una frase generica nel contratto, come “la causa si intende chiusa”, non sostituisce questa analisi.\n\n## Stabilire la sequenza degli adempimenti\n\nSi decide se il pagamento debba precedere la rinuncia, se vi siano condizioni, garanzie o obblighi contestuali. La soluzione dipende dalla controversia e dal rischio delle parti. Rinunciare senza avere chiarito l'esecuzione dell'accordo può produrre problemi diversi da quelli che si volevano risolvere.\n\nÈ utile una tabella con impegno, soggetto responsabile, documento di prova e scadenza concordata. La tabella non deve introdurre termini inventati o lasciare ambiguità su eventi come “ricevimento” o “incasso”. Ogni passaggio va reso verificabile attraverso gli strumenti appropriati al caso.\n\n## Non dimenticare ricorsi e parti ulteriori\n\nSe esiste un ricorso incidentale, va valutato separatamente. Lo stesso vale per altri soggetti presenti nel giudizio o per controversie collegate che l'accordo intende comprendere. Un'intesa fra due parti non chiude automaticamente tutte le posizioni di chi non l'ha sottoscritta.\n\nPrima della firma si confrontano il testo dell'accordo, l'elenco delle parti processuali e i capi della sentenza. Questo controllo serve a evitare che rimanga pendente una domanda non considerata o che una liberatoria venga formulata in modo più ampio rispetto alla volontà effettiva del cliente.\n\n## Regolare le spese in modo espresso\n\nIl [Codice di procedura civile — art. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art391) disciplina la pronuncia sulla rinuncia e contempla conseguenze sulle spese. Il tema va affrontato nel negoziato, indicando che cosa accada alle spese già liquidate, a quelle del giudizio pendente e ai rapporti con i rispettivi professionisti. Non si deve presumere che tutto sia compensato soltanto perché è stato raggiunto un accordo economico.\n\nIl testo deve anche chiarire se una somma comprenda specifiche voci o se alcuni importi restino dovuti separatamente. La stessa cifra finale può avere significati diversi se non è accompagnata dalla descrizione delle pretese che estingue e degli obblighi che rimangono.\n\n## Verificare la chiusura effettiva\n\nDopo gli adempimenti si conservano accordo firmato, prove dei pagamenti, atti processuali depositati e provvedimento conclusivo. Una email che annuncia l'avvenuto deposito non equivale al controllo dell'esito del procedimento. Il difensore deve verificare che quanto deciso sia coerente con gli atti compiuti.\n\nPer il cliente il risultato dovrebbe essere un fascicolo finale chiaro: quali pretese sono state definite, quali obblighi sono stati eseguiti, quali eventualmente restano da adempiere e quale sia lo stato della causa. Questo evita che un accordo pensato per ridurre il conflitto ne produca uno nuovo sull'interpretazione della chiusura.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Firmare la transazione estingue automaticamente il ricorso?",
+        "answer": "Occorre verificare e compiere gli atti processuali appropriati, coordinandoli con gli impegni dell’accordo."
+      },
+      {
+        "question": "Le spese si intendono sempre cancellate?",
+        "answer": "No. È opportuno disciplinarle espressamente, distinguendo spese liquidate, giudizio pendente e rapporti professionali."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965",
+        "title": "Codice civile — art. 1965",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1965. (Nozione). La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art390",
+        "title": "Codice di procedura civile — art. 390",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 390. (Rinuncia). La parte può rinunciare al ricorso principale o incidentale finchè non sia cominciata la relazione alla udienza, o sino alla data dell'adunanza camerale. (140) (152) (171) 173 La rinuncia deve farsi con atto sottoscritto dalla parte e dal suo avvocato o anche da questo solo se è munito di mandato speciale a tale effetto. Del deposito dell'atto di rinuncia è data comunicazione alle parti costituite a cura della cancelleria. (171) 173 ------------"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art391",
+        "title": "Codice di procedura civile — art. 391",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 391. (Pronuncia sulla rinuncia). Sulla rinuncia e nei casi di estinzione del processo disposta per legge la Corte provvede con ordinanza in camera di consiglio, salvo che debba decidere altri ricorsi contro lo stesso provvedimento fissati per la pubblica udienza. Provvede il presidente, con decreto, se non è stata ancora fissata la data della decisione . 152 Il decreto , l'ordinanza o la sentenza che dichiara l'estinzione può condannare la parte che vi ha dato causa alle spese. 152 Il decreto ha efficacia di titolo esecutivo se nessuna delle […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due mani anonime posano penne ai lati di un accordo senza testo leggibile, un fascicolo chiuso e un calendario neutro sullo sfondo. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due mani anonime posano penne ai lati di un accordo senza testo leggibile, un fascicolo chiuso e un calendario neutro sullo sfondo",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-017.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "00a9b52e70c8ffdf15eefb470bc247f0a245baaffec9d4936918c8894e2a948f",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: immagine concettuale coerente, senza persone identificabili, marchi o dati personali leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 606,
+    "contentHash": "23505e3c66cf34c5fe939794d2b52c79dfc8e269365c30f71f9cd1f9b88edde5",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-02-21",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "a937e8ee3a7af2c2a78ac99f1caa36a8eb88f30e3ea751df6ea767bd6d1ad4de",
+    "sha256": "aca61884eaeedc2e1254f603f26e2076e4351522c859097d921af89ffa64c8cc"
+  }
+}

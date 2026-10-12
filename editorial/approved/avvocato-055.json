@@ -1,0 +1,79 @@
+{
+  "article": {
+    "id": "avvocato-055",
+    "site": "avvocato",
+    "sequence": 55,
+    "area": "Responsabilità medica",
+    "slug": "malattia-preesistente-e-danno-sanitario-distinguere-le-conseguenze",
+    "title": "Malattia preesistente e danno sanitario: distinguere le conseguenze",
+    "intent": "Ricostruire stato anteriore ed eventuale aggravamento attribuibile",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/responsabilita-medica"
+    ],
+    "scheduledOffsetDays": 108,
+    "status": "approved",
+    "seoTitle": "Malattia preesistente e danno sanitario: distinguere le conseguenze",
+    "description": "Come ricostruire condizioni precedenti e peggioramento quando si valuta un possibile danno da assistenza sanitaria.",
+    "bodyMarkdown": "La presenza di una malattia precedente non esclude, da sola, un danno risarcibile da assistenza sanitaria. Allo stesso tempo, non ogni peggioramento successivo può essere attribuito alle cure. La valutazione deve distinguere ciò che dipende dalla condizione di base dalle conseguenze collegate alla condotta contestata.\n\n## Descrivere la situazione prima dell'episodio\n\nIl fascicolo dovrebbe contenere dati clinici e informazioni sulla vita concreta del paziente prima dell'evento. Diagnosi, terapie e limitazioni sono importanti, ma non raccontano sempre il livello di autonomia effettivo. Una persona con patologie croniche poteva continuare a lavorare, guidare o gestire la casa.\n\nQueste attività vanno descritte con esempi verificabili, senza idealizzare il passato. Documenti sanitari precedenti, prescrizioni di ausili e testimonianze pertinenti possono aiutare. L'assenza di una cartella recente non equivale alla prova di perfetta salute, come una diagnosi non dimostra automaticamente un'incapacità totale.\n\n## Ricostruire il cambiamento osservato\n\nSi individuano le funzioni che risultano peggiorate, il momento in cui il cambiamento è emerso e la sua evoluzione. Le visite successive devono essere lette insieme ai dati precedenti. Se il paziente aveva già bisogno di assistenza, occorre chiarire quali attività aggiuntive siano diventate necessarie.\n\nUn diario può registrare trasferimenti, igiene personale, pasti e uscite, evitando valutazioni mediche autonome. Il confronto utile riguarda bisogni concreti: per esempio, l'aiuto prima occasionale diventato quotidiano. La documentazione delle spese deve seguire lo stesso criterio, distinguendo costi preesistenti e incrementi successivi.\n\n## Valutare il decorso atteso della malattia\n\nIl consulente deve considerare come la patologia avrebbe potuto evolvere anche in assenza della condotta contestata. È un confronto tecnico che richiede prudenza: non basta attribuire ogni problema alla fragilità del paziente né presumere che la situazione sarebbe rimasta invariata.\n\nLa responsabilità sanitaria trova il suo quadro nella [Legge 24/2017 — art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7); il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) richiama il collegamento con le conseguenze risarcibili. Il parere dovrebbe spiegare quali dati permettano di distinguere evoluzione naturale, complicanza ed eventuale aggravamento attribuibile alla vicenda esaminata.\n\n## Non ridurre il problema a una sottrazione\n\nIl confronto tra condizioni precedenti e successive non coincide necessariamente con una semplice differenza tra percentuali. Le menomazioni possono interagire tra loro, incidere su funzioni diverse o amplificare bisogni già presenti. Il metodo utilizzato deve essere dichiarato e motivato rispetto al caso.\n\nÈ quindi utile chiedere che la relazione descriva prima le conseguenze e soltanto dopo la loro valutazione. Una cifra isolata nasconde le ipotesi su cui si fonda. Il [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056) rinvia a criteri civilistici per la valutazione del danno da fatto illecito, ma l'applicazione concreta richiede una lettura tecnica e giuridica coordinata.\n\n## Preparare una richiesta trasparente\n\nLa richiesta risarcitoria deve rappresentare anche le condizioni pregresse sfavorevoli. Ometterle può produrre contestazioni e rendere meno attendibile la ricostruzione. È preferibile spiegare perché, nonostante quelle condizioni, uno specifico peggioramento sarebbe collegato ai fatti contestati.\n\nSe la situazione è ancora in evoluzione, il fascicolo va aggiornato e le conclusioni devono dichiarare la loro eventuale provvisorietà. Distinguere ciò che è già documentato da ciò che richiede osservazione permette di discutere una proposta risarcitoria senza fingere che ogni conseguenza futura sia definita. Il punto centrale rimane la qualità del confronto tra prima, dopo e decorso plausibile.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [responsabilità medica](https://avvocatodelmonte.com/responsabilita-medica). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Una patologia precedente impedisce il risarcimento?",
+        "answer": "Non automaticamente. Occorre valutare se la condotta contestata abbia prodotto conseguenze ulteriori e come siano dimostrabili."
+      },
+      {
+        "question": "Devo consegnare anche i referti precedenti sfavorevoli?",
+        "answer": "Sì. Una valutazione attendibile richiede la storia pertinente completa, comprese le condizioni anteriori all’episodio."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-03-08;24~art7",
+        "title": "Legge 24/2017 — art. 7",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 7 Responsabilità civile della struttura e dell'esercente la professione sanitaria 1. La struttura sanitaria o sociosanitaria pubblica o privata che, nell'adempimento della propria obbligazione, si avvalga dell'opera di esercenti la professione sanitaria, anche se scelti dal paziente e ancorché non dipendenti della struttura stessa, risponde, ai sensi degli articoli 1218 e 1228 del codice civile , delle loro condotte dolose o colpose. 2. La disposizione di cui al comma 1 si applica anche alle prestazioni sanitarie svolte in regime di libera professione intramuraria ovvero nell'ambito di attività di sperimentazione […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+        "title": "Codice civile — art. 2056",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Due ausili per la mobilità accanto a una poltrona in un interno domestico sobrio, con un fascicolo sanitario chiuso su un tavolino. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Due ausili per la mobilità accanto a una poltrona in un interno domestico sobrio, con un fascicolo sanitario chiuso su un tavolino",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-055.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "c85b8fcabcb3063153021eaedccad5438a68a0d9df6d925222cc7af7bbdf4ac1",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 599,
+    "contentHash": "67264962678b76b87cf16f3a7e47451341b4a843210d60f57ddf2f7660ad5053",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-03-05",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "daa18ac684db5c965336820e0c60d3d65fd428060b0822845727c6a9d9d6ab05",
+    "sha256": "ebded677514e16b06aefd31592ba0d49f9bfc1b37633c0248c04e35160bdd943"
+  }
+}

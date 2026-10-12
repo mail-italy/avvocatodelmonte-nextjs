@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-090",
+    "site": "avvocato",
+    "sequence": 90,
+    "area": "Successioni complesse",
+    "slug": "accordo-tra-coeredi-durante-il-giudizio-coordinare-beni-e-atti-processuali",
+    "title": "Accordo tra coeredi durante il giudizio: coordinare beni e atti processuali",
+    "intent": "Controllare effetto patrimoniale e chiusura della controversia",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/successioni-complesse"
+    ],
+    "scheduledOffsetDays": 178,
+    "status": "approved",
+    "seoTitle": "Accordo tra coeredi durante il giudizio: coordinare beni e atti processuali",
+    "description": "Come coordinare un accordo tra coeredi con trasferimenti, pagamenti e chiusura del giudizio già pendente.",
+    "bodyMarkdown": "Un accordo tra coeredi durante una causa deve regolare sia i rapporti sui beni sia gli effetti processuali. Stabilire informalmente chi terrà un immobile non basta a chiarire conguagli, spese, formalità e chiusura delle domande. La soluzione deve poter essere eseguita e compresa da tutti i soggetti interessati.\n\n## Definire il perimetro dell'intesa\n\nSi elencano beni, diritti e controversie che le parti intendono regolare. Se alcune questioni restano fuori, devono essere riconoscibili. Un accordo molto ampio può chiudere pretese non discusse in dettaglio; uno troppo vago può lasciare irrisolto il conflitto che sembrava superato.\n\nIl [Codice civile — art. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965) disciplina la transazione attraverso reciproche concessioni. La qualificazione e gli effetti dell'intesa dipendono dal contenuto concreto. Non ogni accordo familiare è sufficiente a produrre gli stessi risultati di un atto formalmente adeguato ai diritti coinvolti.\n\n## Verificare parti e poteri\n\nIl [Codice di procedura civile — art. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art784) richiama la partecipazione necessaria nel giudizio di divisione. Anche nella definizione consensuale occorre controllare quali soggetti debbano intervenire e chi possa impegnarli. La disponibilità informale di un familiare non equivale al potere di disporre dei diritti degli altri.\n\nSe sono coinvolti minori, persone rappresentate o situazioni di possibile conflitto, le verifiche devono essere specifiche. Il legale deve coordinare poteri, eventuali autorizzazioni e forma dell'atto. Non è prudente rinviare questi controlli a dopo la firma di un testo che pretende già di chiudere tutto.\n\n## Rendere eseguibili attribuzioni e conguagli\n\nPer i beni immobili servono identificazione e verifica degli adempimenti pertinenti. Il progetto economico dovrebbe indicare importi, modalità, scadenze e condizioni dei pagamenti. Se un conguaglio dipende da vendita o finanziamento, l'evento deve essere descritto chiaramente e il rischio del mancato realizzo affrontato.\n\nOccorre regolare anche consegna, disponibilità, spese correnti e documenti necessari. Una soluzione può essere equilibrata nei valori ma difficile da attuare se manca il coordinamento tra pagamento e trasferimento. Il notaio e gli altri professionisti pertinenti possono dover intervenire prima della definizione finale.\n\n## Coordinare la causa pendente\n\nLa sistemazione patrimoniale non chiude automaticamente ogni attività del processo. Il difensore deve individuare gli atti necessari e verificare il rapporto tra loro e l'esecuzione dell'accordo. Rinunciare troppo presto o lasciare una causa formalmente aperta può produrre conseguenze non desiderate.\n\nLe spese legali e tecniche devono essere disciplinate con chiarezza. La formula “ognuno paga il suo” può richiedere precisazioni su consulenze, anticipazioni e somme già liquidate. Se l'accordo riguarda soltanto parte della lite, occorre comprendere che cosa prosegua e tra quali soggetti.\n\n## Controllare la liberatoria finale\n\nLa rinuncia dovrebbe corrispondere alle questioni realmente definite. Si verifica se comprenda rendiconti, frutti, spese, attribuzioni pregresse o altre pretese. La chiarezza riduce il rischio che, dopo il trasferimento dei beni, nasca una nuova controversia sul significato della chiusura.\n\nPrima della sottoscrizione è utile una lista degli adempimenti con responsabili e documenti necessari. Non si tratta di irrigidire l'accordo, ma di renderlo praticabile. Una definizione ben coordinata consente di trasformare l'intesa familiare in una soluzione verificabile, mantenendo collegati beni, obblighi economici e atti del giudizio.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [successioni complesse](https://avvocatodelmonte.com/successioni-complesse). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Se firmiamo un accordo la causa si chiude da sola?",
+        "answer": "No. Gli effetti sul procedimento devono essere coordinati con gli atti processuali necessari."
+      },
+      {
+        "question": "Possiamo rinviare l’identificazione precisa degli immobili?",
+        "answer": "È rischioso. Beni, diritti e formalità pertinenti devono essere verificati prima di definire l’intesa."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965",
+        "title": "Codice civile — art. 1965",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1965. (Nozione). La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art784",
+        "title": "Codice di procedura civile — art. 784",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 784. (Litisconsorzio necessario). Le domande di divisione ereditaria o di scioglimento di qualsiasi altra comunione debbono proporsi in confronto di tutti gli eredi o condomini e dei creditori opponenti se vi sono."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Chiavi di abitazioni differenti su un tavolo con un accordo anonimo e piccole cartelle individuali, composizione armoniosa senza persone. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Chiavi di abitazioni differenti su un tavolo con un accordo anonimo e piccole cartelle individuali, composizione armoniosa senza persone",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-090.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "fe5665f781f3ffc9add8cd55444a1774210d819fb632794d5d7ce344ae91d32e",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 578,
+    "contentHash": "9c482c970f9d43a9002ecd3d24ce761a298f3edf866f2249f4d7cf572c6c3039",
+    "publicationApproved": true
+  },
+  "releaseDate": "2027-04-04",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "f292dfcda3be69edf648722095e9c24323209ae4fe7f14fd29a0c34f241dd89e",
+    "sha256": "992930a674cdc9451ddd4d1fe10f17a46eb4da89b483370450cf570b69c9a33a"
+  }
+}

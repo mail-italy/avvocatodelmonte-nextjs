@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-064",
+    "site": "avvocato",
+    "sequence": 64,
+    "area": "Risarcimento danni",
+    "slug": "acconto-sul-risarcimento-e-saldo-definitivo-leggere-le-quietanze",
+    "title": "Acconto sul risarcimento e saldo definitivo: leggere le quietanze",
+    "intent": "Distinguere pagamento parziale e chiusura della pretesa",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/risarcimento-danni"
+    ],
+    "scheduledOffsetDays": 126,
+    "status": "approved",
+    "seoTitle": "Acconto sul risarcimento e saldo definitivo: leggere le quietanze",
+    "description": "Come distinguere un pagamento parziale da una chiusura definitiva della richiesta risarcitoria leggendo quietanze e dichiarazioni.",
+    "bodyMarkdown": "Ricevere una somma durante una trattativa non chiarisce, da solo, se la controversia sia chiusa. Il significato dipende dal titolo del pagamento e dalle dichiarazioni sottoscritte. Prima di firmare una quietanza occorre verificare se documenti soltanto l'incasso oppure contenga anche rinunce e accordi definitivi.\n\n## Leggere oltre il titolo del modulo\n\nParole come “acconto”, “saldo” o “liberatoria” orientano la lettura, ma non sostituiscono il contenuto completo. Un documento intitolato quietanza potrebbe includere formule di rinuncia; una lettera di accompagnamento potrebbe precisare il perimetro dell'offerta. Tutti i testi collegati devono essere esaminati insieme.\n\nIl [Codice civile — art. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965) disciplina la transazione come accordo con reciproche concessioni diretto a comporre o prevenire una lite. La qualificazione di un pagamento richiede quindi attenzione alla volontà espressa e al rapporto tra le parti. Non è prudente affidarsi alla rassicurazione informale che “è solo una ricevuta”.\n\n## Identificare la pretesa interessata\n\nSi controllano evento, soggetti, voci di danno e periodi cui il pagamento si riferisce. Una somma potrebbe riguardare soltanto spese documentate, oppure essere proposta a chiusura di tutte le conseguenze. Se esistono più danneggiati, la posizione di ciascuno deve essere riconoscibile.\n\nAnche l'identità di chi paga conta: il versamento può provenire da un assicuratore, da un responsabile o da un altro soggetto. Il documento deve consentire di comprendere quale rapporto venga regolato e quali eventuali riserve rimangano.\n\n## Verificare l'effetto delle riserve\n\nQuando il pagamento è parziale, il testo dovrebbe rendere chiaro che cosa resta da discutere. Una riserva generica potrebbe non risolvere contraddizioni con clausole molto ampie presenti altrove. Le modifiche devono essere concordate e conservate nella versione effettivamente accettata.\n\nNon è consigliabile firmare il modulo originario pensando di neutralizzarlo con un messaggio separato inviato dopo. La sequenza delle comunicazioni e il contenuto dell'accordo richiedono una valutazione unitaria. Se le parti attribuiscono significati diversi alla somma, il problema va chiarito prima della sottoscrizione.\n\n## Considerare il quadro del danno\n\nLa scelta tra pagamento parziale e chiusura definitiva dipende anche dalla conoscenza delle conseguenze. Se cure e valutazioni sono ancora in corso, bisogna capire quali elementi manchino e quanto incidano sulla decisione. Non ogni incertezza impedisce un accordo, ma deve essere consapevolmente considerata.\n\nPer le componenti economiche il [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223) richiama perdite e mancati guadagni collegati al fatto. È utile confrontare le somme già ricevute con le voci richieste, evitando che un acconto venga dimenticato nei conteggi successivi o attribuito a una componente diversa senza spiegazione.\n\n## Conservare prova di accordo e pagamento\n\nSi archiviano proposta, eventuali modifiche, documento firmato, comunicazioni e prova dell'accredito. La ricevuta bancaria dimostra il movimento economico, ma non sempre ne chiarisce da sola la funzione. Il fascicolo dovrebbe permettere di ricostruire anche le condizioni pattuite.\n\nSe il pagamento non arriva o è inferiore a quanto previsto, occorre confrontare il fatto con l'accordo prima di assumere iniziative. Un controllo tempestivo evita che la trattativa si chiuda formalmente mentre restano obblighi ineseguiti. La distinzione tra incassare e rinunciare deve risultare dai documenti, non soltanto dalle intenzioni che una parte ritiene di avere espresso.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Firmare una quietanza significa sempre rinunciare al resto?",
+        "answer": "No, ma può accadere se il testo contiene una chiusura definitiva o rinunce. Va letto integralmente."
+      },
+      {
+        "question": "La causale del bonifico basta a definire l’accordo?",
+        "answer": "Non sempre. Deve essere confrontata con proposta, accettazione, quietanza e altre comunicazioni pertinenti."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965",
+        "title": "Codice civile — art. 1965",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1965. (Nozione). La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+        "title": "Codice civile — art. 1223",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una ricevuta anonima e due buste di diverso colore su un tavolo, una aperta e una chiusa, con penna appoggiata lateralmente. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una ricevuta anonima e due buste di diverso colore su un tavolo, una aperta e una chiusa, con penna appoggiata lateralmente",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-064.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "4c5536e3d75b0d3f18f3a75d2a811c1937868592229e6041b795511c59c63fad",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 583,
+    "contentHash": "7c58f521f68bdf9517bc3640efc15c1bdbc16ede960e617332abe2bfd35b8a3f",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-19",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "7cdf30cbe00b926728e31ec0e203ec3ffee677d8c982451517e0986d4c9ceb4f",
+    "sha256": "69933f9e97ba54119c79120262d9250f948236b813a9054c3656ec570fc882b0"
+  }
+}

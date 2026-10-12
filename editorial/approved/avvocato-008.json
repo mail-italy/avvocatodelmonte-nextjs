@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-008",
+    "site": "avvocato",
+    "sequence": 8,
+    "area": "Cassazione civile",
+    "slug": "procura-speciale-per-cassazione-civile-preparazione-e-controlli",
+    "title": "Procura speciale per Cassazione civile: preparazione e controlli",
+    "intent": "Verificare il mandato relativo alla specifica impugnazione",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/cassazione-civile"
+    ],
+    "scheduledOffsetDays": 14,
+    "status": "approved",
+    "seoTitle": "Procura speciale per Cassazione civile: preparazione e controlli",
+    "description": "Procura speciale nel ricorso civile per Cassazione: mandato, identità del conferente, riferimenti alla decisione e controlli sul documento.",
+    "bodyMarkdown": "Un cliente consegna al nuovo difensore la procura firmata all'inizio della causa e ritiene che basti anche per la Cassazione. Prima di utilizzarla occorre una verifica specifica. Il [Codice di procedura civile — art. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art365) prevede che il ricorso sia sottoscritto da un avvocato iscritto nell'apposito albo e munito di procura speciale.\n\n## Il mandato riguarda una fase precisa\n\nLa procura non è una formalità da lasciare all'ultimo momento. Deve essere esaminata in rapporto all'impugnazione da proporre, alla decisione e alla persona che conferisce il mandato. Non è prudente riutilizzare un modello generico trovato in rete o un documento firmato per una vicenda diversa.\n\nIl difensore individua la forma e le modalità corrette, tenendo conto anche del deposito telematico. La disciplina generale della procura alle liti è nel [Codice di procedura civile — art. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art83); la Cassazione presenta poi la specifica esigenza prevista dall'articolo 365. Le modalità concrete non vanno desunte da una sola fotografia della firma.\n\n## Identificare chi può conferire l'incarico\n\nPer una persona fisica si controllano identità e posizione nel giudizio. Quando agisce una società, un ente, un rappresentante o un soggetto che afferma di essere subentrato nel rapporto, occorre verificare anche il relativo potere. Il nome scritto nell'intestazione del fascicolo potrebbe non descrivere tutti i cambiamenti intervenuti durante la causa.\n\nUna visura, un atto di nomina o un documento relativo alla successione nella posizione processuale può quindi diventare rilevante. Non significa che servano sempre gli stessi allegati: il punto è segnalare tempestivamente al legale fusioni, decessi, modifiche della rappresentanza o altre vicende, senza presumere che risultino già nel fascicolo.\n\n## Collegare procura e impugnazione\n\nIl controllo comprende la riferibilità del mandato al ricorso e la sua collocazione temporale e documentale. Per questo il cliente deve ricevere istruzioni precise su che cosa firmare, come restituirlo e quali originali conservare. Aggiungere autonomamente date, formule o riferimenti a un modello può creare incoerenze.\n\nSe la sottoscrizione avviene a distanza, la praticità dello scambio non elimina le verifiche. Invio di una scansione, sottoscrizione digitale e autenticazione non sono espressioni equivalenti. Le modalità utilizzabili vanno stabilite dal professionista sulla base della disciplina applicabile e del tipo di documento.\n\n## Il passaggio tra difensori\n\nL'incarico per la Cassazione deve coordinarsi con il trasferimento degli atti. È utile identificare chi conserva gli originali, quali procure siano già state depositate e quali notifiche siano state ricevute. Un cambio di difensore non rende automaticamente irrilevanti le comunicazioni giunte al precedente legale.\n\nLa consegna del fascicolo dovrebbe includere un elenco dei documenti trasferiti e delle attività ancora in corso. Questo riduce il rischio che il cliente creda completato un adempimento che nessuno ha effettivamente verificato. Un messaggio di invio non equivale, da solo, alla conferma che l'atto sia utilizzabile.\n\n## Controllare prima della scadenza\n\nLa procura va predisposta quando esiste ancora tempo per risolvere errori di identificazione, firme mancanti o problemi di rappresentanza. Presentarsi a ridosso del termine con un documento incompleto può ostacolare anche un ricorso sostanzialmente fondato.\n\nLa sequenza pratica è semplice: il difensore definisce il documento, il cliente verifica i propri dati e segue le istruzioni, poi il professionista controlla la versione ricevuta e il collegamento con il ricorso. Il mandato diventa così parte dell'organizzazione della difesa, insieme ai motivi, alle notifiche e agli allegati.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Posso scaricare una procura generica e firmarla?",
+        "answer": "È preferibile usare il documento predisposto dal difensore per la specifica impugnazione e seguire le sue istruzioni di sottoscrizione."
+      },
+      {
+        "question": "La firma del rappresentante di una società è sufficiente da sola?",
+        "answer": "Occorre verificare anche il potere di rappresentanza e gli eventuali documenti necessari a dimostrarlo."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art365",
+        "title": "Codice di procedura civile — art. 365",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 365. (Sottoscrizione del ricorso). Il ricorso è diretto alla corte e sottoscritto, a pena d'inammissibilità, da un avvocato iscritto nell'apposito albo, munito di procura speciale."
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art83",
+        "title": "Codice di procedura civile — art. 83",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 83. (Procura alle liti). Quando la parte sta in giudizio col ministero di un difensore, questi deve essere munito di procura. La procura alle liti può essere generale o speciale, e deve essere conferita con atto pubblico o scrittura privata autenticata. La procura speciale può essere anche apposta in calce o a margine della citazione, del ricorso, del controricorso, della comparsa di risposta o d'intervento, del precetto o della domanda d'intervento nell'esecuzione , ovvero della memoria di nomina del nuovo difensore, in aggiunta o in sostituzione del difensore originariamente […]"
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una penna accanto a un documento senza testo leggibile e una custodia per firma digitale su una scrivania sobria, nessuna persona riconoscibile. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Una penna accanto a un documento senza testo leggibile e una custodia per firma digitale su una scrivania sobria, nessuna persona riconoscibile",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-008.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "921174da4a4e3060ddce29d2604ec55e388e0d8e74b809cdf70915f56dd4ea3c",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 627,
+    "contentHash": "31efa1e13e3494f6597cf4667a77e8d8d4403b5cb5d6b58bfa8cb6ca56201b36",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-12-07",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "30ef48617a7fbf3850fe074c8db89039af5931a9327979ad4e2a35aadfd5133a",
+    "sha256": "bceca9ddf8b7a7518c97386111bc3090bf1d646d0692065860d1d4ee0e8437de"
+  }
+}

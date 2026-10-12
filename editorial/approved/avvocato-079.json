@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "avvocato-079",
+    "site": "avvocato",
+    "sequence": 79,
+    "area": "Infortuni sul lavoro",
+    "slug": "infortunio-in-appalto-ricostruire-imprese-mansioni-e-coordinamento",
+    "title": "Infortunio in appalto: ricostruire imprese, mansioni e coordinamento",
+    "intent": "Individuare soggetti e fatti nell'organizzazione del lavoro",
+    "relatedExistingUrls": [
+      "https://avvocatodelmonte.com/infortuni-sul-lavoro"
+    ],
+    "scheduledOffsetDays": 156,
+    "status": "approved",
+    "seoTitle": "Infortunio in appalto: ricostruire imprese, mansioni e coordinamento",
+    "description": "Come ricostruire ruoli e attività quando un infortunio avviene in un luogo dove operano committente, appaltatori e subappaltatori.",
+    "bodyMarkdown": "Quando nello stesso luogo lavorano più imprese, un infortunio non si comprende soltanto attraverso il nome del datore di lavoro indicato nel contratto. Occorre ricostruire chi organizzasse le attività, quali rischi fossero presenti e come fossero gestite le interferenze. Le qualifiche formali sono importanti, ma devono essere confrontate con ciò che avveniva concretamente.\n\n## Disegnare la mappa dei soggetti\n\nSi identificano committente, impresa appaltatrice, eventuali subappaltatori, datore di lavoro del ferito e figure operative pertinenti. Per ciascuno si raccolgono documenti disponibili su incarichi e attività. Il lavoratore può descrivere chi impartisse istruzioni, senza dover qualificare giuridicamente ogni ruolo.\n\nÈ utile distinguere il soggetto che gestiva il luogo da quello che forniva attrezzature o dirigeva una lavorazione. Le funzioni possono appartenere a persone diverse. Un elenco di denominazioni societarie, privo dei collegamenti operativi, lascia irrisolta proprio la questione delle responsabilità.\n\n## Ricostruire il lavoro svolto quel giorno\n\nMansione abituale e compito del momento possono non coincidere. Si annotano attività, squadra, attrezzature, zona e presenza di altre lavorazioni. Ordini di servizio, messaggi, registri e testimonianze possono contribuire alla ricostruzione, purché acquisiti e utilizzati lecitamente.\n\nSe il compito era stato modificato, occorre capire da chi e con quali informazioni sui rischi. Non basta affermare che l'attività rientrasse genericamente nell'appalto. Il collegamento tra organizzazione concreta ed evento deve essere spiegato con fatti verificabili.\n\n## Esaminare cooperazione e interferenze\n\nIl [D.lgs. 81/2008 — art. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art26) disciplina specifici obblighi relativi ad appalto, opera e somministrazione, con ambito e condizioni da verificare nel caso. La norma riguarda anche informazioni, cooperazione e coordinamento. Non ogni rischio presente è necessariamente un rischio interferenziale, né ogni situazione ricade nello stesso regime.\n\nI documenti di coordinamento vanno letti rispetto alle lavorazioni effettive e alla loro evoluzione. Un documento esistente ma generico potrebbe non rispondere alla questione concreta; la sua assenza richiede comunque di individuare quale obbligo fosse applicabile. Non si dovrebbe estendere una regola a tutti i cantieri senza esaminare la disciplina pertinente.\n\n## Collegare obblighi e dinamica\n\nIl [Codice civile — art. 2087](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087) impone all'imprenditore misure necessarie alla tutela dell'integrità fisica e della personalità morale secondo lavoro, esperienza e tecnica. La richiesta risarcitoria deve però individuare fatti, obblighi e collegamento con il danno, senza presentare la responsabilità come automatica per il solo verificarsi dell'infortunio.\n\nSe un'attrezzatura era condivisa, si verifica chi la fornisse, controllasse e utilizzasse. Se più squadre operavano vicine, si ricostruiscono comunicazioni e separazione delle attività. Queste domande rendono la contestazione più precisa di un generico richiamo alla mancata sicurezza.\n\n## Preparare il fascicolo per la valutazione\n\nSi raccolgono documenti sul rapporto di lavoro, certificazioni dell'infortunio, atti accessibili degli accertamenti e informazioni sull'organizzazione. Le prestazioni INAIL e le eventuali pretese civili devono essere coordinate senza confonderne finalità e presupposti.\n\nIl legale può così individuare i soggetti da coinvolgere e i documenti da richiedere. La pluralità di imprese non implica che tutte rispondano nello stesso modo. Una ricostruzione ordinata permette di verificare responsabilità differenti senza disperdere l'attenzione in contestazioni indistinte.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [infortuni sul lavoro](https://avvocatodelmonte.com/infortuni-sul-lavoro). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+    "faqs": [
+      {
+        "question": "Devo conoscere già il nome di ogni responsabile?",
+        "answer": "No. È utile descrivere persone, istruzioni e attività; il legale ricostruirà ruoli e obblighi attraverso i documenti."
+      },
+      {
+        "question": "La presenza di un appalto rende sempre responsabile il committente?",
+        "answer": "No. Occorre verificare disciplina applicabile, ruoli, obblighi e collegamento con l’evento concreto."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art26",
+        "title": "D.lgs. 81/2008 — art. 26",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 26 Obblighi connessi ai contratti d'appalto o d'opera o di somministrazione 1. Il datore di lavoro, in caso di affidamento di lavori, servizi e forniture all'impresa appaltatrice o a lavoratori autonomi all'interno della propria azienda, o di una singola unità produttiva della stessa, nonché nell'ambito dell'intero ciclo produttivo dell'azienda medesima, sempre che abbia la disponibilità giuridica dei luoghi in cui si svolge l'appalto o la prestazione di lavoro autonomo: a) verifica, con le modalità previste dal decreto di cui all'articolo 6, comma 8, lettera g), l'idoneità tecnico professionale delle […]"
+      },
+      {
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2087",
+        "title": "Codice civile — art. 2087",
+        "checkedAt": "2026-10-12",
+        "supports": "Disposizione primaria richiamata nel testo: Art. 2087. (Tutela delle condizioni di lavoro). L'imprenditore è tenuto ad adottare nell'esercizio dell'impresa le misure che, secondo la particolarità del lavoro, l'esperienza e la tecnica, sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro."
+      }
+    ],
+    "image": {
+      "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Tre caschi da lavoro di colori neutri su un tavolo di cantiere ordinato, con planimetrie anonime e nessuna persona presente. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+      "alt": "Tre caschi da lavoro di colori neutri su un tavolo di cantiere ordinato, con planimetrie anonime e nessuna persona presente",
+      "status": "generated",
+      "path": "/images/editorial/avvocato-079.webp",
+      "generatedBy": "image_gen builtin",
+      "generatedAt": "2026-10-12",
+      "sha256": "1d2ddecfb35e0ab98b1ac45dca52a1066596436dc4827ce679dea599acd86fbe",
+      "width": 1200,
+      "height": 800,
+      "visualReview": "passed",
+      "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+    },
+    "legalReview": "approved",
+    "author": null,
+    "reviewer": "Studio Legale Del Monte",
+    "createdAt": "2026-10-12",
+    "contentType": "editorial-draft",
+    "wordCount": 575,
+    "contentHash": "3c646a3dabd81073c1c205317f8cc19fe6bbae565ee4bfab78e75e9ac8c2e261",
+    "publicationApproved": true
+  },
+  "releaseDate": "2026-10-24",
+  "approval": {
+    "reviewer": "Studio Legale Del Monte",
+    "approvedAt": "2026-10-12",
+    "validUntil": "2027-04-28",
+    "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+    "reviewedSourceHash": "4e7a3abaa14b6e2a3bb257004e018382cbecda29801c9e5021199c43110f2738",
+    "sha256": "6c53ba3c3dabfa1c97d21b0f3d0f2596afcc22aef27b7512c075bf07180d1f27"
+  }
+}
