@@ -1,0 +1,22 @@
+{
+  "site": "avvocato",
+  "enabled": false,
+  "startDate": null,
+  "publishHour": 8,
+  "timezone": "Europe/Rome",
+  "cadenceDays": 2,
+  "origin": "https://avvocatodelmonte.com",
+  "pathPrefix": "/approfondimenti/",
+  "trailingSlash": false,
+  "serviceSlugs": [
+    "cassazione-civile",
+    "cassazione-penale",
+    "responsabilita-medica",
+    "risarcimento-danni",
+    "risarcimento-danni-incidente-stradale",
+    "infortuni-sul-lavoro",
+    "successioni-complesse",
+    "mediazione-risoluzione-stragiudiziale",
+    "impugnazione-testamento"
+  ]
+}

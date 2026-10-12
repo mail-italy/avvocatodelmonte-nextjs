@@ -9,7 +9,11 @@
     "start": "next start",
     "lint": "eslint . --max-warnings=0",
     "test": "node --test tests/*.test.mjs",
-    "indexnow": "node scripts/indexnow.mjs"
+    "indexnow": "node scripts/indexnow.mjs",
+    "test:editorial": "node --test scripts/editorial/*.test.mjs",
+    "editorial:plan": "node scripts/editorial/cli.mjs plan",
+    "prebuild": "node scripts/editorial/cli.mjs generate",
+    "predev": "node scripts/editorial/cli.mjs generate"
   },
   "dependencies": {
     "next": "16.4.0",

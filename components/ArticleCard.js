@@ -11,7 +11,7 @@ export default function ArticleCard({ article }) {
       <Link href={href} className="article-card-media" aria-label={`Leggi l'approfondimento ${article.title}`}>
         <Image
           src={article.image}
-          alt={article.title}
+          alt={article.imageAlt || article.title}
           fill
           sizes="(max-width: 900px) 100vw, 33vw"
           className={`cover-image ${getImageFocusClass(article.image)}`}

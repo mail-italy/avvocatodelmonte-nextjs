@@ -21,7 +21,7 @@ export async function generateMetadata({ params }) {
   if (!article) return {};
 
   return buildMetadata({
-    title: article.title,
+    title: article.seoTitle || article.title,
     description: article.description,
     path: `/approfondimenti/${article.slug}`,
     image: article.image,
@@ -34,6 +34,7 @@ export async function generateMetadata({ params }) {
 
 function formatDate(value) {
   return new Intl.DateTimeFormat('it-IT', {
+    timeZone: 'Europe/Rome',
     day: '2-digit',
     month: 'long',
     year: 'numeric'
@@ -77,7 +78,7 @@ export default async function ArticlePage({ params }) {
         title={article.title}
         description={article.description}
         image={article.image}
-        imageAlt={article.title}
+        imageAlt={article.imageAlt || article.title}
         breadcrumbs={[
           { name: 'Home', item: '/' },
           { name: 'Approfondimenti', item: '/approfondimenti' },
@@ -93,7 +94,9 @@ export default async function ArticlePage({ params }) {
               <span>{article.readTime}</span>
             </div>
 
-            <p className="article-intro">{article.intro}</p>
+            {article.intro ? <p className="article-intro">{article.intro}</p> : null}
+            {article.reviewedBy ? <p>Revisione professionale: {article.reviewedBy}, {formatDate(article.reviewedAt)}.</p> : null}
+            {article.bodyHtml ? <div dangerouslySetInnerHTML={{ __html: article.bodyHtml }} /> : null}
 
             {article.sections.map((section) => (
               <section key={section.heading} className="article-section">
