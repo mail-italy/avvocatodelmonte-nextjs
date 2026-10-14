@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-041",
     "url": "https://avvocatodelmonte.com/approfondimenti/ctu-e-consulente-di-parte-nella-responsabilita-sanitaria",
-    "stagedAt": "2026-10-14T12:55:59.167Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-10-14T12:56:17.263Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-001",
-    "url": "https://avvocatodelmonte.com/approfondimenti/dopo-la-cassazione-preparare-il-giudizio-civile-di-rinvio",
-    "checkedAt": "2026-10-12T13:12:21.358Z",
+    "checkedAt": "2026-10-14T12:57:14.294Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
