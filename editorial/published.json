@@ -160,5 +160,80 @@
     },
     "publishedDate": "2026-10-14",
     "publishedAt": "2026-10-14T12:55:59.167Z"
+  },
+  {
+    "article": {
+      "id": "avvocato-026",
+      "site": "avvocato",
+      "sequence": 26,
+      "area": "Cassazione penale",
+      "slug": "annullamento-con-rinvio-penale-leggere-che-cosa-va-deciso-di-nuovo",
+      "title": "Annullamento con rinvio penale: leggere che cosa va deciso di nuovo",
+      "intent": "Delimitare i punti rimessi al giudice dopo la Cassazione",
+      "relatedExistingUrls": [
+        "https://avvocatodelmonte.com/cassazione-penale"
+      ],
+      "scheduledOffsetDays": 50,
+      "status": "approved",
+      "seoTitle": "Annullamento con rinvio penale: leggere che cosa va deciso di nuovo",
+      "description": "Annullamento penale con rinvio: individuare i punti da decidere di nuovo, le parti consolidate e gli atti utili alla nuova fase.",
+      "bodyMarkdown": "La Cassazione annulla una sentenza penale e dispone un nuovo giudizio. La notizia non significa necessariamente che ogni accertamento debba essere rifatto. Il contenuto dell'annullamento determina quali questioni restino aperte e quale lavoro difensivo sia necessario nella fase successiva.\n\n## Leggere l'oggetto dell'annullamento\n\nSi esaminano dispositivo e motivazione, distinguendo i motivi accolti dagli altri esiti. Un annullamento limitato alla pena presenta un perimetro diverso da uno che investe la responsabilità o un capo civile. La descrizione generica “la sentenza è stata annullata” può quindi nascondere differenze decisive.\n\nIl [Codice di procedura penale — art. 624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art624) regola l'annullamento parziale e il rapporto con le parti della decisione non coinvolte. Occorre verificare anche le connessioni essenziali: non si può stabilire quali punti siano irrevocabili soltanto contando i motivi accolti. Il difensore deve ricostruire gli effetti sul singolo imputato e sui singoli capi.\n\n## Il vincolo per il giudice di rinvio\n\nIl [Codice di procedura penale — art. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art627) disciplina il giudizio dopo l'annullamento. Il giudice del rinvio deve uniformarsi alla sentenza della Cassazione per le questioni di diritto decise, nei termini previsti dalla norma. Questo vincolo non equivale a una previsione automatica del risultato finale sulle questioni che richiedono ancora valutazione.\n\nIl nuovo giudizio non è una ripetizione indistinta di tutto ciò che è accaduto. La difesa deve confrontarsi con la ragione dell'annullamento e individuare le attività utili entro il perimetro ancora aperto. Riproporre ogni argomento senza questa selezione può oscurare i punti che la Corte ha ritenuto rilevanti.\n\n## Preparare la documentazione\n\nIl fascicolo comprende sentenze precedenti, ricorso, eventuali memorie, verbali e atti collegati ai motivi accolti. Sono utili anche le informazioni sullo stato delle misure in corso e sulle comunicazioni ricevute. Questi aspetti vanno verificati autonomamente: non si presume che l'annullamento produca ogni effetto desiderato sulla situazione personale.\n\nUna tabella può indicare capo della decisione, esito in Cassazione, questione da affrontare e documento necessario. Il cliente deve comunicare eventuali fatti sopravvenuti al difensore, che valuterà se e come rilevino. La loro importanza personale non coincide automaticamente con la possibilità di introdurli nel rinvio.\n\n## Le prove e il contraddittorio\n\nLa disciplina dell'articolo 627 prevede regole specifiche sui poteri del giudice e sulla rinnovazione dell'istruzione nelle condizioni indicate. Prima di chiedere una nuova audizione o un approfondimento tecnico bisogna verificare pertinenza, fase e oggetto della decisione ancora da adottare.\n\nUn esempio astratto è l'annullamento per un difetto nella valutazione di un punto decisivo della motivazione. La difesa deve capire quale risposta sia ora richiesta, quali dati siano già disponibili e se un'attività ulteriore sia consentita e utile. Il semplice desiderio di ripresentare tutti i testimoni non identifica la strategia corretta.\n\n## Capire il risultato concretamente perseguibile\n\nIl confronto con il legale dovrebbe chiarire quali esiti siano ancora possibili e quali parti della vicenda non possano essere rimesse in discussione. È importante distinguere questo quadro dalle aspettative generate dalla parola “accoglimento”. La Cassazione può avere corretto un errore senza avere definito l'intera posizione.\n\nIl lavoro dopo l'annullamento consiste quindi nel leggere il vincolo, aggiornare il fascicolo e preparare le richieste appropriate. Un piano chiaro rende comprensibile la nuova fase e permette al cliente di sapere quali documenti recuperare, quali appuntamenti rispettare e quali informazioni trasmettere tempestivamente.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione penale](https://avvocatodelmonte.com/cassazione-penale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+      "faqs": [
+        {
+          "question": "L’annullamento fa ricominciare tutto da zero?",
+          "answer": "Non necessariamente. Il perimetro dipende dai capi annullati, dalle connessioni e da ciò che la Cassazione ha deciso."
+        },
+        {
+          "question": "Il giudice del rinvio deve seguire la Cassazione?",
+          "answer": "Deve uniformarsi alle questioni di diritto decise, secondo la disciplina dell’articolo 627; possono restare valutazioni da svolgere."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art624",
+          "title": "Codice di procedura penale — art. 624",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 624 Annullamento parziale 1. Se l'annullamento non è pronunciato per tutte le disposizioni della sentenza, questa ha autorità di cosa giudicata nelle parti che non hanno connessione essenziale con la parte annullata. 2. La corte di cassazione, quando occorre, dichiara nel dispositivo quali parti della sentenza diventano irrevocabili. L'omissione di tale dichiarazione è riparata dalla corte stessa in camera di consiglio con ordinanza che deve trascriversi in margine o in fine della sentenza e di ogni copia di essa posteriormente rilasciata. L'ordinanza può essere pronunciata di ufficio ovvero su […]"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447~art627",
+          "title": "Codice di procedura penale — art. 627",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 627 Giudizio di rinvio dopo annullamento 1. Nel giudizio di rinvio non è ammessa discussione sulla competenza attribuita con la sentenza di annullamento, salvo quanto previsto dall'articolo 25. 2. Il giudice di rinvio decide con gli stessi poteri che aveva il giudice la cui sentenza è stata annullata, salve le limitazioni stabilite dalla legge. Se è annullata una sentenza di appello e le parti ne fanno richiesta, il giudice dispone la rinnovazione dell'istruzione dibattimentale per l'assunzione delle prove rilevanti per la decisione. 3. Il giudice di rinvio si uniforma […]"
+        }
+      ],
+      "image": {
+        "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Corridoio giudiziario italiano generico illuminato da finestre, un fascicolo aperto in primo piano e porte senza targhe leggibili, nessuna persona detenuta. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+        "alt": "Corridoio giudiziario italiano generico illuminato da finestre, un fascicolo aperto in primo piano e porte senza targhe leggibili, nessuna persona detenuta",
+        "status": "generated",
+        "path": "/images/editorial/avvocato-026.webp",
+        "generatedBy": "image_gen builtin",
+        "generatedAt": "2026-10-12",
+        "sha256": "9f2331045f4f7e97600d90ec791dbee5b4714923f48d4b7186b28e13515445c6",
+        "width": 1200,
+        "height": 800,
+        "visualReview": "passed",
+        "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+      },
+      "legalReview": "approved",
+      "author": null,
+      "reviewer": "Studio Legale Del Monte",
+      "createdAt": "2026-10-12",
+      "contentType": "editorial-draft",
+      "wordCount": 622,
+      "contentHash": "739828b1c79fbb2732c9349c2ca41ee1f4023fe95cbd58683a1fd868fa31ef76",
+      "publicationApproved": true
+    },
+    "releaseDate": "2026-10-16",
+    "approval": {
+      "reviewer": "Studio Legale Del Monte",
+      "approvedAt": "2026-10-12",
+      "validUntil": "2027-04-28",
+      "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+      "reviewedSourceHash": "0ee847ecd3fb103a2276c3cb227cb8fddc06da423fab0b2dbf23298316834c13",
+      "sha256": "407f193f4c39a0d36e927e44220c777bfc308b2099c7487c249c43c420b10990"
+    },
+    "publishedDate": "2026-10-16",
+    "publishedAt": "2026-10-16T12:30:56.281Z"
   }
 ]
