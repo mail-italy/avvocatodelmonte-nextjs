@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-026",
     "url": "https://avvocatodelmonte.com/approfondimenti/annullamento-con-rinvio-penale-leggere-che-cosa-va-deciso-di-nuovo",
-    "stagedAt": "2026-10-16T12:30:56.281Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-10-16T12:31:10.224Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-041",
-    "url": "https://avvocatodelmonte.com/approfondimenti/ctu-e-consulente-di-parte-nella-responsabilita-sanitaria",
-    "checkedAt": "2026-10-14T12:57:14.294Z",
+    "checkedAt": "2026-10-16T12:32:06.600Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
