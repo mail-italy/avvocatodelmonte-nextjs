@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-026",
     "url": "https://avvocatodelmonte.com/approfondimenti/annullamento-con-rinvio-penale-leggere-che-cosa-va-deciso-di-nuovo",
-    "stagedAt": "2026-10-16T12:30:56.281Z"
+    "stagedAt": "2026-10-16T12:30:56.281Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-16T12:31:10.224Z"
   },
   "lastVerified": {
     "id": "avvocato-041",
