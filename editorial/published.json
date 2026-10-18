@@ -235,5 +235,86 @@
     },
     "publishedDate": "2026-10-16",
     "publishedAt": "2026-10-16T12:30:56.281Z"
+  },
+  {
+    "article": {
+      "id": "avvocato-061",
+      "site": "avvocato",
+      "sequence": 61,
+      "area": "Risarcimento danni",
+      "slug": "spese-future-di-assistenza-costruire-una-richiesta-risarcitoria-documentata",
+      "title": "Spese future di assistenza: costruire una richiesta risarcitoria documentata",
+      "intent": "Stimare bisogni futuri su dati e prescrizioni senza formule automatiche",
+      "relatedExistingUrls": [
+        "https://avvocatodelmonte.com/risarcimento-danni"
+      ],
+      "scheduledOffsetDays": 120,
+      "status": "approved",
+      "seoTitle": "Spese future di assistenza: costruire una richiesta risarcitoria documentata",
+      "description": "Come collegare bisogni assistenziali, durata prevista e costi nella richiesta di risarcimento delle spese future.",
+      "bodyMarkdown": "Le spese future di assistenza non si dimostrano soltanto con un preventivo. Occorre chiarire quale bisogno derivi dalla lesione, per quanto tempo sia prevedibile e come sia stato stimato il costo. La richiesta deve rendere controllabile il passaggio dalla condizione della persona alla somma proposta.\n\n## Definire il bisogno concreto\n\nLa valutazione parte dalle attività per cui serve aiuto: igiene, pasti, trasferimenti, accompagnamenti o altre necessità indicate dai professionisti competenti. “Assistenza quotidiana” è una formula insufficiente se non spiega frequenza, intensità e competenze richieste. Una presenza di compagnia non coincide necessariamente con una prestazione sanitaria.\n\nIl quadro clinico dovrebbe distinguere bisogni già stabilizzati da quelli ancora in evoluzione. Se il recupero è possibile, il piano può richiedere fasi diverse. Una previsione seria dichiara le proprie ipotesi e non estende automaticamente per tutta la vita il livello di aiuto necessario durante la fase iniziale.\n\n## Collegare la necessità all'evento\n\nIl [Codice civile — art. 1223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223), richiamato per il fatto illecito dal [Codice civile — art. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056), pone il tema del collegamento tra fatto e conseguenze economiche. Se esistevano già limitazioni, occorre individuare l'assistenza aggiuntiva resa necessaria dalla lesione. Il confronto deve essere esplicito, anche quando la situazione precedente era complessa.\n\nLe prescrizioni e le valutazioni funzionali aiutano, ma vanno lette rispetto alle attività reali. Un ausilio potrebbe ridurre alcune necessità e introdurne altre. Il consulente deve spiegare il percorso logico, evitando di trattare la menomazione come una tariffa automatica di assistenza.\n\n## Costruire una stima economica\n\nI preventivi dovrebbero descrivere il servizio, le ore, le condizioni e gli oneri compresi. Confrontare cifre prive di queste informazioni può essere fuorviante. Il costo di un'assistenza professionale, per esempio, dipende anche dalle mansioni e dall'organizzazione richiesta.\n\nSi distinguono spese periodiche e una tantum, sostituzioni di ausili, eventuali adattamenti e aggiornamenti del piano. Le proiezioni nel tempo richiedono un metodo dichiarato. Non è sufficiente moltiplicare un costo mensile per un numero arbitrario di anni senza spiegare durata, variabili e criteri di calcolo.\n\n## Considerare aiuti e prestazioni esistenti\n\nIl fascicolo deve indicare l'assistenza già ricevuta, quella prestata dai familiari e gli eventuali servizi o benefici disponibili. La loro rilevanza giuridica va valutata in modo specifico, senza presumere né che tutto debba essere sottratto né che tutto possa sommarsi.\n\nNascondere prestazioni già percepite rende meno trasparente la richiesta. Il lavoro corretto consiste nell'identificarne titolo e funzione, così da evitare duplicazioni e comprendere quali bisogni rimangano scoperti. La gratuità dell'aiuto familiare non elimina la necessità di descriverlo.\n\n## Esporre incertezze e alternative\n\nQuando l'ammontare non è precisamente dimostrabile, il [Codice civile — art. 1226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1226) prevede la valutazione equitativa del giudice. Questo non esonera dal fornire gli elementi disponibili sul danno. Più sono chiari bisogno, durata e costo, più la discussione può concentrarsi sui punti effettivamente controversi.\n\nUn prospetto utile presenta scenario di base, dati a sostegno e variabili ancora aperte. Se cambiano le condizioni cliniche, la stima va aggiornata. Prima di accettare una liquidazione definitiva, è opportuno verificare quali spese future siano comprese e quali conseguenze abbia la rinuncia a ulteriori richieste. La qualità della previsione conta quanto la cifra finale.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [risarcimento danni](https://avvocatodelmonte.com/risarcimento-danni). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+      "faqs": [
+        {
+          "question": "Basta un preventivo di assistenza?",
+          "answer": "No. Deve essere collegato a un bisogno documentato, alla durata prevedibile e alle conseguenze dell’evento."
+        },
+        {
+          "question": "L’incertezza sul costo impedisce sempre la richiesta?",
+          "answer": "No. Va però distinta l’esistenza del bisogno dalla difficoltà di quantificarlo, fornendo tutti gli elementi disponibili."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1223",
+          "title": "Codice civile — art. 1223",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 1223. (Risarcimento del danno). Il risarcimento del danno per l'inadempimento o per il ritardo deve comprendere così la perdita subita dal creditore come il mancato guadagno, in quanto ne siano conseguenza immediata e diretta."
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2056",
+          "title": "Codice civile — art. 2056",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 2056. (Valutazione dei danni). Il risarcimento dovuto al danneggiato si deve determinare secondo le disposizioni degli articoli 1223, 1226 e 1227. Il lucro cessante è valutato dal giudice con equo apprezzamento delle circostanze del caso."
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1226",
+          "title": "Codice civile — art. 1226",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 1226. (Valutazione equitativa del danno). Se il danno non può essere provato nel suo preciso ammontare, è liquidato dal giudice con valutazione equitativa."
+        }
+      ],
+      "image": {
+        "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Un calendario senza numeri leggibili, un ausilio domestico e una cartella di preventivi anonimi su un tavolo luminoso. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+        "alt": "Un calendario senza numeri leggibili, un ausilio domestico e una cartella di preventivi anonimi su un tavolo luminoso",
+        "status": "generated",
+        "path": "/images/editorial/avvocato-061.webp",
+        "generatedBy": "image_gen builtin",
+        "generatedAt": "2026-10-12",
+        "sha256": "6e630cebfe50e8c493199c2af46daa2845660befcc6119f3df4d6244f9bda5ec",
+        "width": 1200,
+        "height": 800,
+        "visualReview": "passed",
+        "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+      },
+      "legalReview": "approved",
+      "author": null,
+      "reviewer": "Studio Legale Del Monte",
+      "createdAt": "2026-10-12",
+      "contentType": "editorial-draft",
+      "wordCount": 591,
+      "contentHash": "f7c8fb4d2446dc22e162726c02c9e6377ef15b304ad90107697cf5f4e98b785e",
+      "publicationApproved": true
+    },
+    "releaseDate": "2026-10-18",
+    "approval": {
+      "reviewer": "Studio Legale Del Monte",
+      "approvedAt": "2026-10-12",
+      "validUntil": "2027-04-28",
+      "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+      "reviewedSourceHash": "15254d7354c68f383f0528926d64be7613bde95852698f308ba982adbb1753c2",
+      "sha256": "341aede90262d03a24b292d26cd7afb4185d7def76b6a0b6019d53625fe14b61"
+    },
+    "publishedDate": "2026-10-18",
+    "publishedAt": "2026-10-18T12:06:05.158Z"
   }
 ]
