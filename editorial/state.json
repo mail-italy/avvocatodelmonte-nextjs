@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-061",
     "url": "https://avvocatodelmonte.com/approfondimenti/spese-future-di-assistenza-costruire-una-richiesta-risarcitoria-documentata",
-    "stagedAt": "2026-10-18T12:06:05.158Z"
+    "stagedAt": "2026-10-18T12:06:05.158Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-18T12:06:21.992Z"
   },
   "lastVerified": {
     "id": "avvocato-026",
