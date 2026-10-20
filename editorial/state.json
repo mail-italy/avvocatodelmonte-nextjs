@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-002",
     "url": "https://avvocatodelmonte.com/approfondimenti/ricorso-per-cassazione-e-sospensione-della-sentenza-due-valutazioni-diverse",
-    "stagedAt": "2026-10-20T12:47:11.996Z"
+    "stagedAt": "2026-10-20T12:47:11.996Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-20T12:47:29.703Z"
   },
   "lastVerified": {
     "id": "avvocato-061",
