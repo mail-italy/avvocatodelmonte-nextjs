@@ -316,5 +316,74 @@
     },
     "publishedDate": "2026-10-18",
     "publishedAt": "2026-10-18T12:06:05.158Z"
+  },
+  {
+    "article": {
+      "id": "avvocato-002",
+      "site": "avvocato",
+      "sequence": 2,
+      "area": "Cassazione civile",
+      "slug": "ricorso-per-cassazione-e-sospensione-della-sentenza-due-valutazioni-diverse",
+      "title": "Ricorso per Cassazione e sospensione della sentenza: due valutazioni diverse",
+      "intent": "Valutare il rischio esecutivo mentre è pendente il ricorso",
+      "relatedExistingUrls": [
+        "https://avvocatodelmonte.com/cassazione-civile"
+      ],
+      "scheduledOffsetDays": 2,
+      "status": "approved",
+      "seoTitle": "Ricorso per Cassazione e sospensione della sentenza: due valutazioni diverse",
+      "description": "Il ricorso civile non blocca automaticamente l’esecuzione: come distinguere l’impugnazione dalla richiesta di sospensione e documentare il rischio.",
+      "bodyMarkdown": "Una sentenza impone un pagamento e viene presentato ricorso per Cassazione. La parte obbligata può pensare che, finché la Corte non decide, nessuno possa chiedere l'esecuzione. Questo automatismo non esiste: il [Codice di procedura civile — art. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art373) stabilisce che il ricorso non sospende l'esecuzione della sentenza. La possibilità di ottenere una sospensione richiede quindi una valutazione distinta.\n\n## Due problemi che camminano insieme\n\nIl ricorso contesta la legittimità della decisione. L'istanza di sospensione riguarda il pregiudizio che può derivare dalla sua esecuzione nell'attesa. Anche un ricorso articolato non contiene, per ciò solo, la prova del danno richiesto per fermare l'esecuzione. Viceversa, la difficoltà economica lamentata non dimostra che la sentenza sia giuridicamente errata.\n\nIl codice attribuisce la valutazione prevista dall'articolo 373 al giudice che ha pronunciato la sentenza impugnata e richiama il grave e irreparabile danno. Occorre verificare che il provvedimento e la situazione concreta rientrino in questo percorso. Se è già iniziata un'esecuzione, devono essere esaminati anche gli atti di quella procedura: non ogni problema esecutivo si affronta con lo stesso rimedio.\n\n## Descrivere il rischio con documenti\n\nDire che un pagamento è elevato o spiacevole non basta a descrivere tutte le caratteristiche del pregiudizio. Serve spiegare che cosa accadrebbe concretamente eseguendo la sentenza e quali elementi rendano difficile rimediare successivamente. A seconda della vicenda possono rilevare destinazione delle somme, situazione patrimoniale, continuità di un'attività e condizioni dei soggetti coinvolti.\n\nLa raccolta documentale deve essere mirata. Estratti, contratti, scadenze, bilanci o atti relativi a un bene vanno collegati alla specifica conseguenza invocata. Non è utile consegnare l'intera storia economica senza una spiegazione. Un prospetto può indicare per ogni documento il fatto che dimostra, la sua data e il collegamento con l'esecuzione temuta.\n\n## Non trascurare gli atti ricevuti\n\nAlla decisione si affiancano notificazioni, eventuale precetto, richieste di pagamento e altri atti già notificati. Le date devono essere comunicate al difensore subito, anche se il fascicolo sul danno non è ancora completo. La preparazione del ricorso e la gestione del rischio esecutivo devono avere responsabili e scadenze coordinati.\n\nÈ importante conservare gli originali digitali delle notifiche, non soltanto schermate del messaggio. Anche un accordo informale di attesa con la controparte va riferito con precisione: si deve capire chi lo abbia proposto, per quanto tempo e a quali condizioni. La convinzione personale che l'altra parte non agirà non sostituisce un impegno verificabile.\n\n## Le alternative da valutare\n\nNel confronto con il difensore possono entrare garanzie, modalità concordate di pagamento o una soluzione negoziale. Non sono sempre opzioni praticabili, ma aiutano a distinguere il bisogno reale di protezione da un generico desiderio di rinviare ogni effetto della sentenza. L'articolo 373 contempla anche la cauzione nelle condizioni previste dalla norma.\n\nLa decisione va presa conoscendo il contenuto del ricorso, l'effettivo rischio, i costi delle iniziative e l'obiettivo perseguito. Se la sospensione non viene concessa, ciò non significa automaticamente che la Cassazione abbia già giudicato infondati i motivi: i due percorsi hanno funzioni diverse. La strategia richiede pertanto una lettura coordinata, evitando che l'attesa della Corte faccia perdere di vista gli adempimenti immediati.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+      "faqs": [
+        {
+          "question": "Basta depositare il ricorso per non pagare?",
+          "answer": "No. La sospensione non deriva automaticamente dal ricorso; va valutato il rimedio appropriato e il suo presupposto concreto."
+        },
+        {
+          "question": "Il rigetto della sospensione decide il ricorso?",
+          "answer": "No. Il risultato dell’istanza cautelare non coincide con la decisione della Cassazione sui motivi di impugnazione."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art373",
+          "title": "Codice di procedura civile — art. 373",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 373. (Sospensione dell'esecuzione). Il ricorso per cassazione non sospende la esecuzione della sentenza. Tuttavia il giudice che ha pronunciato la sentenza impugnata può, su istanza di parte e qualora dall'esecuzione possa derivare grave e irreparabile danno, disporre con ordinanza non impugnabile che l'esecuzione sia sospesa o che sia prestata congrua cauzione. L'istanza si propone con ricorso al conciliatore, al tribunale in composizione monocratica o al presidente del collegio, il quale, con decreto ... , ordina la comparizione delle parti rispettivamente dinanzi a sé o al collegio in Camera di […]"
+        }
+      ],
+      "image": {
+        "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una scrivania con due cartelle distinte e un piccolo calendario senza scritte, una mano anonima indica due percorsi diversi su fogli astratti. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+        "alt": "Una scrivania con due cartelle distinte e un piccolo calendario senza scritte, una mano anonima indica due percorsi diversi su fogli astratti",
+        "status": "generated",
+        "path": "/images/editorial/avvocato-002.webp",
+        "generatedBy": "image_gen builtin",
+        "generatedAt": "2026-10-12",
+        "sha256": "32d9dcbb6dc01a84af4068eb9df41fb3e51b84112bc65b6280237324c459c50e",
+        "width": 1200,
+        "height": 800,
+        "visualReview": "passed",
+        "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+      },
+      "legalReview": "approved",
+      "author": null,
+      "reviewer": "Studio Legale Del Monte",
+      "createdAt": "2026-10-12",
+      "contentType": "editorial-draft",
+      "wordCount": 600,
+      "contentHash": "2155fcd30df03b8de408e01aadc50da61dda1aa3c878ef2941412cb9ea1ee730",
+      "publicationApproved": true
+    },
+    "releaseDate": "2026-10-20",
+    "approval": {
+      "reviewer": "Studio Legale Del Monte",
+      "approvedAt": "2026-10-12",
+      "validUntil": "2027-04-28",
+      "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+      "reviewedSourceHash": "7d76690fbe6ab7426ff4f2291cf783f7bd77a14d15ff7c282014b4a9bf48690a",
+      "sha256": "d7b27821de2d99578ae4dd560d93939a3c56a95180c35f4afa6cc5516c2fa3e0"
+    },
+    "publishedDate": "2026-10-20",
+    "publishedAt": "2026-10-20T12:47:11.996Z"
   }
 ]

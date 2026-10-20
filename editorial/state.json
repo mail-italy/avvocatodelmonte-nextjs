@@ -1,5 +1,9 @@
 {
-  "pending": null,
+  "pending": {
+    "id": "avvocato-002",
+    "url": "https://avvocatodelmonte.com/approfondimenti/ricorso-per-cassazione-e-sospensione-della-sentenza-due-valutazioni-diverse",
+    "stagedAt": "2026-10-20T12:47:11.996Z"
+  },
   "lastVerified": {
     "id": "avvocato-061",
     "url": "https://avvocatodelmonte.com/approfondimenti/spese-future-di-assistenza-costruire-una-richiesta-risarcitoria-documentata",
