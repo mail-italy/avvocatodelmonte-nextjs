@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-071",
     "url": "https://avvocatodelmonte.com/approfondimenti/verbale-del-sinistro-e-ricostruzione-cinematica-ruoli-diversi",
-    "stagedAt": "2026-10-22T13:01:30.928Z"
+    "stagedAt": "2026-10-22T13:01:30.928Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-22T13:01:45.791Z"
   },
   "lastVerified": {
     "id": "avvocato-002",
