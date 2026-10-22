@@ -385,5 +385,80 @@
     },
     "publishedDate": "2026-10-20",
     "publishedAt": "2026-10-20T12:47:11.996Z"
+  },
+  {
+    "article": {
+      "id": "avvocato-071",
+      "site": "avvocato",
+      "sequence": 71,
+      "area": "Incidenti stradali gravi",
+      "slug": "verbale-del-sinistro-e-ricostruzione-cinematica-ruoli-diversi",
+      "title": "Verbale del sinistro e ricostruzione cinematica: ruoli diversi",
+      "intent": "Confrontare rilievi, dichiarazioni e analisi tecnica della dinamica",
+      "relatedExistingUrls": [
+        "https://avvocatodelmonte.com/risarcimento-danni-incidente-stradale"
+      ],
+      "scheduledOffsetDays": 140,
+      "status": "approved",
+      "seoTitle": "Verbale del sinistro e ricostruzione cinematica: ruoli diversi",
+      "description": "Come leggere verbali, fotografie e rilievi di un incidente distinguendo fatti osservati e ricostruzione tecnica della dinamica.",
+      "bodyMarkdown": "Il verbale di un incidente e la ricostruzione cinematica svolgono funzioni diverse. Il primo può raccogliere rilievi, dichiarazioni e attività degli operanti; la seconda utilizza dati e ipotesi tecniche per spiegare il movimento dei veicoli. Per comprendere la dinamica occorre sapere che cosa provenga dall'osservazione diretta e che cosa sia una conclusione.\n\n## Leggere il documento completo\n\nNon basta la pagina che riporta una contestazione o una sintesi. Planimetrie, fotografie, misurazioni e allegati possono contenere elementi decisivi. È utile verificare che la copia acquisita comprenda tutte le parti accessibili e che i riferimenti agli allegati corrispondano a documenti effettivamente presenti.\n\nLe dichiarazioni dei conducenti e dei testimoni devono restare riconoscibili come dichiarazioni. Un fatto riferito agli operanti non diventa automaticamente un fatto osservato da loro. La distinzione è importante anche quando il verbale utilizza una narrazione sintetica degli eventi.\n\n## Individuare i dati materiali\n\nPosizioni finali, tracce, danni ai mezzi, geometria della strada e segnaletica costituiscono possibili basi della ricostruzione. La loro qualità dipende da precisione, momento del rilievo e condizioni del luogo. Una fotografia senza scala o angolo noto può avere limiti che il tecnico deve dichiarare.\n\nSi conserva il materiale originario, evitando modifiche che alterino proporzioni o dettagli. Le copie annotate possono aiutare il lavoro, ma devono essere separate dagli originali. Anche la provenienza delle immagini e la data di acquisizione meritano di essere registrate.\n\n## Comprendere il ruolo del consulente\n\nIl tecnico può confrontare danni, traiettorie e compatibilità delle versioni. Deve indicare dati utilizzati, metodo e ipotesi. Una simulazione visivamente convincente non vale più dei presupposti su cui è costruita: se una velocità è ipotizzata, deve essere dichiarata come tale.\n\nÈ utile chiedere quali conclusioni rimangano stabili al variare delle ipotesi e quali dipendano da dati incerti. L'obiettivo non è ottenere un'animazione favorevole, ma verificare se la ricostruzione sia compatibile con gli elementi disponibili e con le alternative plausibili.\n\n## Collegare tecnica e responsabilità\n\nIl quadro civilistico della circolazione è contenuto nel [Codice civile — art. 2054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2054). La valutazione delle condotte e delle presunzioni non coincide con il solo calcolo tecnico. Il legale deve leggere i risultati insieme alle regole applicabili e alle prove complessive.\n\nUna sanzione stradale, la posizione finale di un veicolo o un danno localizzato non esauriscono necessariamente la questione risarcitoria. Occorre comprendere la portata di ogni elemento, senza attribuirgli automaticamente un valore conclusivo su tutte le responsabilità.\n\n## Preparare una contestazione verificabile\n\nSe una ricostruzione appare errata, il rilievo dovrebbe identificare dato, passaggio e conseguenza. “Il verbale è sbagliato” è troppo generico; indicare una misura incongruente o una fotografia non considerata permette un confronto. Il [Codice civile — art. 2697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697) richiama la necessità di provare i fatti posti a fondamento delle proprie pretese.\n\nPrima di incaricare un tecnico, conviene definire i quesiti e verificare la disponibilità dei dati necessari. Se il materiale non consente una conclusione affidabile, questo limite deve emergere. Una valutazione prudente può essere più utile di una ricostruzione apparentemente precisa fondata su numerose supposizioni.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [incidenti stradali gravi](https://avvocatodelmonte.com/risarcimento-danni-incidente-stradale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+      "faqs": [
+        {
+          "question": "Il verbale stabilisce sempre definitivamente la responsabilità?",
+          "answer": "No. Occorre distinguere rilievi, dichiarazioni, valutazioni e loro specifica efficacia nel procedimento."
+        },
+        {
+          "question": "Una simulazione dell’incidente è una prova certa?",
+          "answer": "Dipende dai dati e dal metodo. Le ipotesi utilizzate devono essere dichiarate e confrontate con gli elementi disponibili."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2054",
+          "title": "Codice civile — art. 2054",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 2054. (Circolazione di veicoli). Il conducente di un veicolo senza guida di rotaie è obbligato a risarcire il danno prodotto a persone o a cose dalla circolazione del veicolo, se non prova di aver fatto tutto il possibile per evitare il danno. Nel caso di scontro tra veicoli si presume, fino a prova contraria, che ciascuno dei conducenti abbia concorso ugualmente a produrre il danno subito dai singoli veicoli. 29 Il proprietario del veicolo, o, in sua vece, l'usufruttuario o l'acquirente con patto di riservato dominio, è responsabile in […]"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2697",
+          "title": "Codice civile — art. 2697",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 2697. (Onere della prova). Chi vuol far valere un diritto in giudizio deve provare i fatti che ne costituiscono il fondamento. Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si è modificato o estinto deve provare i fatti su cui l'eccezione si fonda."
+        }
+      ],
+      "image": {
+        "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, dimensione desiderata 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Modellini neutri di due automobili su un tavolo tecnico accanto a una planimetria anonima e a una squadra da disegno. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+        "alt": "Modellini neutri di due automobili su un tavolo tecnico accanto a una planimetria anonima e a una squadra da disegno",
+        "status": "generated",
+        "path": "/images/editorial/avvocato-071.webp",
+        "generatedBy": "image_gen builtin",
+        "generatedAt": "2026-10-12",
+        "sha256": "310adb91b47f953e0c8b218febb9fcddbb977f8e4f4b4644f4ba7da86b6f5d53",
+        "width": 1200,
+        "height": 800,
+        "visualReview": "passed",
+        "visualReviewNotes": "Visionata: composizione concettuale coerente con il tema, senza persone identificabili, marchi o dati personali leggibili; illustrazione generata, non fotografia dello Studio."
+      },
+      "legalReview": "approved",
+      "author": null,
+      "reviewer": "Studio Legale Del Monte",
+      "createdAt": "2026-10-12",
+      "contentType": "editorial-draft",
+      "wordCount": 567,
+      "contentHash": "8de9d7c7cd8d5542531e0b0d6c635848c898b5900f873737fd8a4c84513a848e",
+      "publicationApproved": true
+    },
+    "releaseDate": "2026-10-22",
+    "approval": {
+      "reviewer": "Studio Legale Del Monte",
+      "approvedAt": "2026-10-12",
+      "validUntil": "2027-04-28",
+      "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+      "reviewedSourceHash": "edb314f9cbe9803cb02d81d4c73f7d3e9abe446d9250da093a254184aaaeea83",
+      "sha256": "6b024cb6b1e97cc9a6a2ea879b67ad90305941d26b507e9708a273e4bc212504"
+    },
+    "publishedDate": "2026-10-22",
+    "publishedAt": "2026-10-22T13:01:30.928Z"
   }
 ]

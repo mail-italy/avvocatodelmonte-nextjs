@@ -1,5 +1,9 @@
 {
-  "pending": null,
+  "pending": {
+    "id": "avvocato-071",
+    "url": "https://avvocatodelmonte.com/approfondimenti/verbale-del-sinistro-e-ricostruzione-cinematica-ruoli-diversi",
+    "stagedAt": "2026-10-22T13:01:30.928Z"
+  },
   "lastVerified": {
     "id": "avvocato-002",
     "url": "https://avvocatodelmonte.com/approfondimenti/ricorso-per-cassazione-e-sospensione-della-sentenza-due-valutazioni-diverse",
