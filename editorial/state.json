@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-079",
     "url": "https://avvocatodelmonte.com/approfondimenti/infortunio-in-appalto-ricostruire-imprese-mansioni-e-coordinamento",
-    "stagedAt": "2026-10-24T12:03:54.149Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-10-24T12:04:08.265Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-071",
-    "url": "https://avvocatodelmonte.com/approfondimenti/verbale-del-sinistro-e-ricostruzione-cinematica-ruoli-diversi",
-    "checkedAt": "2026-10-22T13:02:43.395Z",
+    "checkedAt": "2026-10-24T12:05:03.188Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
