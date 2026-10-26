@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-042",
     "url": "https://avvocatodelmonte.com/approfondimenti/accertamento-tecnico-preventivo-sanitario-preparare-il-quesito-medico-legale",
-    "stagedAt": "2026-10-26T14:22:41.080Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-10-26T14:23:00.266Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-079",
-    "url": "https://avvocatodelmonte.com/approfondimenti/infortunio-in-appalto-ricostruire-imprese-mansioni-e-coordinamento",
-    "checkedAt": "2026-10-24T12:05:03.188Z",
+    "checkedAt": "2026-10-26T14:24:42.343Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
