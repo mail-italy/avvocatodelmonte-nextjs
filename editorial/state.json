@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-042",
     "url": "https://avvocatodelmonte.com/approfondimenti/accertamento-tecnico-preventivo-sanitario-preparare-il-quesito-medico-legale",
-    "stagedAt": "2026-10-26T14:22:41.080Z"
+    "stagedAt": "2026-10-26T14:22:41.080Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-26T14:23:00.266Z"
   },
   "lastVerified": {
     "id": "avvocato-079",
