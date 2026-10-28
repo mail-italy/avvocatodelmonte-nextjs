@@ -616,5 +616,86 @@
     },
     "publishedDate": "2026-10-26",
     "publishedAt": "2026-10-26T14:22:41.080Z"
+  },
+  {
+    "article": {
+      "id": "avvocato-095",
+      "site": "avvocato",
+      "sequence": 95,
+      "area": "Mediazione e risoluzione stragiudiziale",
+      "slug": "preparare-una-proposta-transattiva-dopo-una-perizia",
+      "title": "Preparare una proposta transattiva dopo una perizia",
+      "intent": "Tradurre l'analisi tecnica in condizioni negoziali verificabili",
+      "relatedExistingUrls": [
+        "https://avvocatodelmonte.com/mediazione-risoluzione-stragiudiziale"
+      ],
+      "scheduledOffsetDays": 188,
+      "status": "approved",
+      "seoTitle": "Preparare una proposta transattiva dopo una perizia",
+      "description": "Come trasformare i risultati di una perizia in una proposta transattiva comprensibile, distinguendo dati condivisi e punti controversi.",
+      "bodyMarkdown": "Una perizia può rendere più chiari i fatti e le conseguenze di una controversia, ma non produce da sola un accordo. La proposta transattiva deve tradurre quei risultati in impegni concreti, riconoscendo punti condivisi, incertezze e interessi delle parti. Il valore tecnico dell'elaborato e la scelta negoziale restano distinti.\n\n## Leggere ciò che la perizia effettivamente conclude\n\nSi separano dati accertati, ipotesi e limiti. Una relazione può quantificare un danno senza risolvere la responsabilità, oppure chiarire la dinamica lasciando aperte conseguenze future. La proposta non dovrebbe presentare come pacifico ciò che il consulente considera soltanto possibile.\n\nÈ utile confrontare anche le osservazioni avversarie. Non per accoglierle automaticamente, ma per individuare i punti su cui la trattativa dovrà concentrarsi. Un'offerta costruita ignorando la principale obiezione rischia di essere poco comprensibile, anche se fondata su un elaborato favorevole.\n\n## Definire le concessioni\n\nIl [Codice civile — art. 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965) descrive la transazione attraverso reciproche concessioni dirette a comporre o prevenire la lite. La proposta dovrebbe quindi rendere chiaro che cosa ciascuna parte assume o rinuncia a pretendere. Non basta indicare una cifra senza spiegare il rapporto con le domande esistenti.\n\nLe concessioni possono riguardare importi, tempi, modalità di adempimento o altri aspetti disponibili. Devono però essere coerenti con i poteri delle parti e con le regole applicabili. La soluzione non può disporre liberamente di diritti altrui o di questioni sottratte alla loro disponibilità.\n\n## Rendere confrontabili le componenti economiche\n\nSi distinguono capitale, spese, pagamenti già ricevuti e obblighi ulteriori. Se una voce è globale, occorre comprenderne il perimetro. Il risultato deve poter essere confrontato con la perizia e con i documenti economici, senza richiedere interpretazioni creative.\n\nQuando esistono conseguenze future incerte, si valuta come trattarle nell'accordo. Una riserva generica potrebbe non essere sufficiente se altre clausole chiudono ogni pretesa. Il testo deve riflettere la scelta effettiva delle parti, non soltanto una formula abituale.\n\n## Valutare il ruolo della mediazione\n\nIl [D.lgs. 28/2010 — art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8) disciplina il procedimento e contempla il possibile ricorso a esperti. Il rapporto tra una perizia già esistente e l'attività svolta in mediazione deve essere chiarito, anche rispetto a utilizzabilità e riservatezza. Non ogni documento tecnico prodotto in quel contesto segue automaticamente lo stesso regime.\n\nIl [D.lgs. 28/2010 — art. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art11) disciplina la conclusione e la proposta del mediatore. Quest'ultima non coincide necessariamente con la proposta negoziale preparata da una parte. Prima di richiedere o valutare una proposta formale, il difensore deve chiarirne funzione e possibili conseguenze nel caso concreto.\n\n## Scrivere un accordo attuabile\n\nLa bozza dovrebbe indicare soggetti, obblighi, tempi, modalità di pagamento e attività necessarie per chiudere eventuali giudizi. Le garanzie e le conseguenze dell'inadempimento vanno valutate prima della firma, soprattutto se l'esecuzione è differita.\n\nIl cliente dovrebbe poter comprendere perché la soluzione proposta sia coerente con prove, costi e incertezze. Accettare una concessione non significa dichiarare falsa la propria ricostruzione; significa scegliere un assetto concordato nei limiti consentiti. Una proposta ben preparata utilizza la perizia come base di confronto, senza attribuirle un potere decisorio che non possiede.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [mediazione e risoluzione stragiudiziale](https://avvocatodelmonte.com/mediazione-risoluzione-stragiudiziale). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+      "faqs": [
+        {
+          "question": "La cifra indicata dal perito deve diventare automaticamente l’accordo?",
+          "answer": "No. La transazione comprende anche contestazioni, costi, tempi e concessioni che devono essere valutati dalle parti."
+        },
+        {
+          "question": "La proposta della parte e quella del mediatore sono la stessa cosa?",
+          "answer": "No. Hanno ruoli differenti e occorre comprenderne gli effetti nel procedimento concreto."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1965",
+          "title": "Codice civile — art. 1965",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 1965. (Nozione). La transazione è il contratto col quale le parti, facendosi reciproche concessioni, pongono fine a una lite già incominciata o prevengono una lite che può sorgere tra loro. Con le reciproche concessioni si possono creare, modificare o estinguere anche rapporti diversi da quello che ha formato oggetto della pretesa e della contestazione delle parti."
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art8",
+          "title": "D.lgs. 28/2010 — art. 8",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 8 (Procedimento) 1. All'atto della presentazione della domanda di mediazione, il responsabile dell'organismo designa un mediatore e fissa il primo incontro tra le parti, che deve tenersi non prima di venti e non oltre quaranta giorni dal deposito della domanda, salvo diversa concorde indicazione delle parti. La domanda di mediazione, la designazione del mediatore, la sede e l'orario dell'incontro, le modalità di svolgimento della procedura, la data del primo incontro e ogni altra informazione utile sono comunicate alle parti, a cura dell'organismo, con ogni mezzo idoneo ad assicurarne la […]"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28~art11",
+          "title": "D.lgs. 28/2010 — art. 11",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 11 (Conclusione del procedimento) 1. Se è raggiunto un accordo di conciliazione, il mediatore forma processo verbale al quale è allegato il testo dell'accordo medesimo. Quando l'accordo non è raggiunto, il mediatore ne dà atto nel verbale e può formulare una proposta di conciliazione da allegare al verbale. In ogni caso, il mediatore formula una proposta di conciliazione se le parti gliene fanno concorde richiesta in qualunque momento del procedimento. Prima della formulazione della proposta, il mediatore informa le parti delle possibili conseguenze di cui all'articolo 13. 2. La […]"
+        }
+      ],
+      "image": {
+        "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 3:2, 1536x1024, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Relazione tecnica anonima al centro di un tavolo rotondo con due cartelle aperte ai lati, atmosfera di confronto ordinato e senza persone. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+        "alt": "Relazione tecnica anonima al centro di un tavolo rotondo con due cartelle aperte ai lati, atmosfera di confronto ordinato e senza persone",
+        "status": "generated",
+        "path": "/images/editorial/avvocato-095.webp",
+        "generatedBy": "image_gen builtin",
+        "generatedAt": "2026-10-12",
+        "sha256": "ec25b4b520721003efe5cc93b7c8da1c4dab8356abfd4628d2b22c177f94134a",
+        "width": 1200,
+        "height": 800,
+        "visualReview": "passed",
+        "visualReviewNotes": "Immagine visionata: coerente con il tema, nessun dato personale leggibile, nessun logo o identita attribuita allo Studio; scena concettuale."
+      },
+      "legalReview": "approved",
+      "author": null,
+      "reviewer": "Studio Legale Del Monte",
+      "createdAt": "2026-10-12",
+      "contentType": "editorial-draft",
+      "wordCount": 588,
+      "contentHash": "c2467e067b70453ad8176d30e9d9ade8c1b2e43796f828202820d025bec4edc0",
+      "publicationApproved": true
+    },
+    "releaseDate": "2026-10-28",
+    "approval": {
+      "reviewer": "Studio Legale Del Monte",
+      "approvedAt": "2026-10-12",
+      "validUntil": "2027-04-28",
+      "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+      "reviewedSourceHash": "d50ce8961151c79bf28d1a2fa3c2398ab6a23078efa0c7a317e111b8f3ce19f4",
+      "sha256": "bc668787fa564fab8bda18af7f024a73897eeec5a02cf7731fa501b00f4f8887"
+    },
+    "publishedDate": "2026-10-28",
+    "publishedAt": "2026-10-28T14:05:31.268Z"
   }
 ]
