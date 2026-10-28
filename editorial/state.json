@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-095",
     "url": "https://avvocatodelmonte.com/approfondimenti/preparare-una-proposta-transattiva-dopo-una-perizia",
-    "stagedAt": "2026-10-28T14:05:31.268Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-10-28T14:05:46.771Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-042",
-    "url": "https://avvocatodelmonte.com/approfondimenti/accertamento-tecnico-preventivo-sanitario-preparare-il-quesito-medico-legale",
-    "checkedAt": "2026-10-26T14:24:42.343Z",
+    "checkedAt": "2026-10-28T14:06:45.963Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
