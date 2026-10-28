@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-095",
     "url": "https://avvocatodelmonte.com/approfondimenti/preparare-una-proposta-transattiva-dopo-una-perizia",
-    "stagedAt": "2026-10-28T14:05:31.268Z"
+    "stagedAt": "2026-10-28T14:05:31.268Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-28T14:05:46.771Z"
   },
   "lastVerified": {
     "id": "avvocato-042",
