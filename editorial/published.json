@@ -697,5 +697,80 @@
     },
     "publishedDate": "2026-10-28",
     "publishedAt": "2026-10-28T14:05:31.268Z"
+  },
+  {
+    "article": {
+      "id": "avvocato-003",
+      "site": "avvocato",
+      "sequence": 3,
+      "area": "Cassazione civile",
+      "slug": "controricorso-in-cassazione-civile-come-organizzare-la-difesa-dell-intimato",
+      "title": "Controricorso in Cassazione civile: come organizzare la difesa dell'intimato",
+      "intent": "Preparare la risposta al ricorso ricevuto",
+      "relatedExistingUrls": [
+        "https://avvocatodelmonte.com/cassazione-civile"
+      ],
+      "scheduledOffsetDays": 4,
+      "status": "approved",
+      "seoTitle": "Controricorso in Cassazione civile: come organizzare la difesa dell'intimato",
+      "description": "Hai ricevuto un ricorso civile per Cassazione? Come ordinare notifiche, motivi e documenti per preparare il controricorso.",
+      "bodyMarkdown": "Arriva una PEC con il ricorso della controparte contro una sentenza favorevole. Il fatto di avere vinto il giudizio precedente non rende superflua la difesa in Cassazione. La prima attività consiste nell'identificare l'atto ricevuto, conservare la notificazione e trasmettere al difensore il fascicolo necessario per capire quali punti siano realmente contestati.\n\n## Partire dal ricorso ricevuto\n\nIl [Codice di procedura civile — art. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art370) disciplina il controricorso. Per prepararlo occorre leggere i motivi dell'impugnazione insieme alla sentenza: non basta riprendere la comparsa del giudizio precedente. La risposta deve confrontarsi con l'errore che il ricorrente attribuisce alla decisione e con le condizioni del giudizio di legittimità.\n\nSi può creare una scheda per ciascun motivo: passaggio della sentenza attaccato, norma invocata, documenti citati e possibile risposta. In questo modo emerge se la censura descriva una questione giuridica oppure chieda semplicemente una nuova valutazione dei fatti. La qualificazione precisa resta compito del difensore; il cliente aiuta soprattutto a recuperare il materiale originale.\n\n## Una sentenza favorevole può contenere punti sfavorevoli\n\nVincere sul risultato complessivo non significa avere ottenuto ogni decisione richiesta. Una domanda potrebbe essere stata respinta, un'eccezione ritenuta infondata oppure una questione assorbita. Queste situazioni non hanno tutte lo stesso trattamento. Bisogna distinguere la difesa del risultato dalla necessità di una propria impugnazione.\n\nIl tema del ricorso incidentale è regolato dal [Codice di procedura civile — art. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art371). Per valutare la posizione non è sufficiente chiedere se si desidera confermare la sentenza: occorre capire che cosa accadrebbe se il ricorso principale fosse accolto. Un prospetto dei capi favorevoli, sfavorevoli e non esaminati permette di affrontare questa domanda senza trascurare aspetti decisivi.\n\n## Conservare la prova della notificazione\n\nVanno mantenuti il messaggio ricevuto, gli allegati, le ricevute disponibili e i dati che consentono al legale di verificare il perfezionamento della notifica. Una stampa della prima pagina del ricorso non documenta tutto il passaggio. Se l'atto è stato ricevuto dal precedente difensore, il contatto deve essere tempestivo e il trasferimento completo.\n\nLe scadenze non si calcolano contando giorni dalla prima lettura personale dell'email. Dipendono dagli atti e dalle regole applicabili. È quindi utile segnalare subito la ricezione anche quando non si possiedano ancora tutte le produzioni dei gradi precedenti. Il recupero del fascicolo può proseguire mentre viene controllato il termine.\n\n## Difendere la motivazione che sostiene il risultato\n\nUna risposta efficace deve chiarire perché il motivo non travolga la decisione. Talvolta la sentenza si fonda su più ragioni; altre volte un passaggio apparentemente marginale è quello decisivo. Evidenziare soltanto le frasi favorevoli può offrire una rappresentazione incompleta. Servono anche le conclusioni delle parti e gli atti sui quali la decisione si basa.\n\nUn esempio pratico è una domanda respinta sia per una ragione processuale sia per una valutazione sostanziale autonoma. Se il ricorso ne critica una sola, il rapporto fra le due ragioni merita un esame specifico. Non si tratta di una formula da applicare automaticamente: occorre leggere se ciascuna ragione sostenga davvero il dispositivo.\n\nIl controricorso richiede quindi una scelta attiva: comprendere l'attacco, verificare le proprie posizioni e costruire una difesa leggibile. L'archivio completo aiuta a rispondere con precisione senza trasformare il documento in una ripetizione dell'intero processo.\n\nPer una valutazione del fascicolo è possibile consultare la pagina dedicata a [cassazione civile](https://avvocatodelmonte.com/cassazione-civile). Le indicazioni descrivono criteri generali: il rimedio e le scadenze vanno individuati sugli atti del singolo caso.",
+      "faqs": [
+        {
+          "question": "Posso limitarmi a dire che ho già vinto?",
+          "answer": "No. È necessario esaminare il ricorso e valutare come difendere la decisione nella sede di legittimità."
+        },
+        {
+          "question": "Il controricorso serve a chiedere modifiche alla sentenza?",
+          "answer": "La difesa del risultato e l’impugnazione di capi sfavorevoli sono piani diversi: può essere necessario valutare un ricorso incidentale."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art370",
+          "title": "Codice di procedura civile — art. 370",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 370. (Controricorso). La parte contro la quale il ricorso è diretto, se intende contradire, deve farlo mediante controricorso da depositare entro quaranta giorni dalla notificazione del ricorso. In mancanza, essa non può presentare memorie, ma soltanto partecipare alla discussione orale. (171) 173 Al controricorso si applicano 1e norme degli articoli 365 e 366, in quanto è possibile. Il controricorso è depositato insieme con gli atti e i documenti e con la procura speciale, se conferita con atto separato. (171) 173 -----------"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443:1~art371",
+          "title": "Codice di procedura civile — art. 371",
+          "checkedAt": "2026-10-12",
+          "supports": "Disposizione primaria richiamata nel testo: Art. 371. (Ricorso incidentale). La parte di cui all'articolo precedente deve proporre con l'atto contenente il controricorso l'eventuale ricorso incidentale contro la stessa sentenza. La parte alla quale è stato notificato il ricorso per integrazione a norma degli articoli 331 e 332 deve proporre l'eventuale ricorso incidentale con atto depositato nel termine di quaranta giorni dalla notificazione. (171) (173) Al ricorso incidentale si applicano le disposizioni degli articoli 365, 366 e 369. Per resistere al ricorso incidentale può essere depositato un controricorso entro quaranta giorni dal deposito dell'atto di cui […]"
+        }
+      ],
+      "image": {
+        "prompt": "Fotografia editoriale concettuale fotorealistica, orizzontale 16:9, sobria ed elegante, luce naturale morbida, palette blu petrolio e neutri caldi. Una busta digitale rappresentata su un portatile e due fascicoli contrapposti ma ordinati su un tavolo luminoso, senza scritte leggibili. Nessun testo leggibile, nessun logo, nessun marchio, nessun sigillo, nessun martelletto da giudice americano. Non rappresentare lo Studio Del Monte, suoi professionisti o clienti reali. Scena generica, rispettosa, senza sensazionalismo.",
+        "alt": "Una busta digitale rappresentata su un portatile e due fascicoli contrapposti ma ordinati su un tavolo luminoso, senza scritte leggibili",
+        "status": "generated",
+        "path": "/images/editorial/avvocato-003.webp",
+        "generatedBy": "image_gen builtin",
+        "generatedAt": "2026-10-12",
+        "sha256": "50080a478fea0c493c214e29d0e6ca8993674e1d651d1a991932b40c0b7990b6",
+        "width": 1200,
+        "height": 800,
+        "visualReview": "passed",
+        "visualReviewNotes": "Immagine visionata: scena concettuale coerente, nessun logo o persona identificabile; eventuali righe sui fogli non leggibili."
+      },
+      "legalReview": "approved",
+      "author": null,
+      "reviewer": "Studio Legale Del Monte",
+      "createdAt": "2026-10-12",
+      "contentType": "editorial-draft",
+      "wordCount": 612,
+      "contentHash": "2c3e4daf6b4dea8f602a5db25a0383f9fc5021f2be3d5f4d2be4aacf38744a3a",
+      "publicationApproved": true
+    },
+    "releaseDate": "2026-10-30",
+    "approval": {
+      "reviewer": "Studio Legale Del Monte",
+      "approvedAt": "2026-10-12",
+      "validUntil": "2027-04-28",
+      "evidence": "Approvazione esplicita dell’utente nel task Codex il 12 ottobre 2026: «Sono tutti approvati, vanno tutti bene». Richiesta contestuale: caricare tutti gli articoli, attivare la programmazione concordata ogni due giorni e pubblicare subito un articolo per sito oggi. Nessuna attribuzione nominale della revisione a una persona diversa dall’utente.",
+      "reviewedSourceHash": "2095a260a33e2aa3bd8c3490007248ce4b2fb724d09ef67f586edeafd5e571ac",
+      "sha256": "6672cef522bea53519cff89c31cf3587605b29bbca59be4b79105f28044f5172"
+    },
+    "publishedDate": "2026-10-30",
+    "publishedAt": "2026-10-30T14:18:12.524Z"
   }
 ]

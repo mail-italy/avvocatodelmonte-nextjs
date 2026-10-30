@@ -1,5 +1,9 @@
 {
-  "pending": null,
+  "pending": {
+    "id": "avvocato-003",
+    "url": "https://avvocatodelmonte.com/approfondimenti/controricorso-in-cassazione-civile-come-organizzare-la-difesa-dell-intimato",
+    "stagedAt": "2026-10-30T14:18:12.524Z"
+  },
   "lastVerified": {
     "id": "avvocato-095",
     "url": "https://avvocatodelmonte.com/approfondimenti/preparare-una-proposta-transattiva-dopo-una-perizia",
