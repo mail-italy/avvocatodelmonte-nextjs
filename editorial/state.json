@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-003",
     "url": "https://avvocatodelmonte.com/approfondimenti/controricorso-in-cassazione-civile-come-organizzare-la-difesa-dell-intimato",
-    "stagedAt": "2026-10-30T14:18:12.524Z"
+    "stagedAt": "2026-10-30T14:18:12.524Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-10-30T14:18:31.220Z"
   },
   "lastVerified": {
     "id": "avvocato-095",
