@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-027",
     "url": "https://avvocatodelmonte.com/approfondimenti/annullamento-senza-rinvio-gli-effetti-da-leggere-nel-dispositivo-penale",
-    "stagedAt": "2026-11-01T14:20:27.528Z"
+    "stagedAt": "2026-11-01T14:20:27.528Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-01T14:20:45.267Z"
   },
   "lastVerified": {
     "id": "avvocato-003",
