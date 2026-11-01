@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-027",
     "url": "https://avvocatodelmonte.com/approfondimenti/annullamento-senza-rinvio-gli-effetti-da-leggere-nel-dispositivo-penale",
-    "stagedAt": "2026-11-01T14:20:27.528Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-01T14:20:45.267Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-003",
-    "url": "https://avvocatodelmonte.com/approfondimenti/controricorso-in-cassazione-civile-come-organizzare-la-difesa-dell-intimato",
-    "checkedAt": "2026-10-30T14:19:27.750Z",
+    "checkedAt": "2026-11-01T14:21:41.011Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
