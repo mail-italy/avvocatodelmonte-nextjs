@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-043",
     "url": "https://avvocatodelmonte.com/approfondimenti/infezione-correlata-all-assistenza-ricostruire-il-percorso-documentale",
-    "stagedAt": "2026-11-03T15:17:49.248Z"
+    "stagedAt": "2026-11-03T15:17:49.248Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-03T15:18:06.926Z"
   },
   "lastVerified": {
     "id": "avvocato-027",
