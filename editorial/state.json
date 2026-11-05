@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-087",
     "url": "https://avvocatodelmonte.com/approfondimenti/ctu-nella-divisione-ereditaria-verificare-il-progetto-e-le-stime",
-    "stagedAt": "2026-11-05T15:35:12.280Z"
+    "stagedAt": "2026-11-05T15:35:12.280Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-05T15:35:28.630Z"
   },
   "lastVerified": {
     "id": "avvocato-043",
