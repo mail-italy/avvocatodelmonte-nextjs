@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-087",
     "url": "https://avvocatodelmonte.com/approfondimenti/ctu-nella-divisione-ereditaria-verificare-il-progetto-e-le-stime",
-    "stagedAt": "2026-11-05T15:35:12.280Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-05T15:35:28.630Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-043",
-    "url": "https://avvocatodelmonte.com/approfondimenti/infezione-correlata-all-assistenza-ricostruire-il-percorso-documentale",
-    "checkedAt": "2026-11-03T15:19:03.699Z",
+    "checkedAt": "2026-11-05T15:36:26.477Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
