@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-091",
     "url": "https://avvocatodelmonte.com/approfondimenti/consulenza-grafica-sul-testamento-originali-comparazioni-e-contraddittorio",
-    "stagedAt": "2026-11-07T14:08:14.187Z"
+    "stagedAt": "2026-11-07T14:08:14.187Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-07T14:08:27.152Z"
   },
   "lastVerified": {
     "id": "avvocato-087",
