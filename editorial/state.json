@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-091",
     "url": "https://avvocatodelmonte.com/approfondimenti/consulenza-grafica-sul-testamento-originali-comparazioni-e-contraddittorio",
-    "stagedAt": "2026-11-07T14:08:14.187Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-07T14:08:27.152Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-087",
-    "url": "https://avvocatodelmonte.com/approfondimenti/ctu-nella-divisione-ereditaria-verificare-il-progetto-e-le-stime",
-    "checkedAt": "2026-11-05T15:36:26.477Z",
+    "checkedAt": "2026-11-07T14:09:23.825Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
