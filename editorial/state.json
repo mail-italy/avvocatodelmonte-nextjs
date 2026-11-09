@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-004",
     "url": "https://avvocatodelmonte.com/approfondimenti/ricorso-incidentale-in-cassazione-quando-la-parte-vittoriosa-deve-reagire",
-    "stagedAt": "2026-11-09T17:37:29.673Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-09T17:37:48.418Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-091",
-    "url": "https://avvocatodelmonte.com/approfondimenti/consulenza-grafica-sul-testamento-originali-comparazioni-e-contraddittorio",
-    "checkedAt": "2026-11-07T14:09:23.825Z",
+    "checkedAt": "2026-11-09T17:38:49.137Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
