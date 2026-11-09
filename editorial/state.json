@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-004",
     "url": "https://avvocatodelmonte.com/approfondimenti/ricorso-incidentale-in-cassazione-quando-la-parte-vittoriosa-deve-reagire",
-    "stagedAt": "2026-11-09T17:37:29.673Z"
+    "stagedAt": "2026-11-09T17:37:29.673Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-09T17:37:48.418Z"
   },
   "lastVerified": {
     "id": "avvocato-091",
