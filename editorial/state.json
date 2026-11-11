@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-062",
     "url": "https://avvocatodelmonte.com/approfondimenti/perdita-di-reddito-del-lavoratore-autonomo-dopo-una-lesione",
-    "stagedAt": "2026-11-11T15:22:57.151Z"
+    "stagedAt": "2026-11-11T15:22:57.151Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-11T15:23:11.710Z"
   },
   "lastVerified": {
     "id": "avvocato-004",
