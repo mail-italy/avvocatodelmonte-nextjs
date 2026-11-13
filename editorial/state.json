@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-028",
     "url": "https://avvocatodelmonte.com/approfondimenti/travisamento-della-prova-nel-ricorso-penale-dal-verbale-al-motivo",
-    "stagedAt": "2026-11-13T15:28:45.971Z"
+    "stagedAt": "2026-11-13T15:28:45.971Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-13T15:29:00.648Z"
   },
   "lastVerified": {
     "id": "avvocato-062",
