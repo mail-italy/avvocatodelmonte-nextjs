@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-044",
     "url": "https://avvocatodelmonte.com/approfondimenti/dimissione-e-rientro-in-ospedale-valutare-la-continuita-delle-cure",
-    "stagedAt": "2026-11-15T14:49:52.677Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-15T14:50:07.962Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-028",
-    "url": "https://avvocatodelmonte.com/approfondimenti/travisamento-della-prova-nel-ricorso-penale-dal-verbale-al-motivo",
-    "checkedAt": "2026-11-13T15:29:58.444Z",
+    "checkedAt": "2026-11-15T14:51:05.421Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
