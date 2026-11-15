@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-044",
     "url": "https://avvocatodelmonte.com/approfondimenti/dimissione-e-rientro-in-ospedale-valutare-la-continuita-delle-cure",
-    "stagedAt": "2026-11-15T14:49:52.677Z"
+    "stagedAt": "2026-11-15T14:49:52.677Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-15T14:50:07.962Z"
   },
   "lastVerified": {
     "id": "avvocato-028",
