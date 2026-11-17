@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-005",
     "url": "https://avvocatodelmonte.com/approfondimenti/giudicato-interno-le-parti-della-sentenza-che-il-ricorso-non-riapre",
-    "stagedAt": "2026-11-17T16:56:31.027Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-17T16:56:44.838Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-044",
-    "url": "https://avvocatodelmonte.com/approfondimenti/dimissione-e-rientro-in-ospedale-valutare-la-continuita-delle-cure",
-    "checkedAt": "2026-11-15T14:51:05.421Z",
+    "checkedAt": "2026-11-17T16:57:41.982Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
