@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-005",
     "url": "https://avvocatodelmonte.com/approfondimenti/giudicato-interno-le-parti-della-sentenza-che-il-ricorso-non-riapre",
-    "stagedAt": "2026-11-17T16:56:31.027Z"
+    "stagedAt": "2026-11-17T16:56:31.027Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-17T16:56:44.838Z"
   },
   "lastVerified": {
     "id": "avvocato-044",
