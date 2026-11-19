@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-072",
     "url": "https://avvocatodelmonte.com/approfondimenti/incidente-con-veicolo-non-identificato-preservare-le-prove-utili",
-    "stagedAt": "2026-11-19T16:38:32.162Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-19T16:38:49.160Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-005",
-    "url": "https://avvocatodelmonte.com/approfondimenti/giudicato-interno-le-parti-della-sentenza-che-il-ricorso-non-riapre",
-    "checkedAt": "2026-11-17T16:57:41.982Z",
+    "checkedAt": "2026-11-19T16:39:45.962Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
