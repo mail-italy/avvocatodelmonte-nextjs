@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-072",
     "url": "https://avvocatodelmonte.com/approfondimenti/incidente-con-veicolo-non-identificato-preservare-le-prove-utili",
-    "stagedAt": "2026-11-19T16:38:32.162Z"
+    "stagedAt": "2026-11-19T16:38:32.162Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-19T16:38:49.160Z"
   },
   "lastVerified": {
     "id": "avvocato-005",
