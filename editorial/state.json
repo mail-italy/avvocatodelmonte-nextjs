@@ -1,5 +1,9 @@
 {
-  "pending": null,
+  "pending": {
+    "id": "avvocato-080",
+    "url": "https://avvocatodelmonte.com/approfondimenti/dispositivi-di-protezione-e-infortunio-oltre-la-ricevuta-di-consegna",
+    "stagedAt": "2026-11-21T15:25:56.142Z"
+  },
   "lastVerified": {
     "id": "avvocato-072",
     "url": "https://avvocatodelmonte.com/approfondimenti/incidente-con-veicolo-non-identificato-preservare-le-prove-utili",
