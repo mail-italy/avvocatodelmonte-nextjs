@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-006",
     "url": "https://avvocatodelmonte.com/approfondimenti/omessa-pronuncia-come-riconoscere-una-domanda-rimasta-senza-decisione",
-    "stagedAt": "2026-11-23T19:18:38.661Z"
+    "stagedAt": "2026-11-23T19:18:38.661Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-23T19:18:53.495Z"
   },
   "lastVerified": {
     "id": "avvocato-080",
