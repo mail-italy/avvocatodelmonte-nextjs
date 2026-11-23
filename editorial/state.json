@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-006",
     "url": "https://avvocatodelmonte.com/approfondimenti/omessa-pronuncia-come-riconoscere-una-domanda-rimasta-senza-decisione",
-    "stagedAt": "2026-11-23T19:18:38.661Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-23T19:18:53.495Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-080",
-    "url": "https://avvocatodelmonte.com/approfondimenti/dispositivi-di-protezione-e-infortunio-oltre-la-ricevuta-di-consegna",
-    "checkedAt": "2026-11-21T15:27:05.597Z",
+    "checkedAt": "2026-11-23T19:19:57.566Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
