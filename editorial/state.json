@@ -1,15 +1,9 @@
 {
-  "pending": {
+  "pending": null,
+  "lastVerified": {
     "id": "avvocato-045",
     "url": "https://avvocatodelmonte.com/approfondimenti/farmaci-e-somministrazioni-contestate-il-fascicolo-della-terapia",
-    "stagedAt": "2026-11-25T18:00:29.269Z",
-    "deployAttempts": 1,
-    "deployRequestedAt": "2026-11-25T18:00:45.171Z"
-  },
-  "lastVerified": {
-    "id": "avvocato-006",
-    "url": "https://avvocatodelmonte.com/approfondimenti/omessa-pronuncia-come-riconoscere-una-domanda-rimasta-senza-decisione",
-    "checkedAt": "2026-11-23T19:19:57.566Z",
+    "checkedAt": "2026-11-25T18:01:41.801Z",
     "indexNowStatus": 200,
     "indexingVerified": false
   }
