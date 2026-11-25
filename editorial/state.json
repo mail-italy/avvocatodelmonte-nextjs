@@ -2,7 +2,9 @@
   "pending": {
     "id": "avvocato-045",
     "url": "https://avvocatodelmonte.com/approfondimenti/farmaci-e-somministrazioni-contestate-il-fascicolo-della-terapia",
-    "stagedAt": "2026-11-25T18:00:29.269Z"
+    "stagedAt": "2026-11-25T18:00:29.269Z",
+    "deployAttempts": 1,
+    "deployRequestedAt": "2026-11-25T18:00:45.171Z"
   },
   "lastVerified": {
     "id": "avvocato-006",
